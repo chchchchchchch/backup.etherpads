@@ -2777,7 +2777,7 @@ Right.
 
 % FEMKE:
 % LITERAL TRANSCRIPTION
-% ... and it's everywhere. And you have pointed out already a few moments 
+% ... and it's everywhere. And you have pointed out already a few moments
 % that that pops up or shows its head or cowhead. But I mean ... it's
 % obvious that  both systems have a metaphor called interfaces somehow.
 
@@ -2909,7 +2909,7 @@ Yeah, for sure.
 % FEMKE:
 % LITERAL TRANSCRIPTION
 % So, there's hierarchy. There's direction. There's an assumption about  
-% structure being good or bad. I mean all this kind of things are there as  
+% structure being good or bad. I mean all this kind of things are there as
 % well. I mean to me, that's interface as well.
 
 % NOWSPEAKING: FS
