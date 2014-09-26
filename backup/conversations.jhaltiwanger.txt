@@ -716,7 +716,7 @@ easier.
 % NOWSPEAKING: FS
 % -- EDITED -----
 So you're saying that ... just to really make it ...  to almost 
-oversimplify it ...  let's say ... yeah I think you could say ... that 
+oversimplify it ...  let's say ... yeah I think you could say ... that
 this separation of  programming language from the typesetting engine 
 allows for another way of  doing markup, which then allows other users to 
 be using this package?    
