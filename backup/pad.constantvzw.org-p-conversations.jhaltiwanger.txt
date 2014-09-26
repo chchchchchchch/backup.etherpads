@@ -1445,7 +1445,7 @@ but Pierre ...
 % and force other  things around it. Because layout is often a combination 
 % of those two  things. And this is what is frustrating in canvas based 
 % layout that it is  all fixed and you have to make it look like it's fluid. 
-% And here it's all  fluid and some times you want it to be fixed.    
+% And here it's all  fluid and some times you want it to be fixed.
 
 % NOWSPEAKING: FS
 % -- EDITED -----
