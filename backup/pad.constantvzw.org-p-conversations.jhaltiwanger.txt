@@ -1438,7 +1438,7 @@ but Pierre ...
 % FEMKE:
 % LITERAL TRANSCRIPTION
 % Yeah. Because he has interesting ideas and you might be able to ... well  
-% ... things we have been talking about ... is about with page layout you  
+% ... things we have been talking about ... is about with page layout you
 % often have ... because it's fixed, so you place ... like ... we have been
 % talking  about the water metaphor a lot ... like were you could have
 % things that are ...  let's say fluid and other things that could be placed
