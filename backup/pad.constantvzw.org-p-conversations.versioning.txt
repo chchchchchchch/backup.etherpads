@@ -1,0 +1,1260 @@
+% TITLE: Distributed Versioning Control
+
+% FS = Femke Snelting 
+% LL = Ludvine Loiseau 
+% SM = Sarah Magnan 
+% AL = Alexandre Leray 
+% SV = Stéphanie Vilayphiou 
+% ES = Eric Schrijver 
+% PH = Pierre Huyghebaert
+% PM = Pierre Marchand
+
+
+
+% NOWSPEAKING: X
+% --------------
+
+% SCALEFONT: 1.05
+
+Dear OSP, 
+
+% VFILL:
+
+For a long time already I wanted to organise a (recorded and transcribed) conversation with you all about the place and meaning of distributed version control as part of OSP design work. This is why  I think it could be interesting:
+First of all because after three years of working with GIT intensely, it seems a good moment to take stock. Around GIT, and the specific workflows you developed around it, many of the OSP's methods, ideas and politics seem to converge and crystallize. I think a conversation discussing OSP practice linked to this concrete (digital) object could produce an interesting document; some kind of update on what OSP has been up to over the last three years and maybe will be in the future.
+Second: Our last year in Variable has begun. Under the header "Etat des Lieux", Constant has started gathering reflections and documents to archive this three year working period. One of the things I would like to talk about is the parallels and differences between a physical studio space and a distributed workflow.
+Third (as you might have noticed ;-)), I am personally interested in the idea of 'versions' linked to digital collaboration. This connects to old projects and ideas and is sparked again by new ones revived through the Libre Graphics Research Unit and of course Relearn.
+I hope you are also interested in this, and able to make time for it. I'd prepare questions (and cake). I would imagine a more or less structured session of around two hours with at least four (?) OSP's participating.
+
+% VFILL:
+
+Speak soon!    
+x F
+
+% RESETFONT:
+% NEWPAGE:
+
+
+
+% NOWSPEAKING: FS
+% ---------------
+How would you explain GIT to a design student for example?
+
+% NOWSPEAKING: AL
+% ---------------
+Before using GIT I would work on a document. Let's say a layout, to keep a trace  of the different versions of the layout I would append _01, _02 to the files. That's in a way already  versioning. What this tool does is, that it makes that process somehow transparent in the sense that, it takes care of it for you. Or better, you have to make it take care for you. So instead of having all files visible in your working directory, you put them in a database, so you can go back to them later on. And then you have some commands to manipulate this history. To show, to comment, to revert to specific versions. 
+
+% NOWSPEAKING: LL
+% ---------------
+More than versioning your own files, it is a tool to synchronize your work with others. It allows you to work on the same projects together, to drive parallel projects. 
+
+% NOWSPEAKING: ES
+% ---------------
+It really is a tool to make collaboration easier. It allows you to see differences. When somebody proposes you a new version of a file, it highlights what has changed. Of course this mainly works on the level of programming code.
+
+% NOWSPEAKING: FS
+% ---------------
+Your experience with using GIT started through OSP? 
+
+% NOWSPEAKING: AL
+% ---------------
+Well, not long before I joined OSP, we had a little introduction to Mercurial, another versioning  software at school in 2009. Shortly after I switched to GIT. I was working with someone else who was working with GIT, and it was so much better.
+
+
+% NOWSPEAKING: SV
+% ---------------
+Alex was interested to use GIT to make Brainch [NOTE]. We wanted to make a web application to fork text that is not code. That was our first use of GIT. 
+
+
+% NOWSPEAKING: ES
+% ---------------
+I met OSP through GIT in a way. An intern taught me the program and he said: “Eric once you'll get it, you'll get so excited!”. We were in the cafeteria of the artschool. I thought it was really special, like someone was letting me in on a  secret and we we're the only ones in the artschool who knew about it. He thought me how to 'push' and 'pull'. I saw quickly how GIT really is modelled on how culture works. And so I felt it was a really interesting, promising system. And then I talked about it at the Libre Graphics Meeting, and so I met OSP. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+I started to work on collaborative, graphic design related stuff when I was developing a font-manager. I've been connected to two versioning systems when I started to work with collaborative projects who mainly used CVS as versioning system. GIT came well after, it was really connected to webculture, compared to Subversion, which is more software-related. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+What does it mean that GIT is referred to as distributed versioning?
+
+
+% NOWSPEAKING: AL
+% ---------------
+The first command you learn in GIT, is the clone command. It means that you make a copy of a project that is somehow autonomous. Contrary to Subversion you don't have this server - client architecture. Every repository is in itself a potential server and client. Meaning you can keep track of your changes offline.
+
+
+% NOWSPEAKING: FS
+% ---------------
+At some point, you decided to use 'distributed versioning' rather than a centralized system such as Subversion. I remember there was quite some discussion. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+I was not hard to convince. I had no experience with other versioning-systems. I was just excited by the experience that others had with this new tool. In fact there was this discussion, but I don't remember exactly the arguments between SVN or GIT. For what I remember GIT is easier. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+The discussion was not really on the nature of this tool. It was just who would keep GIT running for OSP. Because the problem is not the system in itself, it's the hosting platform. We didn't find any hosted platform which fitted our taste. The question was: do we set up our own server, and the question was who is going to take care of at. At this time Alex, Steph and Ivan who were quite excited about working with GIT. And I was excited to use Subversion instead, but I didn't have to time to take care of setting it up and everything. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+You decided not to use a hosted platform such as Gitorious or GitHub.
+
+
+% NOWSPEAKING: SV
+% ---------------
+I guess for us it comes from our own pratice we already had our own server and were hosting our own projects. But Pierre you were used to use online platforms to share code?
+
+
+% NOWSPEAKING: PM
+% ---------------
+When I started developing my own projects it was kind of the end of SourceForge. [NOTE] I was looking for a tool more in the free-software tradition. There was gna, and even though the platform was not well setup and crashing all the time, I felt it was in line with this purpose. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+If I remember correctly, when we decided between GIT and Subversion, Pierre you were also not really for it because of let's say, the personality of it's main developer, Linus Torvalds. I believe it was the community aspect of GIT that bothered you.
+
+
+% NOWSPEAKING: PM
+% ---------------
+Well GIT has been written to help Linus Torvalds receive patches for the Linux-kernel; it is not aimed at collaborative writing. It was more about making it convenient for Linus. And I didn't see a point in making my practice convenient for Linus. 
+I was using already using Subversion for a while and it was really working great at providing an environment to work together with a lot of people and check out different versions. Anything you expect from a versioning system was there, all elements for collaborative work were there. I didn't see the point to change for something that didn't feel as comfortable culturally. 
+ This question of checking out different directories of repositories was really important to me. At this time (GIT has evolved a lot) it was not possible to do that. The fact that with a Subversion repository you can have a lot of information even though you didn't check-out a repository. There were other technical aspects I was quite keen of. I didn't see why to go for GIT which was not offering the same amount of good stuff. 
+
+
+% NOWSPEAKING: ES
+% ---------------
+But then there is this aspect of distribution, and  that's not in subversion. If some day somebody decides to want a complete copy of an OSP project, including all it's history, they would need to ask us or do something complicated to give it to them. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+I was not really interested in this spreading the whole repository. I was more concerned about working together on the same project. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It also feels like your habit of keeping things online has shifted. From making an effort afterwards to something that happens naturally, as an integral part of your practice.
+
+
+% NOWSPEAKING: LL
+% ---------------
+It happened progressively. There is this idea that the repository is linked to the website, which came after. The logic is to keep it all together and linked, online and alive. 
+
+
+% NOWSPEAKING: ES
+% ---------------
+That's not really true, it was the dream we had: if we have GIT, we share our files while working on them. We don't need to have this effort afterwards of cleaning up the sources and it will be shareable. But it is not true. If we do not put an effort to make it shareable it's completely opaque. It requires still an investment of time. I think it takes about 10% of time of the project, to make it readable from the outside. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Now, with the website, you're more conscious that all the files we use are directly published. Before we had a Git web-application that allowed someone to just browse repositories, but it was not visual, so it was hard to go into it. 
+
+
+% N!OWSPEAKING: SV
+% ---------------
+The Cosic project is a good example of being lost. Everytime I want to show the project to someone, I feel lost. There are so many files and you really don't know which ones to open.
+For the website we decided to use this 'Iceberg-folder' to be able to show snapshots of the project. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Maybe, Eric, you can talk about your website? You call it 'Visual Culture'?
+
+
+% NOWSPEAKING: ES
+% ---------------
+Basically Visual Culture is born out of this dream I talked about just now. That turns out not to be true, but shapes our practice and helps us think about licensing and structuring and all those interesting questions.
+I was browsing through this GIT-interface that Stéphanie described, and thought it was a missed opportunity, because here is this graphic design studio, who publishes all their works, while they are working. Which has all kind of consequences but if you can't see it, if you don't know anything about computer-programming, you have no clue on what's going on. And also, because it's completely textual. And for example a '.sla'-file, if you don't know about open-source, if you don't know about scribus it could as well be salad.
+
+It is clear that this tool was made for text. It was the idea to show all the information that is already there in a visual form. An image is an image, as types as a typeface, even changes in a visual way. I thought it made sense for us to do. We didn't have anyone writing posts on our blog. But we had all this activity in the GitHub.
+
+
+% NOWSPEAKING: PH
+% ---------------
+It started to give some schematic view on our practice, and renders the current activity visible, very exciting. But also very frustrating because we have lots of ideas and very little time to implement them. So the Visual Culture project is currently terribly late on the ball comparing to our imagination. Take by example the foundry. Or the future potential of the iceberg. Or our blog that is sometimes cruelly missing. We have ways to fill all these functions with Visual Culture but still no time to do it!
+
+
+% NOWSPEAKING: FS
+% ---------------
+There's already quite an established culture on how code is usually published. There's a license,  a readme-file... But you added a special folder, which is called a 'Iceberg'. It's a trick to make your repository more visual? 
+
+
+% NOWSPEAKING: ES
+% ---------------
+Yeah, because you have the problem, even if it is something is straightforward to visualise, if you can make a small render of it. But most of the files are a accumulation of files, like a webpage. The idea is that in iceberg we can put screenshot. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+We wanted to the files that are visible to be not only be the latest files. We wanted to be able to show the process. We didn't want it to be a portfolio and just show the final output. But we wanted to show errors and the try-outs.
+
+If I can add something, I think it's not only related to GIT, than to visual layout. Also when you want to share software, we say "release early, release often", which is really nice. But it's not enough to just release, because you need to make it accessible to other people to understand what they are reading. It's like commenting your code, making it - I don't want to say 'clean' - legible, using variable names that people can understand. Because, sometimes when we code just for ourselves I use french variables so that I'm sure that it's not word-protected by the programming-language. But then it not accessible to many people. So stuff like that. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+What I'm trying to get at, is that as a group interested in F/LOSS you decide to use a tool that's deeply embedded in that world. So I've always seen your choice for Git both as a pragmatic choice as well as a fan-choice? 
+
+
+% NOWSPEAKING: ES
+% ---------------
+Like as fans of the world of open-source? 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Yes. Because by using this tool you inscribe your own practice, you not only make something happen for yourself, but you align yourself with people that develop software.
+
+
+% NOWSPEAKING: AL
+% ---------------
+I'm not sure, I join Pierre on his feelings towards Linus Torvalds, even though I have less anger at him. But let's say he is not someone I especially like in his way of thinking. 
+
+What I like very much about GIT is the distributed aspect. With it you can collaborate without being aligned together. While I think Linus Torvalds idea is very liberal and in a way a bit sad. But at the same time this idea that you can collaborate without being aligned, without going through this permission system. With Scribus for example, I never collaborated on it, it's such a pain to got through the process. It's good and bad. I like this idea of a community which is making a decision together, at the same time it is so hard to enter this community that you just don't want to and give up. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+What I was trying to ask was how you as a group of designer-developers are adopting workflows, ways of working, and also a vocabulary that comes from software development.
+
+
+% NOWSPEAKING: ES
+% ---------------
+On the one hand it's a fan-act. We like this movement of F/LOSS-development which is not always given the importance it has in the cultural world. It's like saying _hey I find you culturally relevant and important_. But there's another side to it. It's not just a distant appropriation, it's also the fact that software-development is such a pervasive force. It's so much shaping the world, that I feel I also want to take part in defining what are these procedures, what are these ways of sharing, what are these ways of doing things. Because I also feel that if I ask somone from another field as a cultural actor, take and appropriate these mechanisms and ways of doing I will be able to influence what they are. So there is the fan-act, and there's also the act of trying to be aware of all the logic contained in these actions. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+And from another side, in the graphic design world it is also a way to affirm that we are different. An that we're really engaged in doing this and not only design nice pictures. But really develop our own tools.
+
+
+% NOWSPEAKING: ES
+% ---------------
+It is a way to say: hey, we're not a kind of politically engaged designers with a different political goal each half month and than we do a project about it. It really impacts our ecosystem, we're serious about it.
+
+
+% NOWSPEAKING: SV
+% ---------------
+It's true that, before we started to use Git, people asked you're called open-source-publishing but where are your sources. For some projects you could download a zip-file but it was always a lot of trouble, because you needed to clean the package and do it afterwards, while you were already doing other projects.
+
+
+% NOWSPEAKING: PM
+% ---------------
+Collaboration started to become a prominent part of the work; working together on a project. Rather than, oh you do that and when you are finished you send the file over and I will continue. It's really about working together on a project.
+
+
+% NOWSPEAKING: PM
+% ---------------
+Even together in the same space, if you don't have a system to share files, it's a pain in the ass. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But the other way around, after using it for a few years, where do you not feel at home in this tool? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+In GIT, and in versioning-systems in general, there is that feeling that the latest version is the best. There is an idea of linearity, even though you can have branches, you still have an idea of linearity in the process .
+
+
+% NOWSPEAKING: SV
+% ---------------
+That's true, when we had a workshop 'Please computer let me design', the first time was in a French school, and the second time for a more European audience, so we did in English. We made a branch, but then you have the default branch - the English one - you only see that one, while they are on the same level. 
+When you click on the project you see only one, otherwise you have to switch branch. But it kind of means that there is a main one. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So the convention is to always show the main branch, the master? 
+
+
+% NOWSPEAKING: ES
+% ---------------
+In a way there is no real requirement in Git to have a branch called 'master'. You can have a branch called 'english' and a branch called 'french'. But it's true that all the visualization software we know, because GitHub or Gitorious is a way to visualize the content of a Git repository, you'll need to specify which is the branch that shown by default. And by default, if you don't define it, it's 'master'. If there is not a 'master' I don't know what it will show. And you can also set I think in the repository-settings which one it will show, but you'll have to choose in a way. But that's a question of visualization also. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+For a certain type of things such as code and text it works really well, for others, like you're making a visual design, I know about branches, and I sometimes use them, it's still very hard to see different. If I make a poster for example I still make several files in stead of branches, so I can see them together at once, without having to check-out another branch. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Even in websites, if I want to make a layout, I'll simply make a copy of the HTML and CSS, beceause I want to be able to test out and compare them. It might be possible with branches, it's just to complicated. Maybe the tools to visualize it are not there... But it's still easier to make copies and pick the one you like. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+It's quite heavy to go back to another version. Also working collaboratively is quite heavy. 
+For example workshops, or 'La Balsamine' we were working together on the same files at the same time, and if you want to share your file with git you'll have to add your file, commit and pull & push, which is four commands. And every time you commit you have to write a message. So it is quite long. So while we were working on the CSS for Visual Culture, we tried it in Etherpad, someone was copying the whole text-file and committing. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So you centralized in the end.
+
+
+% NOWSPEAKING: PM
+% ---------------
+It's more about third-party software visual software. Let's say Etherpad for example, it's a versioning-system in itself. You could hook into GIT, through Etherpad and each letter you type could be a commit. And it would make nonsense messages but at the same time would speed up the process to work together. We can imagine the same thing with Git (or any other collaborative-working-system) integrated into inkscape. You draw and every time you save... At some point Subversion was also a WebDav-server, it means that for any application it was possible to plug things together. Each time you would save yout file it would make a commit on the server. It worked pretty well to bring new people into this system because it was just exactly the same as the OpenOffice, it was an open WebDav-client. So it was possible to say to OpenOffice that you, where you save is a disk. It was just like saving and it was committing. 
+
+
+% NOWSPEAKING: ES
+% ---------------
+I really agree, from the experience of working on a typeface together, in Valance, with students in GIT, was really painful. That's because you're are trying to do something that generates sourcecode, a typedesign program generates sourcecode. You're not writing it by hand, and if you then have two versions of the typedesign program, it already starts to create conflicts that are quite hard. 
+It's interesting to bring to models together, or have them working. Because you've Git the software, but Git is just an architecture on how to start your version, so things could hook into it. For example with Etherpad, I've looked into this API the other day, and working together with Git, I'm not if sure having every Etherpad-revision directly mapped to a Git-revision would makes sense if you work on a project. But at the same time you could have every 'saved'-revision mapped to a Git-revision. 
+It's also about mapping to kinds of ways of working together. It's clear Git is made for asynchronous collaboration process. So there is Linus in his office, there are patches coming in from different people. He has the time also to figure out which patch needs to go where. This doesn't really work for the Etherpad style direct collaboration. For me it's cool to think about how you could make these things work together. Now I'm working on this collaborative font-editor which does it in some sort of database. How would that work? It would not work if every revision would be in the Git. I was thinking you could save, or sort of commit and that would put it in a Git-repository, this you can pull and push. To do the long-term asynchronous kind of working together. But if you want to have four people together and start pulling, that doesn't work on Git, so you have to find a place to have these work. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+It's true. I've never really tried Sparkleshare. Sparkleshare is making a commit message every time you save a document. In a way it works more like Dropbox. Every time you save it's synchronized with the server directly. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Which is a kind of in between liveness from the very conscious commits you make with Git and the fluidness (the granularity is much finer) of Etherpad. Sparkleshare would be in between? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+I think it would be interesting to have this kind of Sparkleshare behaviour only when you want to work synchronously. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So you could switch in and out of different modes? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Usually Sparkleshare is used for people who don't want to get to much involved in Git and it's commands. So it is really transparent: I send my files, it's synchronized. I think it was really made for this kind of Dropbox behaviour. I think it would make sense only when you want to have your hands on the process. To have this only when you decide, ok I go synchronously. Like you say, if you have a commit for every letter it doesn't make sense to me. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It makes sense. The way we interact with versioning or versions in a project. The fact that a lot of things related to versions in software-development is to track bugs, to track programming choices. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Talk about this, because when you talk about the problem of, that you still make several versions to see them next to each other. Do you go back and forth in history? Do you use that. 
+
+I don't know for you but the way I interacted with our Git-repository since we started to work with it, is, I almost never went into the history of a project. It's just, it really never happened to go back into this history, to check out an old version.. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+I do 
+
+
+% NOWSPEAKING: PM
+% ---------------
+No, what I've seen, some thing that's seen as a neat feature of Git is the dissect command. To find where it broke. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+You can top from an old revision that you know works and track down, like check-out, track down the bug. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Can you give a concrete example, where that would be useful, not code. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Not code, okay. That sort I don't know. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+In a design, like visual design, not involving code, I think it never happens. To me even, it happens on websites, on tools. Because there is a bug, so you need to come back to see where it broke. But for a visual design I'm not sure. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+It's true, also because we kind of -as you said before, about- SVG-files or SLA-files we often have several duplicates. I do sometimes checkout. But it's true it's often related to merge problems. Or something, you don't know what to do, so you'll just check-out, to go back to. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Start again? 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It would be interesting for me to really look at our use of this tool and map some kind of tool on top of a versioning-system. Because it's not even versioning, collaborative workflow, and to see what we mean. Just to use, maybe to use something like some feature of Git or whatever to provide the services we need. But just to really see what do we exactly work with. And, this kind of thing where we want to see many versions at the same time are really important to compare. Well it's the kind of thing that could take advantage of a versioning system, to build. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It is ofcourse very strange that if you want to see different versions next to each other you have to go back in time. It's just kind of a paradox, no? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But then you can't see them at the same time 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Exactly, no. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Because we don't branch much 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So this is another question, like, apparently, going back and forth in history is, as an idea, interesting but in practice is not very useful, maybe. I mean, it the way that it functions right now. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It could be more branching 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Because there is no way to visualize your trip back in history 
+
+
+% NOWSPEAKING: LL
+% ---------------
+But we are interested in this kind of... 
+
+
+% NOWSPEAKING: ES
+% ---------------
+Well I think, something you could all have some interesting discussion about is the... (because I'm still not going to give answer, but...) is this, is the question of exchange. Because now we are talking about the individual. We've talked how it's easier to contribute to Git-based projects but it's not necessarily easier to contribute, because accept into an existing repository someone needs to say okay, I want it, which is like SVN. What is easier, is to, also GitHub as a tool really promotes it, at the point where you make, really the point of, you don't just submit, because that used to be the thing: email-patches. So you email a small little file, just the change in the code. Instead, you publish you're whole Git-repository online. With the only difference from the other version, the first (the other one that exists), is that you added your change, but that means that in proposing a change you are already making a new cultural artefact. You're already putting a new something there. I find this to be a really fascinating phenomena because it has all kinds of interesting consequences. 
+Ofcourse we can look at it the way of, it's the cold and the liberal way of doing things. Because the individual is at the square center of this, because you are you're own. It's your thing in the first place, and then you can see if it becomes someone elses thing. So that has all kinds of coldness about it and it leads to many abandoned projects and maybe it leads to a decrease of social activity around specific projects 
+But there's also an interesting part of it, where it actually resembles quite well how culture works in the first place. Because culture in some ways seams to deal with a lot redundancy, in the sense that we can deal with many kinds of very similar things. We can Akzidenz Grotesk, Helvetica and the Akkurat all at the same time, if they have some kind of weird cultural lineage thing going on in between them. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But would that mean some kind of pull-request for OSP? Are there, let's say open, do they exist? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+We did have one 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But I mean I'm looking for, we talk about the internal collaboration, and Eric is right to ask about collaboration with others, not only internally to the group. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+That's why GitHub is really useful. Because it has the architecture to exchange changes, because we have our own server it's quite private, it's really hard to allow anyone to contribute to fonts for example. So we had emails: "hey here's a new version of the font, I did some glyphs, but also changed the shape of the A". Here we have two different things, new glyphs is one thing, we could say we take any new glyph. But changing the A, how do you deal with this? There's a technical problem, well not technical... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Architectural problem? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, we won't add everyone's SSH-key to the server because it will be endless to maintain. But at the same time, how do you ? changes. And then who decides what changes will be accepted. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+For the font that is we've decided to have a maintainer for each font-project. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It's the kind of thing we didn't do well. We have this kind of administrative way of managing the server. Well it's a lot of small sums that all put together make it difficult. Lets say at some point we start to think 'maybe we need to manage our repositories, something a bit more sophisticated then gitolit. So we could install something like Gitorious. We didn't do it but we could imagine to rebuild a kind of eco-system where people have their own repositories and do anything we can imagine of this kind of hosting service. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So meaning you would use the install on your server, some sort of other people that would allow, would make it easier .
+
+
+% NOWSPEAKING: PM
+% ---------------
+Gitorious is a free software so you can deploy it on your own server, although it is not trivial at all. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Can you explain the difference between Gitorious and Git(Hub?)? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Gitorious is first a free version, it's not a free version of Git but Github. One is free and one is not. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Meaning you can not install GitHub on your own server 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Yes, exactly 
+
+
+% NOWSPEAKING: AL
+% ---------------
+And, I dont know, other differences are... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Just to understand the difference between running Git, like you do now, and running Gitorious 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Git is a storage backend, and Gitorious or Github are a kind of web-application to interact with the repository and to manage them. And Github is a program and a company deploying these programs to offer both a commercial service and a free-of-charge service. Like the other (?)-model, they have a lot of success with the free-service Git in a sense. And they make a lot of money at providing the same service, exactly the same, just it means that you can have private space on the server. It's quite convenient, because the tools are really good to manage repositories. 
+And Gitorious I don't exactly know what involves their business-model, it was something else and they made all their sourcecode to run the platform free-software. Means they offer a bit less fancy features. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+A bit less shiney? 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Yeah, because they have less success and so less money to dedicate to development of the platform. But still it's some kind of easy grasp web-interface management, repositories manager. Which is quite cool. We could do that, to install this kind of interface, to allow more people to have their repositories on the OSP-server. But here comes the difficult thing: we would need a bit more resources to run the server that hosts a lot of repositories. Still this moment we have problems sometimes with the server because it's not like a large server, it runs, it used to run another service, which is not... Because nobody at OSP is really a sys-admin, and has time to install and setup everything nicely and to advertise? on it etc. etc. And we would have to work on the gitorious web-application to make it a bit more in line with our visual universe. Because now it's really some kind of thing we cannot associate with really. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So in a way Visual Culture is related? It's not the same, I understand. Just to, what I start to understand better, the sort of development of also your own pactice with it. Where Visual Culture in a way solves one problem on top of Git as a storage-space is how to show actually that kind of activity. What you're lacking and now especially with the popularity of GitHub, I think the practices around GitHub start to become really present. So people seem to understand and like working this way. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Well, it depends because we meet a lot of people also who come GitHub and say, I don't understand, I don't understand anything of this. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But I mean, if you, well okay, that's a, I don't think we're here to. It's not so much about the critique of GitHub, what I'm trying to say is that GitHub and Gitorious are not strong on visualizing the actual files. But seem to develop ways of dealing with sharing, managing the kind of contributions and finding ways to work cross-project rather than internal to a project. And that is right now not really present in the way we use these tools. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+But the contrary, because of it's huge success GitHub can put some extra effort in visualization, and they started to run some small projects. So they can do more than Visual Culture can do. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+And is this code available? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+No, some of their projects are open-source 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Some of their projects are free. But we have some kind of things going on in Visual Culture, we don't have enough manpower to finalize this project. And so this web-thing that in the kind of structure-interface, organisation GitHub. Which is really specific, really oriented, they manage to do things like show fonts, show pictures, I don't think they can display PDF. Visual Culture is really a good direction, but it can become obsolete by the fact that we don't have much resource to work on it. GitHub the amount of features they offer the start to cover a lot of needs, but in their way of doing things, so it's a problem. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+But to me, I'm very surprised, the way, the quality of Git is that it wasn't centralized, and nowadays everything is centralized in GitHub. I'm also wondering whether, I don't think we should start to host other repositories, we should, I don't know. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Yeah, I think we should 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Wait, can you explain why, so you don't want to become a hosting platform? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+No, and what I think is nice about GitHub is ofcourse the social aspect around sharing code. That they provide comments. Which is an extra layer on top of Git. I'm trying to fantasies about another group like OSP who would use Git and have their own server, instead of having this big centralized system. But still I  mean to interact with each other. But I don't know how. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It would be interesting if it's distributed without being disconnected. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+If it was like really easy to setup a Git, or versioning server, I would say it's fantastic. But I can remember, as a software-developer, when I started to look for somewhere host my code it was no question to setup my own server. Because of no time, no time to maintain, not time to deploy etc. etc. At some point we need hosting-platforms for ourselves. We are almost enough to run our own platform. But think of all the people who can't afford it. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But in a way you are already hosting other people's projects. Because there are quite a few workshops that actually not belong to you as OSP. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Yeah, but we moved some of them to GitHub just to get rid of the pain of maintaining their repositories. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So what happened is that because of the growing amount of projects? 
+
+
+% NOWSPEAKING: LL
+% ---------------
+No, for example for Valence we wanted the students to be independent. To really have them manage their own projects. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+GitHub is easier to manage then our repository which is still based on a lot of files. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+For me, if we ever make this hosting platform, it's something else then our own website. Because, like you say, it's kind of centralized in the way we use it now. It's all on the Constant server. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Not anymore? 
+
+
+% NOWSPEAKING: LL
+% ---------------
+On the OSP server? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+No the Git-repositories are still on the Constant server. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Oui, the Git still. But they are synced with the OSP server. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It's promiscuous. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+But still, I can imagine it would be really nice because now, even Visual Culture selects some repositories on our server. And we could imagine to have many instances of Visual Culture for groups of people running their own repositories. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It feels a bit like early times of blogging. Like Constant has hosted many, many, many blogs. Like nine out of ten are dead now. There are only a few that are still there, and still being updated. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+The thing is, the projects that we are hosting. We are all involved in some... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Not necessarily, not necessarily 
+
+
+% NOWSPEAKING: SV
+% ---------------
+For now, I mean what is on... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Constant server? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+No, on... 
+
+
+% NOWSPEAKING: AL
+% ---------------
+No, like... 
+
+
+% NOWSPEAKING: PM
+% ---------------
+There are repositories we are not involved in. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, but it's still Constant. But then we don't manage those repositories. It's Constant who is hosting our server, not OSP. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It would be really, really nice for us to allow. I was also thinking of this, because of this branching stuff. For two reasons, first to make it easier for people to take advantage of our repository. Just like branching our repository would be one click, just like in Gitorious or GitHub. So I have an account and I like this project and I want to change something. I just click on it. You're branched into your own account and you can start to work with it. That's it, and it would be really convenient for people who would like to work with our font-files etc. 
+
+
+% N!OWSPEAKING: PM
+% ---------------
+And once we have all these things running on our server we can think of a lot of ideas to promote our own dynamic over versioning systems. But now we're really a bit stuck because we don't have the tools we would like to have. With the repositories, it's something really rigid. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Well, in a way you describe it as quite a liberating experience to use it. Which is interesting because if I see what actually can happen is quite limited. But still it tells you something about the lack of tools in the usual (in)design practices? 
+
+
+% NOWSPEAKING: LL
+% ---------------
+We would like to test GitMX. We don't know much about it, but we would like to use it for the pictures in high-resolutions, PDF's. We thought about it in Seoul, because we were putting the pictures on the gallery, and we were like 'ah, this gallery'. We were wondering, perhaps we can have this GitMX if this tool works well, perhaps it can be separated into different types of content. And then we can branch them into websites. And perhaps pictures of the finalized work. In the end we have the Iceberg with a lot of 'in-progress'-pictures, but we don't have any portfolio or book. Again because we don't care much about this, but at the end we feel we miss it a bit. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+The sort of narration 
+
+
+% NOWSPEAKING: LL
+% ---------------
+Or to have something to present. Each time we have to prepare a presentation, for Seoul for example, we need the tools and files of the work to choose what we want to send for the exhibition. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It's really important because at some point, working with GIT, I can remember telling it to people, who where in Madrid 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Don't push images 
+
+
+% NOWSPEAKING: FS
+% ---------------
+I remember 
+
+
+% NOWSPEAKING: PM
+% ---------------
+The repository is there to share the resources. And that's really where it shines. And don't try to put all your active files in it. At some point we miss this space to share those files. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+For me an image can very much be a recipe and code an artifact, for me the difference is not so obvious.
+
+
+% NOWSPEAKING: PH
+% ---------------
+ It is not always so clear. Sometimes the cut-off-point is decided by the weight of the file, if it is too heavy, avoid GIT. Another is: if it is easy to compile, leave it out of GIT. Sometimes the logic is reversed. If we need it to be online even if not a source, but simply to share it, put it on the GIT. Some commits are errors. The distinction is quite organic until now, in my experience. The closer the practice gets code, the more clean the versioning process is. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Two, just to. Because I see, just recently this desire for a blog, or another type of writing comes back. But try to think about how the experience of writing commit-messages can help to do that differently. Not as something that is lost and needs to go back. But something that is somehow enhanced by this experience. Because I think it is a writing experience, even when it's sometimes hard to read. 
+
+
+% N!OWSPEAKING: FS
+% ---------------
+But maybe the first, because it is a bit tougher, is surveillance. Because, I was just struck by the interest in the discussion of trying to enumerate the work for Relearn, the summerschool. With working as a collective and making money you always have the problem of where does it go. How is it distributed? So you came up with a system of self-evaluation where you could decide how much involvement you had. Wich is a clever trick, but at the same time it really smells like a business-strategy that seems to match what we see happening in GitHub right now. Where the sort of saying is GitHub is the new C.V. people sort of self-publish their code but also their practice and through doing so become desirable for jobs. And so there is a kind of performative part of the repository. Where a commit counts as a... 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, I think... when I presented the OSP's website. We had some remarks sometimes like, ah it's good then we can see what everybody, have worked. 
+
+
+% NOWSPEAKING: PH
+% ---------------
+But strangely so far there were not many reactions from partners or clients regarding the fact that all the projects could be followed at any stage. Even budget wise... Mostly, i think, because they do not really understand how it works.
+
+
+% NOWSPEAKING: LL
+% ---------------
+See who's working a lot... 
+
+
+% NOWSPEAKING: SV
+% ---------------
+And sometimes it's true, it came to my mind, should we really show our website to clients? Because then they can check whether we are working hard, or this week we didn't do shit... And it's, I think it's really based on trust and the type of collaboration you want with your client. Actually collaboration and not a hierarchical relationship. So I think in the end it's something that we have to work on. On building a healthy relationship, that you show the process but it's not to control. But to be able to see the process. And we have a meritocracy of commits is well known, I think, in platforms like GitHub. I don't think in OSP this really considered at all actually. 
+
+
+% NOWSPEAKING: PH
+% ---------------
+It supports some self-time tracking that is nuanced and enriched by e-mail, calendar events, writing in etherpads. It gives a feeling on where is the activity without following it closely. A feeling rather than surveillance or meritocracy.
+
+
+% NOWSPEAKING: SV
+% ---------------
+I know that Eric made a script to, because he's not really, he doesn't really keep track of his working hours. He made a script to look into his commit-messages to know when he worked on a project. Which is not always truthful. Because some times you make a commit on some files that you made last week, but forgot to commit. And a commit is a text-message at a certain time. So it doesn't tell how much time you spent on the file. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Although in the way you visualize there is a sense of duration between the last and the commit before. So you have a sense of how much time passed in between. 
+
+
+% N!OWSPEAKING: FS
+% ---------------
+One other question, do you compensate or do you have ways of -I think Iceberg is one- do you have other ways of circumventing the dominance... the fact that the commit is dominant. Meaning anything that results in a commit is visible on the website. But anything that's not resulting in a commit is... 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Yeah... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Is there, do you sometimes do commits. I mean are there ways you trick to make things visible that might otherwise go missing? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+In the messages sometimes, we could talk about things we tried and didn't work. But I must say it's quite rare. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+Yeah, on my side also, I kind of regret, I don't write so much on the commits. At the beginning when we decided to have it on the homepage we talked about this theatre-dialogue and I was really excited. But in the end I see that I don't write as much as I would like. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+I think it's really a question of the third-party programs we use. It means that for this example, it's like a dialogue on the website. But when you write this commit message you're not all in this interface. So you don't answer to something. If we have the same kind of interface we have on the website, you would realize you can answer to the previous commit-message. You have this sort of narrative and it would work. We are in the middle, like, we kind of have this feeling of a dialogue on one side, but because when you work, you're not on the website to check the history so there's some kind of interferences with two or three years, we make. It's just basically, it would be about to make things really in line with what we want to achieve. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+I intend to commit just when I need to share the files actually with someone else. So I wait until the last moment. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Now, to push you mean? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+No, no, to commit. And then I've lost track of what I've done and then I just write... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But it would be interesting, when I'm looking at the different speeds of collaboration in a way. Like the live fluid, discontinuous but fast, discontinuous in separate spaces. There might be something in the commit message. It seems that you really shift, from just fast, 'yeah', 'here', 'yes', 'again', 'no'. You know, that kind of message, and ones that are much more... 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But it's true, I must admit I never read actually the... When I start working again on a project I don't read the last messages. And so, then you lose this dialogue thing as you said. Because sometimes I say, I know Ludi is going to work on it. So I say, O.K. Ludi it's your turn now, but the thing is, if she says that to me I would not know because I don't read the commit-messages. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+It depends, because I do read with you, because I know... 
+
+
+% NOWSPEAKING: PM
+% ---------------
+I suppose it's something that is really missing from the Git-client. When you pull, you update your working copy to synchronize with the server it just says files change, how many changes there were. But doesn't give you the story. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But that's what missing when you pull. It should instead of showing which files have changed, well they stay on top of it, to show all the logs from the last time you pulled. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Your first point, I have something to tell that I forgot. Repeat the question? 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So my question was about recipes v.s. artifacts. And I think this is really important to remember, because it's easy to follow the usual. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+I would reverse the question, what the versioning system considers to be a recipe is good, is a recipe. I mean, what works well with a versioning system. In this context is a recipe something that works well with the versioning system. Such as the description of your process to get somewhere. And I can imagine it's something, even the rest... community, I would say the Git-community. With their GTL-engine is to trying to achieve that fact. Make it something that you can share easily. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But we had a bit of this discussion with Alex for the reader. Because we are going to be published by B42. But, the publisher, so we have the website with all the texts, and the publisher is filing / finding this, and the texts are all under a free-license. But he doesn't want us to put the PDF online. And, but, for me, I'm quite okay, because we used to, he doesn't know, but, for me it's a condition that we put the sources of the (if it's in scribus) SLA-files. But if you really want the PDF then you can clone and make it. You can just make an export, it's really easy. You just need to clone and to install Scribus. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+And will it be epub? In epub format? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+I don't know yet, but it's just an example of not putting the PDF, but you have everything you need to make the PDF yourself. For me it's quite interesting to say our sources are there. You can buy the book but if you want the PDF you have to make a small effort to have it and then you can distribute it freely. But I find it quite interesting to, of course the easiest way would be the PDF but in this case we can't. Because the publisher doesn't want us to. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+Not even a rasterized version? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+But I think it's okay if we have to balance another version. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It can be a way. But I'm just curious, maybe your experience with... Because I think description of something in the sort of code sense. And even when you take the PDF as an example. Somehow underscores or undervalues the fact that layout for example is not just an executed recipe, no? I mean, so there is this kind of grey area in design that is... maybe not the final result, but also not a sort of executable code. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+We see it with visual culture, for instance, because Git doesn't make it easy to work with binaries. And the point of Visual Culture is to make visible this JPEG's and all the kind of graphical files we work with. So it's a little bit, like we don't know how to decide whether we should put like PDF's for instance in the Git-repository online. Because on the one hand it makes it less manageable with Git to work with. But on the other hand we want to be visible on the website. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But for me it's not only for binaries, problems of Git. But it's also storage-space. If you want to clone it, if you want people to clone it also you don't want an 8 gigabyte repository. 
+
+
+% N!OWSPEAKING: SV
+% ---------------
+For me it's O.K. to make a low-resolution PDF, even if Git doesn't handle it so well. Not the PDF that is sent to the printer, because it's to big, and that you can produce by cloning the repository. Making a low-res file for people to look at. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So in a way you have a sort of double kartoffe(?), one is is the ingredients you need to cook up whatever file you need and the second is to make space for a pre-visualisation in a way, that's seems to be really important to... 
+
+
+% NOWSPEAKING: AL
+% ---------------
+but also the way it works like, even if you take SVG for instance, it's a, like text-file. But the kind of granularity that is, Git works, is like lines and characters. And even though SVG is a textfile is also like XML. And so it doesn't necessarily makes sense to work with lines and characters. You want to work with DOM. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+But it's not a new thing. We couldn't always, with Visual Culture we have a problem with SVG-files. At some point we could imagine even to send this to the browser and it should be able to render it for you. It's a web-technology it doesn't really work because you can embed and link a lot of things. Which are available only at the creator. Just like forms or images etc. But when they are not available on the client-side, in the browser. You, it's a fun SVG. It's a funny diplay but it doesn't really reflect on the work that has been done. 
+
+
+% NOWSPEAKING: PM
+% ---------------
+It's why I'm pretty much into have like another idea on how to set-up something on top of a versioning system. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+The problem is always resource ofcourse. Because it's a lot of work to develop tools. But that's why I wanted to talk about it. Because I think after a few years to find ways to somehow... 
+
+
+% NOWSPEAKING: PM
+% ---------------
+I don't know because it's not really what OSP is for, but you can imagine, like Dropbox has been made to easy sharing large files, or even files. We can imagine that another company will setup something, especially graphic designers or the graphic industry. The way GitHub did something for development-industry. They will come up with solutions for this very problem. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Do you see any of this happen through Adobe Cloud? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+They, I didn't really look at it, but I know Adobe is quite busy with this at the moment. Going through their cloud thing. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Maybe Adobe is for something else. So last thing to talk about then is. So you already talked a bit about the way to write commit messages. It came up this idea of reviving another type of talking about OSP. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+I just want to say something about that, is something, I think because we're not a developer group the commit messages were at the start even without the website. The were as space where you throw all your anger, frustration. And we first published a Git-log in the Balsamine program, because we saw that. I think it were Pierre and Ludi, I was using it mostly for website, so I was, I think, more pragmatic kind of messages. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Just for, this will be a nice way to illustrate what Balsamine program is this? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+The first one with context. So we were manipulating code for layout. The commit-messages were all really funny, because Pierre and Ludi come from a non-coding world and it was really inspiring and we decided to put it in the program. Then we kind of looked, Ludi says two kind of bad things about the client, but it was okay. Then it's funny because when you say, do you think about what you write. Now I think we know it's public, we kind of pay attention not to say stuff we don't mean to... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Well it's clear that it's not such an exciting space anymore. As in the first half year. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+It often very formal and not very, exciting, I think. But sometimes I put quite some effort to just make clear what I'm trying to share. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+And there's also the commits that you make for yourself. Because sometimes you, even if you work on a project alone, you still do a Git-project to keep track, a history and come back. Then you also need to write something. Then you write to yourself. I think it's also something else. I've never tried it. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+You have many levels of writing in a way like to each other as a group. To yourself as a way to explain the project to the world. It's a lot to ask in a way, to do it while your working. As an idea it's really beautiful. This idea of writing while you're making something. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+I think we should pay more attention to the first commit and the last of the project. Because it's really important to start the story and to end it. I speak about this end because for what is kind of reproaching now is all this Git folders. I feel overflowed by all these not ended projects, I'm quite tired with it, not tired, but. I would like us to find a way to archive projects which are not alive any more. To find a good way to do it. Because the list is still growing, and in a way it is. Okay a lot of projects are not active. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But it's hard to know when it's the last commit. But the Balsamine it's quite clear, because it's season per season. But still, we never know when it is the last one. The last one could be solved by the Iceberg, to make the last snapshots and say okay now we make the screenshots of the latest. And then you close it... But we tried it for first program of the Balsamine because we wanted to print the Git-log. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+You knew already when you were arriving.. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+We wanted that the last one was 'Hey, we've sent the PDF's to the printer'. But actually we had to send it back because we didn't manage. And then it didn't fit in the page. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But maybe a simple thing which always supprised me, something that you have in Wiki's where you can say, this is a minor change. In a sense, this is a minor commit message. Some messages are just saying; hey here it is. But some are about a substantial message. It can be disconnected from the actual change. But the messages themselves have a weight maybe. I think that could help to not feel the burden all the time and as a result not being able to... Because I'm not so sure if the first and the last messages.. you know... it's also arbitrary. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+There is something in Git that is called Git notes, and that you can attach notes to a commit. 
+
+
+% NOWSPEAKING: LL
+% ---------------
+Perhaps we could tag some commits? 
+
+
+% NOWSPEAKING: AL
+% ---------------
+There are also tags that we don't use at all. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But tags are something else. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+It just was interesting, it was really funny. Because if I hear you talk, I'm just reliving Constant-website discussions again and again. Like this sense of, so many projects, and how do you, nobody understands what is going on, and you self are comepletely lost so every time inventing systems to trying and... Yeah, viewpoints for example. Where you ask people to make a special selection and to write some sort of tour. So you had tours through the different projects. I mean, we did so many things, in the end it's just, if you are working then please kind of like... All this work again to bring them back. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+In the project branch we talked about before. Because it were really web-applications for people to fork texts and change it. It was really important to make it, make the history legible and to be able to qualify the commits visually. So that you don't need to read the whole history to see where are important moments. We wanted to user this git-annotate command, to put some keywords maybe say okay. because we read this article on Wikipedia saying that the people who contribute the most are actually mostly making spelling-corrections. And maybe one person will write one article, but he will write the whole page. We were thinking, based on this, if you change one letter it doesn't mean that it's less important than changing the whole sentence. Because sometimes one letter changes everything. So we didn't want to make it automatic this qualification of commits. But to offer people the possibility to put tags, saying, ok this is more an idea change, this is an argument, this is a contra-argument. Ways to qualify, without. So using keywords and then symbols represent the keywords to see visually the history of the process. But we never... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So many things we never made. Last question, just to, you know we have to end somewhere. If you think about another three years. There's a lot already... What would happen. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+We want to work, at least, I think we all want to work on our website. Because it's in an in between state. And I think what was really interesting about Visual Culture was to visualize the changes. But in the end it is mostly text-top. Wich I find a little bit it's really nice with the Iceberg, but it could be much more interesting. And it could be interesting to just visualize what files, so not only commit-messages, but also see a little bit more, the files that have changed, for instance in this timeline. That would be one thing. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So this would help to somehow make a structure. Because you will a have, double triple the amount of projects hopefully? I think, if I look at the amount of folders right now, the amount of material, and the layer, the kind of interface that is there. To me that's a few things, of course there's the Iceberg, the readme-file sometimes there, sometimes not. The commit logs themselves. The foldernames. The fact that the folders are organised in groups. So there's different things you've done to get a grip on all these projects. But it seems that you are on the edge of what it can hold? It seems like it's quite a lot. To manage as someone coming from the outside. Outside as in me. To even find my way in, it becomes larger than I can initially hold. So I'm wondering if... 
+
+
+% NOWSPEAKING: LL
+% ---------------
+It's true that there are no ways to, search on the folders. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Again, I think you have resources for certain things but not everything. I'm just trying to imaginge, if you double the amount of material, in a few years, what would you need. What would need to happen? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+I don't know if it is really related to Git. I think it's mostly related to a design website. How to show your work and how to classify. How to show the archived projects, your current projects. Not so sure it's related to Git so much. We just lack time to design the work-page. To be able to have different levels of projects. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+What could we do to make it also more inviting for outsiders? 
+
+
+% NOWSPEAKING: FS
+% ---------------
+No, more, I've been looking at, like, in the last two weeks, I've been intensely looking at, you know, what changed from the beginning to now and how I can use this tool, and what does it mean for the way you show yourself. So you can see sort of development from complete excitement about, yeah we can use this. And in a way also sort of pride look at us, designers. We're able to use something seriously. It's important no. I'm not saying it to make fun of it, I think that it's really important it's showing that you're serious about free software. Because you are adapting tools and methods. And then Visual Culture for me is the first attempt to... In a way is a print-party 1.0 in trying to show how this practice can be legible to someone that's not going to look into code. So it's the first, and I thinks it's really important I can say a lot about what might not work or where I think it's kind of, but that's not important in itself.  I think it's a really important shift you make and I'm quite surprised with all the hype about GitHub by designers and artists that there's not anything like Visual Culture right now. So I think it's something to be proud of. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, it's really weird because GitHub is working a lot on visualisation tool. They have visual diff-tools. You can see the pictures of fonts when you click on a file. But, when you're not on the file itself you can't have an overview. So I think for them it's really easy to do what we... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+I think so to, but I think. This is what I'm trying to ask, so Visual Culture for me, apart from wizzardness of being able to show visuals in code environment is a statement. Saying, we are able to use these tools, now let them work for us. So that is fase 1 somehow, how can we work with a tool that's made for code. Now we make it work for us, so we look at least like designers. So that's three years of trying and working and looking at it, you know and living with it. So now I think all the signs are that it's time for a second round, no? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, I think it's the different tools Eric was talking about, so the visual diffs. So that the tool then is usable for our own work. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+O.K. so that's one. So that the diffs are more useful for your kind of practice? 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, that we can compare file without having to checkout to history. That's an important tool, for really practicing. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So second we talked about is to have some sort of Gitorious, meaning that you would be able to be open for collaboration outside your group, whatever that means. I mean and whether that is Gitorious or something else, thats... 
+
+
+% NOWSPEAKING: LL
+% ---------------
+And also because Alex' story is about, big files and how to manage pictures. Pictures of the travels but also pictures of the objects we produce. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+O.K. so to need to, because now the tool really prefers text-files. And to somehow give it a push to accept that other files might need to be shared to... 
+
+
+% NOWSPEAKING: SV
+% ---------------
+And also I think there is the license issue. That we try to solve by putting a license-file in each folder, so for each project there is a license file for the whole project. And then, for the Balsamine for example. we worked with this photographer who is against putting his photographs into free license. But we need the files for work. And so we decided to put low-res, so that is A4 300DPI (which is not so bad), but we put it in a separate directory with it's own license-file. But, one needs to open this license-file to know that he's not able to use it. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+So a way to have license-per-file in a way. To have... 
+
+% NOWSPEAKING: SV
+% ---------------
+Per folder is fine, but visually you don't see the difference unless you click on the license file. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+? is maybe interesting to look at, because they, you know give a sense of the file existing but clearly, you know. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Maybe we should find a way to name folder like the iceberg to have a code to say: non-free. And then we have a different icon to say, okay, be careful. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+In that sense the LAFKON is interesting to see. Okay. And so then there's. Then we talked about writing and sort of distinguish between different types of messages or... 
+
+
+% NOWSPEAKING: LL
+% ---------------
+Yeah, and this is also something Pierre is talking about in his answers he wrote, about how sometime we not come back to blog-posts, but that we use mails and commit-message to kind of be... Be more consistent. 
+
+
+% NOWSPEAKING: AL
+% ---------------
+Being able to point to different commit-messages. Being able to put images in there it would be nice to blogpost. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+No, but at least we should work better on our Icebergs and especially the readme-files. Because the readme is supposed to be processed as blogpost, so we use markdown to put text and images And so it is supposed to be the first page of a project, but we never... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But also try to think, I mean there is a reason why it doesn't work, you know. It's not... Let's say... You can not tell yourself we should etc. But at the same time there is only so much you can do, so  I think the fact that it's a difficult space, for me is not surprising. Because the readme is very definitive. It's like the last post, or like the last commit-message and it's kind of strange as a, as a... 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Also there after the repository... we don't have time... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+But you come back to even worse, like the problem of the blog was that it always had to, like the description had to happen when the project was already gone. And with the advantage that I could often do it because I was in another rythm of work. But the read-me is even worse than a blog-post, in a way. Because it needs to be there, actually, it wants to, already before a project exists, you know, so it's even more... 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, we usually write one sentence of what the project is... 
+
+
+% NOWSPEAKING: FS
+% ---------------
+And I see that the latest projects have... and that sentence says... and then it really becomes a kind of guilt-space. Which I think is really... 
+
+
+% NOWSPEAKING: LL
+% ---------------
+But there's also something that could be used is the pad. Find a way to branch the pad with the read-me, or pad per project, because. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+They are, there is already a lot of writing... 
+
+
+% NOWSPEAKING: LL
+% ---------------
+I mean, for example for Seoul we really worked into a pad and this pad is super narrative about the workshop 
+
+
+% NOWSPEAKING: SV
+% ---------------
+Yeah, but it's for workshop, when we work on projects we don't do that. For workshops it could be that. We could just copy and passed. I mean we don't need necessarily a kind of connection, we could just copy - paste and say that's it. 
+
+
+% NOWSPEAKING: FS
+% ---------------
+Also with workshops, like what you did in the book right now it's interesting to see, because a workshop you need to write an invitation. Maybe something to think about, we have been talking about these contracts you are making, with people. I mean I'm not sure how that's already happening, because it's, let's say another kind of crunch time ofcourse. When the project is starting you don't easily take the time. But these could be interesting documents. 
+
+
+% NOWSPEAKING: SV
+% ---------------
+But these contracts, I think, mainly be congeneric and maybe adapt it from time to time. I think it's interesting ot publish it but it will mainly be the same.
+
