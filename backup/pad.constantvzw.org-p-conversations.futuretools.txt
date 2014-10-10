@@ -1,0 +1,67 @@
+% Lines starting with % are comments and will be ignored
+% comments may be treated as commands/actions/functions
+
+% http://snelting.domainepublic.net/interviews/fragments.txt
+
+% MX = Miguel ? 
+% Miguel Arana Catania?http://medialab-prado.es/article/interactivos13_proyectos_seleccionados
+% JD = Julien Deswaef
+% CB = Carla Bosermans
+% EG = Eleanor Greenhalgh
+% FS = Femke Snelting
+
+
+% TITLE: Tools for a read write world
+
+% mplayer -ss 24:44 -endpos 1:22 incoma.mp3
+
+% NOWSPEAKING: MX
+% ---------------
+From my point of view, politics has to do with many things. One thing politics has to do with organization, it's how we organize the world, how we organize the energy, the style [?], the work, everything. And we have seen that delegating this to powers, to the people who has more money, etc. has terrible consequences in the life of people. So we have to find new ways of organizing between people, all of them. This is one of the main ideas of the tool. Although since politics is also creating and thinking about new worlds, it's how we think the world could be, how the relations between people could be set, how can we behave in our lives. And it's about thinking, debating, which is one of the goals of the tool: to help people think together, make clear the way we think, and find more intelligent thoughts, but made by the collective, not just by some genius who comes with an idea.
+
+% mplayer -ss 05:52 -endpos 1:20 designwithgit.mp3 
+
+% NOWSPEAKING: JD
+% ---------------
+I mean, in my opinion, when you have a complex file or, maybe not complex, but when the changes are subtle, if there's a tool that's displaying it as a bright red, or really putting a marker on "this node has changed," it's helpful. You don't need to spend a lot of time guessing what's the difference. I believe this is useful. 
+
+% NOWSPEAKING: FS
+% ---------------
+It seems that especially when you work together on a file, you need hints of where things changed if you didn't make the change yourself. 
+
+% NOWSPEAKING: JD
+% ---------------
+Yeah. Exactly. I'm like a bit mixed. I don't really know if these visual changes are maybe something that will improve a designer's workflow, but I think because this is so attractive, then designers will come to it saying "oh, let's try it" and then they will find out about versioning, and then they will find out about collaboration, and then they will start working on collaboration. I mean, the visual diff tool, it's not really practical in any way, I don't really know. But getting designers into collaboration is more important. It's a tool that will maybe attract people into that.
+
+
+
+% mplayer -ss 13:39 -endpos 1:33 colaboratorio.mp3 
+
+% NOWSPEAKING: CB
+% ---------------
+In all this work, we're trying to find something poetical in digital practices. We think that they are transforming things, and that there's something artistic in them, because they're not just programs, they're ways of doing things. So with Ricardo, he gave us two hours and he explained how version control systems work, with just a paper and a pencil. And he explained it for people who don't know anything about version control, and it was incredible, because he could translate these concepts to us. We decided that Diff was really important to us. Then, we decided we could get something symbolic or something poetic out of everything. Difference is the most important thing for me, version control, because the point in that, what is the difference, not which is the common, because that is the normal way of thinking. So Diff is a really important "god" for us.
+
+
+
+% mplayer -ss 17:56.6 -endpos 53 yesnomaybe.mp3 
+
+% NOWSPEAKING: EG
+% ---------------
+I've been excited by some of the things that have come out.
+    
+% NOWSPEAKING: FS
+% ---------------
+Can you describe them, why they were exciting?
+    
+% NOWSPEAKING: EG
+% ---------------
+One of the things that's interesting was the idea of allowing for doubt to emerge not in the answers that were given, but in the process of repetition. And so in this tree that Matthias mentioned, if you change your answer, we were thinking about how to represent that visually. And this is where parallels emerge with the Designing with Git. Because then, for example, you have a design object which bears traces of its history. Its history in terms of how certain somebody was, how sure they were. And I found it conceptually, but also visually interesting to experiment with how a shape could change over time and retain traces of that change.
+
+
+
+% mplayer -ss 09:52 -endpos 1:03 designwithgit.mp3 
+
+% NOWSPEAKING: JD
+% ---------------
+I received lots of feedback, or more like "I'm interested in this!" For me, it's maybe the first real open source project where I really want other people to be involved. It's a challenge to get people involved in the project. This is a bit new to me, so I... I'm expecting that people will join in, but I have no idea if this is going to happen because I think usually people need to see a finished project before getting in. Maybe in the designer's world, I don't know. It's a question. I'm trying not to have too much expectation around this and just keep going. We'll see.
+
