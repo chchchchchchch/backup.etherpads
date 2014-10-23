@@ -16,7 +16,7 @@
 % NOWSPEAKING: X
 
 In the summer of 2010, Constant commissioned artist and researcher Evan Roth to develop a work of his  choice, and to make the development process available in some way. He decided to use a part of his fee as prize-money for The GML-Recorder Challenge, inviting makers to propose an open source device ‘that can unobtrusively record graffiti motion data during a graffiti writer’s normal practice in the city’.
-In three interviews that took place in Brussels and Paris within a  period of one and a half years, we spoke about the collaborative powers  of the GML-standard, about contact points between hacker and  graffiti-cultures and the granularity of gesture. The text is based on conversations between Evan Roth (ER) and Femke  Snelting (FS), Peter Westenberg (PW), Michele Walther (MW), Stéphanie Villayphiou (SV), John Haltiwanger (JH) and momo3010.
+In three interviews that took place in Brussels and Paris within a  period of one and a half years, we spoke about the collaborative powers  of the GML-standard, about contact points between hacker and  graffiti-cultures and the granularity of gesture. The text is based on conversations between Evan Roth (`ER`) and Femke  Snelting (`FS`), Peter Westenberg (`PW`), Michele Walther (`MW`), Stéphanie Villayphiou (`SV`), John Haltiwanger (`JH`) and momo3010.
 
 
 # Brussels, July 2010
