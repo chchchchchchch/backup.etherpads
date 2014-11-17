@@ -27,7 +27,7 @@
 % NOWSPEAKING: FS
 % -- EDITED -----
 So what I want to do, what this is going to be, is some kind of post on
-OSP.[^]{http://ospublish.constantvzw.org} So your audience is OSP audience.
+OSP.[^]{http://ospublish.constantvzw.org} So your audience is OSP's audience.
 And I would like to start from this image, this screenshot I've got from you,
 with your ConTeXt tag.
 Because I didn't know, you were going to go to this famous meeting, the
@@ -101,10 +101,9 @@ the software at that point, but  I had this sort of impulse to go.
 % I'm in the Netherlands, I'm in Europe. 
 Well anyway, I did not have the money for it at that time. So the fact 
 that there  was another one coming round, was like: 
-_Ok, that sounds good_. But there was something, I can't remember if 
-there was some sort of explicit ... I know, that we got into a conversation 
+_Ok, that sounds good_. But there was something,  ... we got into a conversation 
 on the  mailing list. Somebody, a non-native english speaker was asking 
-about pronouns and gendered pronouns and the proper way of pronouning things. 
+about pronouns and gendered pronouns and the proper way of 'pronouning' things. 
 In english we don't have a suitable gender neutral pronoun. 
 So he asked the questions and some guy responded:
 _The proper way to do it, is to use he. It's an invented problem.
@@ -116,9 +115,9 @@ because if somebody has a problem, than there is a problem._ So I kind of
 naively suggested that we could make a unicode character,  that can stand
 in, like a typographical element, that does not necessarily have a
 pronounciation yet. So something that, when you are reading it, you could
-either say he or she or they and it would be sort of XXXX[0:04:17][?].
+either say he or she or they and it would be sort of [emergent|dialogic|personalized].
 Like delayed  political correctness or delayed embraciveness.
-But, a little did I know, that unicode was not the answer.
+But, little did I know, that unicode was not the answer.
 
 
 % FEMKE:
@@ -188,7 +187,7 @@ It's interesting, because then of course again it doesn't matter. Right?
 % -- EDITED -----
 Right. And then I was just like, that's something we should talk about at the
 meeting. I guess I sent out something about my thesis and Hans or
-Taco, they know me [0:05:59][?] it would great for you to do a
+Taco, they know me, they said that it would great for you to do a
 presentation of this at the meeting.
 So that's very much how I ended up there.
 
@@ -201,7 +200,7 @@ So that's very much how I ended up there.
 
 % NOWSPEAKING: FS
 % -- EDITED -----
-So then you finally found this ... that was considered an location?
+So then you finally found this ... that was considered a location?
 Because this was the first time you went to meet physically, these people?
 
 
@@ -249,8 +248,8 @@ I guess you have never met anyone from ConTeXt before?
 
 % NOWSPEAKING: JH
 % -- EDITED -----
-No. You are the only person I know. You and Pierre were
-the only people I know, that have been using it, besides me,
+No. You are the only person I knew. You and Pierre were                  # reads better in past tense
+the only people I knew, that have been using it, besides me,
 at the time. It was interesting in that way, it was really ...
 I mean I felt a little bit ... nervous isn't exactly the word,
 but I sort of didn't know what exactly my positon was meant to be.
@@ -264,7 +263,7 @@ on the right side of the room, just head back. So, that was entertaining,
 to be the black sheep. That's always a fun position.
 It was entertaining for me, to meet these people and to be at the 
 same time sort of an outsider. Not a really well known user
-contrasted with other people, who are like more XXXX[0:08:05][?] of
+contrasted with other people, who are more like cornerstones of
 the community. But somehow ... they were meeting everybody in person
 for the first time. And somehow I could connect ...
 So now, a month and a half later we're starting this ConText group,
@@ -302,7 +301,7 @@ It goes fast indeed!
 That was the second concrete mention, after that
 picture with you with the label[0:08:43][?].
 And then suddenly you are on the board.
-You just kind of slipped in in a side sentence.
+You just kind of slipped it in a side sentence.
 So what is this ConTeXt user group?
 
 
@@ -324,13 +323,13 @@ So what is this ConTeXt user group?
 % -- EDITED -----
 To a certain extent the NTG, which is the
 Netherlands TeX Group had sort of been consumed from the inside by the
-heavyness of ConTeXt, specifically in the Netherlands. The talk started to
+heavyness of ConTeXt, specifically in the Netherlands. The discussion started to
 shift to be more ConTeXt. Now the journal, the MAPS journal,
 there are maybe 8 or 10 articles, two of which are not written by either
 Hans or Taco, who are the main developers of ConTeXt. And there is zero on anything
 besides ConTeXt. So the NTG is almost presented as '_ok, if you like ConTeXt
 or if you wanna be in a ConTeXt user group, you join the NTG_'.
-Apparently the journal used to be quite thick and there is lots of LaTeX users,
+Apparently the journal used to be quite thick and there are lots of LaTeX users,
 who are involved. So partially the attempt is sort of ease that situation a little bit.
 
 
@@ -377,8 +376,8 @@ who are involved. So partially the attempt is sort of ease that situation a litt
 % -- EDITED -----
 Yeah, and not in any way like fast or abrupt fashion. We're trying to
 be very conscious about it. I mean, it's not ConTeXt's fault that LaTeX
-users are not submiting any articles for the journal or only want to to
-presentations [0:10:29][?]. That user group will always have the capacity
+users are not submiting any articles for the journal.
+That user group will always have the capacity,
 those people could step up. The idea is to setup a more
 international forum, something that has more of the sense of support
 for ... Because the software is getting bigger and right now we're really
@@ -386,7 +385,7 @@ reliant on this mailing list and if you have your stupid question either
 Hans, Taco or Wolfgang will shoot something back. And they become reliant
 on Wolfgang to be  able to answer questions, because there are more users
 coming. Arthur was really concerned, among other people, with the
-scalability of our purge right now. And how to set up
+scalability of our approach right now. And how to set up
 this infrastructure to support the software as it grows bigger. I should
 forward you this email that I wrote, that is a response to their name
 choices. They were contemplating becoming a group called cows.
@@ -508,8 +507,7 @@ platform next to the ConTeXt platform?
 % NOWSPEAKING: JH
 % -- EDITED -----
 Yes, although I'm kind of hovering over it or sort of superceeding it as
-an interface. I see ConTeXt having so much potential in the long run because 
-it's really used.
+an interface.
 You have LaTeX, which has been at 2e since the mid 90ies,
 LaTeX 3 is sort of this dim point on the horizon.
 Whereas ConTeXt is changing every week. It's converting the entire structure
@@ -518,13 +516,13 @@ And so there is this transition from what could be best described as an archaic
 approach to programming this shiny new piece of software.
 % I'm trying not to say platform too many times.
 I see it as being competitive strictly because it has so much configurability.
-But that's sort of ...  and that's the double of sort of it [0:17:01][?] that
+But that's sort of ...  and that's the double-edged sword of it, that
 the configuration is useless without the documentation.
 Knuth is famous  for saying that he realises he would have to
 write the software and the  manual for the software himself.
 And I remember in our first conversation about the sort of paternalistic culture
 these typographic projects seem to have. Or at least in the sense of TeX,
-they seem to sort of cojaculate [0:17:34][?] around a central wizard kind
+they seem to sort of coagulate around a central wizard kind
 of guy.
 
 
@@ -594,11 +592,11 @@ think it will develop, what will be that future? How you see that?
 
 % NOWSPEAKING: JH
 % -- EDITED -----
-Right. That's a good way to start on tangling all the stuff I was just  
-talking about. Sort of putting the cart before the horse. I see it  
+Right. That's a good way to start untangling all the stuff I was just  
+talking about, when I was sort of putting the cart before the horse. I see it  
 developing in some ways ... the way that it's used today and the way that 
 current, heavy users use it. I think that they will continue to use in  
-this XXXX[0:19:18][?] way. But you already have people who are utilising   
+it in a similar way. But you already have people who are utilising   
 Luatex ... and maybe this is an important thing to distinguish between  
 ConTeXt and Luatex. Right now they're sort of very tied together. Their  
 development is intrinsic, they drive each other. But to some extent some  
@@ -623,7 +621,7 @@ Not saying this is the answer, but that at least it will come out as a nice look
 
 % NOWSPEAKING: FS
 % -- EDITED -----
-But you say that acutally Luatex allows the connection to TeX to widden? 
+But you say that acutally Luatex allows the connection to TeX to widen? 
 
 
 % JOHN:
@@ -670,15 +668,15 @@ But you say that acutally Luatex allows the connection to TeX to widden?
 Yeah. It takes sort of the essence of TeX, but ... And this is, I guess,
 the crucial thing about Luatex that up until now TeX is both a 
 typesetting engine and a programming language. And not a very good one.  
-So now, that TeX can be the engine, the tschicholdian algorithms,  the 
+So now that TeX can be the engine, the Tschicholdian algorithms,  the 
 modernist principles, that, for whatever reason, do look really  good, 
-can be utilised 
+can be utilised and connected to
 % in all these different ... that can be connected ... 
 without having to deal with this 32 year old macro programming language.  
 On top of that and part of how directly engaging with that kind of   
 movement foreward is ... not that I am switching over to Luatex entirely 
-at   this point ... but that generative typesetting platform ... was sort 
-of the foundation of this journal proposal we sent to the NVO [0:22:35][?]. 
+at   this point ... but that this generative typesetting platform that was sort 
+of the foundation of this journal proposal we sent to the NVO. 
 Where you could  imagine actual humanity scholars using something that is 
 akin to markdown or a wiki formatting kind of system. And I have a nice 
 little  buzzword for that called  _visually semantic markup_.
@@ -692,8 +690,8 @@ those preformatting languages, maybe not wiki markup, but  at least
 markdown was that it could be printed as a plaintext document and  you 
 could still get a sense of the structure. I think that's  a  really 
 crucial development. So ... in a webbrowser, on one half of 
-the  browser you have you text XXXX[0:24:07][?], on the other half you 
-have an ajax  rendering of it into html. In the meantime, the way 
+the  browser you have you text input, on the other half you 
+have an real-time  rendering of it into html. In the meantime, the way 
 that the interface works,  the way that the visually semantic markup 
 works, is that it is a mutable interface. It could be tailored to your 
 sense of what it should look like. It can be tailored 
@@ -752,7 +750,7 @@ Hypermodern?
 
 % NOWSPEAKING: FS
 % -- EDITED -----
-Hypermodern. Whatever. Something for now and later.    
+Hypermodern, or whatever, but something for now and later.    
 
 % JOHN:
 % LITERAL TRANSCRIPTION
@@ -784,7 +782,7 @@ Hypermodern. Whatever. Something for now and later.
 Yes. Part of this idea, the trick ... This software is called _subtext_ and  
 that point it's a conceptual project, but that will change pretty soon. 
 Its trick is this idea of separation instead of form and content, it's  
-translation and effect. The parser itself has to be XXXX[0:26:45][?], has 
+translation and effect. The parser itself has to be mutable, has 
 to be able to pull in the interface, print like decorations basically from 
 a yaml configuration file or some sort of equivalent. One of this 
 configuration mechanisms that was designed to be human readable and not 
@@ -798,8 +796,7 @@ that's more like international quotes, everything not english.
 For the purposes of  markdown there is no, like really easy 
 way, to change that part of the interface. So that when I'm writing, when 
 I use the angle brackets as a  quote it would turn into a `\quotation` in 
-the output. Whereas with subtext  you would just go into the effects 
-configuration ... no actually in the interface type like configuration and say: 
+the output. Whereas with subtext  you would just go into the interface type like configuration and say: 
 These are converted  into a quote basically. And then the effects are 
 listed in other configuration files so that the effects of quotes in html can  be ...    
 
@@ -834,12 +831,11 @@ as well as the raw _what is put into the document when it's translated_.
 This kind of separation ... you know at that point if both 
 those  effects are already the way that you want them, then all you have 
 to do is  change the interface. And then later on typesetting system, 
-maybe iTeX  comes out, you know. 
-% ... newsjoke [0:29:19][?] anyway ... 
+maybe iTeX  comes out, you know, Knuth's joke, anyway ... 
 That kind of separation seems to imply a future proofing that I find very 
 elegant.  That you can just add later on the effects that you need for a 
 different system. Or a different version of a system, not that you have 
-to mark 6, or something like that ...  
+to learn "mark 6", or something like that ...  
 
 % FEMKE:
 % LITERAL TRANSCRIPTION
@@ -857,10 +853,18 @@ to mark 6, or something like that ...
 
 % NOWSPEAKING: FS
 % -- EDITED -----
-% [0:29:53][?], still a little jump. 
+We are on 'mark 4' now, eh?
+
+%NOWSPEAKING: JH
+% -- EDITED -----
+Yeah
+
+% NOWSPEAKING: FS
+% -- EDITED -----
+So, still a little jump. 
 But if you talk about future proofing I thought to go back to this 
 sort of almost human side of this project.
-You talked about it'd be the  obscure and what I find interesting in the 
+You talked about it being obscure and what I find interesting in the 
 project is that it suggests ConTeXt. But what at  the same time also makes 
 me wonder about the future proofiness is the fact that it's very bound to a very 
 particular practise located with 2 main people in that community. 
@@ -891,19 +895,19 @@ a sign of things going to  change?
 % NOWSPEAKING: JH
 % -- EDITED -----
 Right. Well, yeah, this is another one of those put-up or shut-up kind of  
-things ... because for instance at the NTG meeting on wednesday
-I presented  ... my presentation was very much an user presentation in a 
+things \because for instance at the NTG meeting on Wednesday my presentation was 
+very much a user presentation in a 
 room of  developers. Because I basically was saying: Look like this is 
 gonna be a presentation -- most presentation are about what you know -- 
 and this  presentation is really about what I don't know ... 
 but what I **do** know is  that there is a lot of room for teaching ConTeXt in 
 a  more practical  fashion, you could say. So my idea is to basically 
 write this documentation on how to typeset poetry, which gets into a lot 
-of interesting questions or just a lot of interesting things. Like you 
-gonna need to write your own  macros ... just like kind of at the start 
+of interesting questions, just a lot of interesting things. Like you 
+gonna need to write your own  macros just at the start 
 ... to make sure you have not to go in and change every width  value at 
-some point. Like if you wanna change ... Yeah, you know, this  kind of  
-thing like ... really baby steps. How to make a coverpage. This kind  of 
+some point. you know, this  kind of  
+thing like ... really baby steps. How to make a coverpage. These kinds  of 
 things are not documented.    
 
 % FEMKE:
@@ -1006,13 +1010,13 @@ one side, i would say. But I guess you have a plan somehow.
 
 % NOWSPEAKING: JH
 % -- EDITED -----
-Yeah ...  I mean part of it is ... that's a good question. Part of it is  
+Yeah ... that's a good question. Part of it is  
 just to do stuff, like to get you more involved in the ConTeXt group for  
 instance, because I was talking to Arthur and he hadn't even read the  
 article from V/J12. I think that kind of stuff is really important. It's 
 like the  whole Blender Foundation kind of impulse ... we have some 
 developers who  are paid to do this and that's kind of rare already in an 
-open  source/free software project. But then ... you know sort of ... to 
+open  source/free software project. But then to 
 kind of have  users like pushing the boundaries and hitting limits and 
 sort of being  like ... it's rare that Hans will encounter some kind of 
 use case that he  didn't think of and react in a negative way. Or react in 
