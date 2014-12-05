@@ -1181,12 +1181,14 @@ Per folder is fine, but visually you don't see the difference unless you click o
 
 % NOWSPEAKING: SV
 % ---------------
-Maybe we should find a way to name folder like the iceberg to have a code to say: non-free. And then we have a different icon to say, okay, be careful. 
+Maybe we should find a way to name folder like the iceberg to have a code to say: non-free.
+And then we have a different icon to say, okay, be careful. 
 
 
 % NOWSPEAKING: FS
 % ---------------
-In that sense the LAFKON is interesting to see. Okay. And so then there's. Then we talked about writing and sort of distinguish between different types of messages or... 
+In that sense the LAFKON approach is interesting to see. Okay. And so then there's.
+Then we talked about writing and sort of distinguish between different types of messages or... 
 
 
 % NOWSPEAKING: LL
