@@ -1,3 +1,6 @@
+% STARTED TO REMOVE UNEDITED PARTS!
+
+
 % Lines starting with % are comments and will be ignored
 % comments may be treated as commands/actions/functions
 
@@ -174,7 +177,6 @@ the next it was he, or whatever_'.
 % -- EDITED -----
 It's interesting, because then of course again it doesn't matter. Right?
 
-
 % JOHN:
 % LITERAL TRANSCRIPTION
 % Right.  And then I was just like, that's something we should talk about at the  
@@ -203,23 +205,13 @@ So that's very much how I ended up there.
 So then you finally found this ... that was considered a location?
 Because this was the first time you went to meet physically, these people?
 
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Yes.    
-
 % NOWSPEAKING: JH
 % -- EDITED -----
 Yes.
 
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% I guess you have never met anyone from ConTeXt before?    
-
 % NOWSPEAKING: FS
 % -- EDITED -----
 I guess you have never met anyone from ConTeXt before?
-
 
 % JOHN:
 % LITERAL TRANSCRIPTION
@@ -271,24 +263,13 @@ So now, a month and a half later we're starting this ConText group,
 an international ConTeXt users' group and I'm on the board,
 I'm editing the journal. So it's like, it ...
 
-
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% ... it goes fast!
-
 % NOWSPEAKING: FS
 % -- EDITED -----
 ... it goes fast!
 
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% It goes fast indeed.
-
 % NOWSPEAKING: JH
 % -- EDITED -----
 It goes fast indeed!
-
 
 % FEMKE:
 % LITERAL TRANSCRIPTION
@@ -442,15 +423,9 @@ to confront my own seemingly boundless propensity for picking obscure
 projects ... as sort of my ... like the things that I champion.
 And ... it often boils down to flexibility.
 
-
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% But so ... obscurity relates in your idea with its future compatibility?
-
 % NOWSPEAKING: FS
 % -- EDITED -----
 Obscurity relates in your idea with its future compatibility?
-
 
 % JOHN:
 % LITERAL TRANSCRIPTION
@@ -470,17 +445,10 @@ all tied into to stuff that I'm planning to do with the software. If my
 generative typesetting platform ... you know ... works and is actually
 feasible, which is maybe a 80% job [0:15:08][?].
 
-
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% Wait a second. Your platform meaning your busy developing a platform next  
-% to the ConTeXt platform?    
-
 % NOWSPEAKING: FS
 % -- EDITED -----
 Wait a second. Your platform meaning your busy developing a
 platform next to the ConTeXt platform?
-
 
 % JOHN:
 % LITERAL TRANSCRIPTION
@@ -523,8 +491,7 @@ Knuth is famous  for saying that he realises he would have to
 write the software and the  manual for the software himself.
 And I remember in our first conversation about the sort of paternalistic culture
 these typographic projects seem to have. Or at least in the sense of TeX,
-they seem to sort of coagulate around a central wizard kind
-of guy.
+they seem to sort of coagulate around a central wizard kind of guy.
 
 
 % FEMKE:
@@ -569,28 +536,6 @@ I'm easy to convince. I'm curious ...  Maybe you can describe how you
 think it will develop, what will be that future? How you see that?
 
 
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Right. That's a good way to start on tangling all the stuff I was just  
-% talking about. Sort of putting the cart before the horse. I see it  
-% developing in some ways ... the way that it's used today and the way that 
-% current, heavy users use it. I think that they will continue to use in  
-% this XXXX[0:19:18][?] way. But you already have people who are utilising   
-% Luatex ... and maybe this is an important thing to distinguish between  
-% ConTeXt and Luatex. Right now they're sort of very tied together, their  
-% development is intrinsic. They drive each other. But to some extent some  
-% of the more interesting stuff that is been being done with these tools is  
-% ... like ... xml processing, where you threw xml into Lua code and run 
-% Luatex  kerning operations and line breaking and all this kind of stuff, 
-% that to a  certain extent you needed to engage TeX on its own terms in the 
-% past.  And this is sort of potential ... I mean ... Yes and  that's why 
-% macro packages develop and some sort of sustainable way to  handle your 
-% workflow. This introduction of Luatex I think is sort of ... you can  
-% imagine it being loaded into ... loaded as a library just as a way to  
-% typeset the documentation for code. It could be like this holy grail of  
-% literate programming. Not saying this is the answer, but that at least  it 
-% will come out as a nice looking pdf.    
-
 % NOWSPEAKING: JH
 % -- EDITED -----
 Right. That's a good way to start untangling all the stuff I was just  
@@ -617,8 +562,7 @@ Not saying this is the answer, but that at least it will come out as a nice look
 
 % FEMKE:
 % LITERAL TRANSCRIPTION
-% But you say that acutally Luatex allows the connection to TeX to widden?   
-%   
+% But you say that acutally Luatex allows the connection to TeX to widden?    
 
 % NOWSPEAKING: FS
 % -- EDITED -----
@@ -691,7 +635,7 @@ those preformatting languages, maybe not wiki markup, but  at least
 markdown was that it could be printed as a plaintext document and  you 
 could still get a sense of the structure. I think that's  a  really 
 crucial development. So ... in a webbrowser, on one half of 
-the  browser you have you text input, on the other half you 
+the  browser you have you text **input**, on the other half you 
 have an real-time  rendering of it into html. In the meantime, the way 
 that the interface works,  the way that the visually semantic markup 
 works, is that it is a mutable interface. It could be tailored to your 
@@ -858,7 +802,7 @@ We are on 'mark 4' now, eh?
 
 %NOWSPEAKING: JH
 % -- EDITED -----
-Yeah
+Yeah.
 
 % NOWSPEAKING: FS
 % -- EDITED -----
@@ -896,20 +840,18 @@ a sign of things going to  change?
 % NOWSPEAKING: JH
 % -- EDITED -----
 Right. Well, yeah, this is another one of those put-up or shut-up kind of  
-things \because for instance at the NTG meeting on Wednesday my presentation was 
-very much a user presentation in a 
-room of  developers. Because I basically was saying: Look like this is 
-gonna be a presentation -- most presentation are about what you know -- 
-and this  presentation is really about what I don't know ... 
-but what I **do** know is  that there is a lot of room for teaching ConTeXt in 
-a  more practical  fashion, you could say. So my idea is to basically 
-write this documentation on how to typeset poetry, which gets into a lot 
-of interesting questions, just a lot of interesting things. Like you 
-gonna need to write your own  macros just at the start 
+things because for instance at the NTG meeting on Wednesday my presentation 
+was very much a user presentation in a room of  developers.
+Because I basically was saying: Look like this is gonna be a presentation
+-- most presentation are about what you know -- and this  presentation is really
+about what I don't know ... but what I **do** know is  that there is a lot of room
+for teaching ConTeXt in a  more practical  fashion, you could say. So my idea is
+to basically write this documentation on how to typeset poetry, which gets into a
+lot of interesting questions, just a lot of interesting things.
+Like you gonna need to write your own  macros just at the start 
 ... to make sure you have not to go in and change every width  value at 
-some point. you know, this  kind of  
-thing like ... really baby steps. How to make a coverpage. These kinds  of 
-things are not documented.    
+some point. you know, this  kind of  thing like ... really baby steps.
+How to make a coverpage. These kinds  of  things are not documented.    
 
 % FEMKE:
 % LITERAL TRANSCRIPTION
@@ -920,10 +862,6 @@ things are not documented.
 % -- EDITED -----
 But ... let's say that's quite obvious, that the doumentation is ... 
 let's say _interesting_ for ConTeXt.     
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% (laughs) 
 
 % NOWSPEAKING: JH
 % -- EDITED -----
@@ -1011,20 +949,11 @@ one side, i would say. But I guess you have a plan somehow.
 
 % NOWSPEAKING: JH
 % -- EDITED ----- 
-Yeah ... that's a good question. Part of it is  just to do stuff, like to get you more involved in the ConTeXt group for  instance, because I was talking to Arthur and he hadn't even read the  article from V/J12. I think that kind of stuff is really important. It's like the  whole Blender Foundation kind of impulse ... we have some developers who  are paid to do this and that's kind of rare already in an open  source/free software project. But then to kind of have users pushing the boundaries and hitting limits ... it's rare that Hans will encounter some kind of use case that he  didn't think of and react in a negative way. Or react in a way like 'I'm  not gonna even entertain that possibility'. Part of it is moving beyond  this ... even the sort of centralisation as you call it ... how to do  that directly ... I see it more as baby steps for me personally at this  point. Just getting ... you know ... ok so ... a tutorial on how to  typeset a cd booklet. Just basically what I'm writing.  That at the same  time, you know, gets you familiar with ConTeXt and TeX in general. Before  my presentation I was wondering, I was like: how do you set a variable in  TeX. Well, it's a macro programming language so you just make a macro that returns a value. Like that kind of stuff is not initially obvious if you're used  to a different paradigm or you know ..  So these baby steps of kind of  opening the field up a little bit and then using it my  own practise of guerilla typesetting and kind of putting it out there.  and you know ... And people gonna start being like: 'oh yeah, beautiful documents  are possible' or at least better looking documents are possible. And then  once we have them at that, like, then how do you we take it to the next  level. How do I turn a lyric sheet from something that is sort of static  to ... you know ... two pages that are like put directly on the screen next to  each other. Like a screen based system where it's animated to the point  ... and this what we actually started to karaoke last night because I was talking about but so you have an english version and a spanish version for instance in the case  of the music that I've been doing and we can animate ... we can have timed transitions ... so you can have a 'current lyric indicator' move down the page. That kind of  use case is not something that Pragma is ever going to run  into. But as soon as it is done and documented then what's the  next thing,  what kind of animations are gonna be ... or what  kind of ... once that possibility is made real or concrete ... you know,  so I kind of see it as a very iterative process at this point. I don't  have any kind of grand scheme other than Subtext kind of replacing  Microsoft Word as the dominant academic publishing platform, I think.  (laughs)     
-
-
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% Ok, but that also explains something else. You know, just take over the world.   
+Yeah ... that's a good question. Part of it is  just to do stuff, like to get you more involved in the ConTeXt group for  instance, because I was talking to Arthur and he hadn't even read the article from V/J12. I think that kind of stuff is really important. It's like the  whole Blender Foundation kind of impulse ... we have some developers who are paid to do this and that's kind of rare already in an open source/free software project. But then to kind of have users pushing the boundaries and hitting limits ... it's rare that Hans will encounter some kind of use case that he  didn't think of and react in a negative way. Or react in a way like 'I'm  not gonna even entertain that possibility'. Part of it is moving beyond  this ... even the sort of centralisation as you call it ... how to do  that directly ... I see it more as baby steps for me personally at this point. Just getting ... you know ... ok so ... a tutorial on how to  typeset a cd booklet. Just basically what I'm writing. That at the same  time, you know, gets you familiar with ConTeXt and TeX in general. Before  my presentation I was wondering, I was like: how do you set a variable in  TeX. Well, it's a macro programming language so you just make a macro that returns a value. Like that kind of stuff is not initially obvious if you're used  to a different paradigm or you know ..  So these baby steps of kind of  opening the field up a little bit and then using it my  own practise of guerilla typesetting and kind of putting it out there.  and you know ... And people gonna start being like: 'oh yeah, beautiful documents  are possible' or at least better looking documents are possible. And then  once we have them at that, like, then how do you we take it to the next  level. How do I turn a lyric sheet from something that is sort of static  to ... you know ... two pages that are like put directly on the screen next to  each other. Like a screen based system where it's animated to the point  ... and this what we actually started to karaoke last night because I was talking about but so you have an english version and a spanish version for instance in the case  of the music that I've been doing and we can animate ... we can have timed transitions ... so you can have a 'current lyric indicator' move down the page. That kind of  use case is not something that Pragma is ever going to run  into. But as soon as it is done and documented then what's the  next thing,  what kind of animations are gonna be ... or what  kind of ... once that possibility is made real or concrete ... you know,  so I kind of see it as a very iterative process at this point. I don't  have any kind of grand scheme other than Subtext kind of replacing  Microsoft Word as the dominant academic publishing platform, I think.  (laughs)     
 
 % NOWSPEAKING: FS
 % -- EDITED -----
 Ok, but that also explains something else. You know, just take over the world.
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% That's one way to do it, I think.  
 
 % NOWSPEAKING: JH
 % -- EDITED -----
@@ -1268,7 +1197,7 @@ There's  absolutely people coding it, that are very much aware there is input
 and output possible both ways. But the way a text gets laid out is radically
 different and also the experience of making a book in ConTeXt or making
 a book in scribus is  ... couldn't be more apart.
-At same point we have decided to  try ConTeXt because we were stuck with
+At some point we have decided to  try ConTeXt because we were stuck with
 page layout as an option,  specifically page layout as it currently is in free software.
 As a way to  escape that kind of stiffness of the page, or of the canvas in a
 way. And we  had to conclude that this was definetely not the solution.
@@ -1303,6 +1232,7 @@ how it's  structured, how it's done. Do you think a modern ConTeXt will keep tha
 inflexibility, while gaining flexibility in a sense of being  scriptable, being easier to connect 
 to databases, to whatever.
 
+
 % JOHN:
 % LITERAL TRANSCRIPTION
 % That's an interesting question, because I'm not into the development side 
@@ -1328,25 +1258,35 @@ to databases, to whatever.
 % trying to understand what you're  award-winning book did not accomplish 
 % for you ...    
 
+
  % NOWSPEAKING: JH
 % -- EDITED -----
-That's an interesting question, because I'm not into the development side  of  Luatex at all, but I would be surprised if the way that it was  being implemented was not signgificantly more modular than for instance   when it was written in Pascal, you know, how that was. Yeah, that's a   really interesting question of how swapable is the backend. How much can   we go in and kind of ... you know. And it its an inspirational question to  me, because now I'm trying to envision a different page or a different  way  of ... you know ... And I'm really curious about that. But I think  that's ...  ConTeXt its self ... will probably ... will likely be pretty  stable in its  scope ...  in that way of being ... sort of ...  deterministic in its  expectations. But where that leaves us as users ... I  think that ... first I'd  be really surprised if the engine itself, if  Luatex was not being some way  written to ... I feel really ignorant about this, I wish I just knew.  But,  yeah, there must be ... There is no way to translate this into a modern programming language without somehow thinking about this in terms of the design. I guess to certain extent the answer to your question is dependent  on the conscientiousness of Taco and the other Luatex developers for this  kind of modularity. But I don't ... you know ... I'm actually feeling very  imaginatively lacking in terms of  trying to understand what you're  award-winning book did not accomplish for you ...   
+That's an interesting question, because I'm not into the development side  of  Luatex at all,
+but I would be surprised if the way that it was  being implemented was not significantly more
+modular than for instance   when it was written in Pascal, you know, how that was.
+Yeah, that's a   really interesting question of how swapable is the backend.
+How much can   we go in and kind of ... you know. And it its an inspirational question to  me,
+because now I'm trying to envision a different page or a different  way  of ... you know ...
+And I'm really curious about that. But I think  that's ...  ConTeXt its self ... will probably ...
+will likely be pretty  stable in its  scope ...  in that way of being ... sort of ...  deterministic in its 
+expectations. But where that leaves us as users ... I  think that ... first I'd  be really surprised if
+the engine itself, if Luatex was not being some way  written to ... I feel really ignorant about this,
+I wish I just knew.  But,  yeah, there must be ... There is no way to translate this into a modern
+programming language without somehow thinking about this in terms of the design.
+I guess to certain extent the answer to your question is dependent  on the conscientiousness
+of Taco and the other Luatex developers for this  kind of modularity. But I don't ... you know ... 
+I'm actually feeling very  imaginatively lacking in terms of  trying to understand what you're 
+award-winning book did not accomplish for you ...   
 
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% (laughs) ... what's wrong with it ...    
 
 % NOWSPEAKING: FS
 % -- EDITED -----
 (laughs) ... what's wrong with it ...
 
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Yeah, what's wrong with that. I think it's beautiful. So ...    
-
 % NOWSPEAKING: JH
 % -- EDITED -----
-Yeah, what's wrong with that. I think it's beautiful. So ...
+Yeah, what's wrong with that.
+I think it's beautiful. So ...
 
 % FEMKE:
 % LITERAL TRANSCRIPTION
@@ -2585,7 +2525,7 @@ literal idea of a page as well,
 but because it's WYSIWYG it has that benefit where you don't have to think _
 ok, well, maybe it should be 1.6 ems down_ or _maybe it should be 1.2 ems down_.
 You move it until it looks right. And then you can measure it and you're like
-_ok, I'm gonna use this measurement for the further on in my  document_. 
+_ok, I'm gonna use this measurement for the **further on** in my  document_. 
 So it's that whole top-down  vs. bottom-up approach. It really breaks down into the
 core organisational logics of those softwares.
 
@@ -2603,10 +2543,6 @@ I think it's too easy to make the difference based on the fact that there is
 a metaphorical layer or not.
 I think there is absolutely a metaphorical layer in ConTeXt ...
 
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Right.
-
 % NOWSPEAKING: JH
 % -- EDITED -----
 Right.
@@ -2622,10 +2558,6 @@ Right.
 ... and it's everywhere. And you have pointed out already a few moments
 that that pops up or shows its head or cowhead.
 But it's obvious that  both systems have metaphorical interfaces somehow.
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Right. Yeah for sure.
 
 % NOWSPEAKING: JH
 % -- EDITED -----
@@ -2788,10 +2720,6 @@ with its reference to the  _real world_.
 Where this is much more thinking from a paper that is fixed and less from an amount
 of data that needs to be distributed over an amount of pages or something.
 Which is much more code or ...
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Fluid XXXX[1:28:58][?] 
 
 % NOWSPEAKING: JH
 % -- EDITED -----
@@ -3122,11 +3050,7 @@ Yeah.
 % NOWSPEAKING: FS
 % -- EDITED -----
 Which is quite different than a creative process where there is a direct 
-feed back between something placed and the responses you have.
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Right.
+feedback between something placed and the responses you have.
 
 % NOWSPEAKING: JH
 % -- EDITED -----
@@ -3621,13 +3545,13 @@ then rethink the desktop,  beyond ease.
 
 % NOWSPEAKING: JH
 % -- EDITED -----
-Dismissing the other tools is ... I was kinda joking, but ...  
+Dismissing the other tools is ... I was kinda joking, but ...
 there is something sort of blocklike: Point. Move. This.
 But at the same time, like I said, like I wouldn't do a cover in ConTeXt.
 Just like I probably  wouldn't try to do something like a recreation of a 
-Pre-Raphaelite painting in rocessing or something like that. 
+Pre-Raphaelite painting in Processing or something like that. 
 There is just points where our metaphors break down.
-And so ... It sounded sort of, like I am like 
+And so ... It sounded sort of, like I am like     
 **_ok, bottom-up über alles_**  like **always**.
 
 % FEMKE:
@@ -3699,7 +3623,6 @@ There should be more clever ways of thinking about  this.
 % NOWSPEAKING: JH
 % -- EDITED -----
 Yeah.  That's one thing in the LGRU it's like ... to borrow a quote from my old buddy Donald Rumsfeld: There are the known knowns, the known unknowns and the unknown unknowns. That  actually popped into my head earlier because when we were talking about the potentials of the software and the way that we interact and stuff, it's like we know that we don't know ... other ways of organizing. We know that there are, like there **has** to be, another way, whether it is a middle path between these two or some sort of ... Maybe it's just tenth dimensional, maybe it's fourth  dimensional, maybe it's completely hypermodern or something. Anyway. But the unknown unknowns ... It's like the stuff  that we can't even tell we don't know about. The questions that we don't know about that would come up once we figure out these other ways of organising it. That's when I start to get really interested in this sort of thing How do you even conceive of a practise  that you don't know? And once you get there, there's going to be other  things that you know you don't know and have to keep finding them. And  then there's gonna be things that you don't know you don't know and they  just appear from nowhere and ... it's fun. 
-
 
 
 
