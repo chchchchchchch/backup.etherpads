@@ -176,7 +176,7 @@ And I worked a long time on that, and then the internet came out and found anoth
 
 % NOWSPEAKING: FS
 % ---------------
-So when, before we moved, I was curious about, I wanted you to talk about a Shakespearian influence on your interest in fonts. But on the other hand you talk about working in a company where you did HTML editors at the time you actually started, I think. So do you think that is somehow present… the web is somehow present in your — in how FontForge works? or how fonts work or how you think about fonts?
+So when, before we moved, I was curious about, I wanted you to talk about a Shakespearian influence on your interest in fonts. But on the other hand you talk about working in a company where you did HTML editors at the time you actually started, I think. So do you think that is somehow present… the web is somehow present in your — in how FontForge works? Or how fonts work or how you think about fonts?
 
 
 % NOWSPEAKING: GW
