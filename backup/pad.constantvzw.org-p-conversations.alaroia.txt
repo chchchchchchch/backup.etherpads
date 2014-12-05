@@ -48,7 +48,6 @@ How does this type of knowledge form, you think? Did you need to become a kind o
 
 % NOWSPEAKING: ALA
 % ---------------
-
 I spend a lot of time both working with and thinking about new contributions to free software. Last September I organized a workshop to teach computer science students how to get involved in Open Source. And I have also been teaching inter-personally, in small groups, for ten or eleven years. So I use the workshops to test the missions and than I simply ask what works. But it is tough to evaluate the training missions through workshops because the workshops are intended to be more interpersonal. I definitely had positive feedback, but we need more, especially from people that have been two or three years involved in the free software community, because they understand what it feels like to be part of a community but they may still feel somewhat unsure about whether they have everything and still remember what was confusing to learn.
 
 % NOWSPEAKING: FS
