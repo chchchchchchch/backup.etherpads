@@ -8,8 +8,8 @@
 % MF = Matthew Fuller
 
 
-% TITLE: What's the thinking here
 
+% TITLE: What's the thinking here
 
 % NOWSPEAKING: X
 % --------------
@@ -98,7 +98,7 @@ Inkscape is a fork of a fork of a small tool initially designed to edit vector f
 
 % NOWSPEAKING: MF
 % ---------------
-There’s a lot of talk about collaboration in FLOSS development, something very impressive, but often when one talks to developers of such software there is a lot to discus about the rather less open ways in which power struggles over the meaning or leadership of software projects are carried out by, for instance, hiding code in development, or by only allowing very narrowly technical approaches to development to be discussed. This is only one tendency, but one which tends to remain publicly under-discussed. How much of this kind of friction have you encountered by acting as a visible part of a new user community for FLOSS?
+There’s a lot of talk about collaboration in FLOSS development, something very impressive, but often when one talks to developers of such software there is a lot to discuss about the rather less open ways in which power struggles over the meaning or leadership of software projects are carried out by, for instance, hiding code in development, or by only allowing very narrowly technical approaches to development to be discussed. This is only one tendency, but one which tends to remain publicly under-discussed. How much of this kind of friction have you encountered by acting as a visible part of a new user community for FLOSS?
 
 
 % NOWSPEAKING: FS
@@ -149,7 +149,7 @@ On this project, and in relation to the seeming omnipresence in FLOSS of the ide
 % ---------------
 That is indeed a long story, but I’ll give it a try. First of all, I think the idea of universal technology appears to be quite omnipresent everywhere; the mix-up between ubiquitousness and ‘universality’ is quickly made. In Free Software this idea gains force only when it gets (con)fused with Freedom and Openness and when conditions for access are kept out of the discussion.
 
-We are interested in early typographic standardization projects because their minimalist modularity brings out the tension between generic systems and specific designs. Ludwig Goller, a Siemens engineer wo headed the Committee for German Industry Standards in the 1920?s stated that “For the typefaces of the future neither tools nor fashion will be decisive”. His committee supervised the development of DIN 1451, a standard font that should connect economy of use with legibility, and enhance global communication in service of the German industry. I think it is no surprise that a similar phrasing can be found in W3C documents; the idea to unify the people of the world through a common language re-surfaces and has the same tendency to negate materiality and specificity in favour of seamless translation between media and markets.
+We are interested in early typographic standardization projects because their minimalist modularity brings out the tension between generic systems and specific designs. Ludwig Goller, a Siemens engineer wo headed the Committee for German Industry Standards in the _1920_s stated that “For the typefaces of the future neither tools nor fashion will be decisive”. His committee supervised the development of DIN 1451, a standard font that should connect economy of use with legibility, and enhance global communication in service of the German industry. I think it is no surprise that a similar phrasing can be found in W3C documents; the idea to unify the people of the world through a common language re-surfaces and has the same tendency to negate materiality and specificity in favour of seamless translation between media and markets.
 
 Type historian Ellen Lupton brought up the possibility of designing typographic systems that are accessible but not finite nor operating within a fixed set of parameters. Although I don’t know what she means by using the term ‘open universal’, I think this is why we are attracted to Free Software: it has the potential to open up both the design of parameters as well as their application. Which leads to your next question.
 
