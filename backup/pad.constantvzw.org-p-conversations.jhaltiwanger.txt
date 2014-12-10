@@ -3416,8 +3416,8 @@ Yeah, that's true. And it's something that my students were forced to confront a
 
 % NOWSPEAKING: FS
 % -- EDITED -----
-But on a sort of theoretical level the necessitated invisibility, as you said it nicely,
-is something I would always speak against.
+But on a sort of theoretical level the necessitated invisibility,
+as you said it nicely, is something I would always speak against.
 %
 % JOHN:
 % LITERAL TRANSCRIPTION
@@ -3451,17 +3451,17 @@ But at the same time I see that it's a fine line between how much
 the tool can speak of itself in this process of ...
 I want to find a better word for describing that sort of quick  feedback.
 Because if it's too much in the way, then the process stops.
-The drawing can not be made if I'm worried too much about the point that 
+The drawing can not be made if I'm worried too much about the point that
 will  break .., or the ... I dont't know ... the nozzle being blocked.
 Then I go to something else.
 I'm very interested  in this kind of explicit tools  and that they're really about declaring, aiming.
-But then more and more getting worried about  the ease by which 
-the _wrestling_ tools are being  dismissed as _child's play_ and  
+But then more and more getting worried about  the ease by which
+the _wrestling_ tools are being  dismissed as _child's play_ and
 _**just** seeing what you get_.
-Well I  think, there is something ththat is actually extremely necessary, not because
-people that are not  interested in computers are able to use it, because 
+Well I  think, there is something that is actually extremely necessary, not because
+people that are not  interested in computers are able to use it, because
 they don't feel like  they're doing a computer.
-There's a lot of that as well.     
+There's a lot of that as well.
 %
 % JOHN:
 % LITERAL TRANSCRIPTION
@@ -3476,8 +3476,8 @@ There's a lot of that as well.
 % maybe also after discussion with Pierre Huyghebeart, who is very much from 
 %  the ... let's say ... the canvas...    
 %
-But there's also something in the kind of thing she make in that  
-situation, that are quite different than the kind of thing she can make  
+But there's also something in the kind of thing she make in that
+situation, that are quite different than the kind of thing she can make
 when you're using the aim and shoot.
 Even when you are the  best sharpshooter at heart.
 So I think that's something to come back to,  maybe also after discussion
