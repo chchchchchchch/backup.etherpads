@@ -481,7 +481,7 @@ For the font that is we've decided to have a maintainer for each font-project.
 
 % NOWSPEAKING: PM
 % ---------------
-It's the kind of thing we didn't do well. We have this kind of administrative way of managing the server. Well it's a lot of small sums that all put together make it difficult. Lets say at some point we start to think 'maybe we need to manage our repositories, something a bit more sophisticated then gitolit. So we could install something like Gitorious. We didn't do it but we could imagine to rebuild a kind of eco-system where people have their own repositories and do anything we can imagine of this kind of hosting service. 
+It's the kind of thing we didn't do well. We have this kind of administrative way of managing the server. Well it's a lot of small sums that all put together make it difficult. Lets say at some point we start to think 'maybe we need to manage our repositories, something a bit more sophisticated then gitolite. So we could install something like Gitorious. We didn't do it but we could imagine to rebuild a kind of eco-system where people have their own repositories and do anything we can imagine of this kind of hosting service. 
 
 
 % NOWSPEAKING: FS
@@ -1248,7 +1248,9 @@ I mean, for example for Seoul we really worked into a pad and this pad is super 
 
 % NOWSPEAKING: SV
 % ---------------
-Yeah, but it's for workshop, when we work on projects we don't do that. For workshops it could be that. We could just copy and passed. I mean we don't need necessarily a kind of connection, we could just copy - paste and say that's it. 
+Yeah, but it's for workshop, when we work on projects we don't do that.
+For workshops it could be that. We could just copy and paste.
+I mean we don't need necessarily a kind of connection, we could just copy - paste and say that's it. 
 
 
 % NOWSPEAKING: FS
