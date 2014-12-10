@@ -78,7 +78,7 @@ What can you do on a canvas that you can't do or is much harder with a markup la
 
 % NOWSPEAKING: FS
 % ---------------
-It seems you are developing your markup language almost adhoc. Is that related to [@NOTE xxxxxxxxxx Operating Systems http://libregraphicsmeeting.org/2014/program/] what you wrote in the workshop description for _Operating Systems_: _"Using operating systems as a metaphor, we try to imagine systems that are both structured and open"_?
+It seems you are developing your markup language almost adhoc. Is that related to what you wrote in the workshop description for _Operating Systems_:[^]{http://libregraphicsmeeting.org/2014/program/}  _"Using operating systems as a metaphor, we try to imagine systems that are both structured and open"_?
 
 % NOWSPEAKING: CH
 % ---------------
