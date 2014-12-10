@@ -11,6 +11,8 @@
 
 In April 2014 I traveled from Leipzig to the north of Germany to meet with artist Cornelia Solfrank. It was right after the Libre Graphics Meeting, and the impressions from the event were still very fresh. Cornelia had asked me for a video interview as part of **Giving what you don't have**,[^]{http://postmedialab.org/GWYDH} a series of conversations about what she refers to as _complex copyright-critical practices_. She was interested in forms of appropriation art that instead of claiming some kind of _super-user_ status for artists, might provide a platform for open access and free culture not imaginable elsewhere. I've admired Cornelia's contributions to hacker culture since long. She pioneered as a cyberfeminist in the 1990s with a show called Female Extension, co-founded Old Boys Network and developed seminal projects such as the Net Art Generator. The opportunity to spend two sunny spring days with her intelligence, humour and cyberfeminist wisdom could not have come at a better moment.
 
+% BIGSKIP:
+
 % LABEL: What is libre graphics?
 % ==============================
 
