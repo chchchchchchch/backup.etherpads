@@ -251,7 +251,7 @@ It's true that, before we started to use Git, people asked you're called open-so
 Collaboration started to become a prominent part of the work; working together on a project. Rather than, oh you do that and when you are finished you send the file over and I will continue. It's really about working together on a project.
 
 
-% NOWSPEAKING: PM
+% N!OWSPEAKING: PM
 % ---------------
 Even together in the same space, if you don't have a system to share files, it's a pain in the ass. 
 
@@ -287,7 +287,7 @@ In a way there is no real requirement in Git to have a branch called 'master'. Y
 For a certain type of things such as code and text it works really well, for others, like you're making a visual design, I know about branches, and I sometimes use them, it's still very hard to see different. If I make a poster for example I still make several files in stead of branches, so I can see them together at once, without having to check-out another branch. 
 
 
-% NOWSPEAKING: AL
+% N!OWSPEAKING: AL
 % ---------------
 Even in websites, if I want to make a layout, I'll simply make a copy of the HTML and CSS, beceause I want to be able to test out and compare them. It might be possible with branches, it's just to complicated. Maybe the tools to visualize it are not there... But it's still easier to make copies and pick the one you like. 
 
@@ -514,7 +514,7 @@ Meaning you can not install GitHub on your own server
 Yes, exactly 
 
 
-% NOWSPEAKING: AL
+% N!OWSPEAKING: AL
 % ---------------
 And, I dont know, other differences are... 
 
