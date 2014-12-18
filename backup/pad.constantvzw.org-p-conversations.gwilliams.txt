@@ -12,55 +12,70 @@
 
 % NOWSPEAKING: X
 % --------------
-
+%SCALEFONT: 1.3
 Rare conversation with George Williams, developer of FontForge, the editing tool for fonts. 
 We speak about Shakespeare, Unicode, the pleasure of making beautiful things and pottery.
 
-
+%RESETFONT:
 % BIGSKIP:
 
 
 % NOWSPEAKING: FS
 % ---------------
-We‘re doing these interviews, as we’re working as designers on OpenSource
+We‘re doing these interviews, as we’re working as designers on Open Source
 
 
 % NOWSPEAKING: GW
 % ---------------
-OK
+OK.
 
 % NOWSPEAKING: FS
 % ---------------
-With OpenSource tools, as typographers, but often when we speak to developers they say “well, tell me what you want,” or they see our interest in what they are doing as a kind of feature request or bug report
+With Open Source tools, as typographers, but often when we speak to developers they say _well, tell me what you want_,
+or they see our interest in what they are doing as a kind of feature request or bug report.
 
 
 % NOWSPEAKING: GW
 % ---------------
-(laughs) Yes
+(_laughs_) Yes.
 
 
 % NOWSPEAKING: FS
 % ---------------
-Of course it’s clear that that’s the way it often works, but for us it’s also interesting to think about these tools as really tools, as ways of shaping work, to try and understand how they are made or who is making them. It can help us make other things. So this is actually what we want to talk about. To try and understand a bit about how you’ve been working on FontForge. Because that’s the project you’re working on.
+Of course it’s clear that that’s the way it often works, but for us it’s also interesting to think about these tools as really tools,
+as ways of shaping work, to try and understand how they are made or who is making them. It can help us make other things.
+So this is actually what we want to talk about. To try and understand a bit about how you’ve been working on FontForge.
+Because that’s the project you’re working on.
 
 
 % NOWSPEAKING: GW
 % ---------------
-OK
+OK.
 
 
 % NOWSPEAKING: FS
 % ---------------
-And how that connects to other ideas of tools or tools’ shape that you make. These kind of things. So maybe first it’s good to talk about what it is that you make.
+And how that connects to other ideas of tools or tools’ shape that you make.
+These kind of things. So maybe first it’s good to talk about what it is that you make.
 
 
 % NOWSPEAKING: GW
 % ---------------
 OK. Well… FontForge is a font editor.
 
-I started playing with fonts when I bought my first Macintosh, back in the early 80s (actually it was the mid-80s) and my father studied textual bibliography and looked at the ways the printing technology of the Renaissance affected the publication of Shakespeare’s works. And what that meant about the errors in the compositions we see in the copies we have left from the Renaissance. So my father was very interested in Renaissance printing (and has written books on this subject) and somehow that meant that I was interested in fonts.
+I started playing with fonts when I bought my first Macintosh, back in the early 80s (actually it was the mid-80s)
+and my father studied textual bibliography and looked at the ways the printing technology of the Renaissance
+affected the publication of Shakespeare’s works. And what that meant about the errors in the compositions we
+see in the copies we have left from the Renaissance. So my father was very interested in Renaissance printing
+(and has written books on this subject) and somehow that meant that I was interested in fonts.
 
-I’m not quite sure how that connection happened, but it did. So I was interested in fonts. And there was this program that came out in the 80s called Fontographer which allowed you to create PostScript and later TrueType fonts. And I loved it. And I made lots of calligraphic fonts with it.
+I’m not quite sure how that connection happened, but it did. So I was interested in fonts. And there was this program
+that came out in the 80s called Fontographer which allowed you to create PostScript[^]{PostScript fonts are outline
+font specifications developed by Adobe Systems for professional digital typesetting, which uses PostScript file format
+to encode font information.[@wikipedia:20141218:postscriptfonts]}
+and later TrueType[^]{TrueType is an outline font standard developed by Apple and Microsoft in the late 1980s as a
+competitor to Adobe's Type 1 fonts used in PostScript. [@wikipedia:20141218:truetype]} fonts.
+And I loved it. And I made lots of calligraphic fonts with it.
 
 
 % NOWSPEAKING: FS
@@ -70,13 +85,32 @@ You were… like 20?
 
 % NOWSPEAKING: GW
 % ---------------
-I was 20~30. Lets see, I was born in 1959, so in the 80s I was in my 20s mostly. And then Fontographer was bought up by MacroMedia who had no interest in it. They wanted FreeHand which was done by the same company. So they dropped Fon… well they continued to sell Fontographer but they didn’t update it. And then OpenType came out and Unicode came out and it (Fontographer) didn’t do this right and it didn’t do that right… And I started making my own fonts, and I used Fontographer to provide the basis, and I started writing scripts that would add accents to latin letters and so on. And figured out the Type1 format so that I could decompose it — decompose the Fontographer output so that I could add my own things to it. And then Fontographer didn’t do Type0 PostScript fonts, so I figured that out.
+I was 20~30. Lets see, I was born in 1959, so in the 80s I was in my 20s mostly.
+And then Fontographer was bought up by Macromedia[^]{Macromedia was an American graphics,
+multimedia and web development software company (1992–2005). Its rival, Adobe Systems, acquired
+Macromedia on December 3, 2005.[@wikipedia:20141218:macromedia]} who had no interest in it.
+They wanted FreeHand[^]{Adobe FreeHand (formerly Macromedia Freehand) is a computer application
+for creating two-dimensional vector graphics. Adobe discontinued development and updates to the 
+program. [@wikipedia:20141218:freehand]} which was done by the same company. So they dropped Fon…
+well they continued to sell Fontographer but they didn’t update it.
+And then OpenType came out and Unicode
+came out and
+it (Fontographer) didn’t do this right and it didn’t do that right… And I started making my own fonts,
+and I used Fontographer to provide the basis, and I started writing scripts that would add accents to latin
+letters and so on. And figured out the Type1 format so that I could decompose it — decompose the
+Fontographer output so that I could add my own things to it. And then Fontographer didn’t do
+Type0 PostScript fonts, so I figured that out.
 
-And about this time, the little company I was working for, a tiny little startup — we wrote a web html editor — where you could sit at your desk and edit pages on the web — it was before FrontPage, but similar to FrontPage. And we were bought by AOL and then we were destroyed by AOL, but we had stock options from AOL and they went through the roof. So… in the late 90s I quit.
+And about this time, the little company I was working for, a tiny little startup — we wrote a web html editor —
+where you could sit at your desk and edit pages on the web — it was before FrontPage[^]{Microsoft FrontPage
+is a WYSIWYG HTML editor and Web site administration tool from Microsoft discontinued in December 2006. [@wikipedia:20141218:frontpage]},
+but similar to FrontPage. And we were bought by AOL and then we were destroyed by AOL, but we had stock options from AOL and they went
+through the roof. So… in the late 90s I quit.
 
 And I didn’t have to work.
 
-And I went off to Madagascar for a while to see if I wanted to be a primatologist. And… I didn’t. There were too many leaches in the rainforest.
+And I went off to Madagascar for a while to see if I wanted to be a primatologist. And… I didn’t.
+There were too many leaches in the rainforest.
 
 
 % NOWSPEAKING: FS
