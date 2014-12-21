@@ -8,20 +8,18 @@
 % AM = An Mertens
 % AB = Agnes Bewer
 
-
+% USED FOR NAME INDEXING
+% HIDDENKEYWORDS: de Moerlooze, Juliane|Mertens, An|Bewer, Agnes
 
 % TITLE: We will get to know the machine and we will understand
 
 
-% NOWSPEAKING: X
-% SCALEFONT: 1.1
+% SCALEFONT: 1.3
+This conversation with Juliane de Moerlooze was recorded in **March 2009**. 
 
-_When you hear people talk about women having more sense for the  global, intuitive and empathic …  and men are more logic …  even if it is  true …  it seems quite a good thing to have when you are doing math or  software?_
+_When you hear people talk about women having more sense for the  global, intuitive and empathic …  and men are more logic …  even if it is  true …  it seems quite a good thing to have when you are doing math or  software?_  
 
-% RESETFONT:
-% BIGSKIP:
-% SCALEFONT: 1.2
-This conversation with Juliane de Moerlooze was recorded in March 2009. Juliane is a Brussels based computer scientist, feminist and Linux user of the first hour. She studied math, programming and system administration and participates in the Samedies (a group of women maintaining their own server). In February 2009, she was voted president of the Brussels Linux user group.
+Juliane is a Brussels based computer scientist, feminist and Linux user of the first hour. She studied math, programming and system administration and participates in Samedies.[^]{_Femmes et logiciels Libres_, group of women maintaining their own server http://samedi.collectifs.net} In February 2009 she was voted president of the Brussels Linux user group (BXLug).
 
 % RESETFONT:
 % BIGSKIP:
@@ -80,7 +78,7 @@ Usually I was there on my own. Or maybe two. There was a time that we were three
 
 % NOWSPEAKING: FS
 % ---------------
-Could you talk about the pleasure of handling computers? You might not be the kind of person that loses herself in front of her computer, but you have a strong relationship with technology which comes out when you open up the command line ... there's something in you that comes to life.
+Could you talk about the pleasure of handling computers? You might not be the kind of person that loses herself in front of her computer, but you have a strong relationship with technology which comes out when you open up the commandline ... there's something in you that comes to life.
 
 
 % NOWSPEAKING: JM
@@ -106,7 +104,7 @@ The fact that Free Software proposes an open structure, did that have anything t
 
 % NOWSPEAKING: JM
 % ---------------
-Well, last year I was already very active and I realised that I was at a point in my life that I could use informatics better, and I wanted to work in this field, so I spent much time as a volunteer. But the moment that I decided, now this is enough, I need to put myself forward as a candidate, was after a series of sexist incidents. There was for example a job offer on the BXLug mailinglist that really needed to be responded to ... I mean ... what was that about? To be concrete: Someone wrote to the mailinglist that his company was looking for a developer in so and so on and they would like a Debian developer type applying, or if there weren't any available, it would be great if it would be a blond girl with large tits. Really, a horrible thing so I responded immediately and than it became even worse because the person that had posted the original message, sent out another one asking whether the women on the list were into castration and it took a large amount of diplomacy to find a way to respond. We discussed it with the Samediennes[^]{Participants in the Samedies: Femmes et logiciels libres (http://www.samedies.be)} and I though about it ... I felt supported by many people that had well understood that this was heavy and that the climate was getting nasty but in the end I managed to send out an ironic message that made the other person excuse himself and stop these kind of sexist jokes, which was good. And after that, there was another incident, when the now ex-president of the group did a radio interview. I think he explained Free Software relatively well to a public that doesn't know about it, but as an example how easy it is to use Free Software, he said _even my wife, who is zero with computers, knows how it works_, using the familiar cliché without any reservation. We discussed this again with the Samediennes, and also internally at the BXLug and than I thought: well, what is needed is a woman as president, so I need to present myself. So it is thanks to the 
+Well, last year I was already very active and I realised that I was at a point in my life that I could use informatics better, and I wanted to work in this field, so I spent much time as a volunteer. But the moment that I decided, now this is enough, I need to put myself forward as a candidate, was after a series of sexist incidents. There was for example a job offer on the BXLug mailing list that really needed to be responded to ... I mean ... what was that about? To be concrete: Someone wrote to the mailing list that his company was looking for a developer in so and so on and they would like a Debian developer type applying, or if there weren't any available, it would be great if it would be a blond girl with large tits. Really, a horrible thing so I responded immediately and than it became even worse because the person that had posted the original message, sent out another one asking whether the women on the list were into castration and it took a large amount of diplomacy to find a way to respond. We discussed it with the Samediennes[^]{Participants in the Samedies: Femmes et logiciels libres (http://www.samedies.be)} and I though about it ... I felt supported by many people that had well understood that this was heavy and that the climate was getting nasty but in the end I managed to send out an ironic message that made the other person excuse himself and stop these kind of sexist jokes, which was good. And after that, there was another incident, when the now ex-president of the group did a radio interview. I think he explained Free Software relatively well to a public that doesn't know about it, but as an example how easy it is to use Free Software, he said _even my wife, who is zero with computers, knows how it works_, using the familiar cliché without any reservation. We discussed this again with the Samediennes, and also internally at the BXLug and than I thought: well, what is needed is a woman as president, so I need to present myself. So it is thanks to the 
 Samedies, that this idea emerged, out of the necessity to change the image of Free Software.
 
 
@@ -137,7 +135,7 @@ Are their discussions between members, about the varying interests in Free Softw
 
 % NOWSPEAKING: JM
 % ---------------
-Well, these arguments mix, and also since some years there is unfortunately less of a fundamental discussion. At the moment I have the impression that we are more into 'things to do' when we meet in person. On the mailinglist there are frictions and small provocations now and then, but the really interesting debates are over, since a few years ... I am a bit disappointed in that, actually. But it is not really a problem, because I know other groups that pose more interesting questions and with whom I find it more interesting to have a debate.
+Well, these arguments mix, and also since some years there is unfortunately less of a fundamental discussion. At the moment I have the impression that we are more into 'things to do' when we meet in person. On the mailing list there are frictions and small provocations now and then, but the really interesting debates are over, since a few years ... I am a bit disappointed in that, actually. But it is not really a problem, because I know other groups that pose more interesting questions and with whom I find it more interesting to have a debate.
 Last year we have been working away like small busy bees, distributing the general idea of Free Software with maybe a hint to the societal questions behind but in fact not marking it out as a counterweight to a commercialised society. We haven't really deepened the problematics, because for me ... it is clear that Free Software has won the battle, they have been completely recuperated by the business world, and now we are in a period where tendencies will become clear. I have the impression that with the way society is represented right now ... where they are talking about the economical crisis ... and that we are becoming a society of 'gestionnaires' and ideological questions seem not very visible.
 
 
@@ -148,7 +146,7 @@ So do you think it is more or less a war between two tendencies, or can both cur
 
 % NOWSPEAKING: JM
 % ---------------
- The current in Free Software that could think about resistance and ask political questions and so on, does not have a priority at the moment. But what we can have is debates and discussions from person to person and we can interpolate members of the BXLug itself, who really sometimes start to use a kind of marketing language. But it is relational ... it is from person to person. At the moment, what happens on the level of businesses and society, I don't know. I am looking for a job and I see clearly that I will need to accept the kinds of hierarchies that exist but I would like to create something else. The small impact a group like BXLug can make ... well, there are several small projects, such as the one to develop a distribution specifically designed for small organisations, to which nobody could object of course. Different directions coexist, because there is currently not any project with enough at stake that it would shock the others.
+ The current in Free Software that could think about resistance and ask political questions and so on, does not have priority at the moment. But what we can have is debates and discussions from person to person and we can interpolate members of the BXLug itself, who really sometimes start to use a kind of marketing language. But it is relational ... it is from person to person. At the moment, what happens on the level of businesses and society, I don't know. I am looking for a job and I see clearly that I will need to accept the kinds of hierarchies that exist but I would like to create something else. The small impact a group like BXLug can make ... well, there are several small projects, such as the one to develop a distribution specifically designed for small organisations, to which nobody could object of course. Different directions coexist, because there is currently not any project with enough at stake that it would shock the others.
 
 
 % NOWSPEAKING: FS
@@ -158,7 +156,7 @@ To go once again from a large scale to a small scale ... how would you describe 
 
 % NOWSPEAKING: JM
 % ---------------
-I did two candidates at the University Libre de Bruxelles, and than I studied to become a math teacher. I had a wonderful teacher, and we were into the pleasure of exercising our brains, and discovering theory but a large part of our courses were concentrated on pedagogy and how to become a good teacher, how to open up the mind of a student in the context of a course. That's when I discovered another pleasure, of helping a journey into a kind of math that was a lot more concrete, or that I learned to render concrete. One of the difficult subjects you need to teach in high schools, is scales and plans. I came up with a rendering of a submarine and all students, boys as well as girls, were quickly motivated, wanting to imagine themselves at the real scale of the vessel. I like math, because it is not linked to a pre-existing narrative structure, it is a theoretical construct we accept or not, like the rules of a game. For me, math is an ideal way to form a critical mind.
+I did two bachelors at the University Libre de Bruxelles, and than I studied to become a math teacher. I had a wonderful teacher, and we were into the pleasure of exercising our brains, and discovering theory but a large part of our courses were concentrated on pedagogy and how to become a good teacher, how to open up the mind of a student in the context of a course. That's when I discovered another pleasure, of helping a journey into a kind of math that was a lot more concrete, or that I learned to render concrete. One of the difficult subjects you need to teach in high schools, is scales and plans. I came up with a rendering of a submarine and all students, boys as well as girls, were quickly motivated, wanting to imagine themselves at the real scale of the vessel. I like math, because it is not linked to a pre-existing narrative structure, it is a theoretical construct we accept or not, like the rules of a game. For me, math is an ideal way to form a critical mind.
 
 When you are a child, math is fundamentally fiction, full stop. I remember that when I learned modern math at school ... I had an older teacher, and she wasn't completely at ease with the subject. I have the impression that because of this ... maybe it was a question of the relation between power and knowledge ... she did not arrive with her knowledge all prepared, I mean it was a classical form of pedagogy, but it was a new subject to her and there was something that woke up in me, I felt at ease, I followed, we did not go too fast ...
 
@@ -172,5 +170,5 @@ It was open knowledge, not already formed and closed?
 % ---------------
 Well, we discovered the subject together with the teacher. It might sound bizarre, and she certainly did not do this on purpose, but I immediately felt confident, which did not have too much to do with the subject of the class, but with the fact that I felt that my brains were functioning.
 
-I still prefer to discover the solution to a mathematical problem together with others. But when it comes to software, I can be on my own. In the end it is me, who wants to ask myself: why don't I understand? Why don't I make any progress? In Free Software, there is the advantage of having lots of documentation and manuals available on line, although you can almost drown in it. For me, it is always about playing with your brain, there is at least always an objective where I want to arrive, whether it is understanding theory or software ... and in software, it is also clear that you want something to work. There is a constraint of efficiency that comes in between, that of course somehow also exists in math, but in math when you have solved a problem, you have solved it on a piece of paper. I enjoy the game of exploring a reality, even if it is a virtual one.
+I still prefer to discover the solution to a mathematical problem together with others. But when it comes to software, I can be on my own. In the end it is me, who wants to ask myself: why don't I understand? Why don't I make any progress? In Free Software, there is the advantage of having lots of documentation and manuals available online, although you can almost drown in it. For me, it is always about playing with your brain, there is at least always an objective where I want to arrive, whether it is understanding theory or software ... and in software, it is also clear that you want something to work. There is a constraint of efficiency that comes in between, that of course somehow also exists in math, but in math when you have solved a problem, you have solved it on a piece of paper. I enjoy the game of exploring a reality, even if it is a virtual one.
 
