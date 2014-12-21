@@ -10,14 +10,21 @@
 % JH = John Haltiwanger
 % MW = Michele Walther
 
+% USED FOR NAME INDEXING
+% HIDDENKEYWORDS: Roth, Evan|Westenberg, Peter|Vilayphiou, Stéphanie|Haltiwanger, John|Walther, Michele
+
 
 % TITLE: Tying the story to data
 
-% NOWSPEAKING: X
+% SCALEFONT: 1.3
 
-In the summer of 2010, Constant commissioned artist and researcher Evan Roth to develop a work of his  choice, and to make the development process available in some way. He decided to use a part of his fee as prize-money for The GML-Recorder Challenge, inviting makers to propose an open source device ‘that can unobtrusively record graffiti motion data during a graffiti writer’s normal practice in the city’.
-In three interviews that took place in Brussels and Paris within a  period of one and a half years, we spoke about the collaborative powers  of the GML-standard, about contact points between hacker and  graffiti-cultures and the granularity of gesture. The text is based on conversations between Evan Roth (`ER`) and Femke  Snelting (`FS`), Peter Westenberg (`PW`), Michele Walther (`MW`), Stéphanie Villayphiou (`SV`), John Haltiwanger (`JH`) and momo3010.
+In the **summer of 2010**, Constant commissioned artist and researcher Evan Roth to develop a work of his  choice, and to make the development process available in some way. He decided to use a part of his fee as prize-money for The GML-Recorder Challenge, inviting makers to propose an Open Source device ‘that can unobtrusively record graffiti motion data during a graffiti writer’s normal practice in the city’.
+In three interviews that took place in Brussels and Paris within a  period of one and a half years, we spoke about the collaborative powers  of the GML-standard, about contact points between hacker and  graffiti-cultures and the granularity of gesture.  
+Based on conversations between Evan Roth (`ER`), Femke Snelting (`FS`), Peter Westenberg (`PW`),
+Michele Walther (`MW`), Stéphanie Villayphiou (`SV`), John Haltiwanger (`JH`) and momo3010.
 
+% RESETFONT:
+%BIGSKIP:
 
 # Brussels, July 2010
 % -------------------
@@ -46,7 +53,7 @@ technology back in New York, in 2003. In graduate school, my thesis was
 on graffiti analysis, and writing software that could capture their
 gestures, to archive motion data from graffiti-writers. Back than I was
 saving the data in an x-y-time array, I was calling them
-_.graph files_ and I sensed there was
+.graph files and I sensed there was
 something interesting about the data, the visualization of motion data
 but I had never opened up the project at that time.
 
@@ -66,13 +73,13 @@ Analysis[^]{Graffiti Analysis is a digital graffiti blackbook
 designed for documenting more than just ink.
 http://graffitianalysis.com}, L.A.S.E.R. Tag, EyeWriter[^]{The EyeWriter is a low-cast eyetracking system
 originally designed for paralyzed graffiti artist TEMPT. The EyeWriter
-system uses inexpensive cameras and open-source computer vision
+system uses inexpensive cameras and Open Source computer vision
 software to track the wearer's eye movements.
 http://www.eyewriter.org} ... so I worked with Theo Watson, Chris
 Sugrue[^]{Chris Sugrue http://csugrue.com} and Jamie
 Wilkinson[^]{Jamie Wilkinson 
 http://www.jamiedubs.com} and other people to develop Graffiti Markup
-Language. It is a simple set of guidelines, basically an XML file
+Language. It is a simple set of guidelines, basically an .xml file
 format that saves x-y-time data but does it in a way that is very
 specifically related to graffiti so there's a drip tag
 and there's tags related to the size of the brush and
@@ -89,8 +96,7 @@ been a way to archive graffiti in ways of code yet.
 
 % NOWSPEAKING: FS
 % ---------------
-What do you mean, _archive in terms of
-code_?
+What do you mean, 'archive in terms of code'?
 
 
 % NOWSPEAKING: ER
@@ -102,21 +108,21 @@ download. It is a sort of midpoint between writers and hackers.
 Graffiti-writers can download the software and have how-to guides for
 how to do this, they can digitize their tags and upload it to an open
 database. The 000000book-site[^]{http://000000book.com. Pronounced: 
-__Black Book__: _A black book is a graffiti artist's sketchbook. Often used to
+'Black Book': 'A black book is a graffiti artist's sketchbook. Often used to
 sketch out and plan potential graffiti, and to collect tags from other
 writers. It is a writer's most valuable property,
 containing all or a majority of the person's sketches
 and pieces. A writer's sketchbook is carefully guarded
 from the police and other authorities, as it can be used as material
 evidence in a graffiti vandalism case and link a writer to previous
-illicit works._  [@en.wikipedia.org:2014:graffititerminology]}
+illicit works.' [@en.wikipedia.org:2014:graffititerminology]}
 hosts all this data and some people are writing software for this.
 
 
 % NOWSPEAKING: FS
 % ---------------
 So there are three parts: the GML-standard, software to record and
-play and than there is the data itself -- all of it is _open_ in 
+play and than there is the data itself -- all of it is 'open' in 
 some way. Could you go through each of them and talk about how 
 they produce uploads and downloads?
 
@@ -124,11 +130,11 @@ they produce uploads and downloads?
 % NOWSPEAKING: ER
 % ---------------
 Right. It starts with Graffiti Analysis. It is software written in
-C++ using OpenFrameworks, an open source platform designed by artists
+C++ using OpenFrameworks, an Open Source platform designed by artists
 for visual applications. Right now you can download the recorder app
-and from that you can generate your own GML-files. And from there you
-can _upload_ these files into the playback app. In the beginning that was
-the only open source side of the project. Programmers could also make
+and from that you can generate your own .gml files. And from there you
+can upload these files into the playback app. In the beginning that was
+the only Open Source side of the project. Programmers could also make
 new applications based on the software, which also happened. 
 
 Last night we met Stéphane Buellet[^]{Stéphane Buellet, Camera
@@ -143,10 +149,10 @@ defined. I worked with Jamie to develop the 000000book site. It is
 pretty nuts-and-bolts but you can click
 'upload' and click on your own .gml
 files and it will playback in the browser. People have developed their
-own playback mechanisms, which are some of the first open source
-collaborations that happened around GML files. There is a user account
+own playback mechanisms, which are some of the first Open Source
+collaborations that happened around .gml files. There is a user account
 and you can upload files; people have made image renderers, there are
-people that have made Flash players, .svg players. Golan Levin has
+people that have made Flash players, SVG players. Golan Levin has
 developed an application that converts a .gml file into an auto-CAD
 format. The 000000book site is basically where graffiti writers connect
 to developers.
@@ -185,9 +191,8 @@ were not going to be the same people that would develop a Linux core.
 They are students, people just getting into programming or visual
 programming. We wanted people to be able to double-click a .gml file
 and than everything should verbally make sense so it is
-_Begin stroke. End stroke_. Anyone
-with basic programming skills should be able to figure out
-what's going on. 
+`Begin stroke`. `End stroke`.
+Anyone with basic programming skills should be able to figure out what's going on. 
 
 
 % SLOGAN: Domain specificity
@@ -205,7 +210,7 @@ tracking_?
 % ---------------
 The only thing that has to be in there is the format in x-y time
 scenario with some information on drawing and not drawing, everything
-else is bonus. So if you load in an XML-file structured like that,
+else is bonus. So if you load an .xml file structured like that,
 compliant apps will load it in. On top of that, there are features that
 some apps will want and others not. Keywords are, for example, a
 functionality that we are still developing applications for. It is
@@ -220,7 +225,7 @@ discipline?
 
 % NOWSPEAKING: ER
 % ---------------
-(laughs) I think in the beginning it was a very functional
+(_laughs_) I think in the beginning it was a very functional
 conversation. We were having apps running this data and I
 don't think we were thinking of defining graffiti when
 we were writing the format. But looking back, it is interesting to
@@ -254,7 +259,7 @@ as hackers are using computer systems. They are finding ways of using a
 system to make it do things that it wasn't intended to
 do. I am not sure graffiti-writers see it this way, but I am in this
 position where I have friends that are hackers, playing around with
-digital structures on-line. Other friends are into graffiti-writing and
+digital structures online. Other friends are into graffiti-writing and
 to me those two camps are doing the most interesting things right now,
 but these are two communities that hardly overlap. One of the interests
 I have is making these two groups of people hang out more. I was
@@ -321,19 +326,17 @@ there are more red flags going to go up.
 
 % NOWSPEAKING: FS
 % ---------------
-If you upload a GML-file, can you insert a license?
+If you upload a .gml file, can you insert a license?
 
 
 % NOWSPEAKING: ER
 % ---------------
-Not yet. Right now there is not even a _private
-mode_ on the 000000book site. If you upload, everything
+Not yet. Right now there is not even a 'private mode' on the 000000book site. If you upload, everything
 is public. There is a lot of interesting issues with respect to the
 license that I have been reluctant to deal with yet. Once you start
 talking too much about it, you will scare off people on either side of
 the fence. I think that will have to happen at some point but for now I
-have decided to refer to it as an _open
-database_ and I hope that people will play nicely,
+have decided to refer to it as an 'open database' and I hope that people will play nicely,
 like I said.
 
 
@@ -353,7 +356,7 @@ Does that make sense?
 % NOWSPEAKING: FS
 % ---------------
 Well, yes but if you look at the objects that people share,
-we're much closer to code than to a video-file?
+we're much closer to code than to a video file?
 
 
 % NOWSPEAKING: ER
@@ -368,7 +371,7 @@ Functionally it is code. But would a graffiti-writer know what GPL is?
 % ---------------
 I am interested in the apprentice-system you were talking about
 earlier. Like a young writer learning from someone else they admire.
-The GML-notation of x-y-time might help someone to learn as well. But
+The GML notation of x-y-time might help someone to learn as well. But
 would you ever really copy someone else's tag?
 
 
@@ -405,7 +408,7 @@ data than having three different video feeds.
 
 % NOWSPEAKING: FS
 % ---------------
-Maybe it is more about meta-data? Not a question of device or
+Maybe it is more about metadata? Not a question of device or
 application, but about space for a comment.
 
 
@@ -427,7 +430,7 @@ necessarily graffiti writers.
 Graffiti has a history with documentarians entering into their community
 and playing a role but sharing the stories is something writers do
 internally, not as much to outsiders. How do you figure out a way to
-get graffiti-writers to document their stories into the .gml-files
+get graffiti-writers to document their stories into the .gml files
 themselves, or is it going to take outsiders? How does the format
 facilitate that?
 
@@ -445,8 +448,8 @@ person-to-person sharing, what does it do?
 
 % NOWSPEAKING: ER
 % ---------------
-I am interested in open source culture being influenced by graffiti, and I
-am interested in open source culture influencing graffiti as well. On a
+I am interested in Open Source culture being influenced by graffiti, and I
+am interested in Open Source culture influencing graffiti as well. On a
 big picture I would love it if the graffiti community got interested in
 these ideas and had more of a skill-sharing-knowledge-base. 
 
@@ -455,13 +458,13 @@ someone I worked with in New York, has acquireda lot of knowledge about
 how to make tools for graffiti and he initially wasn't so much
 into sharing them, because graffiti-writers tend to save that knowledge
 for themselves so that their tags are always bigger and better
-(laughs). Talking to him I think I convinced him to write tutorials on
+(_laughs_). Talking to him I think I convinced him to write tutorials on
 how to make some of these tools. On the street art side there is Mark
 Jenkins[^]{Mark Jenkins tapesculptures http://tapesculpture.org},
 he has this technique of making 3D objects that exist within the city
 and we had a lot of conversations too. 
 
-There are many ways tech circles and open source circles can come
+There are many ways tech circles and Open Source circles can come
 together with people that are making things outside, with their hands.
 I think graffiti can learn from that. In the end people would be making
 more things outside which would be a good thing. 
@@ -485,11 +488,11 @@ don't think it will change anything in what is in some ways a very
 strict system.
 
 And I don't want that either. I like the fact that they
-found a way to make spray-paint and markers change the way each city in
+found a way to make spraypaint and markers change the way each city in
 the world looks. They have the tools they need. Digital projectors will
 not change that. Graffiti-writers still like to see their names
 projected at big scales in new ways but it is not something they really
-need (laughs).
+need (_laughs_).
 
 
 % SLOGAN: It takes little to come up with great ideas
@@ -526,7 +529,7 @@ What connects the two?
 class is not to make anything, but simply to identify systems in the
 city. What are elements that repeat. Trying to find which ones you can
 slip into. It has been happening in graffiti forever. Graffiti in New
-York in the 80's was to me a hack, a way to have giant
+York in the eighties was to me a hack, a way to have giant
 paintings circulating in the city... There is a lot of room to explore
 there.
 
@@ -536,7 +539,7 @@ there.
 
 % NOWSPEAKING: FS
 % ---------------
-Your experience with the Blender community[^]{Blender is a free open source 3D content creation suite. http://www.blender.org/} did not sound like an easy bridge?
+Your experience with the Blender community[^]{Blender is a free Open Source 3D content creation suite. http://www.blender.org/} did not sound like an easy bridge?
 
 
 % NOWSPEAKING: ER
@@ -550,7 +553,7 @@ because I want these communities to talk to each other.
 So I was taking a tag that was created in the streets of Vienna and
 pulling it into Blender and in the end I was exporting it to something
 that could be 3D printed, to become something physical. The video that
-I posted intentionally showed on-line showed screenshots from Blender and it
+I posted intentionally showed online showed screenshots from Blender and it
 ended up on one of the bigger community sites. I only saw it when my
 cousin, who is a big Blender user, e-mailed me the thread. There is
 about a hundred dedicated Blender users discussing the legitimacy of
@@ -573,7 +576,7 @@ community react that way, is because intellectual property
 doesn't translate always to physical property. Writing
 your name on someone's door is something people
 universally don't like. I understand. For me the
-connection makes sense but just because you make open source
+connection makes sense but just because you make Open Source
 doesn't mean you'll be interested in
 graffiti or street art or vice versa. I think if I went to a Blender
 conference and gave a talk where I explained sort of where I see these
@@ -595,9 +598,9 @@ Essentially GML records x-y-time data. If you talk about what it
 functionally does, it is probably more related to gesture than it is to
 graffiti. There is nothing at the core specifically related to
 graffiti. I am interested in branding it in relation to graffiti and to
-get people to talk about open source where it is traditionally not talked
+get people to talk about Open Source where it is traditionally not talked
 about. To me that is interesting. It is a way to get people excited
-about open data, and popularizing ideas about open source.
+about open data, and popularizing ideas about Open Source.
 
 
 % NOWSPEAKING: FS
@@ -649,7 +652,7 @@ things I do, I am most of all interested in getting the idea across.
  I am interested in the way GML stems from a specific practice. How
 it is different and similar to large, legal, commercial, global
 standardization practices. Related, how can GML connect to other
-standard practices? Could it be RDF-compliant?
+standard practices? Could it be RDF compliant?
 
 
 % NOWSPEAKING: PW
@@ -660,7 +663,7 @@ Gesture recognition to help out the police?
 % NOWSPEAKING: FS
 % ---------------
 Or maps of places that are in need of some graffiti? How to link
-.gml to other types of data?
+GML to other types of data?
 
 
 % NOWSPEAKING: ER
@@ -679,7 +682,7 @@ who I now know, but didn't know at the time, to use it with his
 Print Ball project. He took the tag data from a paralyzed graffiti writer in
 Los Angeles and painted it on a wall in Dublin. Eye-movement translated
 into a paint-ball gun ... that is the kind of collaboration that I
-hope .gml can be the middle-point for. If that happens, things can
+hope GML can be the middle-point for. If that happens, things can
 start to extrapolate on either end.
 
 
@@ -698,9 +701,9 @@ seems to be more compelling for people to contribute to?
 % NOWSPEAKING: ER
 % ---------------
 I'll answer that in a second, but you reminded me
-of something else: because EyeWriter was .gml based, a lot of the
+of something else: because EyeWriter was GML based, a lot of the
 collaborations that happened with people outside of the project were
-.gml related, not EyeWriter related. So we did have artists like Ben
+GML related, not EyeWriter related. So we did have artists like Ben
 and Golan take data drawn by TEMPT and do completely different things
 which made TEMPT a collaborator with them in a way. The software allowed
 him to share his work in a format that allowed other people to work
@@ -735,7 +738,7 @@ upload sense. Taking the NASA development model: Can you get into orbit on this 
 
 % NOWSPEAKING: FS
 % ---------------
-How is that different from the way you record graffiti-motion at the moment?
+How is that different from the way you record graffiti motion at the moment?
 
 
 % NOWSPEAKING: ER
@@ -744,7 +747,7 @@ If I go out with a graffiti-writer, I'm stuck
 standing with a laptop and a camera facing the wall and then the
 graffiti writer needs to have a really bright light attached to the
 writing device which is a bit counter-intuitive when you are trying to
-do something without being seen (laughs). It could be infrared by the
+do something without being seen (_laughs_). It could be infrared by the
 way, that could be the first step but then security cameras would still
 pick it up. The design I am focusing momentum on is a system
 that's easier. A system that can work without me
@@ -768,12 +771,12 @@ How is it to be the sole jury member?
 % NOWSPEAKING: ER
 % ---------------
 I tried to get another jury-member on there actually. Do you know
-Limor Fried? She runs Adafruit Industries[^]{Limor Fried,
-Adafruit Industries http://www.adafruit.com}. I really like her work.
+Limor Fried? She runs Adafruit Industries.[^]{Limor Fried,
+Adafruit Industries http://www.adafruit.com} I really like her work.
 She works with her partner Phil Torrone who runs Make
-Blog[^]{Phillip Torrone, Makezine
-http://makezine.com/pub/au/Phillip\_Torrone}. I invited her to be
-the second jury-member because she makes open source hardware kits;
+Blog.[^]{Phillip Torrone, Makezine
+http://makezine.com/pub/au/Phillip\_Torrone} I invited her to be
+the second jury-member because she makes Open Source hardware kits;
 this is her full-time thing. She is very smart and has a lot of background in making DIY
 kits that people actually build. She is also very straightforward and
 very busy, so she wrote back and said: this is too much work. No.
@@ -794,7 +797,7 @@ Is the contest already over?
 It is not over. It was easy to launch; I tried to coincide it with
 the launch of the website and there were a couple of things going on at
 the same time. The launch helped spread the word about this
-file-format, and people making projects, and vice versa. 
+file format, and people making projects, and vice versa. 
 
 
 % NOWSPEAKING: FS
@@ -870,9 +873,9 @@ Would you consider splitting the prize?
 I don't care, but I don't know if
 the candidates would consider splitting the prize! I know Michael has
 already spent a lot of money because he has been buying
-Arduino's and other hardware. He wants to make a cheap
-version to solve the problem and then make another one that costs 150
-euro on top of the price limitation to make it easier to use. He is
+Arduinos and other hardware. He wants to make a cheap
+version to solve the problem and then make another one that costs 150€
+on top of the price limitation to make it easier to use. He is
 spending a bunch of money so even if he wins, it is going to get him
 only out of the hole and he will not have much left.
 
@@ -907,7 +910,7 @@ That it is really interesting!
 % NOWSPEAKING: ER
 % ---------------
 Yes it is and I would love it if he would make it but I am not going
-to let him win with it (laughs). I understand why he wants to do it;
+to let him win with it (_laughs_). I understand why he wants to do it;
 especially if you are not inside the graffiti community, your only
 experience is what you see on the wall and you don't
 know who these people are and it is going to be almost impossible to
@@ -920,13 +923,11 @@ data from the wall as opposed to getting it from the hand.
 % NOWSPEAKING: FS
 % ---------------
 Learning by copying. Nowhere near solving the challenge, but interesting.
-
-
+%
 % SLOGAN: Competition and collaboration
-
-
+%
 At OSP[^]{OSP (Open Source Publishing) is a graphic design
-collective that uses only Free, Libre and Open Source Software.
+collective that uses only Free, Libre and Open Source software.
 http://ospublish.constantvzw.org} we were discussing about the way
 designers are invited into Open Source Software by way of contest.
 Troy James Sobotka[^]{_The very notion of Libre / Free
@@ -954,8 +955,7 @@ other, fighting each other ...
 For me, the fact that there is prize money makes something that is
 already ridiculous in itself even more funny. To have prize money for
 such a small community of people that are interested in coding
-{\em and} in graffiti. I'm not seriously thinking
-that we can spur development with this kind of money. 
+and in graffiti. I'm not seriously thinking that we can spur development with this kind of money. 
 
 To use the EyeWriter as an example, we've had money
 infusions from awards mostly and we had to think about how we could use
@@ -1000,7 +1000,7 @@ You talked about some things in the challenge that worked and some that didn't.
 % NOWSPEAKING: ER
 % ---------------
 I think the forum is the obvious thing that did not work. I have
-friends working on Open Frameworks, it is headed primarily by Zach and Theo. When you see
+friends working on OpenFrameworks, it is headed primarily by Zach and Theo. When you see
 that forum, it is very involved. It is a deep system, with many
 different libraries and lots of code flying around. GML is really not
 large enough.
@@ -1021,7 +1021,7 @@ What happened on the site since we talked?
 
 % NOWSPEAKING: ER
 % ---------------
-A project I like, is kml2GML[^]{Yamaguchi Takahiro
+A project I like, is kml2gml[^]{Yamaguchi Takahiro
 http://www.graffitimarkuplanguage.com/kml2GML} for example. It is done
 by a friend from Tokyo. He was gathering GPS data riding his bike
 around various cities, and building up a font based on his path. I like projects like this, where
@@ -1040,10 +1040,10 @@ But it could also work the other way around?
 % NOWSPEAKING: ER
 % ---------------
 Yeah. This is maybe a tangent but depending on how someone solves
-the GML-challenge... I was discussing this with Mike (the person that is
+the GML challenge... I was discussing this with Mike (the person that is
 developing the sensor based version). He was thinking that if you would turn
 on his system, and leave it on for a whole night of graffiti writing, you would have the
-gestural data plus the gps data. You could make a GML-file that is
+gestural data plus the GPS data. You could make a .gml file that is
 tracking you down the street, and zoom in when you start making the
 tag. Also you would get much more information on 3D movement, like tilt
 and when the pen is picking up and going down. Right now all I
@@ -1058,7 +1058,7 @@ Like what?
 
 % NOWSPEAKING: ER
 % ---------------
-I have my doubts about using these kind of sensors, because _drift_ is a problem. 
+I have my doubts about using these kind of sensors, because 'drift' is a problem. 
 When you start using these sensors too long, it tends to move a little bit. 
 I think he is working within a 0.25 inch margin of error right now, which is right
 on the edge. If you are recording someone doing a big piece, this is
@@ -1138,9 +1138,9 @@ might solve the challenge, depending on how many cameras you need and
 how expensive they are. But so far I have not heard back from him. He
 said it needs three different cameras all looking at the wall. I mean:
 talk about computationally expensive! He likes video-processing, he
-knows some open source software that can look for similar things and
+knows some Open Source software that can look for similar things and
 knows how to relate them. To me it seems more difficult than it needs
-to be (laughs).
+to be (_laughs_).
 
 
 % NOWSPEAKING: FS
@@ -1241,7 +1241,7 @@ notes, pictures? What happens to the conversations you are having?
 I have been missing out on that piece. It is a small amount of time
 we have, and I am already trying to get so much. I am setting up a
 camera that shoots straight video from a tripod, I am capturing from
-the laptop and I am also screen-casting the application, my head is
+the laptop and I am also screencasting the application, my head is
 spinning. One reason I screwed up this footage in the beginning is
 because with all these things going on I forget to turn on some things.
 Maybe someone will solve this challenge.
@@ -1266,12 +1266,12 @@ entire train and you hear the birds singing and you only experience it
 by these two videos that are linked. There are interesting constraints:
 your hands are already full, you don't want peoples' faces on camera so 
 the head-mounted cameras were smart. Unless you walk in front of a mirror 
-(laughs).
+(_laughs_).
 
 
 % NOWSPEAKING: FS
 % ---------------
-Is it related to the dream of _self documenting code_?
+Is it related to the dream of 'self documenting code'?
 
 
 % NOWSPEAKING: ER
@@ -1336,7 +1336,7 @@ written in the language of bureaucracy.
 
 % NOWSPEAKING: ER
 % ---------------
-(laughs) I thought that there was something funny with that. People
+(_laughs_) I thought that there was something funny with that. People
 that know XML and the web, they get the joke that something so rigid
 and standardized is connected to writing your name on the wall. But to
 be honest, it was really just a pragmatic choice.
@@ -1344,9 +1344,9 @@ be honest, it was really just a pragmatic choice.
 
 % NOWSPEAKING: SV
 % ---------------
-It reminds me of an interview[^]{Interview with Francois
-Chastanet http://www.youtube.com/watch?v=ayPcaGVKJHg} with Francois
-Chastanet who wrote a book[^]{Francois Chastanet, Cholo writing:
+It reminds me of an interview[^]{Interview with François
+Chastanet http://www.youtube.com/watch?v=ayPcaGVKJHg} with François
+Chastanet who wrote a book[^]{François Chastanet, Cholo writing:
 Latino gang graffiti in Los Angeles. Dokument, 2009} about tagging in
 Los Angeles. He explains that the Gothic lettering is inspired by
 administrative papers!
@@ -1440,7 +1440,7 @@ I think the next challenge I'd like to run is about
 recreating the data outside. I've been thinking about
 these helicopters with embedded wireless camera's,
 have you seen them? The obvious thing to me would be uploading a
-GML-file to one of these helicopters that is dripping paint on a
+.gml file to one of these helicopters that is dripping paint on a
 rooftop. Scale is so important, so going bigger is always going to be
 better.
 
@@ -1453,8 +1453,7 @@ tying back to what graffiti is, which is in a way a crime.
 I think fixing the data capture is the right place to start, the next
 one could be about making marks in the city. Like: the first person to
 recreate this GML-tag on the roof of this building, that would be fun.
-The first person that could put this _Hello
-World_ tag onto the Brooklyn bridge and get a photo of
+The first person that could put this 'Hello World' tag onto the Brooklyn bridge and get a photo of
 it gets the prize. That would get us back to the question of how we leave
 marks on the surface of the city.
 
@@ -1676,10 +1675,9 @@ It's part of the same issue, but this one also came
 out from me going out and trying to capture with a system where it
 requires you to attach a flashlight to a graffiti-implement. I
 didn't want anyone solving the problem and then,
-Step one is: _Attach a police siren to
-a spray-paint can_.
+Step one is: 'Attach a police siren to a spraypaint can'
 
-### The resulting solution should be able to record at least 10 unique .gml tags of approximately 10 seconds each in length in one session without the need for connecting to or using additional equipment.
+### The resulting solution should be able to record at least 10 unique GML tags of approximately 10 seconds each in length in one session without the need for connecting to or using additional equipment.
 
 
 % NOWSPEAKING: ER
@@ -1697,18 +1695,18 @@ writing based and how much memory they had.
 
 % NOWSPEAKING: ER
 % ---------------
-(laughs) If I had to do that one again, I would have put that in
+(_laughs_) If I had to do that one again, I would have put that in
 Bonus category actually. That's a difficult question to ask.
 What does secure mean? It seems a bit unfair, because it
 doesn't fit in to the way graffiti is currently
 documented. There's not a lot of graffiti-writers that
-currently are shooting encrypted photo's and
-video's, right? 
+currently are shooting encrypted photos and
+videos, right? 
 
 But whatever bizarre format comes out from the sensor will help. I
 don't think that the NYPD will have time or make the
 effort to parse it. They'd just have a file with a bunch of
-numbers. Time stamped GPS-coordinates would be more dangerous.
+numbers. Time stamped GPS coordinates would be more dangerous.
 
 
 % NOWSPEAKING: FS
@@ -1785,10 +1783,10 @@ Are you prepared for tools that do not exist yet?
 % NOWSPEAKING: ER
 % ---------------
 That was kind of what I was thinking there. Markers are about direct
-contact, spray-paint is in free space. If it works in those two
+contact, spraypaint is in free space. If it works in those two
 situations, you should theoretically be able to tie it to anything,
-even outside of graffiti. If it was too much about spray-paint, it
-would be harder for someone to strap it to a skate-board.
+even outside of graffiti. If it was too much about spraypaint, it
+would be harder for someone to strap it to a skateboard.
 
 
 ### System should be able to record writing on various surfaces and materials.
@@ -1841,11 +1839,11 @@ an enhancing device, turning the writer into a tapdancer?
 % NOWSPEAKING: ER
 % ---------------
 I want to have on record: I love his solution!
-There's a lot in his design that is _making us more aware_ of
+There's a lot in his design that is 'making us more aware' of
 what's happening in the creation of a tag. One thing that he is doing that is
 not in the specs, is that he is logging strokes, like up and down. When
 you watch him using it, you can see a little light going from red to
-green when the fingers goes on and off the spray-paint can. When you
+green when the fingers goes on and off the spraypaint can. When you
 watch graffiti, it is too small of a movement to even notice but when
 you are seeing that, it adds another level of understanding of how they
 are writing.
@@ -1866,7 +1864,7 @@ Obvious.
 % ---------------
 It wouldn't be exciting if only ten people can make
 this thing. This tool should not be just for people that can make
-NASA-qualified soldering connections. Ideally it should not have any
+NASA qualified soldering connections. Ideally it should not have any
 soldering. I always thought of a soldering iron like a huge barrier point. I'm all for duct-taped electrical connections.
 
 
@@ -1884,10 +1882,10 @@ I think what you get from this brief though is that the whole impetus
 for this project is about me trying to steer the ship that clearly
 wants to go into another direction, back to my interest in what
 graffiti is rather than anything that people might find aesthetically
-pleasing. It is not about _graffiti influenced visuals_.
+pleasing. It is not about 'graffiti influenced visuals'.
 
 
-### All software must be released open source. All hardware must include clear DIY instructions / tutorials. All media must be released under an open content license that promotes collaboration (such as a Free Art License or Creative Commons share-alike license).
+### All software must be released Open Source. All hardware must include clear DIY instructions/tutorials. All media must be released under an open content license that promotes collaboration (such as a Free Art License or Creative Commons ShareAlike license).
 
 
 % NOWSPEAKING: ER
@@ -1908,14 +1906,14 @@ traffic coming or a train? There are so many other things you need to
 pay attention to rather than: _Is this button
 on?_
 
-The whole project is about getting Good Data. As soon as you force
+The whole project is about getting good data. As soon as you force
 people to think too much about the capture process, I think it
 influences when and how they are writing. 
 
 __Bonus, but not required:__
 
 
-### Inclusion of date, time and location saved in the GML file.
+### Inclusion of date, time and location saved in the .gml file.
 
 
 % NOWSPEAKING: ER
@@ -1953,7 +1951,7 @@ it seems there are new developments?
 I think in terms of the actual challenge, the main update is that since we
 extended the deadline and made another call, I got an e-mail right on
 the deadline today from Joshua Noble[^]{Joshua Noble http://www.thefactoryfactory.com/gmlchallenge/} with a very solid and pretty smart proposal that seems to solve (maybe
-unfortunately for Muharrem) a bit more of the design-spec. It does it
+unfortunately for Muharrem) a bit more of the design spec. It does it
 for cheaper and does it in a way that I think is going to be easier to
 make also. 
 
@@ -1974,7 +1972,7 @@ Muharrem's solution seems less precise?
 % NOWSPEAKING: ER
 % ---------------
 I think he gets away with more because his solution is only for
-spray-paint and once you are writing on that scale, even if you are off
+spraypaint and once you are writing on that scale, even if you are off
 a few centimeters, it might not ruin the data. If you look at the data
 he is getting, it actually looks very good. I don't
 think he has any numbers on the actual resolution he is getting but if
@@ -1999,7 +1997,7 @@ And back again!
 % ---------------
 Yes. When I first was working on graffiti-related software, the
 whole reason I was building Graffiti Analysis as a capture application
-was because I did not want to hand graffiti-writers a mouse (laughter).
+was because I did not want to hand graffiti-writers a mouse (_laughter_).
 I had done all this research into graffiti and started to be embedded
 in the community and I knew enough about the community that if you were
 going to ask them to take part in something that was already weird, you
@@ -2031,7 +2029,7 @@ serious about this. In that sense it is different than a wishlist.
 I just read the Linus Torvalds[^]{Torvalds, Linus; David Diamond
 (2001). Just For Fun: The Story of an Accidental Revolutionary. New
 York, New York, United States: HarperCollins.} biography, and I liked
-his idea that _fun_ is part of
+his idea that 'fun' is part of
 innovation, right? In a programming sense, it is scratching a personal
 itch. The attachment of a prize is more to underline the fun aspect
 than anything else.
@@ -2056,13 +2054,13 @@ I understand what you mean.
 % NOWSPEAKING: FS
 % ---------------
 Also in F/LOSS, under the flag of
-_open_ and _free_ there is a lot of competition.
+'Open' and 'Free' there is a lot of competition.
 Do you feel that kind of tension in your work?
 
 
 % NOWSPEAKING: ER
 % ---------------
-Even _Open_ and _Free_ are in competition! 
+Even 'Open' and 'Free' are in competition! 
 
 In a project like White-Glove Tracking for example, the most popular
 video I had not made and it did not have my name on it but personally I still felt a part of it. I think when you are working in open systems, you take
@@ -2102,7 +2100,7 @@ copy-machines.
 
 I see both sides of the argument and I am still trying to see how I fit into it. It
 gets trickier when you are asked to release a piece rather than a tool.
-If you are an open source artist and you make a toolset, that is easier
+If you are an Open Source artist and you make a toolset, that is easier
 to share because people use that to make their own things. But then an
 artist gets asked: how come I can't get the file of
 that print? I think that is a really hard question. 
@@ -2180,7 +2178,7 @@ isn't there. With a tag, every letter looks the way it
 does because that's how it needs to be drawn, because
 it needs to be connected to this other letter. There's
 a lot of respect for writers that do oneliners, and even if your tag
-has more than one line, a good graffiti writer has often a one-line version.
+has more than one line, a good graffiti writer has often a one line version.
 If you don't have to pick up the pen it is a really
 economical stroke.
 
@@ -2205,7 +2203,7 @@ twenty years.
 % NOWSPEAKING: JH
 % ---------------
 In Seattle they call a piece that stays up for a longer time a
-_burner_. I was connecting that to an archival practice of ephemera. 
+'burner'. I was connecting that to an archival practice of ephemera. 
 It is a self-agreed upon archival process, and it means that the 
 piece will not be touched, even for years.
 
@@ -2253,8 +2251,8 @@ the community, it is a huge thing.
 % NOWSPEAKING: JH
 % ---------------
 There must be some social limits to referentiality. Like
-beat-jacking for DJ's or biting rhymes for
-MC's, there must be a moment where you are not just
+beat-jacking for DJs or biting rhymes for
+MCs, there must be a moment where you are not just
 homaging, but stealing a style.
 
 
@@ -2317,11 +2315,11 @@ I've done workshops with graffiti writers and I talked
 to everyone: _Look, I am going to upload this tag up to this
 place where everyone can download them after the workshop, cool?_ And
 they go _cool_. But still, even then, do I really feel comfortable that they understand what
-they've gotten into? Even if someone has chosen a share-alike license, I would be nervous I think.
+they've gotten into? Even if someone has chosen a ShareAlike license, I would be nervous I think.
 
 Maybe I am putting too much weight on it. People outside Free
 Software are already used to attaching Creative Commons licenses to
-their video's. Maybe I am too close to graffiti. I
+their videos. Maybe I am too close to graffiti. I
 still hold the tag as primal! 
 
 
@@ -2414,7 +2412,7 @@ both global insurgent subcultures that have emerged from being kind of
 thrown away as fads and then become objects of pondering in
 multinational boardrooms. So I was hoping to open you up to riff on
 that: zooming out, GML is a handshake point between these two cultures,
-but GML is a specific thing within this larger world of FLOSS and
+but GML is a specific thing within this larger world of F/LOSS and
 graffiti in the larger world of hiphop. What other types of contact
 points might there be? Do you see any similarities and differences?
 
@@ -2437,7 +2435,7 @@ hacker culture.
 
 In terms of that handshake moment between the two communities, I think
 that is about realizing that its not about the code and in some sense
-its not about the spray-paint. There's this empowering
+its not about the spraypaint. There's this empowering
 idea of individual small actors assuming control over systems that are
 bigger than themselves. To me, that's the connection
 point, whether its hiphop or rap or programming.
@@ -2451,7 +2449,7 @@ with work ethic, but there's also a kind of braggadocio
 about making it yourself and attaining value yourself and it definitely
 comes back to making money in the end. The idea of being
 'self-made' in a way is empowering but I
-think that in the open source movement or the free software movement
+think that in the Open Source movement or the free software movement
 the idea of hustling does not apply. It's not that
 people don't hustle on a day to day basis. You disagree
 with me?
@@ -2461,7 +2459,7 @@ with me?
 % ---------------
 It's interesting because the more you were talking,
 the more I was not sure of whether you were speaking about hiphop or
-free software or maybe even more specifically the open source kind of
+free software or maybe even more specifically the Open Source kind of
 ideological development. You have people like David Hannemeier Hansson
 who developed Ruby on Rails and basically co-opted an entire
 programming language to the point where you can't
@@ -2479,7 +2477,7 @@ dynamics within the community where its really like pissing contests.
 % ---------------
 I like that, I think there's something there. At the
 instigation of the Open Source Initiative, though: like Linus
-_pre-stock option_, sitting in his
+'pre-stock option', sitting in his
 bedroom not seeing the sun for a year and hacking and nerding out. To
 me they are so different, the idea of making this thing just for fun
 with a kind of optimistic view on collaboration and sharing. I know it
@@ -2493,7 +2491,7 @@ I agree, that's clearly a distinction between the
 two. They are not coming from the same thing. But for me its also
 interesting to think about it in terms that these are both sort of
 movements that have at times been given liberational trappings, people
-have assigned liberatory powers to these movements. Statistically the GPL is considerably more popular than the open source
+have assigned liberatory powers to these movements. Statistically the GPL is considerably more popular than the Open Source
 licenses, but I don't know if you sat everybody down
 and took a poll which side they would land on, whether they were more
 about making money than they were about sharing. Are people writing
@@ -2506,8 +2504,8 @@ want to show how much cooler they are?
 You're totally right and I think people in this
 scene are always looking for examples of people making money,
 succeeding, good things coming to people for reasons that
-aren't just selflessness. People that are into open
-source usually love to be able to point to those things, that this
+aren't just selflessness. People that are into Open
+Source usually love to be able to point to those things, that this
 isn't some purely altruistic thing.
 
 
@@ -2542,9 +2540,8 @@ Would they really be so different?
 % NOWSPEAKING: JH
 % ---------------
 Obviously some rappers and some nerds, I mean that's
-one of the beauties-{}-I mean its a global movement, you
-can't help but have diversity-{}-but if
-we're just speaking in generalizations?
+one of the beauties -- I mean its a global movement, you
+can't help but have diversity -- but if we're just speaking in generalizations?
 
 
 % NOWSPEAKING: FS
@@ -2603,7 +2600,7 @@ nobody wants things to break. The idea was that we tried to get in as
 many things as we could think of and have the base stay kind of what it
 was with the idea that you could add more stuff into it.
 It's easy enough to do, of course its not a super-rigid
-standard. If you look at what the base GML file is, the minimum
+standard. If you look at what the base .gml file is, the minimum
 requirements for GML to compile, its so so stripped down. As long as it
 just remains time/x-y-z, I don't think
 that's going to change, no.
@@ -2621,13 +2618,16 @@ How does it work when someone proposes a feature?
 
 % NOWSPEAKING: ER
 % ---------------
-They just email me (laughs). But right now there
+They just e-mail me (_laughs_). But right now there
 hasn't been a ton of that because it's
 such a simple thing, once you start cramming too much into it it starts
 feeling wrong. But all its gonna take is for someone to make a new app
 that needs something else and then there will be a reason to change it
 but I think the change will always be adding, not removing.
 
+
+
+% DOUBLEPAGE: var/layouts/momo3010-01/momo3010-01-nomargin.pdf
 
 
 
@@ -2744,7 +2744,7 @@ but I think the change will always be adding, not removing.
 % In the summer of 2010, Constant commissioned Evan Roth to develop a work
 % of his choice, and to make the development process available in some
 % way. He decided to use a part of his fee as prize-money for The
-% GML-Recorder Challenge, inviting makers to propose an open source
+% GML-Recorder Challenge, inviting makers to propose an Open Source
 % device \quote{that can unobtrusively record graffiti motion
 % data during a graffiti writer's normal practice in the
 % city}. A related worksession and presentation were
