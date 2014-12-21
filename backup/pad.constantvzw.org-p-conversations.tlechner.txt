@@ -8,12 +8,21 @@
 % PM = Pierre Marchand
 % LL = Ludivine Loiseau
 
+% USED FOR NAME INDEXING
+% HIDDENKEYWORDS: Lechner, Tom|Marchand, Pierre|Loiseau, Ludivine
+
+
 % TITLE: Meaningful transformations
 
 % NOWSPEAKING: X
 % --------------
 
-We discovered the work of Tom Lechner for the first time at the Libre Graphics Meeting 2010 in Brussels. Tom traveled from Portland, US to present Laidout, an amazing tool that he made to produce his own comic books and also to work on three dimensional mathematical objects. We were excited about how his software  represents the gesture of folding, loved his bold interface decisions plus were impressed  by the fact that Tom decided to write his own programming framework  for it. A year later, we met again in Montreal, Canada for the 2011 Libre Graphics Meeting where he presents a follow-up. With Ludivine Loiseau (amateur bookbinder and graphic designer) and Pierre Marchand (artist/developer, contributing amongst others to podofoimpose and Scribus) we finally found time to sit down and talk.
+% SCALEFONT: 1.32
+
+We discovered the work of Tom Lechner for the first time at the Libre Graphics Meeting 2010 in Brussels. Tom traveled from Portland to present Laidout, an amazing tool that he made to produce his own comic books and also to work on three dimensional mathematical objects. We were excited about how his software  represents the gesture of folding, loved his bold interface decisions plus were impressed  by the fact that Tom decided to write his own programming framework  for it. A year later, we met again in Montreal, Canada for the **Libre Graphics Meeting 2011** where he presents a follow-up. With Ludivine Loiseau[^]{amateur bookbinder and graphic designer} and Pierre Marchand[^]{artist/developer, contributing amongst others to PodofoImpose and Scribus}, we finally found time to sit down and talk.
+
+%RESETFONT:
+%BIGSKIP:
 
 
 % NOWSPEAKING: FS
@@ -63,7 +72,7 @@ Could you say something about your interest in moving from 2D to 3D and back aga
 
 % NOWSPEAKING: TL
 % ---------------
-I don't know. I've been making sculpture of various kinds for quite a long time. I've always drawn. Since I was about eighteen, I started making sculptures, mainly mathematical woodwork. I don't quite have access to a full woodwork workshop anymore, so I cannot make as much woodwork as I used to. It's kind of an instance of being defined by what tools you have available to you, like you were saying in your talk1. I don't have a wood shop, but I can do other stuff. I can still make various shapes, but mainly out of paper. Since I had been doing woodwork, I picked up photography I guess and I made a ton of panoramic images. It's kind of fun to figure out how to project these images out of the computer into something that you can physically create, for instance a T-shirt or a ball, or other paper shapes.
+I don't know. I've been making sculpture of various kinds for quite a long time. I've always drawn. Since I was about eighteen, I started making sculptures, mainly mathematical woodwork. I don't quite have access to a full woodwork workshop anymore, so I cannot make as much woodwork as I used to. It's kind of an instance of being defined by what tools you have available to you, like you were saying in your talk. I don't have a wood shop, but I can do other stuff. I can still make various shapes, but mainly out of paper. Since I had been doing woodwork, I picked up photography I guess and I made a ton of panoramic images. It's kind of fun to figure out how to project these images out of the computer into something that you can physically create, for instance a T-shirt or a ball, or other paper shapes.
 
 
 % NOWSPEAKING: FS
@@ -93,7 +102,7 @@ My feeling about your work is that the time you spent working on the program is 
 
 % NOWSPEAKING: TL
 % ---------------
-I think like a lot of artists, or creative people in general, you have to enjoy the little nuts and bolts of what you're doing in order to produce any final work, that is if you actually do produce any final work. Part of that is making the tools. When I first started making computer tools to help me in my art work, I did not have a lot of experience programming computers. I had some. I did little projects here and there. So I looked around at the various toolkits, but everything seemed really rigid. If you wanted to edit some text, you had this little box and you write things in this little box and if you want to change numbers, you have to erase it and change tiny things with other tiny things. It's just very restrictive. I figured I could either figure out how to adapt those to my own purposes, or I could just figure out my own, so I figured either way would probably take about that same amount of time I guessed, in my ignorance. In the process, that's not quite been true. But it is much more flexible, in my opinion, what I've developed, compared to a lot of other toolkits. Other people have other goals, so I'm sure they would have a completely different opinion. For what I'm doing, it's much more adaptable.
+I think like a lot of artists, or creative people in general, you have to enjoy the little nuts and bolts of what you're doing in order to produce any final work, that is if you actually do produce any final work. Part of that is making the tools. When I first started making computer tools to help me in my artwork, I did not have a lot of experience programming computers. I had some. I did little projects here and there. So I looked around at the various toolkits, but everything seemed really rigid. If you wanted to edit some text, you had this little box and you write things in this little box and if you want to change numbers, you have to erase it and change tiny things with other tiny things. It's just very restrictive. I figured I could either figure out how to adapt those to my own purposes, or I could just figure out my own, so I figured either way would probably take about that same amount of time I guessed, in my ignorance. In the process, that's not quite been true. But it is much more flexible, in my opinion, what I've developed, compared to a lot of other toolkits. Other people have other goals, so I'm sure they would have a completely different opinion. For what I'm doing, it's much more adaptable.
 
 
 % NOWSPEAKING: LL
@@ -140,7 +149,7 @@ I think the program itself is an artwork, very much. To me it is also a reflecti
 
 % NOWSPEAKING: TL
 % ---------------
-I don't know. To an extent. In my mind, I kind of class it differently. I've certainly been drawing more than I've been doing technical stuff like programming. In my mind, the art work is things that get produced, or a performance or something like that. And the programming or the tools are in service to those things. That's how I think of it. I can see that... I've distributed Laidout as something in itself. It's not just some secret tool that I've put aside and presented only the art work. I do enjoy the tools themselves.
+I don't know. To an extent. In my mind, I kind of class it differently. I've certainly been drawing more than I've been doing technical stuff like programming. In my mind, the artwork is things that get produced, or a performance or something like that. And the programming or the tools are in service to those things. That's how I think of it. I can see that... I've distributed Laidout as something in itself. It's not just some secret tool that I've put aside and presented only the artwork. I do enjoy the tools themselves.
 
 
 % NOWSPEAKING: FS
@@ -180,7 +189,7 @@ Imposition plans are quite fixed, you have this paper size and it works with spe
 
 % NOWSPEAKING: LL
 % ---------------
-What's impressive is the attention you put into the visualization. There are some technical programs which do really big imposition stuff, but it's always at the printer. Here, you can see the shape being peeled. It's really impressive. I agree with Femke that the program is an art work too, because it's not only technical, it's much more.
+What's impressive is the attention you put into the visualization. There are some technical programs which do really big imposition stuff, but it's always at the printer. Here, you can see the shape being peeled. It's really impressive. I agree with Femke that the program is an artwork too, because it's not only technical, it's much more.
 
 
 % NOWSPEAKING: FS
@@ -210,7 +219,7 @@ That would be very interesting. To imagine paper in digital space, to give an id
 
 % NOWSPEAKING: TL
 % ---------------
-A long time ago, I did a lot of t-shirt printing. Something that I did not particularly have was a way to visualize your final image on some kind of shirt and the same thing applies for book binding, too. You might have a strange texture. It would be nice to be able to visualize that beforehand, as well as the thickness of the paper that actually controls physical characteristics. These are things I would like to incorporate somehow but haven't gotten around to.
+A long time ago, I did a lot of T-shirt printing. Something that I did not particularly have was a way to visualize your final image on some kind of shirt and the same thing applies for book binding, too. You might have a strange texture. It would be nice to be able to visualize that beforehand, as well as the thickness of the paper that actually controls physical characteristics. These are things I would like to incorporate somehow but haven't gotten around to.
 
 
 % NOWSPEAKING: FS
@@ -230,7 +239,7 @@ Do you have any fantasies about how these gestures could work for real?
 
 % NOWSPEAKING: TL
 % ---------------
-There's tons of sci fi movies, like //Minority Report//, where you wear these gloves and you can do various things. Even that is still just mainly browsing. I saw one, it was a research project by this guy at Caltech. He had made this table and he wore polarized glasses so he could look down at this table and see a 3D image. And then he had gloves on, and he could sculpt things right in the air. The computer would keep track of where his hand is going. Instead of sculpting clay, you're sculpting this 3D mesh. That seemed quite impressive to me.
+There's tons of sci fi movies, like _Minority Report_, where you wear these gloves and you can do various things. Even that is still just mainly browsing. I saw one, it was a research project by this guy at Caltech. He had made this table and he wore polarized glasses so he could look down at this table and see a 3D image. And then he had gloves on, and he could sculpt things right in the air. The computer would keep track of where his hand is going. Instead of sculpting clay, you're sculpting this 3D mesh. That seemed quite impressive to me.
 
 
 % NOWSPEAKING: FS
@@ -275,7 +284,7 @@ That's an interesting question as well. But particularly the interface, it's ver
 
 % NOWSPEAKING: TL
 % ---------------
-I think it just comes back to being very visually oriented. If you have to enter a lot of values in a bunch of slots in a table, that's not really a visual way to do it. Especially in my art work, it's totally visual. There's no other component to it. You draw things on the page and it shows up immediately. It's just very visual. Or if you make a sculpture, you start with this chunk of stuff and you have to transform it in some way and chop off this or sand that. It's still all very visual. When you sit down at a computer, computers are very powerful, but what I want to do is still very visually oriented. The question then becomes: how do you make an interface that retains the visual inputs, but that is restricted to the types of inputs computers need to have to talk to them?
+I think it just comes back to being very visually oriented. If you have to enter a lot of values in a bunch of slots in a table, that's not really a visual way to do it. Especially in my artwork, it's totally visual. There's no other component to it. You draw things on the page and it shows up immediately. It's just very visual. Or if you make a sculpture, you start with this chunk of stuff and you have to transform it in some way and chop off this or sand that. It's still all very visual. When you sit down at a computer, computers are very powerful, but what I want to do is still very visually oriented. The question then becomes: how do you make an interface that retains the visual inputs, but that is restricted to the types of inputs computers need to have to talk to them?
 
 
 % NOWSPEAKING: PM
@@ -310,7 +319,7 @@ Are there many other users of the program?
 
 % NOWSPEAKING: TL
 % ---------------
-Not that I know of (laughter). I know that there is at least one other person that actually used it to produce a booklet. So I know that it is possible for someone other than myself to make things with it. I've gotten a couple of patches from people to not make it crash at various places but since Laidout is quite small, I can just not pay any attention to criticism. Partially because there isn't any, and I have particular motivations to make it work in a certain way and so it is easier to just go forward.
+Not that I know of _(laughter)_. I know that there is at least one other person that actually used it to produce a booklet. So I know that it is possible for someone other than myself to make things with it. I've gotten a couple of patches from people to not make it crash at various places but since Laidout is quite small, I can just not pay any attention to criticism. Partially because there isn't any, and I have particular motivations to make it work in a certain way and so it is easier to just go forward.
 
 
 % NOWSPEAKING: PM
@@ -345,7 +354,7 @@ If you read the file, do you know what you are folding?
 
 % NOWSPEAKING: TL
 % ---------------
-Not exactly. It lists what folds exists. If you have a five by five grid, it will say "Fold along this line, over in such and such direction". What it actually translates to in the end, is not currently stored in the file. Once you are in Laidout you can export into a podofoimpose plan file.
+Not exactly. It lists what folds exists. If you have a five by five grid, it will say _Fold along this line, over in such and such direction_. What it actually translates to in the end, is not currently stored in the file. Once you are in Laidout you can export into a PodofoImpose plan file.
 
 
 % NOWSPEAKING: PM
@@ -355,12 +364,12 @@ Is this file just values, or are there keywords, is it like a text?
 
 % NOWSPEAKING: TL
 % ---------------
-I try to make it pretty readable, like "trimright" or "trimleft".
+I try to make it pretty readable, like `trimright` or `trimleft`.
 
 
 % NOWSPEAKING: FS
 % ---------------
-Does it talk about turning pages? This I find beautiful in podofoimpose plans, you can almost follow the paper through the hands of the program. Turn now, flip backwards, turn again. It is an instruction for a dance.
+Does it talk about turning pages? This I find beautiful in PodofoImpose plans, you can almost follow the paper through the hands of the program. Turn now, flip backwards, turn again. It is an instruction for a dance.
 
 
 % NOWSPEAKING: TL
@@ -370,11 +379,11 @@ Pretty much.
 
 % NOWSPEAKING: PM
 % ---------------
-The text you can read in the podofoimpose plans was taken from what Ludi and me did by hand. One of us was folding the paper, and the other was writing it into the plan. I think a lot of the things we talk about, are putting things from the real world into the computer. But you are putting things from the computer into the real world.
+The text you can read in the PodofoImpose plans was taken from what Ludi and me did by hand. One of us was folding the paper, and the other was writing it into the plan. I think a lot of the things we talk about, are putting things from the real world into the computer. But you are putting things from the computer into the real world.
 
 % NOWSPEAKING: FS
 % ---------------
-Can you describe again these two types of imposition, the first one being very familiar to us. It must be the most frequently asked question on the Scribus mailinglist: "How to do imposition". Even the most popular search term on the OSP website is "Bookletprinting". But what is the difference with the plan for a 3D object? A classic imposition plan is also somehow about turning a flat surface into a three dimensional object?
+Can you describe again these two types of imposition, the first one being very familiar to us. It must be the most frequently asked question on the Scribus mailing list: _How to do imposition_. Even the most popular search term on the OSP website is 'Bookletprinting'. But what is the difference with the plan for a 3D object? A classic imposition plan is also somehow about turning a flat surface into a three dimensional object?
 
 
 % NOWSPEAKING: TL
@@ -437,7 +446,7 @@ Panoramic images are usually spherical or circular. Do you take certain images w
 % NOWSPEAKING: TL
 % ---------------
 To an extent. I take enough images. Once I have a whole bunch of images, the task is to select a particular image that goes with a particular shape. Like cubes there are few lines and it is convenient to line them up to an actual rectangular space like a room. The tetrahedron made out of cones, I made one of Mount St. Helens, because I thought it was an interesting way to put the two cones together.
-You mentioned three-D printers earlier, and one thing I would like to do is to extend the panoramic image to be more like a progression. For most panoramic images, the focal point is a single point in space. But when you walk along a trail, you might have a series of photographs all along. I think it could be an interesting work to produce, some kind of ellipsoidal shape with a panoramic image that flows along the trail.
+You mentioned 3D printers earlier, and one thing I would like to do is to extend the panoramic image to be more like a progression. For most panoramic images, the focal point is a single point in space. But when you walk along a trail, you might have a series of photographs all along. I think it could be an interesting work to produce, some kind of ellipsoidal shape with a panoramic image that flows along the trail.
 
 % NOWSPEAKING: FS
 % ---------------
