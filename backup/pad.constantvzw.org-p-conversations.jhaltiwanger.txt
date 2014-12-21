@@ -1,25 +1,34 @@
-% STARTED TO REMOVE UNEDITED PARTS!
-
-
 % Lines starting with % are comments and will be ignored
 % comments may be treated as commands/actions/functions
-
 % [^]{footnote}
-
 % http://snelting.domainepublic.net/interviews/john.mp3
 
 % FS = Femke Snelting
 % JH = John Haltiwanger
 
-% TITLE: ConTeXt
+% USED FOR NAME INDEXING
+% HIDDENKEYWORDS: Haltiwanger, John
+
+
+% TITLE: ConTeXt and the ballistics of design
 
 % NOWSPEAKING: X
 
-Why this interview, when. Never transcribed until much later, for this book.
+%SCALEFONT: 1.27
+
+In **September 2013** writer, developer and free-style poet John Haltiwanger
+joined the ConTeXt user meeting in Brejlov (Czech Republic)[^]{http://meeting.contextgarden.net/2013/}
+to present his ideas on Subtext, 'A Proposed Processual Grammar for a Multi-Output Pre-Format'.
+The interview started as a way to record John's impressions fresh from the meeting, but moved into
+discussing the future of layout in terms of ballistics.
+
+% RESETFONT:
+% BIGSKIP:
 
 % NOWSPEAKING: FS
 % ----------------------------
 How did you end up going to the ConTeXt meeting? Actually, where was it?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
@@ -31,25 +40,26 @@ So I was  asking around:
 _Where is Brejlov? What train do I take to Brejlov?_
 But nobody had any clue, that this was even something that existed.
 So that was tricky. But it was really a beautiful venue.
-
 How I ended up at the conference specifically? That's a good question.
 I'm not an incredibly active member on the ConTeXt mailing list,
 but I pop up every now and again and just kind of express a few things
 that I have going on. So initially I mentioned my thesis,
 back in January or maybe March, back when it was really unformulated.
 Maybe it was even in 2009. But I got really good responses from
-Hans[^]{Hans Hagen is ...}.
+Hans.[^]{Hans Hagen is the principal author and developer of ConTeXt,
+past president of NTG, and active in many other areas of the TeX 
+community [@tug.org:2014:hagen]}
 % That this sounded like a good project.
 Originally, when I first got to the Netherlands in 2009 in August, the
 next weekend was the 3rd annual ConTeXt meeting. I had barely used
 the software at that point, but  I had this sort of impulse to go.
-% I'm in the Netherlands, I'm in Europe. 
+% I'm in the Netherlands, I'm in Europe.
 Well anyway, I did not have the money for it at that time. So the fact 
-that there  was another one coming round, was like: 
-_Ok, that sounds good_. But there was something,  ... we got into a conversation 
-on the  mailing list. Somebody, a non-native english speaker was asking 
-about pronouns and gendered pronouns and the proper way of 'pronouning' things. 
-In english we don't have a suitable gender neutral pronoun. 
+that there  was another one coming round, was like:
+_Ok, that sounds good_. But there was something,  ... we got into a conversation
+on the  mailing list. Somebody, a non-native English speaker was asking
+about pronouns and gendered pronouns and the proper way of 'pronouning' things.
+In English we don't have a suitable gender neutral pronoun.
 So he asked the questions and some guy responded:
 _The proper way to do it, is to use he. It's an invented problem.
 This whole question is an invented question and there is no such
@@ -57,26 +67,28 @@ thing as a need for considering any other options besides
 this._[^]{http://www.ntg.nl/pipermail/ntg-context/2010/051058.html}
 So I wrote back and said: _That's not up to you to decide,
 because if somebody has a problem, than there is a problem._ So I kind of
-naively suggested that we could make a unicode character,  that can stand
+naively suggested that we could make a Unicode character,  that can stand
 in, like a typographical element, that does not necessarily have a
 pronounciation yet. So something that, when you are reading it, you could
-either say he or she or they and it would be sort of [emergent|dialogic|personalized].
+either say he or she or they and it would be sort of `[emergent|dialogic|personalized]`.
 Like delayed  political correctness or delayed embraciveness.
-But, little did I know, that unicode was not the answer.
+But, little did I know, that Unicode was not the answer.
+
 
 % NOWSPEAKING: FS
 % ----------------------------
-Did they tell you that? That unicode is not the answer?
+Did they tell you that? That Unicode is not the answer?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
-Well, Arthur[^]{Arthur Reutenauer? is ...} actually
+Well, Arthur actually
 wrote back[^]{http://www.ntg.nl/pipermail/ntg-context/2010/051098.html},
-and he knows a lot about unicode and he said:
-_With unicode you have to prove that it's in use already._
-In my sense, unicode was a playground where I could just map whatever
+and he knows a lot about Unicode and he said:
+_With Unicode you have to prove that it's in use already._
+In my sense, Unicode was a playground where I could just map whatever
 values I wanted to be whatever glyph I wanted.
-Somewhere, in some corner of unused namespace or something.
+Somewhere, in some corner of a unused namespace or something.
 But that's not the way it works.
 But TeX works like this. So I could always just define a macro that would do this.
 Hans actually wrote a macro[^]{http://www.ntg.nl/pipermail/ntg-context/2010/051116.html}
@@ -84,13 +96,14 @@ that would basically flip a coin at the beginning of your paper.
 So whenever you wanted to use the gender neutral, you would just use
 the macro and then it wouldn't be up to you.
 It's another way of obfuscating, or pushing the responsibility
-away from you as an author. It's like '_ok, well, on this one it was she,
-the next it was he, or whatever_'.
+away from you as an author.
+It's like _ok, well, on this one it was she, the next it was he, or whatever_.
 
 
 % NOWSPEAKING: FS
 % ----------------------------
-But then in a way it doesn't matter?
+So in a way gender doesn't matter anymore?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
@@ -100,20 +113,22 @@ Taco, they know me, they said that it would great for you to do a
 presentation of this at the meeting.
 So that's very much how I ended up there.
 
+
 % NOWSPEAKING: FS
 % ----------------------------
-You had never met anyone from ConTeXt before? 
+You had never met anyone from ConTeXt before?
+
+% HIDDENKEYWORDS: Huyghebaert, Pierre
 
 % NOWSPEAKING: JH
 % ----------------------------
-No. You are the only person I knew. You and Pierre were
-% reads better in past tense
+No. You and Pierre were
 the only people I knew, that have been using it, besides me,
 at the time. It was interesting in that way, it was really ...
 I mean I felt a little bit ... nervous isn't exactly the word,
 but I sort of didn't know what exactly my positon was meant to be.
 Because these guys ... it's a users' meeting, right? But the way
-that tends to work out for open source  projects is developers
+that tends to work out for Open Source  projects is developers
 talking to developers. So ... my presentation was saturated ...
 I think, I didn't realise how quickly time goes in presentations,
 at the time. So I spent like 20 minutes just going through my attack
@@ -123,257 +138,285 @@ to be the black sheep. That's always a fun position.
 It was entertaining for me, to meet these people and to be at the 
 same time sort of an outsider. Not a really well known user
 contrasted with other people, who are more like cornerstones of
-the community. But somehow ... they were meeting everybody in person
-for the first time. And somehow I could connect ...
-So now, a month and a half later we're starting this ConText group,
+the community. They were meeting everybody in person
+for the first time. And somehow I could connect.
+So now, a month and a half later we're starting this ConTeXt group,
 an international ConTeXt users' group and I'm on the board,
 I'm editing the journal. So it's like, it ...
+
 
 % NOWSPEAKING: FS
 % ----------------------------
 ... that went fast!
 
+
 % NOWSPEAKING: JH
 % ----------------------------
 It went fast indeed!
 
+
 % NOWSPEAKING: FS
 % ----------------------------
-So what is this 'ConTeXt user group'?
+What is this 'ConTeXt User Group'?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
 To a certain extent the NTG, which is the
-Netherlands TeX Group had sort of been consumed from the inside by the
+Netherlands TeX Group, had sort of been consumed from the inside by the
 heavyness of ConTeXt, specifically in the Netherlands. The discussion started to
 shift to be more ConTeXt. Now the journal, the MAPS journal,
 there are maybe 8 or 10 articles, two of which are not written by either
 Hans or Taco, who are the main developers of ConTeXt. And there is zero on anything
-besides ConTeXt. So the NTG is almost presented as '_ok, if you like ConTeXt
-or if you wanna be in a ConTeXt user group, you join the NTG_'.
+besides ConTeXt. So the NTG is almost presented as _ok, if you like ConTeXt
+or if you wanna be in a ConTeXt user group, you join the NTG_.
 Apparently the journal used to be quite thick and there are lots of LaTeX users,
 who are involved. So partially the attempt is sort of ease that situation a little bit.
 
+
 % NOWSPEAKING: FS
 % ----------------------------
-So it allowed the two communities to separate?
+It allowed the two communities to separate?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
 Yeah, and not in any way like fast or abrupt fashion. We're trying to
 be very conscious about it. I mean, it's not ConTeXt's fault that LaTeX
-users are not submiting any articles for the journal.
+users are not submitting any articles for the journal.
 That user group will always have the capacity,
 those people could step up. The idea is to setup a more
 international forum, something that has more of the sense of support
-for ... Because the software is getting bigger and right now we're really
+for ... because the software is getting bigger and right now we're really
 reliant on this mailing list and if you have your stupid question either
 Hans, Taco or Wolfgang will shoot something back. And they become reliant
 on Wolfgang to be  able to answer questions, because there are more users
 coming. Arthur was really concerned, among other people, with the
 scalability of our approach right now. And how to set up
 this infrastructure to support the software as it grows bigger. I should
-forward you this email that I wrote, that is a response to their name
-choices. They were contemplating becoming a group called cows.
+forward you this e-mail that I wrote, that is a response to their name
+choices. They were contemplating becoming a group called 'cows'.
 Which is clearly an inside joke because they loved to do figure
-demonstrations with cows. And ... seeing ConTeXt as I do, as a platform, a
-serious platform, for the future. Something that ... it's almost like it
+demonstrations with cows. And seeing ConTeXt as I do, as a platform, a
+serious platform, for the future, something that ... it's almost like it
 hasn't gotten to its ... I mean it's in such rapid development ...  it's
 so undocumented ... it's so ... like ...  it's like rushing water or
 something.  But at some point ... it's gonna fill up the location.
-% It's going to be that independent space ... or ... 
-% I'm really mixing my metaphors here ... [0:12:34][?] 
-Maybe we're still building this platform, but when it's solid and all 
-the pieces are ... Everything is being converted to metric, no more inches 
-and miles and stuff. At that point, when we have this platform, it will turn 
-into a loadable Lua library. It won't even be an executable at that point. 
+Maybe we're still building this platform, but when it's solid and all
+the pieces are ... everything is being converted to metric, no more inches
+and miles and stuff. At that point, when we have this platform, it will turn
+into a loadable Lua library. It won't even be an executable at that point.
+
 
 % NOWSPEAKING: FS
 % ----------------------------
-It is interesting how quickly have become part of this community. From being complete outsider
-not knowing where to go, to now being on board, speaking about a communal future. 
+It is interesting how quickly you have become part of this community. From being complete outsider
+not knowing where to go, to now speaking about a communal future.
+
 
 % NOWSPEAKING: JH
 % ----------------------------
-That's a really interesting question. To begin with, I guess I have
+To begin with, I guess I have
 to confront my own seemingly boundless propensity for picking obscure
 projects ... as sort of my ... like the things that I champion.
 And ... it often boils down to flexibility.
+
 
 % NOWSPEAKING: FS
 % ----------------------------
 You think that obscurity has anything to do with the future compatibility of ConTeXt?
 
+
 % NOWSPEAKING: JH
 % ----------------------------
-Well, no. I think the obscurity is something, that I don't see this actually 
+Well, no. I think the obscurity is something that I don't see this actually
 lasting for too long in the situation of ConTeXt. As it gets more stable
 it's basically destined to become more of a standard platform. But this is
 all tied into to stuff that I'm planning to do with the software. If my
 generative typesetting platform ... you know ... works and is actually
 feasible, which is maybe a 80% job.
 
+
 % NOWSPEAKING: FS
 % ----------------------------
 Wait a second. You are busy developing another platform in parallel?
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Yes, although I'm kind of hovering over it or sort of superceeding it as
 an interface.
-You have LaTeX, which has been at 2e since the mid 90ies,
+You have LaTeX, which has been at version 2e since the mid 90ies,
 LaTeX 3 is sort of this dim point on the horizon.
 Whereas ConTeXt is changing every week. It's converting the entire structure
 of this macro package from being written in TeX to being written in Lua.
 And so there is this transition from what could be best described as an archaic
-approach to programming this shiny new piece of software.
-% I'm trying not to say platform too many times.
+approach to programming, to this shiny new piece of software.
 I see it as being competitive strictly because it has so much configurability.
 But that's sort of ...  and that's the double-edged sword of it, that
 the configuration is useless without the documentation.
-Knuth is famous  for saying that he realises he would have to
+Donald Knuth is famous for saying that he realises he would have to
 write the software and the  manual for the software himself.
 And I remember in our first conversation about the sort of paternalistic culture
 these typographic projects seem to have. Or at least in the sense of TeX,
 they seem to sort of coagulate around a central wizard kind of guy.
 
+
 % NOWSPEAKING: FS
 % ----------------------------
-Do you think ConTeXt is having potential for the future, where TeX and LaTeX belong ... to the past?
+You think ConTeXt has potential for the future, while TeX and LaTeX belong ... to the past?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
 I guess that's sort of the way it sounds, doesn't it?
 
+
 % NOWSPEAKING: FS
 % ----------------------------
-I guess I share some of your excitement, but also have doubts about how far the project actually is away from the past, you see. Maybe you can describe how you think it will develop, what will be that future? How you see that?
+I guess I share some of your excitement, but also have doubts about how far the project
+actually is away from the past. Maybe you can describe how you think it will develop,
+what will be that future? How you see that?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
-Right. That's a good way to start untangling all the stuff I was just  
-talking about, when I was sort of putting the cart before the horse. I see it  
-developing in some ways ... the way that it's used today and the way that 
-current, heavy users use it. I think that they will continue to use in  
-it in a similar way. But you already have people who are utilising   
-Luatex ... and maybe this is an important thing to distinguish between  
-ConTeXt and Luatex. Right now they're sort of very tied together. Their  
-development is intrinsic, they drive each other. But to some extent some  
-of the more interesting stuff that is been being done with these tools is  
-... like ... xml processing. Where you throw xml into Lua code and run 
-Luatex kerning operations and line breaking and all this kind of stuff. 
-Things that, to a certain extent, you needed to engage TeX on its own terms 
+Right. That's a good way to start untangling all the stuff I was just
+talking about, when I was sort of putting the cart before the horse. I see it
+developing in some ways ... the way that it's used today and the way that
+current, heavy users use it. I think that they will continue to use in
+it in a similar way. But you already have people who are utilising
+LuaTeX... and maybe this is an important thing to distinguish between
+ConTeXt and LuaTeX. Right now they're sort of very tied together. Their
+development is intrinsic, they drive each other. But to some extent some
+of the more interesting stuff that is been being done with these tools is
+... like ... XML processing. Where you throw XML into Lua code and run
+LuaTeX kerning operations and line breaking and all this kind of stuff. 
+Things that, to a certain extent, you needed to engage TeX on its own terms
 in the past.
-That's why macro packages develop as some sort of sustainable way to handle your 
-workflow. 
-This introduction of Luatex I think is sort of ... 
-You can  imagine it being loaded as a library just as a way to typeset the documentation 
-for code. It could be like this holy grail of  literate programming. 
-Not saying this is the answer, but that at least it will come out as a nice looking pdf.    
+That's why macro packages develop as some sort of sustainable way to
+handle your workflow. 
+This introduction of LuaTeX I think is sort of ...
+You can  imagine it being loaded as a library just as a way to typeset the documentation
+for code. It could be like this holy grail of  literate programming.
+Not saying this is the answer, but that at least it will come out as a nice looking .pdf.
+
 
 % NOWSPEAKING: FS
 % ----------------------------
-Luatex allows the connection to TeX to widen? 
+LuaTeX allows the connection to TeX to widen?
+
 
 % NOWSPEAKING: JH
 % ----------------------------
-Yeah. It takes sort of the essence of TeX, but ... And this is, I guess,
-the crucial thing about Luatex that up until now TeX is both a 
-typesetting engine and a programming language. And not a very good one.  
-So now that TeX can be the engine, the Tschicholdian algorithms,  the 
-modernist principles, that, for whatever reason, do look really  good, 
-can be utilised and connected to without having to deal with this 32 year old macro programming language.  
-On top of that and part of how directly engaging with that kind of   
-movement foreward is ... not that I am switching over to Luatex entirely 
-at   this point ... but that this generative typesetting platform that was sort 
-of the foundation of this journal proposal we sent to the NVO. 
-Where you could  imagine actual humanity scholars using something that is 
-akin to markdown or a wiki formatting kind of system. And I have a nice 
-little  buzzword for that called  _visually semantic markup_.
-xml, html, TeX, ... none of those are  visually semantic. Because it's 
-all based around these primitives  'ok,  between the angle brackets ... ' 
-Everything is between angle brackets. You  have to look what's inside the 
-angle brackets to know what is happening to what's between the angle 
-brackets. Whereas a visually semantic markup ...  ok headers! ok so it's 
-between 2 hashmarks or it's between two whatever ... The  whole design of 
-those preformatting languages, maybe not wiki markup, but  at least 
-markdown was that it could be printed as a plaintext document and  you 
-could still get a sense of the structure. I think that's  a  really 
-crucial development. So ... in a webbrowser, on one half of 
-the  browser you have you text **input**, on the other half you 
-have an real-time  rendering of it into html. In the meantime, the way 
-that the interface works,  the way that the visually semantic markup 
-works, is that it is a mutable interface. It could be tailored to your 
-sense of what it should look like. It can be tailored 
-specifically  to different  workflows. And because there is such a 
-diversity within typographic workflows, typesetting workflows ... 
-that is akin to the separation of form and content in html 
-and css, but it's not meant to be ... as problematic as that. I'm not sure 
-if that is a real goal, or if that goal is feasible or not. But it's not 
-meant to be drawing an artificial  line, it's just meant to make things 
+Yeah. It takes sort of the essence of TeX. And this is, I guess,
+the crucial thing about LuaTeX that up until now TeX is both a
+typesetting engine and a programming language. And not a very good one.
+So now that TeX can be the engine, the Tschicholdian algorithms, the
+modernist principles, that, for whatever reason, do look really  good,
+can be utilised and connected to without having to deal with this 32 year old macro programming language.
+On top of that and part of how directly engaging with that kind of
+movement foreward is ... not that I am switching over to LuaTeX entirely
+at  this point ... but that this generative typesetting platform that was sort
+of the foundation of this journal proposal we did.
+Where you could  imagine actual humanity scholars using something that is
+akin to markdown or a wiki formatting kind of system. And I have a nice
+little  buzzword for that:  _visually semantic markup_.
+XML, HTML, TeX, ... none of those are  visually semantic. Because it's
+all based around these primitives  'ok,  between the angle brackets'.
+Everything is between angle brackets. You  have to look what's inside the
+angle brackets to know what is happening to what's between the angle
+brackets. Whereas a visually semantic markup ...  OK headers! OK so it's
+between two hashmarks or it's between two whatever ... The  whole design of 
+those preformatting languages, maybe not wiki markup, but  at least
+markdown was that it could be printed as a plaintext document and  you
+could still get a sense of the structure. I think that's  a  really
+crucial development. So ... in a web browser, on one half of
+the  browser you have you text input, on the other half you
+have an real-time rendering of it into HTML. In the meantime, the way
+that the interface works,  the way that the visually semantic markup
+works, is that it is a mutable interface. It could be tailored to your
+sense of what it should look like. It can be tailored
+specifically  to different  workflows. And because there is such a
+diversity within typographic workflows, typesetting workflows ...
+that is akin to the separation of form and content in HTML
+and CSS, but it's not meant to be ... as problematic as that. I'm not sure
+if that is a real goal, or if that goal is feasible or not. But it's not
+meant to be drawing an artificial  line, it's just meant to make things
 easier.
+
 
 % NOWSPEAKING: FS
 % ------------------------
-% So by pulling apart historically grown elements, it then becomes ... possibly modern?
+So by pulling apart historically grown elements, it becomes ... possibly modern?
+
 
 % NOWSPEAKING: JH
 % ------------------------
 Hypermodern?
 
+
 % NOWSPEAKING: FS
 % ------------------------
 Something for now and later.
 
+
 % NOWSPEAKING: JH
 % ------------------------
-Yes. Part of this idea, the trick ... This software is called _subtext_ and  
-that point it's a conceptual project, but that will change pretty soon. 
-Its trick is this idea of separation instead of form and content, it's  
-translation and effect. The parser itself has to be mutable, has 
-to be able to pull in the interface, print like decorations basically from 
-a yaml configuration file or some sort of equivalent. One of this 
-configuration mechanisms that was designed to be human readable and not 
-machine readable. Like, well both, striking that balance. Maybe we can 
+Yes. Part of this idea, the trick ... This software is called _Subtext_ and
+at this point it's a conceptual project, but that will change pretty soon.
+Its trick is this idea of separation instead of form and content, it's
+translation and effect. The parser itself has to be mutable, has
+to be able to pull in the interface, print like decorations basically from
+a yaml configuration file or some sort of equivalent. One of this
+configuration mechanisms that was designed to be human readable and not
+machine readable. Like, well both, striking that balance. Maybe we can
 get to that kind of  ... talking about agency a little bit.
-Its trick to really pull that out so that if you want to ... for instance now in 
-markdown if you have quotes it will be translated in ConTeXt into  `\quotation`. 
-In ConTeXt that's a very simple switch to turn it into german quotes. Or I guess 
-that's more like international quotes, everything not english. 
-% Just that mechanism ... 
-For the purposes of  markdown there is no, like really easy 
-way, to change that part of the interface. So that when I'm writing, when 
-I use the angle brackets as a  quote it would turn into a `\quotation` in 
-the output. Whereas with subtext  you would just go into the interface type like configuration and say: 
-These are converted  into a quote basically. And then the effects are 
-listed in other configuration files so that the effects of quotes in html can  be ...    
+Its trick to really pull that out so that if you want to ... for instance now in
+markdown if you have quotes it will be translated in ConTeXt into  `\quotation`.
+In ConTeXt that's a very simple switch to turn it into German quotes. Or I guess
+that's more like international quotes, everything not English.
+For the purposes of  markdown there is no, like really easy
+way, to change that part of the interface. So that when I'm writing, when
+I use the angle brackets as a  quote it would turn into a `\quotation` in
+the output. Whereas with Subtext  you would just go into the interface type like configuration and say:
+These are converted  into a quote basically. And then the effects are
+listed in other configuration files so that the effects of quotes in HTML can be ...
+
 
 % NOWSPEAKING: FS
 % ------------------------
 ... different.
 
+
 % NOWSPEAKING: JH
 % ------------------------
-Yes. Maybe have specific css properties for spacing, that kind of stuff.  
-And then in ConTeXt the same sort of  ... both the environmental setup  
-as well as the raw _what is put into the document when it's translated_. 
-This kind of separation ... you know at that point if both 
-those  effects are already the way that you want them, then all you have 
-to do is  change the interface. And then later on typesetting system, 
-maybe iTeX comes out, you know, Knuth's joke, anyway ... 
-That kind of separation seems to imply a future proofing that I find very 
-elegant.  That you can just add later on the effects that you need for a 
-different system. Or a different version of a system, not that you have 
-to learn 'mark 6', or something like that ...  
+Yes. Maybe have specific CSS properties for spacing, that kind of stuff.
+And then in ConTeXt the same sort of  ... both the environmental setup
+as well as the raw _what is put into the document when it's translated_.
+This kind of separation ... you know at that point if both
+those  effects are already the way that you want them, then all you have
+to do is  change the interface. And then later on typesetting system,
+maybe iTeX comes out, you know, Knuth's joke, anyway.
+That kind of separation seems to imply a future proofing that I find very
+elegant.  That you can just add later on the effects that you need for a
+different system. Or a different version of a system, not that you have
+to learn 'mark 6', or something like that ...
+
 
 % NOWSPEAKING: FS
 % ------------------------
-Back to the future ... I wonder about ConTeXt being bound to a particular practise located with two particular people. Those are actually the ones that produce the most complet use-cases and thereby define the kind of practise that ConTeXt allows. Do you think this is a temporary stage or do you by someone like you being on the board, as an outsider, that it is a sign of things going to change?
+Back to the future ... I wonder about ConTeXt being bound to a particular practise
+located with two specific people. Those two are actually the ones that produce the
+most complete use-cases and thereby define the kind of practise that ConTeXt allows.
+Do you think this is a temporary stage or do you think that by inviting someone like you
+on the board, as an outsider, that it is a sign of things going to change?
+
 
 % NOWSPEAKING: JH
 % ------------------------
-Right. Well, yeah, this is another one of those put-up or shut-up kind of  
-things because for instance at the NTG meeting on Wednesday my presentation 
+Right. Well, yeah, this is another one of those put-up or shut-up kind of
+things because for instance at the NTG meeting on Wednesday my presentation
 was very much a user presentation in a room of  developers.
 Because I basically was saying: Look like this is gonna be a presentation
 -- most presentation are about what you know -- and this  presentation is really
@@ -381,95 +424,112 @@ about what I don't know ... but what I **do** know is  that there is a lot of ro
 for teaching ConTeXt in a  more practical  fashion, you could say. So my idea is
 to basically write this documentation on how to typeset poetry, which gets into a
 lot of interesting questions, just a lot of interesting things.
-Like you gonna need to write your own  macros just at the start 
-... to make sure you have not to go in and change every width  value at 
+Like you gonna need to write your own  macros just at the start
+... to make sure you have not to go in and change every width  value at
 some point. you know, this  kind of  thing like ... really baby steps.
-How to make a coverpage. These kinds  of  things are not documented.    
+How to make a coverpage. These kinds  of  things are not documented.
+
 
 % NOWSPEAKING: FS
 % ------------------------
-Documentation is let's say an _interesting_ challenge for ConTeXt.     
-
-% NOWSPEAKING: JH
+Documentation is let's say an _interesting_ challenge for ConTeXt.
+%
+%
+% N!OWSPEAKING: JH
 % ------------------------
-(laughs)
+(_laughs_)
+%
+%
+% N!OWSPEAKING: FS
+% -----------
+How do you think the ConTeXt community could enable different kinds of use,
+beyond the ones that are envisioned right now? I guess you have a plan?
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-How do you think the ConTeXt community could enable different kinds of use, from the ones that are envisioned right now? I guess you have a plan?
 
 % NOWSPEAKING: JH
 % --------------------------
-Yeah ... that's a good question. Part of it is  just to do stuff, like to get you more involved in the ConTeXt group for  instance, because I was talking to Arthur and he hadn't even read the article from V/J12. I think that kind of stuff is really important. It's like the  whole Blender Foundation kind of impulse ... we have some developers who are paid to do this and that's kind of rare already in an open source/free software project. But then to kind of have users pushing the boundaries and hitting limits ... it's rare that Hans will encounter some kind of use case that he  didn't think of and react in a negative way. Or react in a way like 'I'm  not gonna even entertain that possibility'. Part of it is moving beyond  this ... even the sort of centralisation as you call it ... how to do  that directly ... I see it more as baby steps for me personally at this point. Just getting ... you know ... ok so ... a tutorial on how to  typeset a cd booklet. Just basically what I'm writing. That at the same  time, you know, gets you familiar with ConTeXt and TeX in general. Before  my presentation I was wondering, I was like: how do you set a variable in  TeX. Well, it's a macro programming language so you just make a macro that returns a value. Like that kind of stuff is not initially obvious if you're used  to a different paradigm or you know ..  So these baby steps of kind of  opening the field up a little bit and then using it my  own practise of guerilla typesetting and kind of putting it out there.  and you know ... And people gonna start being like: 'oh yeah, beautiful documents  are possible' or at least better looking documents are possible. And then  once we have them at that, like, then how do you we take it to the next  level. How do I turn a lyric sheet from something that is sort of static  to ... you know ... two pages that are like put directly on the screen next to  each other. Like a screen based system where it's animated to the point  ... and this what we actually started to karaoke last night because I was talking about but so you have an english version and a spanish version for instance in the case  of the music that I've been doing and we can animate ... we can have timed transitions ... so you can have a 'current lyric indicator' move down the page. That kind of  use case is not something that Pragma is ever going to run  into. But as soon as it is done and documented then what's the  next thing,  what kind of animations are gonna be ... or what  kind of ... once that possibility is made real or concrete ... you know,  so I kind of see it as a very iterative process at this point. I don't  have any kind of grand scheme other than Subtext kind of replacing  Microsoft Word as the dominant academic publishing platform, I think.  (laughs)     
+Yeah ... that's a good question. Part of it is  just to do stuff, like to get you more involved in the ConTeXt group for  instance, because I was talking to Arthur and he hadn't even read the article from V/J10[^]{_Vebindingen/Jonctions: Tracks in electr(on)ic fields_. Constant, 2009}. I think that kind of stuff is really important. It's like the  whole Blender Foundation kind of impulse. We have some developers who are paid to do this and that's kind of rare already in an Open Source/Free Software project. But then to kind of have users pushing the boundaries and hitting limits. It's rare that Hans will encounter some kind of use case that he  didn't think of and react in a negative way. Or react in a way like _I'm  not gonna even entertain that possibility_. Part of it is moving beyond  this ... even the sort of centralisation as you call it ... how to do  that directly ... I see it more as baby steps for me personally at this point. Just getting a tutorial on how to  typeset a cd booklet. Just basically what I'm writing. That at the same  time, you know, gets you familiar with ConTeXt and TeX in general. Before  my presentation I was wondering, I was like: how do you set a variable in  TeX. Well, it's a macro programming language so you just make a macro that returns a value. Like that kind of stuff is not initially obvious if you're used  to a different paradigm or you know ..  So these baby steps of kind of  opening the field up a little bit and then using it my  own practise of guerilla typesetting and kind of putting it out there.  and you know ... And people gonna start being like: _oh yeah, beautiful documents  are possible_ or at least better looking documents are possible. And then  once we have them at that, like, then how do you we take it to the next  level. How do I turn a lyric sheet from something that is sort of static  to ... you know ... two pages that are like put directly on the screen next to  each other. Like a screen based system where it
+'s animated to the point  ... and this what 
+we actually started to karaoke last night because I was talking about but so you have an English version and a spanish version for instance in the case  of the music that I've been doing and we can animate ... we can have timed transitions ... so you can have a 'current lyric indicator' move down the page. That kind of  use case is not something that Pragma (Hans Haagen's company for Advanced Document Engineering) is ever going to run  into. But as soon as it is done and documented then what's the  next thing,  what kind of animations are gonna be ... or what  kind of ... once that possibility is made real or concrete ... you know,  so I kind of see it as a very iterative process at this point. I don't  have any kind of grand scheme other than Subtext kind of replacing  Microsoft Word as the dominant academic publishing platform, I think.  (_laughs_)
+
 
 % NOWSPEAKING: FS
 % --------------------------
 Just take over the world.
 
+
 % NOWSPEAKING: JH
 % --------------------------
 That's one way to do it, I think.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
-You brought up about manuals for things that you would maybe not do in another kind of software ...
+% -----------
+You talked about manuals for things that you would maybe not do in another kind of software ...
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
 
+
 % NOWSPEAKING: FS
-Manuals that not just explain _this is how you do it_ but also _this is the kind of user you could be_.    
+% ----------
+Manuals that not just explain 'this is how you do it' but also 'this is the kind of user you could be'.
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
-  
+ 
 
 % NOWSPEAKING: FS
 % ----------
-I'm not sure if instructions for how to produce a cd-cover would draw me in, but to understand how to set a variable would.
+I'm not sure if instructions for how to produce a cd cover would draw me in, but if it helped me understand how to set a variable, it would.
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
+
 
 % NOWSPEAKING: FS
 % ----------
 You want the complete manual of course?
 
+
 % NOWSPEAKING: JH
 % ----------
 Yeah!
 
+
 % NOWSPEAKING: FS
 % ----------
-You were saying that you wanted to replace Microsoft  Word as the standard typesetting tool for academic publishing. You are talking  
-about the future for ConTeXt more in the context of academic publishing than traditional design practise?
+You were saying that ConTeXt should replace Microsoft Word as the standard typesetting tool for academic publishing. You are thinking about the future for ConTeXt more in the context of academic publishing than in traditional design practise?
+
 
 % NOWSPEAKING: JH
 % ----------
-Yes. In terms of Subtext, I mean the origins of that project, very much ... It's an interesting mix because it's really a hybridity of many different processes. Some, muchcome directly from this obscure art  project 'the abstraction'. So I have stuff like the track changes using git version control and everything being  placed on plaintext as a necessity.  That's a holdover from that project as well as the idea of gradiated presence. Like software enabling a more real-time peer review, anonymous peer review system. And even a collaborative platform where you  don't know who you're writing with, until the article comes out. Someting  like out that. So these interesting tweaks that you can kind of make, those all are  holdovers from this very, very much maybe not  traditional design practise  but certainly like ... twisted artistic  project that was based around hacking  a hole from signified to siginifier  and back again. So ... In terms of  its current envisionment and the use  case for which we were developing it at the beginning, or I'm developing  it, whatever ... I'll say it the royal way, is an academic thing. But I think that ... doesn't have to stop there and ...     
+Yes. In terms of Subtext, I mean the origins of that project, very much ... It's an interesting mix because it's really a hybridity of many different processes. Some, much come directly from this obscure art  project 'the abstraction'. So I have stuff like the track changes using Git version control and everything being  placed on plaintext as a necessity.  That's a holdover from that project as well as the idea of gradiated presence. Like software enabling a more real-time peer review, anonymous peer review system. And even a collaborative platform where you  don't know who you're writing with, until the article comes out. Someting  like out that. So these interesting tweaks that you can kind of make, those all are  holdovers from this very, very much maybe not  traditional design practise  but certainly like ... twisted artistic  project that was based around hacking  a hole from signified to siginifier  and back again. So ... In terms of  its current envisionment and the use  case for which we were developing it at the beginning, or I'm developing  it, whatever ... I'll say it the royal way, is an academic thing. But I think that ... doesn't have to stop there and ...     
+
 
 % NOWSPEAKING: FS
 % ----------
-At some point at OSP we decided to try ConTeXt because we were stuck with Scribus for page layout as the only option in Free Software. We wanted escape that kind of stiffness of the page, or of the canvas in a way. But we had to conclude that ConTeXt was not the dream solution either. For us it had, I think, a lot to do, of course, with issues of  documentation ... of not understanding, not coming from that kind of automatism of treating it as another programming language. So I think we could have had much more fun if we had understood the culture of the project better.
-I think the most frustrating experience was to find out how the model of typesetting is so much linked to the Tschichold universe, that at the moment you try to break  out, the system completely looses all flexibility. And it is almost as if you can hear it freeze.
-So I was wondering, because I know you're thinking  about these things, how a system like this could be flexible, also in its understanding of what a text is on a page. 
-So if we blame half of our troubles with ConTeXt on our inability to actually understand what we could do wth ConTeXt, I think there is a lot also in its assumption what a legible text would look like, how it's  structured, how it's done. Do you think a modern version of ConTeXt will keep that kind of inflexibility? I mean will it gain flexibility in a sense of being  scriptable, being easier to connect to databases, to whatever, but how can it become more flexible in it's understanding of what a page or a book could be?
+At some point at OSP we decided to try ConTeXt because we were stuck with Scribus for page layout as the only option in Free Software. We wanted escape that kind of stiffness of the page, or of the canvas in a way. But ConTeXt was not the dream solution either. For us it had a lot to do, of course, with issues of  documentation ... of not understanding, not coming from that kind of automatism of treating it as another programming language. So I think we could have had much more fun if we had understood the culture of the project better.
+I think the most frustrating experience was to find out how much the model of typesetting is linked to the Tschichold universe, that at the moment you try to break out, the system completely looses all flexibility. And it is almost as if you can hear it freeze.
+So if we blame half of our troubles with ConTeXt on our inability to actually understand what we could do with ConTeXt, I think there is a lot also in its assumption what a legible text would look like, how it's  structured, how it's done. Do you think a modern version of ConTeXt will keep that kind of inflexibility? How can it become more flexible in it's understanding of what a page or a book could be?
+ 
 
- % NOWSPEAKING: JH
+% NOWSPEAKING: JH
 % ----------
-That's an interesting question, because I'm not into the development side  of  Luatex at all,
+That's an interesting question, because I'm not into the development side of Luatex at all,
 but I would be surprised if the way that it was  being implemented was not significantly more
-modular than for instance when it was written in Pascal, you know, how that was.
-Yeah, that's a   really interesting question of how swapable is the backend.
+modular than for instance   when it was written in Pascal, you know, how that was.
+Yeah, that's a   really interesting question of how swappable is the backend.
 How much can   we go in and kind of ... you know. And it its an inspirational question to  me,
-because now I'm trying to envision a different page or a different  way  of ... you know ...
-And I'm really curious about that. But I think  that's ...  ConTeXt its self ... will probably ...
-will likely be pretty  stable in its  scope ...  in that way of being ... sort of ...  deterministic in its 
-expectations. But where that leaves us as users ... I  think that ... first I'd  be really surprised if
-the engine itself, if Luatex was not being some way  written to ... I feel really ignorant about this,
+because now I'm trying to envision a different page. And I'm really curious about that. But I think that ConTeXt itself will likely be pretty stable in its  scope ...  in that way of being ... sort of ...  deterministic in its 
+expectations. But where that leaves us as users ... first I'd  be really surprised if
+the engine itself, if LuaTeX was not being some way  written to ... I feel really ignorant about this,
 I wish I just knew.  But,  yeah, there must be ... There is no way to translate this into a modern
 programming language without somehow thinking about this in terms of the design.
 I guess to certain extent the answer to your question is dependent  on the conscientiousness
@@ -477,120 +537,122 @@ of Taco and the other Luatex developers for this  kind of modularity. But I don'
 I'm actually feeling very  imaginatively lacking in terms of  trying to understand what you're 
 award-winning book did not accomplish for you ... Yeah, what's wrong with that?
 
+% HIDDENKEYWORDS: Huyghebaert, Pierre
+
 % NOWSPEAKING: FS
 % ----------
 I think it would be good to talk with Pierre, not Pierre Marchand 
 but Pierre ...
 
+
 % NOWSPEAKING: JH
 % ----------
 ... Huggybear.
 
+
 % NOWSPEAKING: FS
 % ----------
-Yeah. We have been talking  about the river as a metaphor for lay-out ... like were you could have things that are ... let's say fluid and
-other things that could be placed and force things around it. Because layout is often a combination of those two things. And this is what is frustrating in canvas based layout that it is all fixed and you have to make it look like it's fluid. And here it's all  fluid and some times you want it to be fixed. And at the moment you fix something everything breaks. Then it's up to you. You're on your own.
+Yeah. We have been talking  about 'rivers' as a metaphor for layout ... like were you could have things that are ... let's say fluid and other things that could be placed and force things around it. Layout is often a combination of those two things. And this is what is frustrating in canvas based layout that it is all fixed and you have to make it look like it's fluid. And here it's all fluid and sometimes you want it to be fixed. And at the moment you fix something everything breaks. Then it's up to you. You're on your own.
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
+
 
 % NOWSPEAKING: FS
 % ----------
 The experience of working with ConTeXt is that it is very much elastic, but there is very little
-expectations of what this elasticity could bring. 
+imagination about what this elasticity could bring. 
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
 
+
 % NOWSPEAKING: FS
 % ----------
-It's a dream of a universally beautiful page, in a way is using flexibility to arrive at something that is fixed.
+It's all about creating universally beautiful pages, in a way it is using flexibility to arrive at something that is already fixed.
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
+%
+%
+% N!OWSPEAKING: JH
+% -----------
+That's an interesting point. I would be actually suprised ... I know that
+there is something called ... there is all sorts of weird stuff in ConTeXt
+that ... it's one of this rabbit holes but I know there is
+for instance  grid layout ... which I think maybe adresses a few of those
+... but it's  also ... the documentation is ... is like ...
 
-% NOWSPEAKING: JH
-% -- EDITED -----
-That's an interesting point. I would be actually suprised ... I know that  
-there is something called ... there is all sorts of weird stuff in ConTeXt 
-that I ... you know ... it's one of this rabbit holes but I know there is 
-for instance  grid layout ... which I think maybe adresses a few of those 
-... but it's  also ... the documentation is ... is like ...  
 
 % NOWSPEAKING: FS
 % ----------
-Well, I mean you sense that there is a lot more possible than we ever can  
-imagine, but ... again ... this goes back to the  
-sort of centralist question: If those possibilities are mainly details in  
-the head of the main developers than how will I ever start to fantasize about the  
+Well, there is a lot more possible than we ever tried, but ... again ... this goes back to the
+sort of centralist question: If those possibilities are mainly details in
+the head of the main developers than how will I ever start to fantasize about the
 book I would want to make with it?
 
+
 % NOWSPEAKING: JH
 % ----------
 Right.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
-I don't even need access to all the details. Because once I have a sort of 
-sense of what I want to do, I can figure it out. Right now you're sort of 
-half in the dark about the endless possibilities ... 
+% -----------
+I don't even need access to all the details. Because once I have a sort of
+sense of what I want to do, I can figure it out. Right now you're sort of in the dark about the endless possibilities ...
 
-% NOWSPEAKING: JH
-% ----------
-Yeah, that's true and that's ...
-
-% FEMKE:
-% LITERAL TRANSCRIPTION
-% ... because the principle of it is very opaque actually.  The .. The .. I  
-% don't know ... the material? I don't know if that's the right word, but 
-% ...       
 
 % NOWSPEAKING: JH
 % ----------
 It's existence is very opaque in some ways. The way that it's implemented,
 like everything about it is sort of ... looking at the macros that they  wrote,
 the macros that you invoke ... like ... that takes ... flow control in TeX is like ...
-I mean you might as well write it in Bash or ...  I mean I think Bash would even be more sensible to figuring out what's going on. So, the switch to Lua there is kind of  I think a useful step just in being more transparent. To allow you to get into becoming more intimate with the source or the operation of the system ... you know ... without having to go ... I mean I guess ...  the TeX Book would still be useful in some ways but that's ... I mean ... to go  back and learn TeX when you're just trying to use ConTeXt is sort of ...  it's not ... I'm not saying it's, you know ...  it's a proper assumption  to say 'oh yeah, don't worry about the rules and the way TeX is organised'  but you're not writing your documents in ConTeXt the way you would write  them if you're using plain TeX. I mean that's just ...  it's just not ...  It's a different workflow ... it has a completely different set of processes  that you need to arrange. So it has a very distinct organisational logic  ...  that I think that ... yeah ... like being able to go into the source and  be like _oh ok_, like I can see clearly this is ... you know. And then you  can write in your own way, you can write back in Lua.
+I mean you might as well write it in Bash or ...  I mean I think Bash would even be more sensible to figuring out what's going on. So, the switch to Lua there is kind of  I think a useful step just in being more transparent. To allow you to get into becoming more intimate with the source or the operation of the system ... you know ... without having to go ... I mean I guess ...  the TeX Book would still be useful in some ways but that's ... I mean ... to go  back and learn TeX when you're just trying to use ConTeXt is sort of ...  it's not ... I'm not saying it's, you know ...  it's a proper assumption  to say _oh yeah, don't worry about the rules and the way TeX is organised_  but you're not writing your documents in ConTeXt the way you would write  them if you're using plain TeX. I mean that's just ...  it's just not ...  It's a different workflow ... it has a completely different set of processes  that you need to arrange. So it has a very distinct organisational logic  ...  that I think that ... yeah ... like being able to go into the source and  be like _oh OK_, like I can see clearly this is ... you know. And then you  can write in your own way, you can write back in Lua.
+
 
 % NOWSPEAKING: FS
 % ----------
-This is the kind of documentation that will be the killer feature of ConTeXt ...
+This kind of documentation would be the killer feature of ConTeXt ...
+
 
 % NOWSPEAKING: JH
 % ----------
-Yeah   
+Yeah.
+
 
 % NOWSPEAKING: FS
 % ----------
 It's kind of strange paradox in the TeX community. At one hand you're  sort of
 supposed to be able to do all of it. But at the same time on every page you're told not to do it, because it's not for you to worry about this.
 
+
 % NOWSPEAKING: JH
 % ----------
 Right. That's why the macro packages exist.
 
+
 % NOWSPEAKING: FS
 % ----------
-With ConTeXt there is this strange sense of very much wanting to  
-understand the way the logic works, or ... what the material is,  
-you're dealing with. And at the same time being completely lost in the 
-labyrinth between the old stuff from TeX and 
-LaTeX, the newer stuff from Luatex, Mark 4, 3, 5, 6 ...    
-
-% NOWSPEAKING: JH
-% ----------
-Whatever.
+With ConTeXt there is this strange sense of very much wanting to
+understand the way the logic works, or ... what the material is,
+you're dealing with. And at the same time being completely lost in the
+labyrinth between the old stuff from TeX and
+LaTeX, the newer stuff from Luatex, Mark 4, 3, 5, 6 ...
 
 % NOWSPEAKING: JH
 % ----------
 So that was sort of my idea with the cd typesetting project, is
 not to say, that that is something that is immediately interesting to
 anybody who is not trying to do that specifically, right? But at the same
-time if I'm ... if it's broken down into 'How to do a bitmap cover page'.
-Lesson 1. Lesson 2: _How to start defining you own macros_.
+time if I'm ... if it's broken down into 'How to do a bitmap cover page'
+(=**Lesson 1**). **Lesson 2**: 'How to start defining you own macros'.
 And so you  know, it's this thing that could be at one point a very ...
 because the documentation as it stands right now is ... I think it's almost ...
 fixing that documentation, I'm not sure is even possible. I think that it has to
@@ -600,443 +662,153 @@ things do. I mean our reference manual now just shows you what arguments
 are available, but doesn't even list the available arguments. It's just  like:
 _These are the positions of the arguments_. And it's interesting.
 
+
 % NOWSPEAKING: FS
 % ----------
-So here you see the failure of expecting the writers of the program  to write the manual?
+So expecting writers of the program to write the manual fails?
+
 
 % NOWSPEAKING: JH
 % ----------
 Right.
 
-% NOWSPEAKING: FS
-% ----------
-So ... How could you move forward with that problem?
+% large part cut here ...
 
-% NOWSPEAKING: JH
-% ----------
-Yeah. I think that this is a ... sort of ... an interesting  position   that I'm in as a relatively green user of the software ... So I'm making   mistakes ... I'm learning new things every day. So when I have something  in  particular in mind it's ... in a way they do write the manual, beit's   their answer to the questions to allow me to do my version of the   documentation. But I think part of it is really encouraging more of a   sense of ... responsability on the part of users and power users and even   developers, like not necessarily of the core developers, because they have  a lot on  their plate. But for a people that are using this every day ...  to sort  of put back a little bit into ... you know ... ok so you do ...  you ...  you use imposition every day. So ... just do a little tutorial on  imposition. Just like ... sort of giving this sense that maybe ... It's  free software ...  you know ... We all complain about the documentation so  ... these people really know how to do  a lot of things. But maybe that's not even the right angle. Maybe the right angle is for people who are stumbling around to write more  of their experience and then get  feedback from the power users. Sort of this like process. But one thing  that I think is actually a really cool angle that Arthur and I were  talking about is ... for the ... we were talking about ways to  make like   ... to distinguish as a member what do you get extra. Because right now  sort of ... NTG's approach is that all articles published in MAPS, the pdfs only come online a year after they've been written. Which to me ...  I'm not  ... I don't like that position, because ... that ... It just goes  against  my basic ideas of sharing and how to build a strong community is,  you  know, like the more you share the more people are gonna share back,  but  also it's sort of the way that open source has been so successful. That   we're sharing everything and it's sort of *woosh* 
-... just like  ... you   know ....  levels the playing field a little bit. So ... the  value add bonus for being in the ConTeXt group would be  for our  journal you would  actually get the source of how it was set. And so you could ... itself ...  maybe with comments and real like ... and then with that maybe we start  pushing ourselves to do more tricks or to have some kind of different ...  you know ... so that each issue there is something else in there that ... you know  ... 
-  
 
 % NOWSPEAKING: FS
-% ----------
-That's interesting ...
+% -----------
+What is the difference between your plans for Subtext and a page layout program like Scribus?
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-And it's not meant like _ok, you didn't pay to be in the group, so you  don't get source_! 
-Like it's not meant to be some sort of judgement call on someone who isn't a dues 
-paying member, but it's supposed to be ... you know ...
-You have to give the members something that ... you know ... to strengthen the community.
-And this is something you know ... there is manuals that Hans has written that are 
-on his harddrive alone. And so  ... It's stuff like that ... that's fine. He's sharing a lot with us already. 
-Like ... he can do that, but to sort of put this kind of priciple in ... yeah ... like that we know how to 
-do it and you get to see how it's  done. 
-That's one ... like more ...  other than my other suggestion, which  is: 
-Uh ... write documentation!    
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-It seems, I don't know if   that's true ... that documentation is very much being made and developed adhoc. So I think the problem is more about how to edit, let's say, between the existing documentation, than to write more.
-
-% NOWSPEAKING: JH
-% ----------
-Right. And in some ways I think that's definitely valid. It's a very  valid critique.
-That's one thing that we've been talking about  too, is ... with the ConTeXt group ... 
-is sort of setup ... like an editorial impulse, where he have a few people who are 
-dedicated to wiki pruning and sort of going in and maybe taking these examples that  
-come up in the mailing list and putting them in the wiki. Making sure that 
-happens somehow. Or ... taking the stuff that's in the wiki and actually  making it ... 
-you know ... complete instead of like sort of half of an  explanation. So that's definitely ... 
-Arthur and I were talking about that as a solution. Because, you're right, it's not necessarily
-about writing  brand new documentation. But ... I mean ... like in the case  of the  
-reference manual ... you know I look  at the revisions that have come up  
-... you know ... and they ask for comments, but it's like ... I feel like  
-it's too tied to the way it was originally written to ever really do what  
-would be satisfying for me. Like ... when I'm reading the  documenation. 
-So ...
-
-% NOWSPEAKING: FS
-% ----------
-That's an editorial question as well.
-
-% NOWSPEAKING: JH
-% ----------
-Yeah for sure. That's right in that aspect. So ... that's exactly what  
-you're saying. I think that ...  So maybe my approach of looking at  
-practical projects and in using it as a  
-jumping off point ... you know ...  so ... so ...  a wiki page that says  
-_Beginning with ConTeXt_. Or even an FAQ. Because I'm not sure that we  
-have an FAQ. So that's like ...  you  now ... so those are ... you're  
-right ... These are ... And we have frequently asked questions, you know.  
-So we should start answering them or recording the answers that are given  
-over and over again.     
-
-% NOWSPEAKING: FS
-% ----------
-That could also take out some of the strain from the people developing.
-
-% NOWSPEAKING: JH
-% ----------
-
-Right.
-% NOWSPEAKING: FS
-% ----------
-So when I'm asking you  questions about the future proofness of ConTeXt, I'm asking them because I'm curious how it can go beyond the needs of two people working on particular jobs in The Netherlands. I think something like that needs to be adressed somehow.
-
-% NOWSPEAKING: JH
-% ----------
-Yeah. Because I think it's almost like a chicken and egg question. How do 
-we  become less dependent on these people. Like the only  people who 
-actually  really know the system. Well, you get to know the system. But 
-how do you  get to know a system, that is traditionally opaque or at least intimidating.
-
-% NOWSPEAKING: FS
-% ----------
-Yeah.
-
-% NOWSPEAKING: JH
-% ----------
-And this is ... I remember half way through my thesis there was a  
-discussion on the list about documentation and somebody said ... you know, 
-like .. It's called ConTeXt, you're suppossed to ... that means WiTh TeX  
-and so it's up to you to go like in the source, it's up to you to define  
-your own macros. That had me shaking in my boots. (laughs)
-
-% NOWSPEAKING: FS
-% ----------
-(laughs)
-
-% NOWSPEAKING: JH
-% ----------
-Luckily I didn't have to much to do for my thesis But ... like learning about macros ... that was the only way to really keep the  generative aspect of my thesis together.   I think that's sort of what I hope to do by sort of maybe  elevating the visibility of the  system. By kind of ... And I think  when I do these guerilla typesetting  projects ... you know ... I think  the source will also be ...  you know   ... available. So the people can  sort of ... And right now it's sort of  taking a new short story by Bruce  Sterling and ... I haven't read it yet  because I don't want to read it on  HTML page, ... you know ... because I  don't want to do it. So ... That  kind of impulse and then putting it back  out there ... I mean like ...  ...  all you'd have to  do with another page or  another story is just copy and paste the text  itself. Another project is  _Notes from the underground_, sort of one that I just  wanted to put out there. So  this kind of ... like ... sort of ... like  these documents that sort of  just appear, out of nowhere and raise their own questions of like ... No  my name is not gonna  be on it, so it's like ...  you know it's just the  imprint ... like ... what are these people ...  why is the symbol  a bunch of Germanic runes? So sort of creating an air of mystery and ... 
-
-% NOWSPEAKING: FS
-% ----------
-Why these texts?
-
-% NOWSPEAKING: JH
-% ----------
-Those texts are specifically because I want to read them, basically. 
-And I want ... you know ... I'm not willing to read in anything less than ... 
-my  Tschicholdian ... you know ...  The best. Only the best. But at the same time I'm interested to  
-take that further at some point and start doing documents that have ...  
-you know ... more complexity, more ... illustrations for example or code.  
-One thing I'd really like to typeset is the erl6 advent calendar from 
-last year. Because it's all blogposts and it's incredibly useful  
-information for a learning this language. But ... it's ... it's just 
-not ... ... I want to print it. Especially for programming kind of types. 
-So then  that's sort of like this way that ... you know ... I'm learning 
-because I'll be  teaching  myself how to do that, but then it feeds backs 
-into whoever  becomes interested. But these very basic texts ... I mean 
-... it really  would be just a matter of copy and paste basically to deal with that.
-
-% NOWSPEAKING: FS
-% ----------
-But you're thinking of publishing these sources or this work also outside  
-the ConTeXt or NTG websites. Or think it's better ...
-
-% JOHN:
-% LITERAL TRANSCRIPTION
-% Oh no. I was  ... I'm hoping that my guerilla typesetting will get  ...  
-% you know ... I'm thinking that ... I never ... Obviously I would notify  
-% them or ... like ... but that wasn't even the target audience. The target  
-% audience is for people who are interested in  reading the texts, more  
-% than anything else. So, sort of ... And I'm not even sure exactly ...  
-% exactly what the distribution mechanism is. But maybe ...  maybe a site  
-% like boingboing would be interested in like ok like 'here is this Bruce  
-% Sterling text in pdf' or I just drop it in the comment section or ... sent 
-%  it to Bruce ... or ... sort of a ... sort of a game in that way ... it's  
-% sort of like I almost ... I kind of wanna like ... if it becomes more ...  
-% if people are interested or excited or you know sort of becomes  like a  
-% ... you know like ... When "Weird Al" Yankovic parodies a song that means  
-% ... you know ... you know your doing something right.  Like when he  
-% parodies your song. So ... you know ... when cross records comes and  
-% typesets your story ... you know ... like. So that kind of thing and maybe 
-%  like ... you know ... an easter egg somewhere or like ... depending on  
-% how it pans out, but this sort of ... it has that sense of a campaign to 
-% ...  you know ... just change peoples' perspectives on the capacity for 
-% what  they're reading on their screen. What kind of ... And how they just 
-% can  take it, switch the paper size ... you know ... how to comment it ... 
-%  switching to different paper sizes like ... (schnipp->) and now: it's on  
-% your e-reader. Because we were playing with An's e-reader and it took my  
-% thesis and ripped the text out and then like ... you know .. rebreaks it.  
-% So ... that freaked me out. Because half of this whole generative  
-% typesetting thing was indeed in order to set up some systems where we can  
-% like 'ok well, we want this device as well' so ok, we've done it in the  
-% system we foot the switch.[1:16:57][?] The idea that it's even going to 
-% take the  font that I embedded in my pdf, it's not even respect my line 
-% breaking ...  I mean ... that was really frightening. The luck was that we 
-% found the  dimensions for the neo and I typeset her story and then when 
-% it's  actually on the dimensions of the e-reader it's (schnipp->) it's 
-% really a pdf  at that point. So it really maintains all the stuff I've 
-% done ... you know  ... with margins and fonts and that stuff. I was really 
-% quite frightened  there for a second ...    
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Oh no. I was  ... I'm hoping that my guerilla typesetting will get  ...   you know ... I'm thinking that ... I never ... Obviously I would notify   them or ... like ... but yeah that was never the target audience. The target   audience is for people who are interested in  reading the texts, more   than anything else. So, sort of ... And I'm not even sure exactly ...   exactly what the distribution mechanism is. But maybe ...  maybe a site   like boingboing would be interested in like ok like 'here is this Bruce   Sterling text in pdf' or I just drop it in the comment section or ... send  it to Bruce ... or ... sort of a ... sort of a game in that way ... it's   sort of like I almost ...   if people are interested or excited or you know sort of becomes  like a  ... you know like ... When "Weird Al" Yankovic parodies a song that means   ... you know ... you know your doing something right.  Like when he   parodies your song. So when XRUKUS comes and   typesets your story... So that kind of thing and maybe  like an easter egg somewhere or ... depending on   how it pans out, but this sort of ... it has that sense of a campaign to ...  you know ... just change peoples' perspectives on the capacity for  what  they're reading on their screen. What kind of ... And how they just  can  take it, switch the paper size ... you know ... how to comment it ...  switching to different paper sizes like ... (schnipp->) and now: it's on   your e-reader. Because we were playing with An's e-reader and it took my   thesis and ripped the text out and then like ... you know .. rebreaks it.   So ... that freaked me out. Because half of this whole generative   typesetting thing was indeed in order to set up some systems where we can   like 'ok well, we want this device as well' so ok, we've done it in this system, so just we flip the switch. The idea that it's even going to take the  font that I embedded in my PDF, it's not even respect my line 
-breaking ...  I mean ... that was really frightening. The luck was that we found the  dimensions for the neo and I typeset her story and then when it's  actually on the dimensions of the e-reader it's (schnipp->) it's really a PDF  at that point. So it really maintains all the stuff I've done ... you know  ... with margins and fonts and that stuff. I was really quite frightened  there for a second ... 
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-Like you thought it would not be possible at all?
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah. I thought it will just always ... you know ...  and that point there 
-is no point in really trying to target this e-readers, because if they  
-just gonna disrespect what I'm doing then I'm not ... you know ... they  
-just can take the A4. I don't need to do anything specific for those screens.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-Yeah.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-But yeah, that kind of showing of the platform a little bit by being like ... 
-ok so ... we can do ...like ... switch ... you know ... go into the  
-source and switch this and now it's typeset for your Kindle.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-You could do that. You can demand this kind of quality. Yeah.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah, exactly. And when it's just a short story or something,
-it's just ... if there are no sections then it  really is just a copy/paste job.    
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-Yes.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-The idea of the imprint is that I'm trying  to work with different fonts to 
-evoke the text and stuff like that.
-So the XXXX[1:18:55][? is just a copy/paste job,  but to show that
-as an inital step of engaging with the system like _You can do it!_   
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-This is what you would get. Ok.
-So the fact that it can deal  with different formats, different ... let's say ... media in a way. 
-Just to insert for OSP listeners. Can you explain in principle the difference 
-between _this is like ConTeXtness'_ and a page layout programm or software like Scribus.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Like a DAW. No ... that's DTP.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-DTP. Yes!
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-The principle differences?
+% -----------
 You mentioned Subtext coming from a more academic publishing rather
 than a design background. I think that this belies where I have come into typesetting
 and my understanding of typography.
-Because in reality DTP  has never kind of drawn me in in that way.
+Because in reality DTP has never kind of drawn me in in that way.
 The principle differences are really based on this distribution
 of agency, in my mind. That when you're demanding the software to be _what
 you see is what you get_ or when you place that metaphor between you and
 your process. Or you and your engagement, you're gaining the  usefulness
-of that metaphor, which is ... it's almost ... and I don't ...  I hope I
+of that metaphor, which is ... it's almost ...  I hope I
 don't sound offensive ... but it's almost like child's play. It's  almost
 like point, click, place. To me  it just seems so redundant or ... time-consuming maybe ...
-to really ...  to deal with it that way.
+to really deal with it that way.
 There are advantages to that metaphor.
 For instance I don't plan on designing covers in ConTeXt.
 Or even a poster or something like that.
 Because it  doesn't really give affordances for that kind of creativity.
-I mean you can do generative stuff with the METAFUN package.
+I mean you can do generative stuff with the MetaFun package.
 You can  sort of play around with that.
 But I haven't seen a ConTeXt generated cover that I liked, to be honest.
 
-% NOWSPEAKING: JH
-% -- EDITED -----
-Ok. Principle differences.
-I'm trying to ...  I'm trying to ... I'm  struggling a little bit.
-
 % NOWSPEAKING: FS
-% -- EDITED -----
-Yeah, I understand.
-And it's not about ...
-I'm not trying to point out  that you don't know.
-I'm just trying to understand.
-What I understand, the differences in the right way and also where to look then for ...
-let's say  ... changes necessary in ConTeXt or not. 
-Like _Why would you not make a  poster in ConTeXt_? 
+% -----------
+OK.
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-Right. And I think that's partially because I'm not super comfortable
+% -----------
+OK. Principle differences.
+I'm trying to ... I'm  struggling a little bit. I think that's partially because I'm not super comfortable
 with the layout mechanism and stuff yet. And you have things like `\blank`
 in  order to move down the page. Because it has this sort of literal
-sense of a page and movement on a page. Obviously cribus has a
+sense of a page and movement on a page. Obviously Scribus has a
 literal idea of a page as well,
-% but it's more ... because it's WYSWYG ... because it's very much that paradigm ...
-% I mean DTP ... that's the whole point.
-but because it's WYSIWYG it has that benefit where you don't have to think _
-ok, well, maybe it should be 1.6 ems down_ or _maybe it should be 1.2 ems down_.
+but because it's WYSIWYG it has that benefit where you don't have to think _OK, well, maybe it should be 1.6 ems down_ or _maybe it should be 1.2 ems down_.
 You move it until it looks right. And then you can measure it and you're like
-_ok, I'm gonna use this measurement for the **further on** in my  document_. 
+_ok, I'm gonna use this measurement for the further on in my  document_. 
 So it's that whole top-down  vs. bottom-up approach. It really breaks down into the
 core organisational logics of those softwares.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
-But ...
+% -----------
 I think it's too easy to make the difference based on the fact that there is 
-a metaphorical layer or not.
-I think there is absolutely a metaphorical layer in ConTeXt ...
+a metaphorical layer or not. I think there is a metaphorical layer in ConTeXt too ...
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-Right.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-... and it's everywhere. And you have pointed out already a few moments
-that that pops up or shows its head or cowhead.
-But it's obvious that  both systems have metaphorical interfaces somehow.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Right. Yeah for sure.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 And they come at a different moment and they speak a different language.
 But I think that we can agree that they're both there. 
 So I don't think it's about  the one being without and the other being with.
-Of course there is another  sense of placing something in a canvas-based software 
+Of course there is another  sense of placing something in a canvas-based software
 than in a ... how  would you call this?
 
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah?
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-I was already happy that I've, after long, found canvas-based.
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-Yes. So I guess you it's declarative or sequence based.
+% -----------
+So I guess it is either 'declarative' or 'sequence' based.
 You could say  generative in a way ...
 or compiled or ... I don't even know. That's a cool question.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-Compiled or something else.
-What I'm trying to understand, for  myself but also for anyone
-any designer that in the future is going to consider using a certain software.
-Where  is this difference and why would you choose the one or the other?
+% -----------
+What is the difference really and why would you choose the one or the other?
 Or what  would you gain from one to the other?
 Because it's clear that posters are not easily made in ConTeXt.
-%Of course, you could make interesting ones,  etc ...
-And that it's much easier to typeset a book in ConTeXt than it is in scribus, for example.
-% So you can see ... I dont't think that someone ...
-% If we assume that someone that does a poster is equally intelligent  as someone
-% that typesets a book ... it's maybe a different kind of  intelligence ... so it's not about ...
-I understand many  interfaces are child's play, but the principle of having a canvas to me
-is by definition a more literal type of metaphor than that sort of markup that happens here.
+And that it's much easier to typeset a book in ConTeXt than it is in Scribus, for example.
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Declarative maybe ...
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-Declara..., yeah well.
-But in these declarations are a lot of metaphors as well.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah, for sure.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 So, there's hierarchy. There's direction.
 There's an assumption about structure being good or bad.
-This kind of things are there as  well.
-To me, that's interface as well.
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Yeah. Boxes, Glue.[^]{ _Boxes, which are things can be drawn on a page,
 and glue, which is invisible stretchy stuff that sticks boxes together._ [@chu-carroll:2008:TheGeniusofDonaldKnuth]}
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 What is exciting in  something like this is that placement is relative always.
-% Relative to a page, relative to a chapter, relative to itself, relative to whatever.
-% Relative to ... what's next to it. 
 Relative to a page, relative to a chapter, relative to itself, relative to what's next to it. 
 Where in a canvas based software your page is fixed.
-So in that sense there is of course often also in the interface sort of strange problems
-with its reference to the  _real world_.
-Where this is much more thinking from a paper that is fixed and less from an amount
-of data that needs to be distributed over an amount of pages or something.
-Which is much more code or ...
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-.... fluid.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-Fluid, yes!
-So for me canvas-based layout is always much more related to drawing in a way.
-There is a direct feedback necessary between what you put on the page and how ...
-why you move next.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Right.
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-Which is very different when you do this kind of compiling.
-Where you make a change, then you compile and then you see
-and then you go back into your  code.
-So where there is a larger distinction between output and action.
-So it's almost gestural ...
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Right.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-... where drawing is really about: I put the line.
-The line goes into a certain direction, because I see what I have drawn.
-There is an immediate ...
+% -----------
+This is very different from a system where you make a change, then you compile and then you look at it 
+and then you go back into your code. So where there is a larger distinction between output and action.
+It's almost gestural ...
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 It's like two different ways of having a conversation.
 Larry Wall has this really great metaphor.
-He talks about ballistic design. So when you're doing code,
+He talks about 'ballistic design'. So when you're doing code,
 maybe he's talking more about software design at this point,
-basically it's a ballistic practise to write code.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
+basically it's a 'ballistic practise' to write code.
+%
+%
+% N!OWSPEAKING: JH
+% -----------
 Ballistics comes from artillery.
-So you shot at a thing. If you hit it, you hit it. 
+So you shoot at a thing. If you hit it, you hit it. 
 If you miss it, you change the amount of gun powder, the angle.
 So code is very much a ballistic practise.
 I think that filters into  this difference in how the conversation works.
 And this goes back to the agencies where you have to wait for the 
 computer to  figure out. To come with its into the conversation. 
 You're putting the code in and then the computer is like
-`ok; this is what the code means` 
+`ok; this is what the code means`
 and then
 `is this what you wanted?`
 Whereas  with the  WYSIWYG kind of  interface the agency is distributed in a 
@@ -1049,333 +821,203 @@ is it just  a matter of the compilation time?
 In one you're sort of running a experiment,  in  another you're just sort of painting.
 If  that's a real enough distinction or if that's ... you know ... it's sort  of ... 
 I mean I kind of see that it is like this.
-There is ballistics vs.  maybe fencing or something.
+There is ballistics vs. maybe fencing or something.
+
 
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 Fencing?
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Fencing. Like more of a ...
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 Or wrestling?
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Or wrestling.
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-I think it's important to ... again.
-Because **"_just painting_"**.
-That's where I get offended.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-**"_just painting_"**
-(laughs)
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-(laughs) 
-I don't know if that's german or french quotation marks, but ...
+% -----------
+When you said _just sort of painting_ I felt offended. (_laughs_)
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 I'm sorry. I didn't mean it like that.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
-Maybe wrestling vs.ballistics. 
-Where the one is a ConTeXt board with  all its problems.
-Where it is sometimes very difficult  to see where I push
-and where someone else pushes back ...
+% -----------
+Maybe back to wrestling vs. ballistics. Where am I and where is the machine?
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Right.
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-You know. Where am I and where is the machine?
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Right.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-% And again. 
+% -----------
 I understand that there's lots of childish way of solving this need to make the computer dissapear.
-Because if you are not wrestling ...
+Because if you are not wrestling ... you're dancing, you know.
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Yeah.
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-... you're dancing, you know.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-But I think it's interesting to see that ballistics,
-that the military term of shooting at something is the kind of 
-metaphor to be used.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-Which is quite different than a creative process where there is a direct 
+% -----------
+But I think it's interesting to see that ballistics, that the military term of shooting at something, is the kind of 
+metaphor to be used. Which is quite different than a creative process where there is a direct 
 feedback between something placed and the responses you have.
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Right.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 And it's not always about aiming, but also sometimes about trying and
-about kind of subtle movements that then some way can spark something of,
-that then spark something else of.
-Which is very immediate. And needs an immediate connection to ... let's say ... 
+about kind of subtle movements that spark off something else.
+Which is very immediate. And needs an immediate connection to ... let's say ...
 what you do and what you get.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-% So I'm wondering ... 
-It would be interesting to think about ways to talking about _what you see is what you get_
+It would be interesting to think about ways to talking about 'what you see is what you get'
 away from this assumption that is always about those poor users that are not able do it in code.
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Right.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
-Because I think there is essential stuff that you can **not** do in a tool like this -- 
+% -----------
+Because I think there is essential stuff that you can **not** do in a tool like this --
 that you **can** do in canvas-based tools.
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
-And so ... I think it's really a pity when ... yeah ... 
+% -----------
+And so ... I think it's really a pity when ... yeah ...
 It's often overlooked and very strange to see.
 There is not a lot of good thinking about that kind of interaction.
-Like literal interaction. Which is also about agency with the painter. 
+Like literal interaction. Which is also about agency with the painter.
 With the one that makes the movement.
-Where here the agency is very much in this confrontational relation 
+Where here the agency is very much in this confrontational relation
 between me aiming and ...
 
-% NOWSPEAKING: JH
-% -- EDITED -----
-So it's like you're the target and ...
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-I'm the moving target [1:35:26][?]
 
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 So yeah, when we put it in those metaphors.
 I'm on the side with the painting, because ...
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-But I mean it's very difficult to do a book while wrestling. And I think that's why a poster is very difficult to do in this sort of aiming sense.
-I mean it's fun to do but it's a strange kind of posters you get.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-Because it's usually more painterly.
-So you need this kind of ... 
-It's also ... I mean it's one page.
-You can see it.
-So it's already more like code I think.
+% -----------
+But I mean it's difficult to do a book while wrestling. And I think that's why a poster is very difficult to do in this sort of aiming sense. I mean it's fun to do but it's a strange kind of posters you get.
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-Yeah.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-It's another time ...
-
-% NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 You can't fit it all in your head at once. It's not possible.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 No. So it's okay to have a bit of delay.
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 I wondered to what extent, if it  were updated in real time,
 all the changes you're making in  the code,
-if compilation was instantenous,
+if compilation was instantaneous,
 how that would  affect the experience.
 I guess it would still have this ballistic aspect, because what you are doing is ...
 and that's really the side of the metaphor ... or a metaphorical difference between the two.
 One is like a translation. The metaphor of _ok this code means this effect_ ...
 That's very different from picking a brush and choosing the width of the stroke.
-It's like when you initialise a brush in code, set the brush width and then move 
+It's like when you initialise a brush in code, set the brush width and then move
 it in a circle with a radius of x.
-% That's a ... it's still different ... it's a  different ...
 It's different than taking the brush in Scribus or in whatever WYSIWYG tool you are
 gonna use. There is something intrinsically different about a translation from
 primitives to visual effect than this kind of metaphorical translation of an interaction
 between a human and a canvas ... kind of put into software terms.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-Ok, no, but that's another.
-But then we are closer to what you are discovering in your thesis. 
-Which I would love to not  only use this kind of energy for the ballistics,
-because I think it's obvious that there is something complicated happening
-when putting pencil on the paper. It's also pretty complicated what happens.
-I mean there's no computers involved to calculate the width of my brush, 
-but the pressure difference, direction, all this kind of things are not  uncomplicated. 
-The problem that there is a lot of code needed to actually make this happen
-doesn't really ...
+% -----------
+But there is a translation from me, the human, to the machine, to my human
+eye again, which is hard to grasp. Without wanting it to be made invisible somehow.
+Or to assume that it is not there. This would be my dream tool that would allow you to sense that kind of  translation without losing the ... canvasness of the canvas.
+Because it's  frustrating that the canvas has to not speak of itself to be able to work. That's a very sad future for the canvas, I think.
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-Right.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-But there is a translation from me, the human, to the machine, to my human 
-eye again, which is hard to grasp. Without wanting it to be invisible somehow. 
-Or to assume that it is not there. This would be my .dream tool that would 
-somehow allow you to sense that kind of  translation without losing the ...
-canvasness of the canvas.
-Because it's  frustrating that the canvas has to not speak of itself to be able to work.
-Because that's a very sad future for the canvas, I think.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 I agree.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
-But when it speaks of itself it's usually seen as buggy or it  doesn't work.
-Or I rather write my markup. So that's also not  fair for the canvas.
-But there is something in drawing digitally, which is such a weird  thing
-to do actually,
-and this is interesting in this sort of cyborgs we're becoming.
-Which is all about forgetting about the machine and  not feeling what you do.
+% -----------
+But when it speaks of itself it's usually seen as buggy or it  doesn't work. So that's also not  fair to the canvas.
+But there is something in drawing digitally, which is such a weird  thing to do actually, and this is interesting in this sort of cyborgs we're becoming, which is all about forgetting about the machine and  not feeling what you do.
 And it's completely a different world  in a way than the ballistics of ConTeXt, LaTeX or whatever typesetting  platform.
 
+
 % NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Yeah, that's true. And it's something that my students were forced to confront and it was really interesting because that supposed invisibility or almost necessitated invisibility of the software. As soon as they're in Inkscape instead of Illustrator they go crazy. Because it's like they know what they want to do, but it's a different mechanism. It's the same underlying process which itself is only just   meant to give you a digital version of what you could easily do on a piece of paper. Provide you have the right paints and stuff. So perhaps it's like the difference between moving from a brush to an air brush. It's a different ... interface. It's a different engagement. There is a different thing between the human and the canvas. You engage in this creative  process where it's like _ok, we'll now have an airbrush_ and I can play  around to see what the capacities are without being stuck in _well I can't get it to do my fine lines the same way I can when I have my brush_. It's like when you switch the software out from between the person and the canvas. It's that sort of invisibility of the interface and it's intense for people. They actually react quite negatively. They're not gonna bother to learn this other software because in  the end they're doing less. The reappearance of this software ... of software between them and their ideas is kinda too much. Whereas people who don't have any preconceived notions   are following the tutorials and they're learning and they're like _ok, I'm gonna continue to play with this_. Because this software is starting to become more invisible. 
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 But on a sort of theoretical level the necessitated invisibility,
 as you said it nicely, is something I would always speak against.
 
+
 % NOWSPEAKING: FS
-% -- EDITED -----
+% -----------
 Because that means you hide something that's there.
-Which seems a stupid thing to do, especially when you want to
-somehow find a kind of more flexible relation to your tools.
-But at the same time I see that it's a fine line between how much
-the tool can speak of itself in this process of ...
+Which seems a stupid thing to do, especially when you want to find a kind of more flexible relation to your tools.
 I want to find a better word for describing that sort of quick  feedback.
 Because if it's too much in the way, then the process stops.
-The drawing can not be made if I'm worried too much about the point that
-will  break .., or the ... I dont't know ... the nozzle being blocked.
-Then I go to something else.
-I'm very interested  in this kind of explicit tools  and that they're really about declaring, aiming.
-But then more and more getting worried about  the ease by which
-the _wrestling_ tools are being  dismissed as _child's play_ and
-_**just** seeing what you get_.
-Well I  think, there is something that is actually extremely necessary, not because
-people that are not  interested in computers are able to use it, because
-they don't feel like  they're doing a computer.
-There's a lot of that as well.
+The drawing can not be made if I'm worried too much about the point of my pencil that
+might break ... or the ... I dont't know ... the nozzle being blocked.
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-But there's also something in the kind of thing she make in that
-situation, that are quite different than the kind of thing she can make
-when you're using the aim and shoot.
-Even when you are the  best sharpshooter at heart.
-So I think that's something to come back to,  maybe also after discussion
-with Pierre Huyghebeart, who is very much from the ... let's say ... the canvas ... 
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-...tradition?  
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-Yeah, no, no.
-Not only tradition but also the things he makes are an interesting mix of two ...
-sort of ... types of intelligence. Which often strangely float together or not at all.
-And I think for him to do that book was quite a shock actually.
-To understand that was actually not possible at all. You see ...
-
-% NOWSPEAKING: JH
-% -- EDITED -----
-Yeah.
-
-% NOWSPEAKING: FS
-% -- EDITED -----
-And so I think if ConTeXt becomes more usable in a way, to not make
-the mistake that it is about replacing that space.  
-I haven't found many people that  can use this kind of intelligence to 
-then rethink the desktop,  beyond ease.
-
-% NOWSPEAKING: JH
-% -- EDITED -----
+% -----------
 Dismissing the other tools is ... I was kinda joking, but ...
 there is something sort of blocklike: Point. Move. This.
-But at the same time, like I said, like I wouldn't do a cover in ConTeXt.
+But at the same time, like I said, I wouldn't do a cover in ConTeXt.
 Just like I probably  wouldn't try to do something like a recreation of a 
 Pre-Raphaelite painting in Processing or something like that. 
 There is just points where our metaphors break down.
-And so ... It sounded sort of, like I am like     
+And so ... It sounded sort of, 
 **_ok, bottom-up über alles_**  like **always**.   
 
-% NOWSPEAKING: FS
-% -- EDITED -----
-No, no. I mean I trust you're more clever than that, but as none of our tools ... like ... 
-Ok, there's painters still and there's still people doing  Pre-Raphaelite
-paintings with Pre-Raphaelite tools, but most of us are using computers.
 
 % NOWSPEAKING: FS
-% -- EDITED -----
-So most of the images we make are computer-generated, somehow.
-Wether we like  it or not. So how can you not dismiss, not make that split
-so hard by saying _this is about not wanting  to see the computer_.
-This is about being in dialog with the computer.
-Without pushing the commandline as the only way to go.
-Or flexibility  is always about standardisation or modularisation.
-Well, there  is another kind of flexibility that I don't  think is much ... 
-% I don't know  ... is ...
-of course if you look at Scribus you think _well, let's move  somewhere else_.
-There should be more clever ways of thinking about  this.
+% -----------
+Ok, there's still painters and there's still people doing Pre-Raphaelite paintings with Pre-Raphaelite tools, but most of us are using computers. So there should be more clever ways of thinking about this.
+
 
 % NOWSPEAKING: JH
-% -- EDITED -----
-Yeah.  That's one thing in the LGRU it's like ... to borrow a quote from my old buddy Donald Rumsfeld: There are the known knowns, the known unknowns and the unknown unknowns. That  actually popped into my head earlier because when we were talking about the potentials of the software and the way that we interact and stuff, it's like we know that we don't know ... other ways of organizing. We know that there are, like there **has** to be, another way, whether it is a middle path between these two or some sort of ... Maybe it's just tenth dimensional, maybe it's fourth  dimensional, maybe it's completely hypermodern or something. Anyway. But the unknown unknowns ... It's like the stuff  that we can't even tell we don't know about. The questions that we don't know about that would come up once we figure out these other ways of organising it. That's when I start to get really interested in this sort of thing How do you even conceive of a practise  that you don't know? And once you get there, there's going to be other  things that you know you don't know and have to keep finding them. And  then there's gonna be things that you don't know you don't know and they  just appear from nowhere and ... it's fun. 
+% -----------
+Yeah. To borrow a quote from my old buddy Donald Rumsfeld: _There are the known knowns, the known unknowns and the unknown unknowns._ That  actually popped into my head earlier because when we were talking about the potentials of the software and the way that we interact and stuff, it's like we know that we don't know ... other ways of organizing. We know that there are, like there **has** to be, another way, whether it is a middle path between these two or some sort of ... Maybe it's just tenth dimensional, maybe it's fourth  dimensional, maybe it's completely hypermodern or something. Anyway. But the unknown unknowns ... It's like the stuff  that we can't even tell we don't know about. The questions that we don't know about that would come up once we figure out these other ways of organising it. That's when I start to get really interested in this sort of thing. How do you even conceive of a practise  that you don't know? And once you get there, there's going to be other  things that you know you don't know and have to keep finding them. And  then there's gonna be things that you don't know you don't know and they  just appear from nowhere and ... 
 
-
-
+it's fun.
 
