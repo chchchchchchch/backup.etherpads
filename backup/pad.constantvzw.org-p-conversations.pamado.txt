@@ -8,21 +8,23 @@
 % PA = Pedro Amado
 
 
-% -----------------------------------------------------------------------------------------------
+% USED FOR NAME INDEXING
+% HIDDENKEYWORDS: Amado, Pedro
+
 
 % TITLE: If the design thinking is correct, the tools should be irrelevant
 
 
-% NOWSPEAKING: X
-% --------------
-(Type) designer __Pedro Amado__ is amongst many other things initiator of TypeForge[^]{http://www.typeforge.net/}, a website dedicated to the development of ‘collaborative type’ with open source tools. While working as design technician at FBAUP[^]{http://www.fba.up.pt/}, he is about to finish a MA with a paper on collaborative methods for the creation of art and design projects. When I e-mailed him about open font design and how he sees that developing, he responded with a list of useful links, but also with:
+% SCALEFONT: 1.2
 
-> Developing design teaching based on open source is one of my goals,
+(Type) designer Pedro Amado is amongst many other things initiator of TypeForge[^]{http://www.typeforge.net/}, a website dedicated to the development of ‘collaborative type’ with Open Source tools. While working as design technician at FBAUP[^]{http://www.fba.up.pt/}, he is about to finish a MA with a paper on collaborative methods for the creation of art and design projects. When I e-mailed him in **2006** about open font design and how he sees that developing, he responded with a list of useful links, but also with:
+
+> Developing design teaching based on Open Source is one of my goals,
 > because I think that is the future of education.
 
 This text is based on the conversation about design, teaching and software that followed.
 
-
+% RESETFONT:
 % BIGSKIP:
 
 
@@ -34,7 +36,7 @@ You told me you are employed as ‘design technician’… what does that mean?
 % NOWSPEAKING: PA
 % ---------------
 It means that I provide assistance to teachers and students in the Design Department. I implemented scanning/printing facilities for example, and currently I develop and give workshops on Digital Technologies – software is a BIG issue for me right now!
-Linux and Open Source Software are slowly entering the design spaces of our school. For me it has been a ‘battle’ to find space for these tools. I mean – we could migrate completely to OSS tools, but it’s a slow progress. Mainly because people (students) need (and want) to be trained in the same commercial applications as the ones they will encounter in their professional life.
+Linux and Open Source software are slowly entering the design spaces of our school. For me it has been a ‘battle’ to find space for these tools. I mean – we could migrate completely to OSS tools, but it’s a slow progress. Mainly because people (students) need (and want) to be trained in the same commercial applications as the ones they will encounter in their professional life.
 
 
 % NOWSPEAKING: FS
@@ -45,7 +47,7 @@ How did Linux enter the design lab? How did that start?
 % NOWSPEAKING: PA
 % ---------------
 It started with a personal curiosity, but also for economical reasons. Our school can’t afford to acquire all the software licenses we’d like. For example, we can’t justify to pay approx. 100 x 10 € licenses, just to implement the educational version of Fontlab on some of our computers; especially because this package is only used by a part of our second year design students. You can image what the total budget will be with all the other needs…
-I personally believe that we can find everything we need on the web. It’s a matter of searching long enough! So this is how I was very happy to find Fontforge. An open source tool that is solid enough to use in education and can produce (as far as I have been able to test) almost professional results in font development.
+I personally believe that we can find everything we need on the web. It’s a matter of searching long enough! So this is how I was very happy to find Fontforge. An Open Source tool that is solid enough to use in education and can produce (as far as I have been able to test) almost professional results in font development.
 At first I couldn’t grasp how to use it under X[^]{Cygwin/X is a port of the X Window System to the Cygwin API layer for the Microsoft Windows family of operating systems [@x.cygwin.com:2014:index]} on Windows, so one day I set out to try and do it on Linux… and one thing lead to another…
 
 
@@ -56,7 +58,7 @@ What got you into using OSS? Was it all one thing leading to another?
 
 % NOWSPEAKING: PA
 % ---------------
-Uau… can’t remember… I believe it had to do with my first experiences on line; I don’t think I knew the concept before 2000. I mean I’ve started using the web (IRC and basic browsing) in 1999, but I think it had to do with the search of newer and better tools…
+Uau… can’t remember… I believe it had to do with my first experiences online; I don’t think I knew the concept before 2000. I mean I’ve started using the web (IRC and basic browsing) in 1999, but I think it had to do with the search of newer and better tools…
 
 
 % NOWSPEAKING: FS
@@ -66,8 +68,8 @@ I think I also started to get into it around that time. But I think I was more i
 
 % NOWSPEAKING: PA
 % ---------------
-Oh… (blush) not me… I got into it definitely for the "_free beer_" aspect!
-By 2004 I started using DTP applications on Linux (still in my own time) and began to think that these tools could be used in an educational context, if not professionally. In the beginning of 2006 I presented a study to the coordinator of the Design Department at FBAUP, in which I proposed to start implementing Open Source tools as an alternative to the tools we were missing. Blender for 3D animation, FontForge for type design, Processing for interactive/graphic programming and others as a complement to proprietary packages: The Gimp, Scribus and Inkscape to name the most important ones.
+Oh… (blush) not me… I got into it definitely for the 'free beer' aspect!
+By 2004 I started using DTP applications on Linux (still in my own time) and began to think that these tools could be used in an educational context, if not professionally. In the beginning of 2006 I presented a study to the coordinator of the Design Department at FBAUP, in which I proposed to start implementing Open Source tools as an alternative to the tools we were missing. Blender for 3D animation, FontForge for type design, Processing for interactive/graphic programming and others as a complement to proprietary packages:  GIMP, Scribus and Inkscape to name the most important ones.
 I ran into some technical problems that I hope will be sorted out soon; one of the strategies is to run these software packages on a migration basis – as the older computers in our lab won’t be able to run MacOS 10.4+, we’ll start converting them to Linux.
 
 
@@ -83,12 +85,13 @@ It’s funny you put things in that perspective. I couldn’t agree more. Nevert
 
 % NOWSPEAKING: FS
 % ---------------
-Do you mean to say that “what we can think is influenced by what we can make”? This would work for me! But often when tools are mastered, they disappear in the background and in my opinion that can become a problem.
+Do you mean to say that _what we can think is influenced by what we can make_?
+This would work for me! But often when tools are mastered, they disappear in the background and in my opinion that can become a problem.
 
 
 % NOWSPEAKING: PA
 % ---------------
-I’m not sure if I follow your point. I agree with “the border between design and software is not so strict” nevertheless, I don’t agree with “economy, process and aesthetics are a product of software”. As you’ve come to say what we think is influenced by what we can make… this is an outside observation…
+I’m not sure if I follow your point. I agree with _the border between design and software is not so strict_ nevertheless, I don’t agree with _economy, process and aesthetics are a product of software_. As you’ve come to say what we think is influenced by what we can make… this is an outside observation…
 
 
 % NOWSPEAKING: X
@@ -130,13 +133,13 @@ I think these are the essential questions related to the use of OSS. Can we thin
 % NOWSPEAKING: FS
 % ---------------
 To me, exactly because techniques and software are intertwined, software matters and should offer space for thinking (software should therefore not be separated from design).
-You could also say: design becomes exceptionally strong when it makes use of its context, and responds to it in an intelligent way. Or maybe I did not understand what you meant by being “a product of”. To me that is not necessarily a negative point.
+You could also say: design becomes exceptionally strong when it makes use of its context, and responds to it in an intelligent way. Or maybe I did not understand what you meant by being 'a product of'. To me that is not necessarily a negative point.
 
 
 % NOWSPEAKING: PA
 % ---------------
 Well… yes… that could be a definition of good design, I guess.
-I think that as a cultural produce, techniques can’t determine society. It can and will influence it, but at the same time it will also just happen. When we talk about Design and Software I see the same principle reflected. Design being the “culture” or society and software being the tools or techniques that are developed to be used by designers. So this is much the same as “which came first? The chicken, or the egg?” Looking at it from a designers (not a software developers) point of view, the tools we use will always condition our output. Nevertheless I think it’s our role as users to push tools further and let developers know what we want to do with them. Whether we do animation on Photoshop, or print graphics on Flash that’s our responsibility. We have to use our tools in a responsible way. Knowing that the use we make of them will eventually come back at us. It’s a kind of responsible feedback.
+I think that as a cultural produce, techniques can’t determine society. It can and will influence it, but at the same time it will also just happen. When we talk about Design and Software I see the same principle reflected. Design being the 'culture' or society and software being the tools or techniques that are developed to be used by designers. So this is much the same as _Which came first? The chicken, or the egg?_ Looking at it from a designers (not a software developers) point of view, the tools we use will always condition our output. Nevertheless I think it’s our role as users to push tools further and let developers know what we want to do with them. Whether we do animation on Photoshop, or print graphics on Flash that’s our responsibility. We have to use our tools in a responsible way. Knowing that the use we make of them will eventually come back at us. It’s a kind of responsible feedback.
 
 
 % NOWSPEAKING: FS
@@ -146,8 +149,8 @@ Using Linux in a design environment is not an obvious choice. Most designers are
 
 % NOWSPEAKING: PA
 % ---------------
-Very slowly! Linux is finally becoming valuable for Design/DTP area as it has been for long on the Internet/Web and programming areas. But you can’t expect The Gimp to surpass Photoshop. At least not in the next few years. And this is the reality. If we can, we must train our students to use the best tools available. Ideally all tools available, so they won’t have problems when faced with a tool professionally.
-The big question is still, how we besides teaching students theory and design processes (with the help of free tools), help them to become professionals. We also have to teach them how to survive a professional relationship with professional tools like the Adobe Suite. As I am certain that Linux and OSS (or FLOSS) will be part of education’s future, I am certain of it’s coexistence along side with commercial software like Adobe’s. It’s only a matter of time. Being certain of this, the essential question is: How will we manage to work parallel in both commercial and free worlds?
+Very slowly! Linux is finally becoming valuable for Design/DTP area as it has been for long on the Internet/Web and programming areas. But you can’t expect GIMP to surpass Photoshop. At least not in the next few years. And this is the reality. If we can, we must train our students to use the best tools available. Ideally all tools available, so they won’t have problems when faced with a tool professionally.
+The big question is still, how we besides teaching students theory and design processes (with the help of free tools), help them to become professionals. We also have to teach them how to survive a professional relationship with professional tools like the Adobe Suite. As I am certain that Linux and OSS (or F/LOSS) will be part of education’s future, I am certain of it’s coexistence along side with commercial software like Adobe’s. It’s only a matter of time. Being certain of this, the essential question is: How will we manage to work parallel in both commercial and free worlds?
 
 
 % NOWSPEAKING: FS
@@ -179,7 +182,7 @@ Do you think OSS can/should be taught differently? It seems self-teaching is bui
 
 % NOWSPEAKING: PA
 % ---------------
-I agree. The great thing about Linux is precisely that – as it is developed by users and for users – it is developing a sense of community around it, a sense of “given enough eyeballs, someone will figure it out”
+I agree. The great thing about Linux is precisely that – as it is developed by users and for users – it is developing a sense of community around it, a sense of _given enough eyeballs, someone will figure it out_.
 
 
 % NOWSPEAKING: FS
@@ -189,18 +192,18 @@ Well, that does not always work, but most of the time…
 
 % NOWSPEAKING: PA
 % ---------------
-I believe that using open source tools is perfect to teach, especially first year students. Almost no one really understands what the commands behind the menus of Photoshop mean, at least not the people I’ve seen in my workshops. I guess The Gimp won’t resolve this matter, but it will help them think about what they are doing to digital images. Especially when they have to use unfamiliar software.
+I believe that using Open Source tools is perfect to teach, especially first year students. Almost no one really understands what the commands behind the menus of Photoshop mean, at least not the people I’ve seen in my workshops. I guess GIMP won’t resolve this matter, but it will help them think about what they are doing to digital images. Especially when they have to use unfamiliar software.
 You first have to teach the design process and then the tool can be taught correctly, otherwise you’ll just be teaching habits or tricks. As I said before, as long as design prevails and not the tool/technique, and you teach the concepts behind the tools in the right way, people will adapt seamlessly to new tools, and the interface will become invisible!
 
 
 % NOWSPEAKING: FS
 % ---------------
-Do you think this means you will need to restructure the curriculum? I imagine a class in bugreporting… or getting help on line…
+Do you think this means you will need to restructure the curriculum? I imagine a class in bugreporting… or getting help online…
 
 
 % NOWSPEAKING: PA
 % ---------------
-mmhh… that could be interesting. I’ve never thought about it in that way. I’ve always seen bugreporting and other community driven activities as part of the individual aspect of working with these tools… but basically you are suggesting to implement an ‘open source civic behavior class’ or something like that?
+mmhh… that could be interesting. I’ve never thought about it in that way. I’ve always seen bugreporting and other community driven activities as part of the individual aspect of working with these tools… but basically you are suggesting to implement an ‘Open Source civic behavior class’ or something like that?
 
 
 % NOWSPEAKING: FS
@@ -236,7 +239,7 @@ That actually is and isn’t true. You can and will (almost certainly) have less
 
 % NOWSPEAKING: FS
 % ---------------
-It is hard to put a border when you are that much involved. I am just thinking how you could use the community around Open Source Software to help out. I mean… if the on line teaching tools would be open to others outside the school too, this would be the advantage. It would also mean that as a school, you contribute to the public domain with your classes and courses.
+It is hard to put a border when you are that much involved. I am just thinking how you could use the community around Open Source software to help out. I mean… if the online teaching tools would be open to others outside the school too, this would be the advantage. It would also mean that as a school, you contribute to the public domain with your classes and courses.
 
 
 % NOWSPEAKING: PA
