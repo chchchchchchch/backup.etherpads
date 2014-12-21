@@ -1,9 +1,73 @@
+@Book{ pfiffner:2002:adobe,
+ author    = {Pfiffner, Pamela},
+ title     = {{Inside the Publishing Revolution: The Adobe Story}},
+ year      = {2002},
+ ISBN      = {9780321115645},
+ publisher = {Adobe~Press}
+}
+
+@misc{ tug.org:2014:hagen,
+ author       = {},
+ title        = {{Hans Hagen -- Interview -- TeX Users Group}},
+ year         = {2006},
+ howpublished = {http://tug.org/interviews/hagen.html},
+ note         = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:xwindow,
+   author = {Wikipedia},
+   title = {{X Window System --- Wikipedia, The Free Encyclopedia}},
+   year = {2014},
+   url = {http://en.wikipedia.org/w/index.php?title=X_Window_System&oldid=638479346},
+   note = {[Online; accessed 18.12.2014]}
+ }
+
+@misc{ wikipedia:20141218:cchost,
+   author = {Wikipedia},
+   title = {{CcHost --- Wikipedia, The Free Encyclopedia}},
+   year = {2012},
+   url = {http://en.wikipedia.org/w/index.php?title=CcHost&oldid=522203738},
+   note = {[Online; accessed 18.12.2014]}
+ }
+
+@misc{ wikipedia:20141218:openfontlibrary,
+   author = {Wikipedia},
+   title = {{Open Font Library --- Wikipedia, The Free Encyclopedia}},
+   year = {2014},
+   url = {http://en.wikipedia.org/w/index.php?title=Open_Font_Library&oldid=628065629},
+   note = {[Online; accessed 18.12.2014]}
+ }
+
+@misc{ wikipedia:20141218:challengerdisaster,
+   author = {Wikipedia},
+   title = {{Space Shuttle Challenger disaster --- Wikipedia, The Free Encyclopedia}},
+   year = {2014},
+   url = {http://en.wikipedia.org/w/index.php?title=Space_Shuttle_Challenger_disaster&oldid=637243655},
+   note = {[Online; accessed 18.12.2014]}
+ }
+
+@misc{ wikipedia:20141218:unicode,
+   author = {Wikipedia},
+   title = {{Unicode --- Wikipedia, The Free Encyclopedia}},
+   year = {2014},
+   url = {http://en.wikipedia.org/w/index.php?title=Unicode&oldid=638169862},
+   note = {[Online; accessed 18.12.2014]}
+ }
+
+@misc{ wikipedia:20141218:opentype,
+   author = {Wikipedia},
+   title = {OpenType --- Wikipedia, The Free Encyclopedia},
+   year = {2014},
+   url = {http://en.wikipedia.org/w/index.php?title=OpenType&oldid=635861308},
+   note = {[Online; accessed 18.12.2014]}
+ }
+
 @misc{ wikipedia:20141218:freehand,
    author = {Wikipedia},
    title = {{Adobe FreeHand --- Wikipedia, The Free Encyclopedia}},
    year = {2014},
    url = {http://en.wikipedia.org/w/index.php?title=Adobe_FreeHand&oldid=638559648},
-   note = {[Online; accessed 18-December-2014]}
+   note = {[Online; accessed 18.12.2014]}
  }
 
 @misc{ wikipedia:20141218:postscriptfonts,
@@ -11,7 +75,7 @@
    title = {{PostScript fonts --- Wikipedia, The Free Encyclopedia}},
    year = {2014},
    url = {http://en.wikipedia.org/w/index.php?title=PostScript_fonts&oldid=627364155},
-   note = {[Online; accessed 18-December-2014]}
+   note = {[Online; accessed 18.12.2014]}
  }
 
 @misc{ wikipedia:20141218:frontpage,
@@ -19,7 +83,7 @@
    title = {{Microsoft FrontPage --- Wikipedia, The Free Encyclopedia}},
    year = {2014},
    url = {http://en.wikipedia.org/w/index.php?title=Microsoft_FrontPage&oldid=633701346},
-   note = {[Online; accessed 18-December-2014]}
+   note = {[Online; accessed 18.12.2014]}
  }
 
 @misc{ wikipedia:20141218:truetype,
@@ -27,7 +91,7 @@
    title = {{TrueType --- Wikipedia, The Free Encyclopedia}},
    year = {2014},
    url = {http://en.wikipedia.org/w/index.php?title=TrueType&oldid=636724459},
-   note = {[Online; accessed 18-December-2014]}
+   note = {[Online; accessed 18.12.2014]}
  }
 
 @misc{ wikipedia:20141218:postscript,
@@ -35,7 +99,7 @@
    title = {{PostScript --- Wikipedia, The Free Encyclopedia}},
    year = {2014},
    url = {http://en.wikipedia.org/w/index.php?title=PostScript&oldid=635789389},
-   note = {[Online; accessed 18-December-2014]}
+   note = {[Online; accessed 18.12.2014]}
  }
 
 @misc{ wikipedia:20141218:macromedia,
@@ -43,7 +107,7 @@
    title = {{Macromedia --- Wikipedia, The Free Encyclopedia}},
    year = {2014},
    url = {http://en.wikipedia.org/w/index.php?title=Macromedia&oldid=638007179},
-   note = {[Online; accessed 18-December-2014]}
+   note = {[Online; accessed 18.12.2014]}
  }
 
 @misc{ chu-carroll:2008:TheGeniusofDonaldKnuth,
