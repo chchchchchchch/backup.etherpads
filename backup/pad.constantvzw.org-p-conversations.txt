@@ -100,19 +100,19 @@
 % DOUBLEPAGE: var/layouts/futuretools-02/futuretools-02_03-1.pdf 90
 % HIDDENKEYWORDS: Bosermans, Carla
 % D!OUBLEPAGE: var/layouts/futuretools-02/futuretools-02_03-2.pdf 90
-% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-2.pdf fullpage 1.2
+% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-2.pdf fullpage 0.9
 % HIDDENKEYWORDS: Arana Catania, Miguel|Deswaef, Julien|Barragán, Carlos
 % D!OUBLEPAGE: var/layouts/futuretools-02/futuretools-02_03-3.pdf 90
-% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-3.pdf fullpage 1.2
+% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-3.pdf fullpage 0.9
 % HIDDENKEYWORDS: Greenhalgh, Eleanor|Blanco, Chema
 % D!OUBLEPAGE: var/layouts/futuretools-02/futuretools-02_03-4.pdf 90
-% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-4.pdf fullpage 1.2
+% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-4.pdf fullpage 0.9
 % HIDDENKEYWORDS: Crossland, Dave|Spencer, Susan
 % D!OUBLEPAGE: var/layouts/futuretools-02/futuretools-02_03-5.pdf 90
-% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-5.pdf fullpage 1.2
+% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-5.pdf fullpage 0.9
 % HIDDENKEYWORDS: Juan Coco, Mireia|Pérez Aguilar, Ana|Otalora, Olatz
 % D!OUBLEPAGE: var/layouts/futuretools-02/futuretools-02_03-6.pdf 90
-% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-6.pdf fullpage 1.2
+% GRAFIK: var/layouts/futuretools-02/futuretools-02_03-6.pdf fullpage 0.9
 
 % ---------------------------------------------------------------------------------------------------------------------- %
 % PART1: Constant Variable: Etat des lieux
