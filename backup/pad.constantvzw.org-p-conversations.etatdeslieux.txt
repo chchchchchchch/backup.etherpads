@@ -14,7 +14,6 @@
 % CH = Christoph Haag
 
 % TITLE: Etat des Lieux
-`
 
 % GRAFIK: var/layouts/etatsdeslieux-01/edl-01.pdf fullpage 2 45
 
@@ -71,7 +70,7 @@ I started to develop an antipathy against large corporations, operating systems 
 What does Free Culture mean to you? Are you taking part in a 'Free Culture Movement'?
 
 % NOWSPEAKING: MM
-% ----------------------------
+% ---------------------------
 I'd like to think so, but I realised of that it is quite  hard. Only now, I am seriously trying to really contribute  back  to  projects and I wouldn't even say that I am an  active    contributer  to Free Software projects. I am much more of a user and  part of the  system. I am using it in my teaching and my  work, but now I try to maybe release software myself in some way or I try  to create  projects  that people could actually use. I think it is  another  kind of  dimension of  engagement. I haven't really fully  realised it, so yes for that question if  I am contributing to Free Culture. Yes, but I could go lot deeper.
 
 % NOWSPEAKING: CH
