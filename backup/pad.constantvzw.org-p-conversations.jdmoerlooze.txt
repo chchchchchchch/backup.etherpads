@@ -19,7 +19,7 @@ This conversation with Juliane de Moerlooze was recorded in **March 2009**.
 
 _When you hear people talk about women having more sense for the  global, intuitive and empathic …  and men are more logic …  even if it is  true …  it seems quite a good thing to have when you are doing math or  software?_  
 
-Juliane is a Brussels based computer scientist, feminist and Linux user of the first hour. She studied math, programming and system administration and participates in Samedies.[^]{_Femmes et logiciels Libres_, group of women maintaining their own server http://samedi.collectifs.net} In February 2009 she was voted president of the Brussels Linux user group (BXLug).
+Juliane is a Brussels based computer scientist, feminist and Linux user of the first hour. She studied math, programming and system administration and participates in Samedies.[^]{ _Femmes et Logiciels Libres_, group of women maintaining their own server http://samedi.collectifs.net} In February 2009 she was voted president of the Brussels Linux user group (BXLug).
 
 % RESETFONT:
 % BIGSKIP:
