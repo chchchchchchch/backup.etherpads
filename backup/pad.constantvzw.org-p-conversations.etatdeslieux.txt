@@ -4,7 +4,7 @@
 % http://note.pad.constantvzw.org:8000/group.html/20/pad.html/g.y0XQmroqxr3RE7Y8$Urana_edit
 % NEEDS EDITING
 
-% HIDDENKEYWORDS: Greenhalgh, Eleanor|Williams, Claire|Ulziikhuu, Urantsetseg|Clar, Christina|Colenbrander, John|Haag, Christoph
+% HIDDENKEYWORDS: Greenhalgh, Eleanor|Williams, Claire|Ulziikhuu, Urantsetseg|Clar, Christina|Colenbrander, John|Haag, Christoph|Murtaugh, Michael 
 
 % EG = Eleanor Greenhalgh
 % CW = Claire Williams
@@ -12,19 +12,28 @@
 % CC = Christina Clar
 % JC = John Colenbrander
 % CH = Christoph Haag
+% MM = Michael Murtaugh
 
 % TITLE: Etat des Lieux
 
 % GRAFIK: var/layouts/etatsdeslieux-01/edl-01.pdf fullpage 2 45
 
-% SCALEFONT: 1.3
+% SCALEFONT: 1.29
 
-The following statements were recorded by Urantsetseg Ulziikhuu (Urana) in **2014**. She studied communication in Istanbul and Leuven and joined Constant for a few months to document the various working practices at Constant Variable. Between 2011 and 2014, Variable housed studios for artists, designer,  techno-inventors, data-activists, cyber feminists, interactive-geeks, textile-hackers, video-makers, sound-lovers, beat-makers and other digital creators who were interested in using Free, Libre and Open Source Software for their creative experiments.
+The following statements were recorded by Urantsetseg Ulziikhuu (Urana) in **2014**.
+She studied communication in Istanbul and Leuven and joined Constant for a few months
+to document the various working practices at Constant Variable. Between 2011 and 2014,
+Variable housed studios for Artists, Designers,  Techno Inventors, Data Activists, Cyber Feminists,
+Interactive Geeks, Textile Hackers, Video Makers, Sound Lovers, Beat Makers and other
+% digital creators who were interested in using Free, Libre and Open Source Software for their creative experiments.
+digital creators who were interested in using F/LOS software for their creative experiments.
 
 % RESETFONT:
-% BIGSKIP:
+% VFILL:
 
-% SCALEFONT: 1.15
+
+
+
 
 % NOWSPEAKING: UU
 % ----------------------------
@@ -33,25 +42,29 @@ Why do you think people should use and or practice Open Source software? What is
 
 % NOWSPEAKING: CW
 % ----------------------------
-The knitting machine that I am using normally has a computer from the 80s. Some have these scanners that are really old, and usually  do not work anymore. They became obsolete. If it wasn’t for Open Source, we couldn’t use these technologies anymore. Open Source developers decided that they should do something about these machines and found that it was not that complicated to connect  these knitting machines directly to computers. I think it is a really good example how Open Source is important, because these machines are no  longer produced and industry is no longer interested in producing  them   again, and they would have died without further use.
+The knitting machine that I am using normally has a computer from the eighties. Some have these scanners that are really old and usually  do not work anymore. They became obsolete. If it wasn’t for Open Source, we couldn’t use these technologies anymore. Open Source developers decided that they should do something about these machines and found that it was not that complicated to connect  these knitting machines directly to computers. I think it is a really good example how Open Source is important, because these machines are no  longer produced and industry is no longer interested in producing  them   again, and they would have died without further use.
 
 The idea that Open Source is about sharing is also important. If you  try  to do  everything from zero, you just never advance. Now with Open Source,  if somebody does something and you have access to what they  do, and you can take it further and take it into a different direction.
 
+
+% NEWPAGE:
+
+
 % NOWSPEAKING: MM
 % ----------------------------
-I haven't  always used Open Source software. It started at the Piet Zwart institute where there was a decision made by Matthew Fuller and Femke Snelting who designed the program. They brought a bunch of people together that asked questions about how our tools  influence practice, how they are used. And so, part of my process is  then teaching in that program, and starting to use Free Software more and more. I should say, I had already been using one particular piece of  Free Software which is FFmpeg, a program that lets you work with video. So there again there was a kind of connection. It was just by the virtue of the fact that it was one of the only tools available that could take a video, pull out  frames, work with lots of  different formats, just an amazing  tool. So it started with convenience. But the more that I learned about the whole kind of approach of Open Source, the more Open Source I started to use. I first switched from MacOSX to maybe Dual Booting and now indeed I am pretty much only using Open Source. Not exclusively Open Source, because I occasionally use platforms online that are not free, and some applications.
+I haven't  always used Open Source software. It started at the Piet Zwart Institute where there was a decision made by Matthew Fuller and Femke Snelting who designed the program. They brought a bunch of people together that asked questions about how our tools  influence practice, how they are used. And so, part of my process is  then teaching in that program, and starting to use Free Software more and more. I should say, I had already been using one particular piece of  Free Software which is FFmpeg, a program that lets you work with video. So there again there was a kind of connection. It was just by the virtue of the fact that it was one of the only tools available that could take a video, pull out  frames, work with lots of  different formats, just an amazing  tool. So it started with convenience. But the more that I learned about the whole kind of approach of Open Source, the more Open Source I started to use. I first switched from MacOSX to maybe Dual Booting and now indeed I am pretty much only using Open Source. Not exclusively Open Source, because I occasionally use platforms online that are not free, and some applications.
 
 I am absolutely convinced that when you use these tools,  you are learning much more about inner workings of things, about the  design decisions that go into a piece of software so that you are   actually  understanding at a very deep level, and this then lets you move  between different tools. When tools change, or new things  are offered, I think it is really a deep learning that helps  you  for  the future. Whereas if you just focus on the specific   particularities  of one platform or piece of software, that is a bit fragile and will  inevitably be obsolete when a software stops being developed  or some kind of  new kind of way of working comes about.
 
 % NOWSPEAKING: EG
 % ----------------------------
-I use Open Source software every day, as I have Debian on my laptop. I came to it through anarchism - I don’t have a tech background - so it’s a  political thing mainly. Not that F/LOSS represents a Utopian model of  production by any means! As an artist it fits in with my interest in collaborative  production.  I  think the tools we use should be malleable by the people  who use  them.  Unfortunately, IT education needs to improve quite a  lot before  that  ideal becomes reality.
+I use Open Source software every day, as I have Debian on my laptop. I came to it through anarchism -- I don’t have a tech background -- so it’s a  political thing mainly. Not that F/LOSS represents a Utopian model of  production by any means! As an artist it fits in with my interest in collaborative  production.  I  think the tools we use should be malleable by the people  who use  them.  Unfortunately, IT education needs to improve quite a  lot before  that  ideal becomes reality.
 
-Politically, I believe in building a culture which is democratic and malleable by its inhabitants, and F/LOSS makes this possible in the realm of   software.  The benefits as a user are not so great unless you are   tech-savvy  enough to really make use of that freedom. The software  does  tend to be  more secure and so on, though I think we're on shaky  ground  if we try to  defend F/LOSS in terms of its benefits to the end  user.   Using F/LOSS has  a learning curve, challenges which I put up  with  because I believe  in it socially. This would probably be a  different  answer from say, a sysadmin, someone who could seee  really  concrete benefits of  using F/LOSS.
+Politically, I believe in building a culture which is democratic and malleable by its inhabitants, and F/LOSS makes this possible in the realm of   software.  The benefits as a user are not so great unless you are   tech-savvy  enough to really make use of that freedom. The software  does  tend to be  more secure and so on, though I think we're on shaky  ground  if we try to  defend F/LOSS in terms of its benefits to the end  user.   Using F/LOSS has  a learning curve, challenges which I put up  with  because I believe  in it socially. This would probably be a  different  answer from say, a sysadmin, someone who could see really  concrete benefits of  using F/LOSS.
 
 % NOWSPEAKING: CH
 % ----------------------------
-Actually I came from Open Content and alternative licensing to the  technical side of using GNU/Linux. My main motivation right now is the possibility to develop a deeper relationship with my tools. For me it is interesting to create my own tools for my work, rather than to use something predefined. Something everyone else uses. With Free Software this is easier -- to invent  tools. Another important point is that with Free Software and open standards it's more likely that you will be able to keep track of your work. With proprietary software and  formats, you are pretty much dependent on decisions of  a software company. If the company decides that it will not continue an application or format, there is not much you can do about it. This happened to users of Freehand.  When Adobe acquired their competitor Macromedia they decided to discontinue the development of Freehand in favour of their own product Illustrator. You can sign a petition, but if there is no commercial interest, most probably nothing will happen. Let's see what happens to Flash.
+Actually I came from Open Content and alternative licensing to the  technical side of using GNU/Linux. My main motivation right now is the possibility to develop a deeper relationship with my tools. For me it is interesting to create my own tools for my work, rather than to use something predefined. Something everyone else uses. With Free Software this is easier -- to invent  tools. Another important point is that with Free Software and open standards it's more likely that you will be able to keep track of your work. With proprietary software and  formats, you are pretty much dependent on decisions of  a software company. If the company decides that it will not continue an application or format, there is not much you can do about it. This happened to users of FreeHand.  When Adobe acquired their competitor Macromedia they decided to discontinue the development of FreeHand in favour of their own product Illustrator. You can sign a petition, but if there is no commercial interest, most probably nothing will happen. Let's see what happens to Flash.
 
 % NOWSPEAKING: CC
 % ----------------------------
@@ -65,6 +78,10 @@ I don’t necessarily develop like software or codes, because I am not a softwar
 
 I started to develop an antipathy against large corporations, operating systems or softwares, and started to look for alternatives. Then you  come to the Linux system and Ubuntu which has a very user-friendly  interface. I like the fact that behind the software that I am using, there is a whole community, who are until now without major financial  interests and who develop tools for people like me. So now I am totally into Open Source software, and I try to use as much as I can. So my motivation would be I want to get off the track of big  corporates who will always kind of lead you into consuming more of  their  products. 
 
+
+
+
+
 % NOWSPEAKING: UU
 % ----------------------------
 What does Free Culture mean to you? Are you taking part in a 'Free Culture Movement'?
@@ -73,16 +90,15 @@ What does Free Culture mean to you? Are you taking part in a 'Free Culture Movem
 % ---------------------------
 I'd like to think so, but I realised of that it is quite  hard. Only now, I am seriously trying to really contribute  back  to  projects and I wouldn't even say that I am an  active    contributer  to Free Software projects. I am much more of a user and  part of the  system. I am using it in my teaching and my  work, but now I try to maybe release software myself in some way or I try  to create  projects  that people could actually use. I think it is  another  kind of  dimension of  engagement. I haven't really fully  realised it, so yes for that question if  I am contributing to Free Culture. Yes, but I could go lot deeper.
 
-% NOWSPEAKING: CH
-% ---------------------------
-Copyright has become much more enforced over the last years than it was ever before. In a way, culture is being absorbed by companies trying to make money out of it. And Free Culture developed as a counter movement against  this. 
-When  it comes to mainstream culture, you are most often reduced to a consumer of culture. Free Culture then is a obvious reaction. The idea of culture where you have the possibility to engage again, to become active and create your version, not  just to consume content . 
+
 
 % NOWSPEAKING: JC
 % ---------------------------
 I am a big supporter of the idea of Free Culture. I think information should be available for people, especially for those who have little access to   information. I mean we live in the West and we have access to information   more or less with physical libraries and institutions where we can go. Specially in Asia, South America, Africa this is very important. There is a big gap between those who have access to knowledge and those don’t  have access to knowledge.
 
 That’s a big field to explore to be able to  open up information to people  who  have very poor access to information.  Maybe they are not even able  to  write or read. That’s already is a big  handicap. So I think it is a  big  mission in that sense.
+
+
 
 % NOWSPEAKING: UU
 % -------------------------
@@ -94,7 +110,13 @@ It is a tricky question. I think no matter what, if you go down the stack, in te
 
 % NOWSPEAKING: EG
 % -------------------------
-I think the idea of a Free Culture movement is very exciting and   important. It has always gone on, but stating it in copyright-aware  terms issues an important challenge to  the 'all rights reserved'  status-quo. At the same time I think it has  limitations, at least in  its current form. I'm not sure that rich white  kids playing with their   laptops is necessarily a radical act.  The idea  and the intention are  very powerful though, because it does have the  potential to challenge  the way that power - in the form of 'intellectual  property' - is distributed.
+I think the idea of a Free Culture movement is very exciting and   important. It has always gone on, but stating it in copyright-aware  terms issues an important challenge to  the 'all rights reserved'  status-quo. At the same time I think it has  limitations, at least in  its current form. I'm not sure that rich white  kids playing with their   laptops is necessarily a radical act.  The idea  and the intention are  very powerful though, because it does have the  potential to challenge  the way that power -- in the form of 'intellectual  property' -- is distributed.
+
+% NOWSPEAKING: CH
+% ---------------------------
+Copyright has become much more enforced over the last years than it was ever before. In a way, culture is being absorbed by companies trying to make money out of it. And Free Culture developed as a counter movement against  this. 
+When  it comes to mainstream culture, you are most often reduced to a consumer of culture. Free Culture then is a obvious reaction. The idea of culture where you have the possibility to engage again, to become active and create your version, not  just to consume content. 
+
 
 % NOWSPEAKING: UU
 % -------------------------
@@ -106,9 +128,10 @@ That's  a good question!  A very hard one. I'm not involved enough in  that   co
 
 % NOWSPEAKING: MM
 % ----------------------------
-It is interesting that you used both 'sustainability'  and 'economic viability'. And I think those are two things very often  in opposition.  I  am doing a project now about publishing workflows and  future  electronic publishing forums. And that was the one thing  we  looked at. There were several solutions on the market. One was a  platform called  _Editorial_ which was a very nice website that you could use to  mark down texts collaboratively and  and then it could produce ePub format books. After  about six months of running,  it closed down as many platforms do. Interestingly, in their sign-off message it said: _You have a month to get your stuff out of the website, and sorry we have decided not to Open Source the project. As much as we loved making it, it was just  too  much work for us to keep  this running_. In terms of real sustainability, Open Source of course would have allowed them to work with anybody, even if it is just a hobby.
+It is interesting that you used both 'sustainability'  and 'economic viability'. And I think those are two things very often  in opposition.  I  am doing a project now about publishing workflows and  future  electronic publishing forums. And that was the one thing  we  looked at. There were several solutions on the market. One was a  platform called  'Editorial' which was a very nice website that you could use to  mark down texts collaboratively and  and then it could produce ePub format books. After  about six months of running,  it closed down as many platforms do. Interestingly, in their sign-off message it said: _You have a month to get your stuff out of the website, and sorry we have decided not to Open Source the project. As much as we loved making it, it was just  too  much work for us to keep  this running_. In terms of real sustainability, Open Source of course would have allowed them to work with anybody, even if it is just a hobby.
 
 % NOWSPEAKING: CW
 % ----------------------------
-It is very related to passion of doing these things. Embroidering machines have copyrighted softwares installed. The software itself is very expensive, around 1000 €, and the  software  for professionals is 6000 € to buy. Embroidering machines  are very expensive themselves too. These softwares are very tight and  closed,  you  even have to have special USB key for  patterns. And there are these two guys who are software developers, they  are trying to  come up with a format which all embroidering machines  could read. They take their time to do this and I think in the end if  the project works   out, they will probably get attention and probably get paid also. Because instead of giving 1000 € to  copyrighted software, maybe you  would be happy to give 50 euro to these people.
+It is very related to passion of doing these things.    
+Embroidering machines have copyrighted softwares installed. The software itself is very expensive, around 1000€, and the  software  for professionals is 6000€ to buy. Embroidering machines  are very expensive themselves too. These softwares are very tight and  closed,  you  even have to have special USB key for  patterns. And there are these two guys who are software developers, they  are trying to  come up with a format which all embroidering machines  could read. They take their time to do this and I think in the end if  the project works   out, they will probably get attention and probably get paid also. Because instead of giving 1000 € to  copyrighted software, maybe you  would be happy to give 50€ to these people.
 
