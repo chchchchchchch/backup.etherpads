@@ -244,7 +244,7 @@ I was happy to find a panel on the program of LGM that addressed how this commun
 
 % NOWSPEAKING: ALA
 % ---------------
-Yes, in a way it is. I think that 'conversations' are the best, biggest thing that F/LOSS has to offer its users, in comparison with proprietary software. But a lot of the behavioral habits we have within F/LOSS and also as people living in North America, is derived from what we see corporations doing. We accept this as our personal strategies because we do not know any alternatives. The more I say about this, the more I sound like a hippie but I think I'll have to take the risk (laughs).
+Yes, in a way it is. I think that 'conversations' are the best, biggest thing that F/LOSS has to offer its users, in comparison with proprietary software. But a lot of the behavioral habits we have within F/LOSS and also as people living in North America, is derived from what we see corporations doing. We accept this as our personal strategies because we do not know any alternatives. The more I say about this, the more I sound like a hippie but I think I'll have to take the risk (_laughs_).
 
 If you go to the Flash website, it tells you the important things you need to know about Flash, and than you click download. Maybe there is a link to a complex survey that tries to gather data en masse of untold millions of users. I think that any randomly chosen website of a Libre Graphics project will look similar. But instead it could say when you click download or run the software ... _we're a bunch of people ... why don't you come talk to us on IRC?_
 
