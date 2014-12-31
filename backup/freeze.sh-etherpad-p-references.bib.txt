@@ -1,550 +1,282 @@
 
-<!doctype html>
+@Book{ constant:2009:vjtracks,
+ author    = {Constant and Delahaut, Clementine and Rassel, Laurence and Sidgwick, Emma},
+ title     = {{Verbindingen/Jonctions: Tracks in electr(on)ic fields}},
+ year      = {2009},
+ publisher = {Constant Verlag},
+ note = {http://ospublish.constantvzw.org/sources/vj10}
+}
 
-<html>
+@Book{ devalkmansoux:2008:flossart,
+ author    = {Mansoux, Aymeric and de Valk, Marloes},
+ title     = {{FLOSS+Art}},
+ year      = {2008},
+ ISBN      = {9781906496180},
+ publisher = {OpenMute},
+ note = {http://things.bleu255.com/floss-art}
+}
+
+@misc{ krs-1:2014:templeofhiphop,
+ author       = {Master Teacher, KRS-One},
+ title        = {{AN INTRODUCTION TO HIP HOP }},
+ howpublished = {http://www.krs-one.com/#!temple-of-hip-hop/c177q},
+}
+
+@Book{ pfiffner:2002:adobe,
+ author    = {Pfiffner, Pamela},
+ title     = {{Inside the Publishing Revolution: The Adobe Story}},
+ year      = {2008},
+ ISBN      = {9780321115645},
+ publisher = {Adobe~Press}
+}
+
+@misc{ tug.org:2014:hagen,
+ author       = {},
+ title        = {{Hans Hagen -- Interview -- TeX Users Group}},
+ year         = {2006},
+ url          = {http://tug.org/interviews/hagen.html},
+ note         = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:xwindow,
+ author = {Wikipedia},
+ title  = {{X Window System --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=X_Window_System&oldid=638479346},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:cchost,
+ author = {Wikipedia},
+ title  = {{CcHost --- Wikipedia, The Free Encyclopedia}},
+ year   = {2012},
+ url    = {http://en.wikipedia.org/w/index.php?title=CcHost&oldid=522203738},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:openfontlibrary,
+ author = {Wikipedia},
+ title  = {{Open Font Library --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Open_Font_Library&oldid=628065629},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:challengerdisaster,
+ author = {Wikipedia},
+ title  = {{Space Shuttle Challenger disaster --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Space_Shuttle_Challenger_disaster&oldid=637243655},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:unicode,
+   author = {Wikipedia},
+   title  = {{Unicode --- Wikipedia, The Free Encyclopedia}},
+   year   = {2014},
+   url    = {http://en.wikipedia.org/w/index.php?title=Unicode&oldid=638169862},
+   note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:opentype,
+ author = {Wikipedia},
+ title  = {OpenType --- Wikipedia, The Free Encyclopedia},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=OpenType&oldid=635861308},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:freehand,
+ author = {Wikipedia},
+ title  = {{Adobe FreeHand --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Adobe_FreeHand&oldid=638559648},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:postscriptfonts,
+ author = {Wikipedia},
+ title  = {{PostScript fonts --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=PostScript_fonts&oldid=627364155},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:frontpage,
+ author = {Wikipedia},
+ title  = {{Microsoft FrontPage --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Microsoft_FrontPage&oldid=633701346},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:truetype,
+ author = {Wikipedia},
+ title  = {{TrueType --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=TrueType&oldid=636724459},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:postscript,
+ author = {Wikipedia},
+ title  = {{PostScript --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=PostScript&oldid=635789389},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:macromedia,
+ author = {Wikipedia},
+ title  = {{Macromedia --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Macromedia&oldid=638007179},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ chu-carroll:2008:TheGeniusofDonaldKnuth,
+ author     = {Chu-Carroll, Mark C.},
+ title      = {{The Genius of Donald Knuth: Typesetting with Boxes and Glue}},
+ year       = {2008},
+ url        = {http://scienceblogs.com/goodmath/2008/01/10/the-genius-of-donald-knuth-typ/},
+}
+
+@misc{ fsf:2007:gpl,
+ author     = {Free Software Foundation},
+ title      = {{GNU General Public License}},
+ year       = {2007},
+ url        = {http://reader.lgru.net/texts/echo-echo-echo-echo-command-line-poetics},
+}
+
+@misc{ Cramer:2007:CommandLinePoetics,
+ author     = {Cramer, Florian},
+ title      = {{(echo echo) echo (echo): Command Line Poetics}},
+ year       = {2007},
+ url        = {http://reader.lgru.net/texts/echo-echo-echo-echo-command-line-poetics},
+}
+
+@Book{ McCullough:1998:AbstractingCraft,
+ author    = {McCullough, Malcom},
+ title     = {Abstracting Craft: The Practiced Digital Hand},
+ year      = {1998},
+ ISBN      = {978-0262631891},
+ publisher = {The~MIT~Press}
+}
+
+@Book{ Latour:1999:PandorasHope,
+ author    = {Latour, Bruno},
+ title     = {{Pandora's Hope: Essays on the Reality of Science Studies}},
+ year      = {1999},
+ ISBN      = {978-0674653368},
+ publisher = {Harvard~University~Press}
+}
+
+ @misc{ en.wikipedia.org:2014:graffititerminology,
+ author    = {Wikipedia},
+ title     = {Glossary of Graffiti --- Wikipedia{,} The Free Encyclopedia},
+ year      = {2014},
+ url       = {http://en.wikipedia.org/w/index.php?title=Glossary_of_graffiti&oldid=599121210},
+ note      = {[Online; accessed 5.8.2014]}
+ }
+
+@misc{ x.cygwin.com:2014:index,
+ author       = {},
+ title        = {Cygwin/X: X Windows -- on Windows!},
+ year         = {2014},
+ howpublished = {http://x.cygwin.com/},
+ note         = {[Online; accessed 5.8.2014]}
+}
+
+@Book{ Levy:2001:Cyberculture,
+ author    = {L\'{e}vy, Pierre},
+ title     = {Cyberculture (Electronic Mediations)},
+ year      = {2001},
+ ISBN      = {978-0816636105},
+ publisher = {University~Of~Minnesota~Press}
+}
+
+@Book{ Fuller:2003:BehindtheBlip,
+ author    = {Fuller, Matthew},
+ title     = {Behind the Blip: Essays on the culture of software},
+ year      = {2003},
+ ISBN      = {1-57027-139-9},
+ publisher = {Autonomedia}
+}
+
+@Book{ Fuller:2007:MediaEcologies,
+ author    = {Fuller, Matthew},
+ title     = {Media Ecologies: Materialist Energies in Art and Technoculture},
+ year      = {2007},
+ ISBN      = {9780262562263},
+ publisher = {The~MIT~Press}
+}
+
+@Book{ Fuller:2008:SoftwareStudies,
+ author    = {Fuller, Matthew},
+ title     = {Software Studies: A Lexicon},
+ year      = {2008},
+ ISBN      = {0-262-062747},
+ publisher = {The~MIT~Press}
+}
 
 
-        <title>Etherpad</title>
-        <script>
-          /*
-          |@licstart  The following is the entire license notice for the
-          JavaScript code in this page.|
 
-          Copyright 2011 Peter Martischka, Primary Technology.
 
-          Licensed under the Apache License, Version 2.0 (the "License");
-          you may not use this file except in compliance with the License.
-          You may obtain a copy of the License at
 
-             http://www.apache.org/licenses/LICENSE-2.0
 
-          Unless required by applicable law or agreed to in writing, software
-          distributed under the License is distributed on an "AS IS" BASIS,
-          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-          See the License for the specific language governing permissions and
-          limitations under the License.
+% ------------------------------------------------------------------------------------------- %
 
-          |@licend  The above is the entire license notice
-          for the JavaScript code in this page.|
-          */
-        </script>
+@Book{ Miller:2004:RhythmScience,
+ author    = {Miller, Paul D.},
+ title     = {{Rhythm Science}},
+ year      = {2004},
+ ISBN      = {0-262-63287-X},
+ publisher = {The MIT Press}
+}
 
-        <meta charset="utf-8">
-        <meta name="robots" content="noindex, nofollow">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-        <link rel="shortcut icon" href="../favicon.ico">
+@Book{ Derrida:1997:DAV,
+ author = {Derrida, Jaques},
+ title  = {{Dem Archiv verschrieben}},
+ year   = {2002},
+ ISBN   = {3-92266-067-3},
+}
 
-        
-        <link href="../static/css/pad.css" rel="stylesheet">
-        <link href="../static/custom/pad.css" rel="stylesheet">
-        <style title="dynamicsyntax"></style>
-        
+@misc{ wikipedia:abstraction,
+ author     = {Wikipedia},
+ title      = {{Abstraction --- Wikipedia, The Free Encyclopedia}},
+ year       = {2008},
+ url        = {http://en.wikipedia.org/w/index.php?title=Abstraction&oldid=194380384},
+ note       = {[Online; accessed 14-March-2008]}
+}
 
-        <link rel="localizations" type="application/l10n+json" href="../locales.json" />
-        <script type="text/javascript" src="../static/js/html10n.js"></script>
-        <script type="text/javascript" src="../static/js/l10n.js"></script>
+@misc{ manovich:gf,
+ author     = {Manovich, Lev},
+ title      = {{Generation Flash}},
+ year       = {2002},
+ url        = {http://manovich.net/DOCS/generation_flash.doc},
+ note       = {[Available from the World Wide Web]}
+}
 
-        <!-- head and body had been removed intentionally -->
+@inproceedings{ pdcon2007:Nunez,
+ author     = {Alejandra Maria Perez Nunez},
+ title      = {Pure Data as a feminist tool for meaningful learning},
+ booktitle  = {L’OEuvre ouverte | PureData Convention 07},
+ note       = {Montreal, Canada, August 21-26, 2007},
+ address    = {Montreal, Canada},
+ editors    = {Michel Devy and Fr\'{e}d\'{e}ric Lerasle},
+ pages      = {457-466},
+ isbn       = {2-907801-01-5},
+ publisher  = {LAAS-CNRS},
+ year       = {2001}
+}
 
-        
-        <div id="editbar" class="toolbar">
-            <div id="overlay">
-                <div id="overlay-inner"></div>
-            </div>
+@article{ hybridspace,
+author  = {{Vogelaar et al.}, Frans},
+year    = {{2006}},
+title   = {{Wiki of the Hybrid Space Project}},
+journal = {http://hybridspace.openkhm.de},
+volume  = {},
+number  = {},
+pages   = {}
+}
 
-            <ul class="menu_left">
-                
-                <li data-type="button" data-key="bold"><a class="grouped-left"><span class=" buttonicon buttonicon-bold" data-l10n-id="pad.toolbar.bold.title"></span></a></li>
-<li data-type="button" data-key="italic"><a class="grouped-middle"><span class=" buttonicon buttonicon-italic" data-l10n-id="pad.toolbar.italic.title"></span></a></li>
-<li data-type="button" data-key="underline"><a class="grouped-middle"><span class=" buttonicon buttonicon-underline" data-l10n-id="pad.toolbar.underline.title"></span></a></li>
-<li data-type="button" data-key="strikethrough"><a class="grouped-right"><span class=" buttonicon buttonicon-strikethrough" data-l10n-id="pad.toolbar.strikethrough.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="insertorderedlist"><a class="grouped-left"><span class=" buttonicon buttonicon-insertorderedlist" data-l10n-id="pad.toolbar.ol.title"></span></a></li>
-<li data-type="button" data-key="insertunorderedlist"><a class="grouped-middle"><span class=" buttonicon buttonicon-insertunorderedlist" data-l10n-id="pad.toolbar.ul.title"></span></a></li>
-<li data-type="button" data-key="indent"><a class="grouped-middle"><span class=" buttonicon buttonicon-indent" data-l10n-id="pad.toolbar.indent.title"></span></a></li>
-<li data-type="button" data-key="outdent"><a class="grouped-right"><span class=" buttonicon buttonicon-outdent" data-l10n-id="pad.toolbar.unindent.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="undo"><a class="grouped-left"><span class=" buttonicon buttonicon-undo" data-l10n-id="pad.toolbar.undo.title"></span></a></li>
-<li data-type="button" data-key="redo"><a class="grouped-right"><span class=" buttonicon buttonicon-redo" data-l10n-id="pad.toolbar.redo.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="clearauthorship"><a class=""><span class=" buttonicon buttonicon-clearauthorship" data-l10n-id="pad.toolbar.clearAuthorship.title"></span></a></li>
-                <li class="separator acl-write"></li>
-<li id="headings" class="acl-write">
-    <select id="heading-selection">
-        <option value="dummy" selected data-l10n-id="ep_headings.style">Style</option>
-        <option value="-1" data-l10n-id="ep_headings.normal">Normal</option>
-        <option value="0" data-l10n-id="ep_headings.h1">Heading 1</option>
-        <option value="1" data-l10n-id="ep_headings.h2">Heading 2</option>
-        <option value="2" data-l10n-id="ep_headings.h3">Heading 3</option>
-        <option value="3" data-l10n-id="ep_headings.h4">Heading 4</option>
-        <option value="4" data-l10n-id="ep_headings.h5">Heading 5</option>
-        <option value="5" data-l10n-id="ep_headings.h6">Heading 6</option>
-        <option value="6" data-l10n-id="ep_headings.code">Code</option>
-        
-    </select>
-</li>
-            </ul>
-            <ul class="menu_right">
-                
-                <li data-type="button" data-key="import_export"><a class="grouped-left"><span class=" buttonicon buttonicon-import_export" data-l10n-id="pad.toolbar.import_export.title"></span></a></li>
-<li data-type="button" data-key="showTimeSlider"><a class="grouped-middle"><span class=" buttonicon buttonicon-history" data-l10n-id="pad.toolbar.timeslider.title"></span></a></li>
-<li data-type="button" data-key="savedRevision"><a class="grouped-right"><span class=" buttonicon buttonicon-savedRevision" data-l10n-id="pad.toolbar.savedRevision.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="settings"><a class="grouped-left"><span class=" buttonicon buttonicon-settings" data-l10n-id="pad.toolbar.settings.title"></span></a></li>
-<li data-type="button" data-key="embed"><a class="grouped-right"><span class=" buttonicon buttonicon-embed" data-l10n-id="pad.toolbar.embed.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="showusers"><a class=""><span class=" buttonicon buttonicon-showusers" data-l10n-id="pad.toolbar.showusers.title"></span></a></li>
-                
-            </ul>
-        </div>
-        
-
-        <div id="users">
-            
-            <div id="connectionstatus"></div>
-            <div id="myuser">
-                <div id="mycolorpicker">
-                    <div id="colorpicker"></div>
-                    <button id="mycolorpickersave" data-l10n-id="pad.colorpicker.save"></button>
-                    <button id="mycolorpickercancel" data-l10n-id="pad.colorpicker.cancel"></button>
-                    <span id="mycolorpickerpreview" class="myswatchboxhoverable"></span>
-                </div>
-                <div id="myswatchbox"><div id="myswatch"></div></div>
-                <div id="myusernameform"><input type="text" id="myusernameedit" disabled="disabled" data-l10n-id="pad.userlist.entername"></div>
-                <div id="mystatusform"><input type="text" id="mystatusedit" disabled="disabled"></div>
-            </div>
-            <div id="otherusers">
-                <div id="guestprompts"></div>
-                <table id="otheruserstable" cellspacing="0" cellpadding="0" border="0">
-                    <tr><td></td></tr>
-                </table>
-                <div id="nootherusers"></div>
-            </div>
-            <div id="userlistbuttonarea"></div>
-            
-        </div>
-
-        <div id="editorcontainerbox">
-            <div id="editorcontainer"></div>
-            <div id="editorloadingbox">
-              <div id="passwordRequired">
-                <p data-l10n-id="pad.passwordRequired">You need a password to access this pad</p>
-                <form class='passForm' method='POST'>
-                  <input id='passwordinput' type='password' name='password'><input type='submit' value='Submit'>
-                </form>
-              </div>
-              <div id="permissionDenied">
-                <p data-l10n-id="pad.permissionDenied">You do not have permission to access this pad</p>
-              </div>
-              <div id="wrongPassword">
-                <p data-l10n-id="pad.wrongPassword">Your password was wrong</p>
-              </div>
-              
-              <p data-l10n-id="pad.loading" id="loading">Loading...</p>
-              
-              <noscript><strong>Sorry, you have to enable Javascript in order to use this.</strong></noscript>
-            </div>
-        </div>
-
-        <div id="settings" class="popup">
-            <h1 data-l10n-id="pad.settings.padSettings"></h1>
-            <div class="column">
-                
-                <h2 data-l10n-id="pad.settings.myView"></h2>
-                <p>
-                    <input type="checkbox" id="options-stickychat" onClick="chat.stickToScreen();">
-                    <label for="options-stickychat" data-l10n-id="pad.settings.stickychat"></label>
-                </p>
-                <p>
-                    <input type="checkbox" id="options-colorscheck">
-                    <label for="options-colorscheck" data-l10n-id="pad.settings.colorcheck"></label>
-                </p>
-                <p>
-                    <input type="checkbox" id="options-linenoscheck" checked>
-                    <label for="options-linenoscheck" data-l10n-id="pad.settings.linenocheck"></label>
-                </p>
-                <p>
-                    <input type="checkbox" id="options-rtlcheck">
-                    <label for="options-rtlcheck" data-l10n-id="pad.settings.rtlcheck"></label>
-                </p>
-                <p>
-  <input type="checkbox" id="options-markdown" checked></input> 
-  <label for="options-markdown">Show markdown</label>
-</p>
-
-                <table>
-                    
-                    <tr>
-                        <td>
-                            <label for="viewfontmenu" data-l10n-id="pad.settings.fontType">Font type:</label>
-                        </td>
-                        <td>
-                            <select id="viewfontmenu">
-                                <option value="normal" data-l10n-id="pad.settings.fontType.normal"></option>
-                                <option value="monospace" data-l10n-id="pad.settings.fontType.monospaced"></option>
-                            </select>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <label for="languagemenu" data-l10n-id="pad.settings.language">Language:</label>
-                        </td>
-                        <td>
-                            <select id="languagemenu">
-                                
-                                <option value="af">Afrikaans</option>
-                                
-                                <option value="ar">العربية</option>
-                                
-                                <option value="ast">asturianu</option>
-                                
-                                <option value="az">azərbaycanca</option>
-                                
-                                <option value="azb">تورکجه</option>
-                                
-                                <option value="be-tarask">беларуская (тарашкевіца)‎</option>
-                                
-                                <option value="bn">বাংলা</option>
-                                
-                                <option value="br">brezhoneg</option>
-                                
-                                <option value="ca">català</option>
-                                
-                                <option value="cs">česky</option>
-                                
-                                <option value="da">dansk</option>
-                                
-                                <option value="de">Deutsch</option>
-                                
-                                <option value="diq">Zazaki</option>
-                                
-                                <option value="dsb">dolnoserbski</option>
-                                
-                                <option value="el">Ελληνικά</option>
-                                
-                                <option value="en">English</option>
-                                
-                                <option value="es">español</option>
-                                
-                                <option value="et">eesti</option>
-                                
-                                <option value="eu">euskara</option>
-                                
-                                <option value="fa">فارسی</option>
-                                
-                                <option value="fi">suomi</option>
-                                
-                                <option value="fo">føroyskt</option>
-                                
-                                <option value="fr">français</option>
-                                
-                                <option value="gl">galego</option>
-                                
-                                <option value="he">עברית</option>
-                                
-                                <option value="hsb">hornjoserbsce</option>
-                                
-                                <option value="hu">magyar</option>
-                                
-                                <option value="ia">interlingua</option>
-                                
-                                <option value="it">italiano</option>
-                                
-                                <option value="ja">日本語</option>
-                                
-                                <option value="km">ភាសាខ្មែរ</option>
-                                
-                                <option value="ko">한국어</option>
-                                
-                                <option value="ksh">Ripoarisch</option>
-                                
-                                <option value="lb">Lëtzebuergesch</option>
-                                
-                                <option value="lt">lietuvių</option>
-                                
-                                <option value="lv">latviešu</option>
-                                
-                                <option value="map-bms">Basa Banyumasan</option>
-                                
-                                <option value="mk">македонски</option>
-                                
-                                <option value="ml">മലയാളം</option>
-                                
-                                <option value="mr">मराठी</option>
-                                
-                                <option value="ms">Bahasa Melayu</option>
-                                
-                                <option value="nb">norsk (bokmål)‎</option>
-                                
-                                <option value="nds">Plattdüütsch</option>
-                                
-                                <option value="ne">नेपाली</option>
-                                
-                                <option value="nl">Nederlands</option>
-                                
-                                <option value="nn">norsk (nynorsk)‎</option>
-                                
-                                <option value="oc">occitan</option>
-                                
-                                <option value="os">Ирон</option>
-                                
-                                <option value="pa">ਪੰਜਾਬੀ</option>
-                                
-                                <option value="pl">polski</option>
-                                
-                                <option value="ps">پښتو</option>
-                                
-                                <option value="pt-br">português do Brasil</option>
-                                
-                                <option value="pt">português</option>
-                                
-                                <option value="ru">русский</option>
-                                
-                                <option value="sco">Scots</option>
-                                
-                                <option value="sk">slovenčina</option>
-                                
-                                <option value="sl">slovenščina</option>
-                                
-                                <option value="sq">shqip</option>
-                                
-                                <option value="sv">svenska</option>
-                                
-                                <option value="te">తెలుగు</option>
-                                
-                                <option value="tr">Türkçe</option>
-                                
-                                <option value="uk">українська</option>
-                                
-                                <option value="vi">Tiếng Việt</option>
-                                
-                                <option value="zh-hans">中文（简体）‎</option>
-                                
-                                <option value="zh-hant">中文（繁體）‎</option>
-                                
-                            </select>
-                        </td>
-                    </tr>
-                    
-                </table>
-            </div>
-            <div class="column">
-                
-                <h2 data-l10n-id="pad.settings.globalView"></h2>
-                
-            </div>
-        </div>
-
-        <div id="importexport" class="popup">
-            <h1 data-l10n-id="pad.importExport.import_export"></h1>
-            <div class="column acl-write">
-                
-                <h2 data-l10n-id="pad.importExport.import"></h2>
-                <div class="importmessage" id="importmessageabiword" data-l10n-id="pad.importExport.abiword.innerHTML"></div><br>
-                <form id="importform" method="post" action="" target="importiframe" enctype="multipart/form-data">
-                    <div class="importformdiv" id="importformfilediv">
-                        <input type="file" name="file" size="10" id="importfileinput">
-                        <div class="importmessage" id="importmessagefail"></div>
-                    </div>
-                    <div id="import"></div>
-                    <div class="importmessage" id="importmessagesuccess" data-l10n-id="pad.importExport.importSuccessful"></div>
-                    <div class="importformdiv" id="importformsubmitdiv">
-                        <span class="nowrap">
-                            <input type="submit" name="submit" value="Import Now" disabled="disabled" id="importsubmitinput">
-                            <img alt="" id="importstatusball" src="../static/img/loading.gif" align="top">
-                            <img alt="" id="importarrow" src="../static/img/leftarrow.png" align="top">
-                        </span>
-                    </div>
-                </form>
-                
-            </div>
-            <div class="column" id="exportColumn">
-                <h2 data-l10n-id="pad.importExport.export"></h2>
-                
-                <a id="exporthtmla" target="_blank" class="exportlink"><div class="exporttype" id="exporthtml" data-l10n-id="pad.importExport.exporthtml"></div></a>
-                <a id="exportplaina" target="_blank" class="exportlink"><div class="exporttype" id="exportplain" data-l10n-id="pad.importExport.exportplain"></div></a>
-                <a id="exportworda" target="_blank" class="exportlink"><div class="exporttype" id="exportword" data-l10n-id="pad.importExport.exportword"></div></a>
-                <a id="exportpdfa" target="_blank" class="exportlink"><div class="exporttype" id="exportpdf" data-l10n-id="pad.importExport.exportpdf"></div></a>
-                <a id="exportopena" target="_blank" class="exportlink"><div class="exporttype" id="exportopen" data-l10n-id="pad.importExport.exportopen"></div></a>
-                <a id="exportdokuwikia" target="_blank" class="exportlink"><div class="exporttype" id="exportdokuwiki" data-l10n-id="pad.importExport.exportdokuwiki"></div></a>
-                <a id="exportmarkdowna" target="_blank" class="exportlink">
-  <div class="exporttype" id="exportmarkdown">Markdown</div>
-</a>
-
-            </div>
-        </div>
-
-        <div id="connectivity" class="popup">
-            
-                <div class="connected visible">
-                  <h2 data-l10n-id="pad.modals.connected"></h2>
-                </div>
-                <div class="reconnecting">
-                  <h1 data-l10n-id="pad.modals.reconnecting"></h1>
-                  <p><img alt="" border="0" src="../static/img/connectingbar.gif" /></p>
-                </div>
-                <div class="userdup">
-                  <h1 data-l10n-id="pad.modals.userdup"></h1>
-                  <h2 data-l10n-id="pad.modals.userdup.explanation"></h2>
-                  <p data-l10n-id="pad.modals.userdup.advice"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="unauth">
-                  <h1 data-l10n-id="pad.modals.unauth"></h1>
-                  <p data-l10n-id="pad.modals.unauth.explanation"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="looping">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.looping.explanation"></h2>
-                  <p data-l10n-id="pad.modals.looping.cause"></p>
-                </div>
-                <div class="initsocketfail">
-                  <h1 data-l10n-id="pad.modals.initsocketfail"></h1>
-                  <h2 data-l10n-id="pad.modals.initsocketfail.explanation"></h2>
-                  <p data-l10n-id="pad.modals.initsocketfail.cause"></p>
-                </div>
-                <div class="slowcommit">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.slowcommit.explanation"></h2>
-                  <p data-l10n-id="pad.modals.slowcommit.cause"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="badChangeset">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.badChangeset.explanation"></h2>
-                  <p data-l10n-id="pad.modals.badChangeset.cause"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="corruptPad">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.corruptPad.explanation"></h2>
-                  <p data-l10n-id="pad.modals.corruptPad.cause"></p>
-                </div>
-                <div class="deleted">
-                  <h1 data-l10n-id="pad.modals.deleted"></h1>
-                  <p data-l10n-id="pad.modals.deleted.explanation"></p>
-                </div>
-                <div class="disconnected">
-                  
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.disconnected.explanation"></h2>
-                  <p data-l10n-id="pad.modals.disconnected.cause"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                  
-                </div>
-                <form id="reconnectform" method="post" action="/ep/pad/reconnect" accept-charset="UTF-8" style="display: none;">
-                    <input type="hidden" class="padId" name="padId">
-                    <input type="hidden" class="diagnosticInfo" name="diagnosticInfo">
-                    <input type="hidden" class="missedChanges" name="missedChanges">
-                </form>
-            
-        </div>
-
-        <div id="embed" class="popup">
-            
-            <div id="embedreadonly" class="right acl-write">
-                <input type="checkbox" id="readonlyinput">
-                <label for="readonlyinput" data-l10n-id="pad.share.readonly"></label>
-            </div>
-            <h1 data-l10n-id="pad.share"></h1>
-            <div id="linkcode">
-                <h2 data-l10n-id="pad.share.link"></h2>
-                <input id="linkinput" type="text" value="" onclick="this.select()">
-            </div>
-            <br>
-            <div id="embedcode">
-                <h2 data-l10n-id="pad.share.emebdcode"></h2>
-                <input id="embedinput" type="text" value="" onclick="this.select()">
-            </div>
-            
-        </div>
-
-        <div id="chaticon" onclick="chat.show();return false;">
-            <span id="chatlabel" data-l10n-id="pad.chat"></span>
-            <span class="buttonicon buttonicon-chat"></span>
-            <span id="chatcounter">0</span>
-        </div>
-
-        <div id="chatbox">
-            <div id="titlebar"><span id ="titlelabel" data-l10n-id="pad.chat"></span>
-              <a id="titlecross" onClick="chat.hide();return false;">-&nbsp;</a>
-              <a id="titlesticky" onClick="chat.stickToScreen(true);$('#options-stickychat').prop('checked', true);return false;" title="Stick chat to screen">█&nbsp;&nbsp;</a>
-            </div>
-            <div id="chattext" class="authorColors">
-                <img alt="loading.." id="chatloadmessagesball" class="chatloadmessages" src="../static/img/loading.gif" align="top">
-                <button id="chatloadmessagesbutton" class="chatloadmessages" data-l10n-id="pad.chat.loadmessages"></button>
-            </div>
-            <div id="chatinputbox">
-                <form>
-                    <input id="chatinput" type="text" maxlength="999">
-                </form>
-            </div>
-        </div>
-
-        <div id="focusprotector">&nbsp;</div>
-
-        
-
-        
-        <script type="text/javascript">
-            (function() {
-              // Display errors on page load to the user
-              // (Gets overridden by padutils.setupGlobalExceptionHandler)
-              var originalHandler = window.onerror;
-              window.onerror = function(msg, url, line) {
-                var box   = document.getElementById('editorloadingbox');
-                box.innerHTML = '<p><b>An error occured while loading the pad</b></p>'
-                              + '<p><b>'+msg+'</b> '
-                              + '<small>in '+ url +' (line '+ line +')</small></p>';
-                // call original error handler
-                if(typeof(originalHandler) == 'function') originalHandler.call(null, arguments);
-              };
-            })();
-        </script>
-
-        <script type="text/javascript" src="../static/js/require-kernel.js"></script>
-        <script type="text/javascript" src="../socket.io/socket.io.js"></script>
-
-        <!-- Include base packages manually (this help with debugging) -->
-        <script type="text/javascript" src="../javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.define"></script>
-        <script type="text/javascript" src="../javascripts/lib/ep_etherpad-lite/static/js/ace2_common.js?callback=require.define"></script>
-
-        <script type="text/javascript" src="../static/custom/pad.js"></script>
-
-        <!-- Bootstrap page -->
-        <script type="text/javascript">
-            var clientVars = {};
-            (function () {
-              var pathComponents = location.pathname.split('/');
-
-              // Strip 'p' and the padname from the pathname and set as baseURL
-              var baseURL = pathComponents.slice(0,pathComponents.length-2).join('/') + '/';
-
-              require.setRootURI(baseURL + "javascripts/src");
-              require.setLibraryURI(baseURL + "javascripts/lib");
-              require.setGlobalKeyPath("require");
-
-              $ = jQuery = require('ep_etherpad-lite/static/js/rjquery').jQuery; // Expose jQuery #HACK
-
-              if ((!$.browser.msie) && (!($.browser.mozilla && $.browser.version.indexOf("1.8.") == 0))) {
-                document.domain = document.domain; // for comet
-              }
-
-              var plugins = require('ep_etherpad-lite/static/js/pluginfw/client_plugins');
-              var hooks = require('ep_etherpad-lite/static/js/pluginfw/hooks');
-
-              plugins.baseURL = baseURL;
-              plugins.update(function () {
-                hooks.plugins = plugins;
-
-                // Call documentReady hook
-                $(function() {
-                  hooks.aCallAll('documentReady');
-                });
-
-                var pad = require('ep_etherpad-lite/static/js/pad');
-                pad.baseURL = baseURL;
-                pad.init();
-              });
-
-              /* TODO: These globals shouldn't exist. */
-              pad = require('ep_etherpad-lite/static/js/pad').pad;
-              chat = require('ep_etherpad-lite/static/js/chat').chat;
-              padeditbar = require('ep_etherpad-lite/static/js/pad_editbar').padeditbar;
-              padimpexp = require('ep_etherpad-lite/static/js/pad_impexp').padimpexp;
-            }());
-        </script>
-        <script src="/static/plugins/ep_markdown/static/js/main.js"></script>
-
-</html>
