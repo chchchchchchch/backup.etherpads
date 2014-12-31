@@ -14,10 +14,7 @@
 
 % TITLE: Meaningful transformations
 
-% NOWSPEAKING: X
-% --------------
-
-% SCALEFONT: 1.32
+% SCALEFONT: 1.26
 
 We discovered the work of Tom Lechner for the first time at the Libre Graphics Meeting 2010 in Brussels. Tom traveled from Portland to present Laidout, an amazing tool that he made to produce his own comic books and also to work on three dimensional mathematical objects. We were excited about how his software  represents the gesture of folding, loved his bold interface decisions plus were impressed  by the fact that Tom decided to write his own programming framework  for it. A year later, we met again in Montreal, Canada for the **Libre Graphics Meeting 2011** where he presents a follow-up. With Ludivine Loiseau[^]{amateur bookbinder and graphic designer} and Pierre Marchand[^]{artist/developer, contributing amongst others to PodofoImpose and Scribus}, we finally found time to sit down and talk.
 
@@ -42,7 +39,8 @@ It does a lot more than laying out cartoons?
 
 % NOWSPEAKING: TL
 % ---------------
-It works for any image, basically, and gradients. It does not currently do text. It is on my to-do list. I usually write my own text, so it does not really need to do text. I just make an image of it.
+It works for any image, basically, and gradients. It does not currently do text. It is on my todo list.
+I usually write my own text, so it does not really need to do text. I just make an image of it.
 
 
 % NOWSPEAKING: FS
@@ -62,7 +60,7 @@ Can you talk us through the process of doing the T-shirt?
 
 % NOWSPEAKING: TL
 % ---------------
-OK. So, you need a pattern. I had just a shirt that sort of fit and I approximated it on a big piece of paper, to figure out what the pieces were shaped like, and took a photograph of that. I used a perspective tool to remove the distortion. I had placed rulers on the ground so that I could remember the actual scale of it. Then once it was in the computer, I traced over it in Inkscape, to get just the basic outline so that I could manipulate further. Blender didn't want to import it so I had to retrace it. I had to use Blender to do it because that lets me shape the pattern, take it from flat into something that actually makes 3D shapes so whatever errors were in the original pattern that I had on the paper, I could now correct, make the sides actually meet and once I had the molded shape, and in Blender you have to be extremely careful to keep any shape, any manipulation that you do to make sure your surface is still unfoldable into something flat. It is very easy to get away from flat surfaces in Blender. Once I have the molded shape, I can export that into an .off file which my unwrapper can import and that I can then unwrap into the sleeves and the front and the back as well as project a panoramic image onto those pieces. Once I have that, it becomes a pattern laid out on a giant flat surface. Then I can use Laidout once again to tile pages across that. I can export into a pdf with all the individual pieces of the image that were just pieces of the larger image that I can print on transfer paper. It took forty iron-on transfer papers I ironed with an iron provided to me by the people sitting in front of me so that took a while but finally I got it all done, cut it all out, sewed it up and there you go.
+OK. So, you need a pattern. I had just a shirt that sort of fit and I approximated it on a big piece of paper, to figure out what the pieces were shaped like, and took a photograph of that. I used a perspective tool to remove the distortion. I had placed rulers on the ground so that I could remember the actual scale of it. Then once it was in the computer, I traced over it in Inkscape, to get just the basic outline so that I could manipulate further. Blender didn't want to import it so I had to retrace it. I had to use Blender to do it because that lets me shape the pattern, take it from flat into something that actually makes 3D shapes so whatever errors were in the original pattern that I had on the paper, I could now correct, make the sides actually meet and once I had the molded shape, and in Blender you have to be extremely careful to keep any shape, any manipulation that you do to make sure your surface is still unfoldable into something flat. It is very easy to get away from flat surfaces in Blender. Once I have the molded shape, I can export that into an .off file which my unwrapper can import and that I can then unwrap into the sleeves and the front and the back as well as project a panoramic image onto those pieces. Once I have that, it becomes a pattern laid out on a giant flat surface. Then I can use Laidout once again to tile pages across that. I can export into a .pdf with all the individual pieces of the image that were just pieces of the larger image that I can print on transfer paper. It took forty iron-on transfer papers I ironed with an iron provided to me by the people sitting in front of me so that took a while but finally I got it all done, cut it all out, sewed it up and there you go.
 
 
 % NOWSPEAKING: FS
@@ -72,7 +70,7 @@ Could you say something about your interest in moving from 2D to 3D and back aga
 
 % NOWSPEAKING: TL
 % ---------------
-I don't know. I've been making sculpture of various kinds for quite a long time. I've always drawn. Since I was about eighteen, I started making sculptures, mainly mathematical woodwork. I don't quite have access to a full woodwork workshop anymore, so I cannot make as much woodwork as I used to. It's kind of an instance of being defined by what tools you have available to you, like you were saying in your talk. I don't have a wood shop, but I can do other stuff. I can still make various shapes, but mainly out of paper. Since I had been doing woodwork, I picked up photography I guess and I made a ton of panoramic images. It's kind of fun to figure out how to project these images out of the computer into something that you can physically create, for instance a T-shirt or a ball, or other paper shapes.
+I don't know. I've been making sculpture of various kinds for quite a long time. I've always drawn. Since I was about eighteen, I started making sculptures, mainly mathematical woodwork. I don't quite have access to a full woodwork workshop anymore, so I cannot make as much woodwork as I used to. It's kind of an instance of being defined by what tools you have available to you, like you were saying in your talk. I don't have a woodshop, but I can do other stuff. I can still make various shapes, but mainly out of paper. Since I had been doing woodwork, I picked up photography I guess and I made a ton of panoramic images. It's kind of fun to figure out how to project these images out of the computer into something that you can physically create, for instance a T-shirt or a ball, or other paper shapes.
 
 
 % NOWSPEAKING: FS
@@ -97,7 +95,7 @@ It is a challenge to do and I enjoy figuring out how to do that. In making compu
 
 % NOWSPEAKING: PM
 % ---------------
-My feeling about your work is that the time you spent working on the program is in itself the most intriguing part of your work. There is of course a challenge and I can imagine that when you are doing it like the first time you see a rectangle, and you see it mimic a perspective you think wow I am folding a paper; I have really done something. I worked on imposition too but more to figure out how to work with pdf files and I didn't go this way of the gesture like you did. There is something in your work which is really the way you wrote your own framework for example and did not use any existing frameworks. You didn't use existing GUIs and toolboxes. It would be nice to listen to you about how you worked, how you worked on the programming.
+My feeling about your work is that the time you spent working on the program is in itself the most intriguing part of your work. There is of course a challenge and I can imagine that when you are doing it like the first time you see a rectangle, and you see it mimic a perspective you think _wow I am folding a paper, I have really done something_. I worked on imposition too but more to figure out how to work with .pdf files and I didn't go this way of the gesture like you did. There is something in your work which is really the way you wrote your own framework for example and did not use any existing frameworks. You didn't use existing GUIs and toolboxes. It would be nice to listen to you about how you worked, how you worked on the programming.
 
 
 % NOWSPEAKING: TL
@@ -124,7 +122,7 @@ You're looking for good excuses to program.
 
 % NOWSPEAKING: TL
 % ---------------
-(laughs) That could be.
+(_laughs_) That could be.
 
 
 % NOWSPEAKING: PM
@@ -239,7 +237,7 @@ Do you have any fantasies about how these gestures could work for real?
 
 % NOWSPEAKING: TL
 % ---------------
-There's tons of sci fi movies, like _Minority Report_, where you wear these gloves and you can do various things. Even that is still just mainly browsing. I saw one, it was a research project by this guy at Caltech. He had made this table and he wore polarized glasses so he could look down at this table and see a 3D image. And then he had gloves on, and he could sculpt things right in the air. The computer would keep track of where his hand is going. Instead of sculpting clay, you're sculpting this 3D mesh. That seemed quite impressive to me.
+There's tons of sci fi movies, like 'Minority Report', where you wear these gloves and you can do various things. Even that is still just mainly browsing. I saw one, it was a research project by this guy at Caltech. He had made this table and he wore polarized glasses so he could look down at this table and see a 3D image. And then he had gloves on, and he could sculpt things right in the air. The computer would keep track of where his hand is going. Instead of sculpting clay, you're sculpting this 3D mesh. That seemed quite impressive to me.
 
 
 % NOWSPEAKING: FS
@@ -299,7 +297,7 @@ What is nice is that you made the visualisation so important. The windows and th
 
 % NOWSPEAKING: PM
 % ---------------
-At the same time, the way you draw the thickness of the line to define the page is a bit large. For me, these are choices, and I am very impressed because I never manage to make choices for my own programs. The programs you wrote, or George Williams, make a strong aesthetic assertion like: This is good. I can do this. I think that is really interesting.
+At the same time, the way you draw the thickness of the line to define the page is a bit large. For me, these are choices, and I am very impressed because I never manage to make choices for my own programs. The programs you wrote, or George Williams, make a strong aesthetic assertion like: _This is good_. I can't do this. I think that is really interesting.
 
 
 % NOWSPEAKING: TL
@@ -319,12 +317,12 @@ Are there many other users of the program?
 
 % NOWSPEAKING: TL
 % ---------------
-Not that I know of _(laughter)_. I know that there is at least one other person that actually used it to produce a booklet. So I know that it is possible for someone other than myself to make things with it. I've gotten a couple of patches from people to not make it crash at various places but since Laidout is quite small, I can just not pay any attention to criticism. Partially because there isn't any, and I have particular motivations to make it work in a certain way and so it is easier to just go forward.
+Not that I know of (_laughter_). I know that there is at least one other person that actually used it to produce a booklet. So I know that it is possible for someone other than myself to make things with it. I've gotten a couple of patches from people to not make it crash at various places but since Laidout is quite small, I can just not pay any attention to criticism. Partially because there isn't any, and I have particular motivations to make it work in a certain way and so it is easier to just go forward.
 
 
 % NOWSPEAKING: PM
 % ---------------
-I think people that want to use your program are probably happy with this kind of visualisation. Because you wrote it alone, there is also a consistency across the program. It is not like Scribus, that has parts written by a lot of people so you can really recognize: this is Craig (Bradney), this is Andreas (Vox), this is Jean (Ghali), this myself. There is nothing to follow.
+I think people that want to use your program are probably happy with this kind of visualisation. Because you wrote it alone, there is also a consistency across the program. It is not like Scribus, that has parts written by a lot of people so you can really recognize: this is Craig (Bradney), this is Andreas (Vox), this is Jean (Ghali), this is myself. There is nothing to follow.
 
 
 % NOWSPEAKING: TL
@@ -344,7 +342,12 @@ I think it is a good idea, to start again. To come back to a little detail. Is t
 
 % NOWSPEAKING: TL
 % ---------------
-It is text-based, an indented file format, sort of like Python. I did not want to use XML, every time I try to use XML there are all these greater than's and less than's. It is better than binary, but it is still a huge mess. When everything is indented like a tree, it is very easy to find things. The only problem is to always input tabs, not spaces. I have two different imposition types, basically, the flat-folding sheets and the three dimensional ones. The three dimensional one is a little more complicated.
+It is text-based, an indented file format, sort of like Python. I did not want to use XML,
+every time I try to use XML there are all these greater thans and less thans.
+It is better than binary, but it is still a huge mess. When everything is indented like a tree,
+it is very easy to find things. The only problem is to always input tabs, not spaces.
+I have two different imposition types, basically, the flat-folding sheets and the three dimensional ones.
+The three dimensional one is a little more complicated.
 
 
 % NOWSPEAKING: FS
@@ -437,7 +440,7 @@ And the kinds of things you photograph? We saw the largest rodent on earth? How 
 
 % NOWSPEAKING: TL
 % ---------------
-I am not really sure. I wonder around and than photograph whatever stands out. I guess some unusual configuration of architecture frequently or sometimes a really odd event, or a political protest sometimes. The trick with panoramas is to find an area where something is happening all over the globe. Normally, on sunny days, you take a picture and all your image is blank. As pretty as the blue sky is, there is not a lot going on there particularly.
+I am not really sure. I wander around and than photograph whatever stands out. I guess some unusual configuration of architecture frequently or sometimes a really odd event, or a political protest sometimes. The trick with panoramas is to find an area where something is happening all over the globe. Normally, on sunny days, you take a picture and all your image is blank. As pretty as the blue sky is, there is not a lot going on there particularly.
 
 % NOWSPEAKING: FS
 % ---------------
