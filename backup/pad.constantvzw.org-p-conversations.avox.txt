@@ -15,7 +15,7 @@
 % NOWSPEAKING: X
 % --------------
 
-% SCALEFONT: 1.25
+% SCALEFONT: 1.15
 
 While in the background participants to the **Libre Graphics Meeting 2007** start saying goodbye to each other,
 Andreas Vox makes time to sit down with us to talk about Scribus, the Open Source application for professional page layout.
@@ -26,7 +26,7 @@ Together with Franz Schmid, Petr Vanek (subik), Riku Leino (Tsoots),  Oleksandr 
 He has been working on Scribus since 2003 and is currently responsible for redesigning the internal workings of its text layout system.
 
 % RESETFONT:
-% BIGSKIP:
+% VFILL:
 
 
 % NOWSPEAKING: FS
@@ -61,16 +61,16 @@ we can also pick up good ideas from them.
 
 % NOWSPEAKING: FS
 % ---------------
-There clearly is a strong connection between Scribus and the world of pre-press and print.
+There clearly is a strong connection between Scribus and the world of prepress and print.
 So, for us as users, it is an almost hallucinating experience that while on one side the software
-is very well developed when it comes to .pdf-export for example, I would say even more developed
-than in other applications, but than still it is not possible to undo a text-edit.
+is very well developed when it comes to .pdf export for example, I would say even more developed
+than in other applications, but than still it is not possible to undo a text edit.
 Could you maybe explain how such a discrepancy can happen, to make us understand better?
 
 
 % NOWSPEAKING: AV
 % ---------------
-One reason is, that there are more developers working on the project, and even if there was only one developer, he or she would have her own interests. Remember what George Williams said about FontForge…[^]{_I think the ideas behind it are beautiful in my mind_} he is not that interested in nice Graphical User Interfaces, he just makes his own functionality… that is what interests him. So unless someone else comes up who compensates for this, he will stick to what he likes. I think that is the case with all Open Source applications. Only if you have someone interested and able to do just this certain thing, it will happen. And if it is something boring or something else… it will probably not happen. One way to balance this, is to keep in touch with real users, and to listen to the problems they have. At least for the Scribus team, if we see people complaining a lot about a certain feature missing… we will at some point say: _come on, let’s do something about it_. We would implement a solution and when we get thanks from them and make them happy, that is always nice.
+One reason is, that there are more developers working on the project, and even if there was only one developer, he or she would have her own interests. Remember what George Williams said about FontForge…[^]{ _I think the ideas behind it are beautiful in my mind_ } he is not that interested in nice Graphical User Interfaces, he just makes his own functionality… that is what interests him. So unless someone else comes up who compensates for this, he will stick to what he likes. I think that is the case with all Open Source applications. Only if you have someone interested and able to do just this certain thing, it will happen. And if it is something boring or something else… it will probably not happen. One way to balance this, is to keep in touch with real users, and to listen to the problems they have. At least for the Scribus team, if we see people complaining a lot about a certain feature missing… we will at some point say: _come on, let’s do something about it_. We would implement a solution and when we get thanks from them and make them happy, that is always nice.
 
 
 % NOWSPEAKING: FS
@@ -86,7 +86,7 @@ Now we are following InDesign and QuarkXpress, and we are playing the top league
 
 % NOWSPEAKING: FS
 % ---------------
-In what way is it important to you that Scribus is free software?
+In what way is it important to you that Scribus is Free Software?
 
 
 % NOWSPEAKING: AV
@@ -138,12 +138,13 @@ At Scribus we have a value that a file should never break in a print shop. Any b
 
 % NOWSPEAKING: FS
 % ---------------
-We can speak from experience, that this is really true! But this robustness shifts out of sight when you use the inbuilt script function; then it is as if you come in to the software through the back-door. From self-defence to the heart of the application?
+We can speak from experience, that this is really true! But this robustness shifts out of sight when you use the inbuilt script function;
+then it is as if you come in to the software through the backdoor. From self-defence to the heart of the application?
 
 
 % NOWSPEAKING: AV
 % ---------------
-It is not really self-defence … programmers and software developers sometimes use the expression: ‘a user should not shoot himself in the foot’. Scribus will not protect you from ugly layout, if that would be possible at all! Although I do sometimes take deliberate decisions to try and do it … for example that for as long as I am around, I will not make an option to do ‘automatic letter spacing’, because I think it is just ugly. If you do it manually, that is your responsibility; I just do not feel like making anything like that work automatically. What we have no problems with, is to prevent you from making invalid output. If Scribus thinks a certain font is not OK, and it might break on one or two types of printers … this is reason enough for us to make sure this font is not used. The font is not even used partially, it is gone. That is the kind of self-defence Peter Linnel was talking about. It is also how we build .pdf-files and PostScript. Some ways of building PostScript take less storage, some of it would be easier to read for humans, but we always take an approach that would be the least problematic in a print shop. This meant for example, that you could not search in a .pdf[^]{because the fonts get outlined and/or reencoded}. I think you can do that now, but there are still limitations; it is on the roadmap to improve over time, to even add an option to output a web oriented .pdf and a print oriented .pdf … but it is an important value in Scribus is to get the output right. To prevent people to really shoot themselves in the foot.
+It is not really self-defence … programmers and software developers sometimes use the expression: ‘a user should not shoot himself in the foot’. Scribus will not protect you from ugly layout, if that would be possible at all! Although I do sometimes take deliberate decisions to try and do it … for example that for as long as I am around, I will not make an option to do ‘automatic letter spacing’, because I think it is just ugly. If you do it manually, that is your responsibility; I just do not feel like making anything like that work automatically. What we have no problems with, is to prevent you from making invalid output. If Scribus thinks a certain font is not OK, and it might break on one or two types of printers … this is reason enough for us to make sure this font is not used. The font is not even used partially, it is gone. That is the kind of self-defence Peter Linnel was talking about. It is also how we build .pdf files and PostScript. Some ways of building PostScript take less storage, some of it would be easier to read for humans, but we always take an approach that would be the least problematic in a print shop. This meant for example, that you could not search in a .pdf.[^]{because the fonts get outlined and/or reencoded} I think you can do that now, but there are still limitations; it is on the roadmap to improve over time, to even add an option to output a web oriented .pdf and a print oriented .pdf … but it is an important value in Scribus is to get the output right. To prevent people to really shoot themselves in the foot.
 
 
 % NOWSPEAKING: FS
