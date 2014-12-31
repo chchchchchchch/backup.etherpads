@@ -930,7 +930,7 @@ At OSP[^]{OSP (Open Source Publishing) is a graphic design
 collective that uses only Free, Libre and Open Source software.
 http://ospublish.constantvzw.org} we were discussing about the way
 designers are invited into Open Source Software by way of contest.
-Troy James Sobotka[^]{_The very notion of Libre / Free
+Troy James Sobotka[^]{ _The very notion of Libre / Free
 software holds cooperation and community with such high regard you
 would think that we would be visionary leaders regarding the means and
 methods we use to collaborate. We are not. We seem to suffer from a
@@ -938,10 +938,9 @@ collision of unity with diversity. How can we more greatly create a
 world of legitimate discussion regarding art, design, aesthetic, music,
 and other such diverse fields when we are so stuck on how much more
 consistent a damn panel looks with tripe 22 pixel icons of a given
-flavour?_ http://www.librescope.com/975/spec-work-and-contests-part-two} got
-angry and wrote: _We want to be part of this
-community, we don't want to compete for
-it_.
+flavour?_  http://www.librescope.com/975/spec-work-and-contests-part-two}
+got angry and wrote:
+_We want to be part of this community, we don't want to compete for it_.
 
 
 % NOWSPEAKING: ER
@@ -2089,7 +2088,9 @@ to share.
 % ---------------
 Yes, I thought that was an interesting point. I've
 been in similar conversations on listservs with artists in the
-OpenFrameworks, Processing and visual programming communities. What are
+OpenFrameworks, Processing
+% HIDDENKEYWORDS: processing.org
+and visual programming communities. What are
 the open pieces? It makes sense to share libraries, but if I make a
 print from a piece of code, do I then have to share the exact source
 and app for how that exact print was made? What does it mean when I am
@@ -2097,6 +2098,7 @@ investing money in a print, and it is a limited series but
 I'm sharing the code? The art world is still based on
 scarcity and we're interested in computers that are
 copy-machines.
+
 
 I see both sides of the argument and I am still trying to see how I fit into it. It
 gets trickier when you are asked to release a piece rather than a tool.
@@ -2357,9 +2359,8 @@ No. That's why I stopped doing projections.
 
 % NOWSPEAKING: JH
 % ---------------
-Not legal forms of graffiti, but more like the vision of KRS One of
-the Hip-Hop city,[^]{Peace and blessings, KRS One Temple of
-HipHop http://templeofhiphop.org} where graffiti would obviously be
+Not legal forms of graffiti, but more like the vision of KRS-One of
+the Hip Hop city,[@krs-1:2014:templeofhiphop] where graffiti would obviously be
 legal. Does that fundamentally change the nature of graffiti?
 
 
@@ -2389,7 +2390,7 @@ see.
 
 % NOWSPEAKING: JH
 % ---------------
-It is his Temple of Hip Hop, the idea to build a city of hip hop
+It is his Temple of Hip Hop, the idea to build a city of Hip Hop
 where the entire culture can be there without any external repression.
 It's an utopian ideal obviously.
 
@@ -2407,7 +2408,7 @@ more time on their hands.
 
 % NOWSPEAKING: JH
 % ---------------
-At the risk of stretching coherency, hiphop and free software are
+At the risk of stretching coherency, Hip Hop and Free Software are
 both global insurgent subcultures that have emerged from being kind of
 thrown away as fads and then become objects of pondering in
 multinational boardrooms. So I was hoping to open you up to riff on
@@ -2423,7 +2424,7 @@ For me, even beyond technology and beyond graffiti it all boils down
 to this idea of the hack that is really a phenomenon that has been
 going on forever. It's taking this system that has some
 sort of rigidity and repeating elements and flipping it into doing
-something else. I see this in hiphop, of course. The whole idea of
+something else. I see this in Hip Hop, of course. The whole idea of
 sampling, the whole idea of turning a playback device into a musical
 instrument, the idea of touching the record: all of these things are
 hacks. We could go into a million examples of how graffiti is like
@@ -2438,18 +2439,18 @@ that is about realizing that its not about the code and in some sense
 its not about the spraypaint. There's this empowering
 idea of individual small actors assuming control over systems that are
 bigger than themselves. To me, that's the connection
-point, whether its hiphop or rap or programming.
+point, whether its Hip Hop or rap or programming.
 
 The similarities are there. I think there are huge differences in those
-communities too. One of them is this idea of the hustler from hiphop:
+communities too. One of them is this idea of the hustler from Hip Hop:
 the idea of hustling doesn't have anything to do with
 the economy of gift-giving. The idea that Jay-Z has popularized in
-hiphop and that rap music and graffiti have at their core has to do
+Hip Hop and that rap music and graffiti have at their core has to do
 with work ethic, but there's also a kind of braggadocio
 about making it yourself and attaining value yourself and it definitely
 comes back to making money in the end. The idea of being
 'self-made' in a way is empowering but I
-think that in the Open Source movement or the free software movement
+think that in the Open Source movement or the Free Software movement
 the idea of hustling does not apply. It's not that
 people don't hustle on a day to day basis. You disagree
 with me?
@@ -2458,8 +2459,8 @@ with me?
 % NOWSPEAKING: JH
 % ---------------
 It's interesting because the more you were talking,
-the more I was not sure of whether you were speaking about hiphop or
-free software or maybe even more specifically the Open Source kind of
+the more I was not sure of whether you were speaking about Hip Hop or
+Free Software or maybe even more specifically the Open Source kind of
 ideological development. You have people like David Hannemeier Hansson
 who developed Ruby on Rails and basically co-opted an entire
 programming language to the point where you can't
@@ -2512,7 +2513,7 @@ isn't some purely altruistic thing.
 % NOWSPEAKING: JH
 % ---------------
 Maybe you could take some of the hustle and turn it into
-something in the free software world, mix and match.
+something in the Free Software world, mix and match.
 
 
 % NOWSPEAKING: ER
@@ -2552,7 +2553,7 @@ There's a lot of showing off in F/LOSS too.
 % NOWSPEAKING: JH
 % ---------------
 Yeah, and there's a lot of chauvinism. And when you
-said that self-made thing, that's the free software
+said that self-made thing, that's the Free Software
 idea number one.
 
 
