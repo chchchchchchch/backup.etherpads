@@ -13,18 +13,15 @@
 % TITLE: You need to copy to understand
 
 
-% NOWSPEAKING: X
-% --------------
-% SCALEFONT: 1.25
+% SCALEFONT: 1.3
 
 **August 2006**. One of the original co-conspirators of the OSP adventure is a Brussels graphiste going under the name Harrisson.
 His interest in Open Source software flows with the culture of exchange  that keeps the
 off-centre music scene alive, as well as with the  humanist tradition persistingly present
 in contemporary typography.
-
 Harrisson’s visual frame of reference is eclectic and vibrant, including  modernist giants, vernacular design,
-local typographic culture, classic  painting, drawing and graffiti. Too much food for one conversation.    
-
+local typographic culture, classic  painting, drawing and graffiti.    
+Too much food for one conversation.
 
 % RESETFONT:
 % BIGSKIP:
@@ -43,6 +40,7 @@ So: now you can own the ‘shape’ of a letter. Traditionally, the way typograp
 (more or less expensive) lead fonts, and with this tool they printed books and got paid for that.
 They got paid for the typesetting, not for the type. That was the work of the foundries.
 Today, thanks to the digital tools, you can easily switch between type design, type setting and graphic design.
+
 
 % NOWSPEAKING: FS
 % ---------------
@@ -64,9 +62,10 @@ Or: the culture of distributing them?
 If you look at most licences for fonts, they are extremely restrictive.
 Even 99% of free fonts do not allow derivative works.
 
+
 % G!RAFIK: http://ospublish.constantvzw.org/blog/wp-content/font_message2.jpg inline 0.7 0
-% G!RAFIK: var/figures/you_need_to_copy_to_understand/font_message2.pdf inline 0.7 0
 % GRAFIK: var/figures/you_need_to_copy_to_understand/font_message2.pdf side 0.9 0
+
 
 % NOWSPEAKING: HH
 % --------------
@@ -106,7 +105,7 @@ Well we are not that far from this in fact. Every designer has at least 500 font
 Even the distribution model of fonts is very peer-to-peer as well. The reality might come close, but font licences tell a different story.
 
 
-% NOWSPEAKING: X
+% N!OWSPEAKING: X
 % --------------
 
 > I believe that we live in an era where anything that can be expressed as bits will be. 
@@ -116,9 +115,10 @@ Even the distribution model of fonts is very peer-to-peer as well. The reality m
 > on living on the sides of active volcanoes.[^]{Cory Doctorow in http://craphound.com/bio.php}
 
 
-% NOWSPEAKING: FS
+% N!OWSPEAKING: FS
 % ---------------
 I am not saying all fonts should be open, but it is just that it would be interesting when type designers were testing and experimenting with other ways of developing and distributing type, with another economy.
+
 
 % NOWSPEAKING: HH
 % --------------
@@ -202,6 +202,10 @@ Where does your interest in typography actually come from?
 I think I first looked at comic books, and then started doodling in the margins of schoolbooks.
 As a teenager, I used to reproduce film titles such as Aliens, Terminator or other sci-fi high-octane typographic titles.
 
+
+% GRAFIK: var/figures/you_need_to_copy_to_understand/terminator.svg inline 0.8 0
+
+
 Basically, I’m a forger! In writing, you need to copy to understand. Thats an old necessity.
 If you use a typeface, you express something. You’re putting drawings of letters next to each other to compose a word/text.
 A drawing is always emotionally charged, which gives color (or taste) to the message.
@@ -222,7 +226,7 @@ Typefaces carry a ‘meta language’.
 
 
 % G!RAFIK: http://voice.aiga.org/content.cfm?ContentAlias=%5Fgetfullarticle&aid=2131398
-
+% GRAFIK: var/figures/you_need_to_copy_to_understand/bush.svg inline 0.9 0
 
 % NOWSPEAKING: FS
 % ---------------
@@ -238,12 +242,15 @@ And typography is standardisation.
 The first digital fonts are drawn fixed shapes, letter by letter, ‘outstrokes’.
 But there is another approach where the letters are traced by the computer.
 It needs software to be generated. In Autocad, letters are ‘innerstroke’ that can vary of weight.
-Letterrors’ Beowolf is also an example of that kind of approach.
-
-
+Letterrors’ Beowolf[^]{Instead of recreating a fixed outline or bitmap, the Randomfont redefines
+its outlines every time they are called for. http://letterror.com/writing/is-best-really-better}
+is also an example of that kind of approach.
+%
+%
 % G!RAFIK: http://www.letterror.com/foundry/beowolf/
-
-
+% GRAFIK: var/figures/you_need_to_copy_to_understand/beowolf.svg side 0.7 0
+%
+%
 It’s a very interesting way to work, but the font depends on the platform it goes with.
 Beowolf only works on OS9. 
 It also set the question of copyright very far. It’s a case study in itself.
@@ -256,10 +263,13 @@ So it means, the font is software in fact?
 
 % NOWSPEAKING: HH
 % --------------
-Yes, but the inter-dependance between font and operating systems is very strong, contrary to a fixed format such as TrueType.
+Yes, but the interdependence between font and operating systems is very strong, contrary to a fixed format such as TrueType.
 For printed matter, this is much more complicated to achieve. There are in-between formats, such as Multiple Master Technology
 for example. It basically means, that you have 2 shapes for 1 glyph, and you can set an ‘alternative’ shape between the 2 shapes.
 At Adobe they still do not understand why it was (and still is) a failure…
+
+
+% GRAFIK: var/figures/you_need_to_copy_to_understand/muniverse_globe_w_MOD.svg inline 1 0
 
 
 % NOWSPEAKING: FS
@@ -281,7 +291,7 @@ with drawing or so. In the end it was probably never a success because of the so
 While I always thought of fonts as extremely cross media. Do you remember which classic font was basically the average between
 many well-known fonts? Frutiger?
 
-% NEWPAGE:
+% N!EWPAGE:
 
 % NOWSPEAKING: HH
 % --------------
@@ -289,7 +299,7 @@ Fonts are Culture Capsules! It was Adrian Frutiger. But he wasn’t the only one
 Here again we meet this paradox of typography: a standardisation of language generating cultural complexity.
 
 
-% GRAFIK: var/figures/you_need_to_copy_to_understand/muniverse_globe_w_MOD.svg inline 0.7 0
+% GRAFIK: var/figures/you_need_to_copy_to_understand/Univers_Specimen.svg side 0.5 0
 % G!RAFIK: Sketch for Univers by Adrian Frutiger
 
 
@@ -306,12 +316,13 @@ Yes of course. And it is almost virgin space.
 
 % NOWSPEAKING: FS
 % ---------------
-In 2003 the Danish government released Union, a font that could be freely used for publications concerning Danish culture.
+In 2003 the Danish government released 'Union', a font that could be freely used for publications concerning Danish culture.
 I find this an intrigueing idea, that a font could be seen as some kind of ‘public good’.
 
+% V!FILL:
 
 % G!RAFIK: http://www.identifont.com/show?BW8
-
+% GRAFIK: var/figures/you_need_to_copy_to_understand/union.svg inline 0.7 0
 
 % NOWSPEAKING: HH
 % --------------
