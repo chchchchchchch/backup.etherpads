@@ -1,19 +1,36 @@
 % Lines starting with % are comments and will be ignored
 % comments may be treated as commands/actions/functions
 
-
 % USED FOR NAME INDEXING
 % HIDDENKEYWORDS: Snelting, Femke
 
 
-This book documents conversations between developers and designers involved in the wider ecosystem of Libre Graphics. It's lengthy title,  _I think that conversations are the best, biggest thing that Free Software has to offer its user_, is taken from an interview with Debian developer Asheesh Laroia,[^]{ _Just ask and that will be that_ } of course included in this publication. His remark points at the difference that Free Software can make when users are invited to consider, interrogate and discuss not only the technical details of software, but it's concepts and histories as well.
+% SCALEFONT: 1.1
 
-_Conversations_ documents an ongoing dialogue about tools and practices for typography, layout and image processing and stretches out over a period of more than eight years. The questions and answers were recorded in the margins of events such as the yearly Libre Graphics Meeting, the Libre Graphics Research Unit, a two-year collaboration between Medialab Prado in Madrid, Worm in Rotterdam and Constant in Brussels, or as part of documenting the work process of the Brussels' design caravan OSP. It explains the many intersecting instances of 'we' and 'I' that you will discover throughout this book.
+This book documents conversations between developers and designers involved in the wider ecosystem of Libre Graphics.
+Its lengthy title,  _I think that conversations are the best, biggest thing that Free Software has to offer its user_, is taken from
+an interview with Debian developer Asheesh Laroia,[^]{ _Just ask and that will be that_ } of course included in this publication.
+His remark points at the difference that Free Software can make when users are invited to consider, interrogate and discuss
+not only the technical details of software, but its concepts and histories as well.
 
-We organised the transcriptions loosely around **tools**, **communities** and **design**, but I think this publication can be read as much as a chronology of growing up in Libre Graphics, as a portrait of a community gradually grasping the interdependencies between Free Software and design.
+% SMALLSKIP:
+
+_Conversations_ documents an ongoing dialogue about tools and practices for typography, layout and image processing and
+stretches out over a period of more than eight years. The questions and answers were recorded in the margins of events such
+as the yearly Libre Graphics Meeting, the Libre Graphics Research Unit, a two-year collaboration between Medialab Prado in
+Madrid, Worm in Rotterdam and Constant in Brussels, or as part of documenting the work process of the Brussels' design caravan OSP.
+It explains the many intersecting instances of 'we' and 'I' that you will discover throughout this book.
+
+% SMALLSKIP:
+
+We organised the transcriptions loosely around **tools**, **communities** and **design**, but I think this publication can be read as
+much as a chronology of growing up in Libre Graphics, as a portrait of a community gradually grasping the interdependencies
+between Free Software and design.
 
 % BIGSKIP:
 
 Femke Snelting    
 Brussels, December 2014
+
+% RESETFONT:
 
