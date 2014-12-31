@@ -376,6 +376,7 @@ And for the layout? How are the divider pages going to be constructed?
 % NOWSPEAKING: CH
 % ---------------
 For the divider pages, it's an application 'Built with Processing', done by Benjamin[^]{Stephan}. 
+% HIDDENKEYWORDS: processing.org
 In a way, it's a different approach, because it's a software with an extensive Graphical User Interface, 
 with a lot of options. So it's different from the very modular, connective approach. 
 There we decided to have this software, which is directly controlled by the controller, the person who uses it. 
