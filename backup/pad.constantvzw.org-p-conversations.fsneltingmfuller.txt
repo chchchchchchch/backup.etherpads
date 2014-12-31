@@ -38,7 +38,9 @@ OSP is a graphic design agency working solely with Open Source software. This su
 
 % NOWSPEAKING: FS
 % ---------------
-There are other groups publishing with Free Software, but design collectives are surprisingly rare. So much publishing is going on around Open Source and Open Content … someone must have had the same idea? In discussions about digital tools you begin to find designers expressing concern over the fact that their work might all look the same because they use exactly the same Adobe suite and as a way to differentiate yourself, Free Software could soon become more popular. I think the success of Processing is related to that, though I doubt such a composed project will ever make anyone seriously consider Scribus for page layout, even if Processing is Open Source.
+There are other groups publishing with Free Software, but design collectives are surprisingly rare. So much publishing is going on around Open Source and Open Content … someone must have had the same idea? In discussions about digital tools you begin to find designers expressing concern over the fact that their work might all look the same because they use exactly the same Adobe suite and as a way to differentiate yourself, Free Software could soon become more popular. I think the success of
+% HIDDENKEYWORDS: processing.org
+Processing is related to that, though I doubt such a composed project will ever make anyone seriously consider Scribus for page layout, even if Processing is Open Source.
 
 OSP usually works between GIMP,[^]{image manipulation} Scribus[^]{page layout} and Inkscape[^]{vector editing} on Linux distributions and OSX. We are fans of FontForge,[^]{font editor} and enjoy using all kinds of commandline tools, `psnup`, `ps2pdf` and `uniq` to name a few.
 
