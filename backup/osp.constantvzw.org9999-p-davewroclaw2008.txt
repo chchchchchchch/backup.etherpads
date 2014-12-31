@@ -106,8 +106,9 @@ I'm studying there to work on Free Software fonts. So that's the full story of h
 Excellent! 
 Last time we met, you summarized in a very relevant way the history of font design software which is a proof by itself that everything is related with fonts and this kind of small networks and I would like you to summarize it again.
 
-% MEANWHILE: Laughing
 
+% MEANWHILE: Laughing
+% HIDDENKEYWORD: Laughing
 
 % NOWSPEAKING: DC
 % ------------------------
