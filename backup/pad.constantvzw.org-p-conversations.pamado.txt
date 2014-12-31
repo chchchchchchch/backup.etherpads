@@ -39,6 +39,9 @@ It means that I provide assistance to teachers and students in the Design Depart
 Linux and Open Source software are slowly entering the design spaces of our school. For me it has been a ‘battle’ to find space for these tools. I mean – we could migrate completely to OSS tools, but it’s a slow progress. Mainly because people (students) need (and want) to be trained in the same commercial applications as the ones they will encounter in their professional life.
 
 
+% HIDDENKEYWORDS: computer department
+
+
 % NOWSPEAKING: FS
 % ---------------
 How did Linux enter the design lab? How did that start?
@@ -69,7 +72,9 @@ I think I also started to get into it around that time. But I think I was more i
 % NOWSPEAKING: PA
 % ---------------
 Oh… (blush) not me… I got into it definitely for the 'free beer' aspect!
-By 2004 I started using DTP applications on Linux (still in my own time) and began to think that these tools could be used in an educational context, if not professionally. In the beginning of 2006 I presented a study to the coordinator of the Design Department at FBAUP, in which I proposed to start implementing Open Source tools as an alternative to the tools we were missing. Blender for 3D animation, FontForge for type design, Processing for interactive/graphic programming and others as a complement to proprietary packages:  GIMP, Scribus and Inkscape to name the most important ones.
+By 2004 I started using DTP applications on Linux (still in my own time) and began to think that these tools could be used in an educational context, if not professionally. In the beginning of 2006 I presented a study to the coordinator of the Design Department at FBAUP, in which I proposed to start implementing Open Source tools as an alternative to the tools we were missing. Blender for 3D animation, FontForge for type design, Processing
+% HIDDENKEYWORDS: processing.org
+for interactive/graphic programming and others as a complement to proprietary packages:  GIMP, Scribus and Inkscape to name the most important ones.
 I ran into some technical problems that I hope will be sorted out soon; one of the strategies is to run these software packages on a migration basis – as the older computers in our lab won’t be able to run MacOS 10.4+, we’ll start converting them to Linux.
 
 
@@ -116,8 +121,8 @@ And where does design fit in in your opinion? Or more precisely: designers?
 % NOWSPEAKING: PA
 % ---------------
 Design is a cultural aspect. Therefore it does not escape this logic. Using a practical standpoint: Design is a product of economics and technology. Nevertheless the best design practices (or at least the one’s that have endured the test of time) and the most renowned designers are the one’s that can escape the the economic and technological boundaries.
-The best design practices are the ones that are not products of economics and technology… they are kind of approaching a universal design status (if one exists). of course… it’s very theoretical, and optimistic… but it should be like this… otherwise we’ll stop looking for better or newer solutions, and we’ll stop pushing boundaries and design as technology and other areas will stagnate.
-On the other hand, there is a special ‘school’ of thought manifested through some of the Portuguese Design Association members, saying that the design process should lead the process of technological development. Henrique Cayate (I think it was in November last year) said that “design should lead the way to economy and technology in society.” I think this is a bit far fetched…
+The best design practices are the ones that are not products of economics and technology… they are kind of approaching a universal design status (if one exists). Of course… it’s very theoretical, and optimistic… but it should be like this… otherwise we’ll stop looking for better or newer solutions, and we’ll stop pushing boundaries and design as technology and other areas will stagnate.
+On the other hand, there is a special ‘school’ of thought manifested through some of the Portuguese Design Association members, saying that the design process should lead the process of technological development. Henrique Cayate (I think it was in November last year) said that _design should lead the way to economy and technology in society_. I think this is a bit far fetched…
 
 
 % NOWSPEAKING: FS
@@ -161,7 +166,6 @@ Do you think it is at all possible to ‘survive’ on other tools than the ones
 % NOWSPEAKING: PA
 % ---------------
 Well… I seem not to be able to dedicate myself entirely to these new tools…
-
 To depend solely on OSS tools… I think that is not possible, at least not at this moment. But now is the time to take these OSS tools and start to teach with them. They must be implemented in our schools. I am certain that sooner or later this will be common practice throughout European schools.
 
 
@@ -172,7 +176,8 @@ Can you explain a bit more, what you mean by ‘real world’?
 
 % NOWSPEAKING: PA
 % ---------------
-Being a professional graphic designer is what we call the ‘real world’ in our school. I mean, having to work full time doing illustration, corporate identity, graphic design etc. to make a living – deliver on time to clients and make a profit to pay the bills by the end of the month!
+Being a professional graphic designer is what we call the ‘real world’ in our school. I mean, having to work full time doing
+illustration, corporate identity, graphic design, etc., to make a living, deliver on time to clients and make a profit to pay the bills by the end of the month!
 
 
 % NOWSPEAKING: FS
