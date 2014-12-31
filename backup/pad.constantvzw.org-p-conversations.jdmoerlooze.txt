@@ -14,15 +14,26 @@
 % TITLE: We will get to know the machine and we will understand
 
 
-% SCALEFONT: 1.3
+
 This conversation with Juliane de Moerlooze was recorded in **March 2009**. 
 
-_When you hear people talk about women having more sense for the  global, intuitive and empathic …  and men are more logic …  even if it is  true …  it seems quite a good thing to have when you are doing math or  software?_  
+% BIGSKIP:
+% RESETFONT:
+% SCALEFONT: 1.4
+
+_When you hear people talk about women having more sense for the  global,
+intuitive and empathic …  and men are more logic …  even if it is  true … 
+it seems quite a good thing to have when you are doing math or  software?_  
+
+% BIGSKIP:
 
 Juliane is a Brussels based computer scientist, feminist and Linux user of the first hour. She studied math, programming and system administration and participates in Samedies.[^]{ _Femmes et Logiciels Libres_, group of women maintaining their own server http://samedi.collectifs.net} In February 2009 she was voted president of the Brussels Linux user group (BXLug).
 
 % RESETFONT:
 % BIGSKIP:
+
+
+
 
 
 % NOWSPEAKING: FS
@@ -53,7 +64,8 @@ Five years? Ten years? Twenty years?
 
 % NOWSPEAKING: JM
 % ---------------
-Almost twenty years ago. I came across the beginnings of Linux in 1995 or 1996, I am not sure. I had some Slackware[^]{one of the earliest Linux distributions}  installed, I messed around with friends and we installed everything ... then I heard people talk about Linux distributions[^]{a distribution is a specific collection of applications and a software kernel} and decided to discover something else, notably Debian[^]{one of the largest Linux distributions}. It is good to know that with Linux you really have a diversity, there are distributions specially for audio, there are distributions for the larger public with graphical interfaces, there are distributions that are a bit more 'geek', in short you find everything: there are thousands of distributions but there are a few principal ones and I heard people talk about an interesting development, which was Debian. I wanted to install it to see, and I discovered the BXLug meetings, and so I ended up there one Sunday.
+Almost twenty years ago. I came across the beginnings of Linux in 1995 or 1996, I am not sure. I had some Slackware[^]{one of the earliest Linux distributions}  installed, I messed around with friends and we installed everything ... then I heard people talk about Linux distributions[^]{a distribution is a specific collection of applications and a software kernel} and decided to discover something else, notably Debian.[^]{one of the largest Linux distributions}    
+It is good to know that with Linux you really have a diversity, there are distributions specially for audio, there are distributions for the larger public with graphical interfaces, there are distributions that are a bit more 'geek', in short you find everything: there are thousands of distributions but there are a few principal ones and I heard people talk about an interesting development, which was Debian. I wanted to install it to see, and I discovered the BXLug meetings, and so I ended up there one Sunday.
 
 
 % NOWSPEAKING: FS
@@ -63,7 +75,7 @@ What was your experience, the first time you went?
 
 % NOWSPEAKING: JM
 % ---------------
-(laughs) Well, it was clear that there were not many women, certainly not. I remember some sessions ...
+(_laughs_) Well, it was clear that there were not many women, certainly not. I remember some sessions ...
 
 
 % NOWSPEAKING: AB
