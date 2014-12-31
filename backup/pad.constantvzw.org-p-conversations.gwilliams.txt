@@ -68,14 +68,13 @@ These kind of things. So maybe first it’s good to talk about what it is that y
 % ---------------
 OK. Well… FontForge is a font editor.
 
-I started playing with fonts when I bought my first Macintosh, back in the early 80s (actually it was the mid-80s)
+I started playing with fonts when I bought my first Macintosh, back in the early eighties (actually it was the mid-eighties)
 and my father studied textual bibliography and looked at the ways the printing technology of the Renaissance
 affected the publication of Shakespeare’s works. And what that meant about the errors in the compositions we
 see in the copies we have left from the Renaissance. So my father was very interested in Renaissance printing
 (and has written books on this subject) and somehow that meant that I was interested in fonts.
-
 I’m not quite sure how that connection happened, but it did. So I was interested in fonts. And there was this program
-that came out in the 80s called Fontographer which allowed you to create PostScript[^]{PostScript fonts are outline
+that came out in the eighties called Fontographer which allowed you to create PostScript[^]{PostScript fonts are outline
 font specifications developed by Adobe Systems for professional digital typesetting, which uses PostScript file format
 to encode font information.[@wikipedia:20141218:postscriptfonts]}
 and later TrueType[^]{TrueType is an outline font standard developed by Apple and Microsoft in the late 1980s as a
@@ -133,12 +132,12 @@ There were too many leaches in the rainforest.
 % ---------------
 So I came back, and I wrote a font editor instead.
 
-And I put it up on the web and in ‘late 99, and within a month someone gave me a bug report and was using it.
+And I put it up on the web and in late 99, and within a month someone gave me a bug report and was using it.
 
 
 % NOWSPEAKING: FS
 % ---------------
-(laughs) So it took a month
+(_laughs_) So it took a month
 
 
 % NOWSPEAKING: GW
@@ -148,7 +147,7 @@ Well, you know, there was no advertisement, it was just there, and someone found
 
 % NOWSPEAKING: FS
 % ---------------
-(laughs)
+(_laughs_)
 
 
 % NOWSPEAKING: GW
@@ -182,7 +181,6 @@ and he was an English teacher, still is an English teacher, well, obviously
 retired but he still occasionally teaches, and has been working for about
 30 years on one of those versions of Shakespeare where you have two
 lines of Shakespeare text at the top and the rest of the page is footnotes.
-
 And I went completely differently and became a mathematician and computer
 scientist and worked in those areas for almost twenty years and then went off and
 tried to do my own things.
@@ -195,7 +193,7 @@ So how did you become a mathematician?
 
 % NOWSPEAKING: GW
 % ---------------
-(pause) I just liked it.
+(_pause_) I just liked it.
 
 
 % NOWSPEAKING: FS
@@ -276,8 +274,8 @@ encouraged creation of fonts released under Free Licenses.[@wikipedia:20141218:o
 % NOWSPEAKING: FS
 % ---------------
 (_laughs_) But no, indeed there was – hearing you speak about ccHost[^]{ccHost is a web-based media hosting
-engine upon which Creative Commons' ccMixter remix web community is built.[@wikipedia:20141218:cchost]},
-that’s the –
+engine upon which Creative Commons' ccMixter remix web community is built.[@wikipedia:20141218:cchost]} –
+that’s the...
 
 
 % NOWSPEAKING: GW
@@ -287,7 +285,7 @@ Mm-hmm.
 
 % NOWSPEAKING: FS
 % ---------------
-Software we are talking about?
+... Software we are talking about?
 
 
 % NOWSPEAKING: GW
@@ -379,7 +377,7 @@ if you are doing Japanese (vertical writing mode) but it doesn’t do multi-colu
 So it’s either one vertical row or one horizontal row of glyphs.
 
 And I do also have a paragraph level display, but it is static. You bring it up and it takes the current
-snapshot of the font and it generates a real truetype font and pass it off to the X Window[^]{The X Window System
+snapshot of the font and it generates a real TrueType font and pass it off to the X Window[^]{The X Window System
 is a windowing system for bitmap displays, common on UNIX-like computer operating systems. X provides the
 basic framework for a GUI environment: drawing and moving windows on the display device and interacting with a
 mouse and keyboard.[@wikipedia:20141218:xwindow]} rasterizer —
@@ -447,7 +445,7 @@ So…
 % NOWSPEAKING: FS
 % ---------------
 So, you talked about spending a lot of time on this project, how does that work, you get up in the
-morning and start working on FontForge? or…
+morning and start working on FontForge? Or…
 
 
 % NOWSPEAKING: GW
@@ -465,7 +463,7 @@ There was a period where I was spending 40, 50 hours a week working on FontForge
 that much time on it now, it’s more like 20 hours, though the last month I got all excited about the
 release that I put out last Tuesday — today is Sunday. And so I was working really hard
 — probably got up to — oh — 30 hours some of that time. I was really excited about the change.
-All kinds of things were different — I put in python scripting, which people had been asking for —
+All kinds of things were different — I put in Python scripting, which people had been asking for —
 well, I’m glad I’ve done it, but it was actually kind of boring, that bit — the stuff that came before was — fascinating.
 
 % NOWSPEAKING: FS
