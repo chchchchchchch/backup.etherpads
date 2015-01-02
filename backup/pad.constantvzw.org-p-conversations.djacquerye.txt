@@ -102,3 +102,6 @@ So when people come in a project like DéjàVu, they have to understand all that
 % ---------------
 Usually most people are interested in what they know. They have a specific need and they realize they can add it to DéjàVu, so they learn how to play with FontForge. After a while, what they've done is good and we can use it. Some people end up adding glyphs they're not familiar with. For example we had Ben doing Arabic: it was mostly just drawing and then asking for feedback on the mailing list; then we got some feedback, we changed some things, eventually released it, getting more feedback (_laughs_) because more people complained... So it's a lot of just drawing what you can from resources you can find. It's often based on other typefaces therefore sometimes you're just copying mistakes from other typefaces... So eventually it's just the feedback from the users that's really helpful because you know that people are using it, trying it, and then you know how to make it better. 
 
+
+% GRAFIK: var/figures/unicodes/conversations_Vocabularies.svg fullpage 0.9 -90
+
