@@ -41,7 +41,7 @@
 
 % ====================================================================================================================== %
 % PART1: Tools
-% DOUBLEPAGE: http://www.lafkon.net/exchange/constant/conversations/140812/doublepage.pdf
+% D!OUBLEPAGE: http://www.lafkon.net/exchange/constant/conversations/140812/doublepage.pdf
 % ====================================================================================================================== %
 
 
@@ -128,7 +128,7 @@
 
 
 %    Vocabulary, community, politics    ========================================================================================= %
-% DOUBLEPAGE: http://www.lafkon.net/exchange/constant/conversations/140812/doublepage.pdf
+% D!OUBLEPAGE: http://www.lafkon.net/exchange/constant/conversations/140812/doublepage.pdf
 % ====================================================================================================================== %
 
 
@@ -139,7 +139,7 @@
 % http://pad.constantvzw.org/public_pad/conversations.clilley
 % ---------------------------------------------------------------------------------------------------------------------- %
 % COVERGRAFIK: var/pettersheets/o/trenner/even_when_you_are_done_you_are_not_done_TRENNER.pdf
-% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.clilley/export/txt
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.clilley/687/export/txt
 
 
 % ---------------------------------------------------------------------------------------------------------------------- %
@@ -204,7 +204,7 @@ _yet to come_
 
 % ====================================================================================================================== %
 % PART3: Design
-% DOUBLEPAGE: http://www.lafkon.net/exchange/constant/conversations/140812/doublepage.pdf
+% D!OUBLEPAGE: http://www.lafkon.net/exchange/constant/conversations/140812/doublepage.pdf
 % ====================================================================================================================== %
 
 
