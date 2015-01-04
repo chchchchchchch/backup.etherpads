@@ -97,11 +97,9 @@ I would like to talk about the new mission on bug reporting you said you were wo
 A big part of that sort of imagination is understanding the kinds of things that could be reasonable. So this is where cultural knowledge comes in. If you program in C or even if you just read about C, you understand that there is something called 'pointers' and something called 'segfaults' and if your program ends in that way, that is not a good thing and you should report a bug. This requires an imagination on the side of the person filing the bug.
 The training missions give people practice in seeing these sorts of things and understand how they could work. To build a mental model, even if it is fuzzy, that has enough of the right components so they can enter in discussion and imagine what happened.
 
-
 % SLOGAN: Mixed feelings
-
-
-% NOWSPEAKING: ALA
+%
+% N!OWSPEAKING: ALA
 % ---------------
 I have mixed feelings about using 'gender' as an important characteristic when considering how to grow our communities. It is not a bad idea maybe, and I am working on projects that are related to this as well, but I think it permits a misunderstanding of the problem and puts things in an awkward space, especially when the issue is addressed in a room primarily filled by men and only a few woman. Is what the men say sort of judge-able by the few women in the room? Are they speaking to the women that are not in the room? It becomes all very tenuous and confusing what you can or should say or do. We can skip this by understanding the real issue, which is community inclusiveness.
 
