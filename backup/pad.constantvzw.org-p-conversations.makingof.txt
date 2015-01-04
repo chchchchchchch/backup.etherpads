@@ -511,8 +511,6 @@ In a way the interviews are very similar, because it's always peoples speaking, 
 % ---------------
 If you do the layout by hand you can take decisions that would be much harder to translate to code. 
 For example, how to emphasize certain part of the text or the speaker. You're much closer to the interpretation of the content? You're not designing the ruleset but you are really working on the visual design of the content ... 
-The point why it's interesting to me is because working as a designer you get quite often reduced to this visual design of the content, at the same it may make sense in a lot of cases.
-So it's a evaluation of these different approaches. Do you design the ruleset or do you design the final outcome?
-
+The point why it's interesting to me is because working as a designer you get quite often reduced to this visual design of the content, at the same it may make sense in a lot of cases. So it's a evaluation of these different approaches. Do you design the ruleset or do you design the final outcome?
 And I think it has both advantages and disadvantages.
 
