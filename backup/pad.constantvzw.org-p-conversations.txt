@@ -155,7 +155,7 @@
 % http://pad.constantvzw.org/p/conversations.mterry
 % ---------------------------------------------------------------------------------------------------------------------- %
 % COVERGRAFIK: var/pettersheets/o/trenner/data_analysis_as_a_discourse_TRENNER.pdf
-% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.mterry/export/txt
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.mterry/340/export/txt
 
 
 % ---------------------------------------------------------------------------------------------------------------------- %
@@ -192,11 +192,10 @@
 
 % ---------------------------------------------------------------------------------------------------------------------- %
 % Collision
-% 
 % ---------------------------------------------------------------------------------------------------------------------- %
-% COVERGRAFIK: var/pettersheets/o/trenner/collision_TRENNER.pdf
-% TITLE: Collision
-_yet to come_
+% C!OVERGRAFIK: var/pettersheets/o/trenner/collision_TRENNER.pdf
+% T!ITLE: Collision
+% _yet to come_
 % I!NCLUDEMDSH:
 
 
@@ -257,7 +256,7 @@ _yet to come_
 % COVERGRAFIK: var/pettersheets/o/trenner/the_making_of_conversations_TRENNER.pdf
 % INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.makingof/export/txt
 % PAGESTYLE: empty
-% INCLUDEPAGES: var/layouts/makingof-01/mkof-01_01.pdf 2-6 1
+% INCLUDEPAGES: var/layouts/makingof-01/mkof-01_01.pdf 1-6 1
 
 
 
