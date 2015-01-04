@@ -19,7 +19,7 @@
 % SCALEFONT: 1.3
 
 In the **summer of 2010**, Constant commissioned artist and researcher Evan Roth to develop a work of his  choice, and to make the development process available in some way. He decided to use a part of his fee as prize-money for The GML-Recorder Challenge, inviting makers to propose an Open Source device ‘that can unobtrusively record graffiti motion data during a graffiti writer’s normal practice in the city’.
-In three interviews that took place in Brussels and Paris within a  period of one and a half years, we spoke about the collaborative powers  of the GML-standard, about contact points between hacker and  graffiti-cultures and the granularity of gesture.  
+In three interviews that took place in Brussels and Paris within a  period of one and a half years, we spoke about the collaborative powers  of the GML-standard, about contact points between hacker and  graffiti cultures and the granularity of gesture.  
 Based on conversations between Evan Roth (`ER`), Femke Snelting (`FS`), Peter Westenberg (`PW`),
 Michele Walther (`MW`), Stéphanie Villayphiou (`SV`), John Haltiwanger (`JH`) and momo3010.
 
@@ -51,7 +51,7 @@ designed for amateur programmers. It is a way to store graffiti motion
 data. I started working with graffiti writers, combining graffiti and
 technology back in New York, in 2003. In graduate school, my thesis was
 on graffiti analysis, and writing software that could capture their
-gestures, to archive motion data from graffiti-writers. Back than I was
+gestures, to archive motion data from graffiti writers. Back than I was
 saving the data in an x-y-time array, I was calling them
 .graph files and I sensed there was
 something interesting about the data, the visualization of motion data
@@ -105,7 +105,7 @@ There hasn't been a programmatic way to archive
 graffiti. So this is like taking a gesture and trying to boil it down
 to a set of coordinate points that people can either upload or
 download. It is a sort of midpoint between writers and hackers.
-Graffiti-writers can download the software and have how-to guides for
+Graffiti writers can download the software and have how-to guides for
 how to do this, they can digitize their tags and upload it to an open
 database. The 000000book-site[^]{http://000000book.com. Pronounced: 
 'Black Book': 'A black book is a graffiti artist's sketchbook. Often used to
@@ -158,7 +158,7 @@ format. The 000000book site is basically where graffiti writers connect
 to developers.
 
 In the middle between Graffiti Analysis and database is the Graffiti
-Markup Language, that I think will have it's own place
+Markup Language, that I think will have its own place
 on the web. But sometimes I see it as one project. One of my interests
 is in archiving graffiti and all of these things are ways of doing
 that. It is interesting how these three things work together. In terms
@@ -175,7 +175,7 @@ How do you do that, develop a standard for graffiti?
 % ---------------
 We started by looking at Graffiti Analysis and L.A.S.E.R. Tag, the
 apps that were using graffiti motion data. From those two projects I
-had a lot of experience of meeting graffiti-writers as a userbase. When
+had a lot of experience of meeting graffiti writers as a userbase. When
 you meet with them, they tell you right away what pieces of the
 software they think are missing. So from talking with them we developed
 a lot of features that now are in GML like brushes, drips,
@@ -254,12 +254,12 @@ when someone is caught with a laptop with all this data?
 
 % NOWSPEAKING: ER
 % ---------------
-I see graffiti-writers as hackers. They use the city in the same way
+I see graffiti writers as hackers. They use the city in the same way
 as hackers are using computer systems. They are finding ways of using a
 system to make it do things that it wasn't intended to
-do. I am not sure graffiti-writers see it this way, but I am in this
+do. I am not sure graffiti writers see it this way, but I am in this
 position where I have friends that are hackers, playing around with
-digital structures online. Other friends are into graffiti-writing and
+digital structures online. Other friends are into graffiti writing and
 to me those two camps are doing the most interesting things right now,
 but these are two communities that hardly overlap. One of the interests
 I have is making these two groups of people hang out more. I was
@@ -286,7 +286,7 @@ that work?
 % NOWSPEAKING: ER
 % ---------------
 This is an interesting conversation we should have with the
-graffiti-writers. A tag might be something they have been writing for
+graffiti writers. A tag might be something they have been writing for
 more than 25 years and that will be very personal to them and the way
 they write this is because they've written it a
 million times. So at the one hand it is super-personal, but on the
@@ -326,29 +326,29 @@ there are more red flags going to go up.
 
 % NOWSPEAKING: FS
 % ---------------
-If you upload a .gml file, can you insert a license?
+If you upload a .gml file, can you insert a licence?
 
 
 % NOWSPEAKING: ER
 % ---------------
-Not yet. Right now there is not even a 'private mode' on the 000000book site. If you upload, everything
-is public. There is a lot of interesting issues with respect to the
-license that I have been reluctant to deal with yet. Once you start
+Not yet. Right now there is not even a 'private mode' on the 000000book site.
+If you upload, everything is public. There is a lot of interesting issues with respect
+to the licence that I have been reluctant to deal with yet. Once you start
 talking too much about it, you will scare off people on either side of
 the fence. I think that will have to happen at some point but for now I
-have decided to refer to it as an 'open database' and I hope that people will play nicely,
-like I said.
+have decided to refer to it as an 'open database' and I hope that people will play
+nicely, like I said.
 
 
 % NOWSPEAKING: FS
 % ---------------
-But just imagine, what kind of license would you need? 
+But just imagine, what kind of licence would you need? 
 
 
 % NOWSPEAKING: ER
 % ---------------
-It might make more sense to go for a media-related license than for
-a code license. Creative Commons licenses would lend themselves easily
+It might make more sense to go for a media-related licence than for
+a code licence. Creative Commons licences would lend themselves easily
 for this. People could choose non-commercial or pure public domain.
 Does that make sense?
 
@@ -361,7 +361,7 @@ we're much closer to code than to a video file?
 
 % NOWSPEAKING: ER
 % ---------------
-Functionally it is code. But would a graffiti-writer know what GPL is? 
+Functionally it is code. But would a graffiti writer know what GPL is? 
 
 
 % SLOGAN: Tying the story to data
@@ -377,13 +377,13 @@ would you ever really copy someone else's tag?
 
 % NOWSPEAKING: ER
 % ---------------
-One of the reasons I think graffiti-writing has this history of
+One of the reasons I think graffiti writing has this history of
 apprenticeship is because you don't really have a
 chance to learn otherwise. You don't turn on the TV
 and see someone else doing it. You only see how it is being written if
 you see other people actually do it. That was one of the original
-reasons I started doing graffiti-research because, having met with
-graffiti-writers. I thought: it is a dance, it is as much about motion
+reasons I started doing graffiti research because, having met with
+graffiti writers. I thought: it is a dance, it is as much about motion
 as it is about how the final image is constructed. You can come to a
 much better understanding about how it is made as opposed to just
 seeing a photograph of it.
@@ -399,7 +399,7 @@ more than just the trace of a pen?
 % ---------------
 Someones tag might look completely different if they had six seconds
 to make it, they make different decisions. In the first version of the
-Graffiti-Analysis project, I had one camera recorder tracking the pen 
+Graffiti Analysis project, I had one camera recorder tracking the pen 
 and another camera behind the hand and another so you could see the
 full body. But there was something about tracking just the pen tip that
 I liked. It is an easier point of entry for dealing with the motion
@@ -430,7 +430,7 @@ necessarily graffiti writers.
 Graffiti has a history with documentarians entering into their community
 and playing a role but sharing the stories is something writers do
 internally, not as much to outsiders. How do you figure out a way to
-get graffiti-writers to document their stories into the .gml files
+get graffiti writers to document their stories into the .gml files
 themselves, or is it going to take outsiders? How does the format
 facilitate that?
 
@@ -456,7 +456,7 @@ these ideas and had more of a skill-sharing-knowledge-base.
 KATSU[^]{KATSU http://www.flickr.com/search/?q=graffiti+katsu},
 someone I worked with in New York, has acquireda lot of knowledge about
 how to make tools for graffiti and he initially wasn't so much
-into sharing them, because graffiti-writers tend to save that knowledge
+into sharing them, because graffiti writers tend to save that knowledge
 for themselves so that their tags are always bigger and better
 (_laughs_). Talking to him I think I convinced him to write tutorials on
 how to make some of these tools. On the street art side there is Mark
@@ -483,14 +483,14 @@ Interesting. I think the work I am doing is such a tangent! In
 general, for something that is decidedly against the rules, the culture of writing
 graffiti often has a rigid structure. To people in that community what I
 do is a blip on their radar. I am honored when I get to meet
-graffiti-writers and they are interested in what I am doing but I
+graffiti writers and they are interested in what I am doing but I
 don't think it will change anything in what is in some ways a very
 strict system.
 
 And I don't want that either. I like the fact that they
 found a way to make spraypaint and markers change the way each city in
 the world looks. They have the tools they need. Digital projectors will
-not change that. Graffiti-writers still like to see their names
+not change that. Graffiti writers still like to see their names
 projected at big scales in new ways but it is not something they really
 need (_laughs_).
 
@@ -619,17 +619,17 @@ balls in the air? I keep calling it Graffiti Markup Language because I
 think it is a good story. 
 
 
-% SLOGAN: What's the license on GML?
+% SLOGAN: What's the licence on GML?
 
 
 % NOWSPEAKING: PW
 % ---------------
-What's the license on GML?
+What's the licence on GML?
 
 
 % NOWSPEAKING: ER
 % ---------------
-We haven't really entered into that. Why would you need a license on a file-format?
+We haven't really entered into that. Why would you need a licence on a file-format?
 
 
 % NOWSPEAKING: FS
@@ -640,7 +640,7 @@ It would prevent that anyone could own the standard.
 % NOWSPEAKING: ER
 % ---------------
 That sounds good. Actually it would be interesting for the project,
-if someone would try to license it. Legal things matter, but for the
+if someone would try to licence it. Legal things matter, but for the
 things I do, I am most of all interested in getting the idea across.
 
 
@@ -710,7 +710,7 @@ him to share his work in a format that allowed other people to work
 with him.
 
 The wish-list came out of the fact that I was working on a
-graffiti-related project that had a lot of use but not a lot of
+graffiti related project that had a lot of use but not a lot of
 innovation. Not so many people were using it in ways I
 wasn't expecting, which is something you always hope
 of course. By saying: _Here's the
@@ -743,7 +743,7 @@ How is that different from the way you record graffiti motion at the moment?
 
 % NOWSPEAKING: ER
 % ---------------
-If I go out with a graffiti-writer, I'm stuck
+If I go out with a graffiti writer, I'm stuck
 standing with a laptop and a camera facing the wall and then the
 graffiti writer needs to have a really bright light attached to the
 writing device which is a bit counter-intuitive when you are trying to
@@ -835,7 +835,6 @@ kudo's from my community, do you?
 Having the money associated makes it this big thing. At Ars Electronica
 and so on, it got people talking about it and so it is out there. That
 part worked.
-
 Beyond that it has been a bit hard to keep the momentum. Friends and
 colleagues send me ideas and ask me to look at things, but people I
 don't know are hard to follow; I
@@ -848,7 +847,7 @@ on it.
 % NOWSPEAKING: FS
 % ---------------
 Don't you think having only one prize produces a
-kind of exclusivity? It seems logical {\em not} to publish your
+kind of exclusivity? It seems logical not to publish your
 notes?
 
 
@@ -895,7 +894,7 @@ Why don't you think his app will solve it?
 % NOWSPEAKING: ER
 % ---------------
 He is really interested in making something where you do not need to
-meet with the graffiti-writer. His idea was that if you could take a
+meet with the graffiti writer. His idea was that if you could take a
 photo of it on the wall, and then with your finger you guide it for how
 it was written. It has an algorithm for image processing and that
 combined with your best guess of how it was written would be backed out
@@ -971,7 +970,7 @@ How did that work?
 
 % NOWSPEAKING: ER
 % ---------------
-We are not talking about a ton of money here, 10 to 20.000 euro, and
+We are not talking about a ton of money here, 10 to 20.000€, and
 we tried to get as far as we could. We got almost no work done between
 the meetings in LA but if we flew in, it was OK to take a week out of
 our schedules and really hammer at it. We were trying to think how we
@@ -1128,7 +1127,7 @@ data?
 % NOWSPEAKING: ER
 % ---------------
 Video is annoying in that it is computationally expensive. In
-Brazil[^]{\ Graffiti Analysis: Belo Horizonte, Brazil 2010
+Brazil[^]{Graffiti Analysis: Belo Horizonte, Brazil 2010
 http://vimeo.com/16997642} I have been using the laptop but the data is
 not very precise.
 
@@ -1217,11 +1216,11 @@ You can hear the space, and also the surface.
 % ---------------
 I got started doing this because I love graffiti and this is a way
 to get closer to it again. Like getting back out to the streets and
-having very personal relationships to the graffiti-writers and talking
+having very personal relationships to the graffiti writers and talking
 to them, and having them give feedback. I think that is how the whole
 challenge started. It didn't start because I was
 projecting, but because I was out on the street and testing the
-capture, having graffiti-writers nearby when it is happening. It feels
+capture, having graffiti writers nearby when it is happening. It feels
 like things are progressing that way.
 
 
@@ -1257,7 +1256,7 @@ In the back of my head I am thinking this will become a longer
 documentary. I like to experiment with documentation, whether that is
 in code or with video. I do think that there is this interesting
 connection between documentation and graffiti and how these two things
-overlap. I am always thinking about documentation. The graffiti-writer
+overlap. I am always thinking about documentation. The graffiti writer
 that was in Vienna[^]{momo3010 http://momo1030.com} showed me a
 video that was amazing. It was him and a friend going out on a sunny
 day at 15:30 in the afternoon with two head mounted cameras, bombing an
@@ -1329,7 +1328,7 @@ commercial uses.
 % ---------------
 Do you think a standard can be subversive? You chose XML because it
 is accessible to amateur programmers. But it is also a very formal
-standard, and so the interface between graffiti-writers and hackers is
+standard, and so the interface between graffiti writers and hackers is
 written in the language of bureaucracy.
 
 
@@ -1364,7 +1363,7 @@ standard itself as a space for hacking?
 % ---------------
 Graffiti is somehow coded in-itself. Do you mean it would be
 interesting to think how GML could be coded in a way for
-graffiti-writers, not for coders?
+graffiti writers, not for coders?
 
 There would be more space for that when more people start to program at
 a younger age? When it is more common knowledge. If I would start to do
@@ -1425,7 +1424,7 @@ computation enter graffiti?
 Yeah. When you are in a controlled environment, in a studio, it is
 easy but the outdoors part always trips me up. That is why the design
 constraints get interesting, playing in real time with what someone is
-writing. I think graffiti-writers would be into that too. How to
+writing. I think graffiti writers would be into that too. How to
 develop a style that is unique enough to stand out in an existing canon is already hard enough.
 This could give someone an edge.
 
@@ -1495,7 +1494,7 @@ alternating connections?
 
 % NOWSPEAKING: ER
 % ---------------
-That kind of stuff is interesting. It would help graffiti-writers to
+That kind of stuff is interesting. It would help graffiti writers to
 design tags maybe? 
 
 To get my feet wet, I designed a tag once, and it was so not-fun to
@@ -1545,7 +1544,6 @@ in the city.[^]{GML-recorder challenge as published on: http://www.graffitimarku
 
 ## Project Description and Design Requirements:
 
-% NOWSPEAKING: X
 
 The GML Field Recorder Challenge is a DIY hardware and software solution
 for unobtrusively recording graffiti motion data during a graffiti
@@ -1560,12 +1558,12 @@ require little to no setup and calibration. The winning design solution
 will include the following requirements listed below:
 
 
-### Material costs for the field device must not exceed 300 euros.
+### Material costs for the field device must not exceed 300€.
 
 
 % NOWSPEAKING: ER
 % ---------------
-300 euros even felt expensive to me. How can this be a tool that is
+300€ even felt expensive to me. How can this be a tool that is
 really accessible? If it goes over a certain price point, it is not the
 kind of thing that people can afford to make. It is a very small
 community, a lot of the people that are going to have enough interest
@@ -1578,7 +1576,7 @@ time. But I also did not want to make it so small that the design
 would be impossible.
 
 
-### Computers and equipment outside of the 300 euros can be used for non-field activities (such as downloading and manipulating data captured in-field), but at the time of capture a graffiti writer should have no more than 300 euros worth of equipment on him or herself.
+### Computers and equipment outside of the 300€ can be used for non-field activities (such as downloading and manipulating data captured in-field), but at the time of capture a graffiti writer should have no more than 300€ worth of equipment on him or herself.
 
 
 % NOWSPEAKING: ER
@@ -1589,6 +1587,10 @@ some smart hacker found a hole in the brief, and bought a next
 generation iPhone that somehow just worked. I didn't
 want to force people to buy expensive equipment. This line was more about
 covering our own ass.
+
+
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% VFILL:
 
 
 ### The graffiti writer must be able to activate the recording function alone (i.e., without assistance from anyone else).
@@ -1628,8 +1630,11 @@ don't want to be dependent on someone else. It is a
 lot to ask, especially if you are doing something illegal.
 
 
-### Any setup and/or calibration should be limited to 10 seconds or less.
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% NEWPAGE:
 
+
+### Any setup and/or calibration should be limited to 10 seconds or less.
 
 % NOWSPEAKING: ER
 % ---------------
@@ -1652,6 +1657,10 @@ That's true. But I think this challenge is really
 about recording tags.
 
 
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% VFILL:
+
+
 ### All hardware should be able to be easily concealed within a coat with large pockets.
 
 
@@ -1665,6 +1674,10 @@ go depending on how much equipment you have. How bulky it is, what
 walls you can get up, what holes you can get through.
 
 
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% VFILL:
+
+
 ### The winning solution should be discrete and not draw any added attention to the act of graffiti writing.
 
 
@@ -1672,9 +1685,14 @@ walls you can get up, what holes you can get through.
 % ---------------
 It's part of the same issue, but this one also came
 out from me going out and trying to capture with a system where it
-requires you to attach a flashlight to a graffiti-implement. I
+requires you to attach a flashlight to a graffiti implement. I
 didn't want anyone solving the problem and then,
 Step one is: 'Attach a police siren to a spraypaint can'
+
+
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% NEWPAGE:
+
 
 ### The resulting solution should be able to record at least 10 unique GML tags of approximately 10 seconds each in length in one session without the need for connecting to or using additional equipment.
 
@@ -1683,7 +1701,7 @@ Step one is: 'Attach a police siren to a spraypaint can'
 % ---------------
 I wasn't thinking this was going to be an issue in
 terms of memory-storage, but maybe in terms of memory management. I did
-not want the graffiti-writer to behave as if he was on vacation with a
+not want the graffiti writer to behave as if he was on vacation with a
 camera that could take only three photos. I
 wanted to make sure they were not making decisions on what they were
 writing based and how much memory they had.
@@ -1698,7 +1716,7 @@ writing based and how much memory they had.
 Bonus category actually. That's a difficult question to ask.
 What does secure mean? It seems a bit unfair, because it
 doesn't fit in to the way graffiti is currently
-documented. There's not a lot of graffiti-writers that
+documented. There's not a lot of graffiti writers that
 currently are shooting encrypted photos and
 videos, right? 
 
@@ -1742,6 +1760,10 @@ I mean that if you copy and distribute your data, the chance is
 small that you can link it to an individual.
 
 
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% VFILL:
+
+
 ### The winning design will have some protection in the event that the device falls into the wrong hands.
 
 
@@ -1766,6 +1788,10 @@ Edible SD cards?
 That would be a good idea!
 
 
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% VFILL:
+
+
 ### Data should be able to be captured from both spray cans and markers.
 
 
@@ -1786,6 +1812,10 @@ contact, spraypaint is in free space. If it works in those two
 situations, you should theoretically be able to tie it to anything,
 even outside of graffiti. If it was too much about spraypaint, it
 would be harder for someone to strap it to a skateboard.
+
+
+% SPECIFIC OPTIONS FOR CONVERSATIONS A5 LAYOUT
+% NEWPAGE:
 
 
 ### System should be able to record writing on various surfaces and materials.
@@ -1823,7 +1853,7 @@ So this is where Muharrem is going to run into trouble. His solution
 interferes. Not that much if you are just working in front of your
 body space. But the way most writers write is that they are shuffling
 their feet a lot, moving down the wall. Should it have said:
-_Graffiti-writer should retain access to feet
+_Graffiti writer should retain access to feet
 functionality_? This point should be at the top
 almost.
 
@@ -1884,7 +1914,7 @@ graffiti is rather than anything that people might find aesthetically
 pleasing. It is not about 'graffiti influenced visuals'.
 
 
-### All software must be released Open Source. All hardware must include clear DIY instructions/tutorials. All media must be released under an open content license that promotes collaboration (such as a Free Art License or Creative Commons ShareAlike license).
+### All software must be released Open Source. All hardware must include clear DIY instructions/tutorials. All media must be released under an Open Content licence that promotes collaboration (such as a Free Art License or Creative Commons ShareAlike license).
 
 
 % NOWSPEAKING: ER
@@ -1908,6 +1938,8 @@ on?_
 The whole project is about getting good data. As soon as you force
 people to think too much about the capture process, I think it
 influences when and how they are writing. 
+
+% BIGSKIP:
 
 __Bonus, but not required:__
 
@@ -1994,9 +2026,9 @@ And back again!
 
 % NOWSPEAKING: ER
 % ---------------
-Yes. When I first was working on graffiti-related software, the
+Yes. When I first was working on graffiti related software, the
 whole reason I was building Graffiti Analysis as a capture application
-was because I did not want to hand graffiti-writers a mouse (_laughter_).
+was because I did not want to hand graffiti writers a mouse (_laughter_).
 I had done all this research into graffiti and started to be embedded
 in the community and I knew enough about the community that if you were
 going to ask them to take part in something that was already weird, you
@@ -2243,17 +2275,17 @@ looking at anyone too specifically.
 The sculpture I've been working on is an average from a
 workshop; sixteen different graffiti writers merged into one. I
 don't want to take advantage of any one writer. But
-this has nothing to do with the license, it is totally a different
+this has nothing to do with the licence, it is totally a different
 topic. If someone uploads to the 000000book site, legally anyone should
 be able to do anything that they can do under the Creative Commons
-license that's on the site but I think socially within
+licence that's on the site but I think socially within
 the community, it is a huge thing.
 
 
 % NOWSPEAKING: JH
 % ---------------
 There must be some social limits to referentiality. Like
-beat-jacking for DJs or biting rhymes for
+beat jacking for DJs or biting rhymes for
 MCs, there must be a moment where you are not just
 homaging, but stealing a style.
 
@@ -2277,7 +2309,7 @@ database without shining light back on him.
 GML seems very inspired by the practice of Free Software, but at the
 same time it reiterates the conventional hierarchies of who are
 supposed to use what ... in which way ... from who. For me the
-excitement with open licenses is that you can do things without asking
+excitement with open licences is that you can do things without asking
 permission. So, usage can develop even if it is not already prescribed
 by the culture. How would someone like me, pretty far removed from
 graffiti culture ever know what I am entitled to do?
@@ -2294,7 +2326,7 @@ some of those boundaries myself.
 % NOWSPEAKING: FS
 % ---------------
 Even when I am sometimes disappointed by the actual closedness of
-F/LOSS, at least in theory through it's licensing and
+F/LOSS, at least in theory through its licensing and
 refusal to limit who is entitled and who's not, it is
 a liberating force. It seems GML is only half liberating?
 
@@ -2302,7 +2334,7 @@ a liberating force. It seems GML is only half liberating?
 % NOWSPEAKING: ER
 % ---------------
 I agree. I think the lack of that is related to the data. The
-looseness of it's license makes it less of an
+looseness of its licence makes it less of an
 invitation in a sense. If the people that put data up there would sit
 down and really talk about what this means, when they would really walk
 through all the implications of what it means to public domain a piece,
@@ -2312,15 +2344,15 @@ people's feelings. It would be more free.
 
 I think it would be good to do a workshop with graffiti writers where
 beyond capturing data, you reserve an hour after the workshop to talk
-to everybody about what it would mean to add an open license.
+to everybody about what it would mean to add an open licence.
 I've done workshops with graffiti writers and I talked
 to everyone: _Look, I am going to upload this tag up to this
 place where everyone can download them after the workshop, cool?_ And
 they go _cool_. But still, even then, do I really feel comfortable that they understand what
-they've gotten into? Even if someone has chosen a ShareAlike license, I would be nervous I think.
+they've gotten into? Even if someone has chosen a ShareAlike licence, I would be nervous I think.
 
 Maybe I am putting too much weight on it. People outside Free
-Software are already used to attaching Creative Commons licenses to
+Software are already used to attaching Creative Commons licences to
 their videos. Maybe I am too close to graffiti. I
 still hold the tag as primal! 
 
@@ -2344,7 +2376,7 @@ way GML is part of a legalizing process?
 % ---------------
 For that to happen, a larger community would have to get involved.
 It would need to be Gesture Markup Language, and a community other than
-graffiti-writers would need to get involved. 
+graffiti writers would need to get involved. 
 
 
 % NOWSPEAKING: FS
@@ -2384,7 +2416,7 @@ graffiti visuals.
 % ---------------
 I am always for de-criminalization. I don't think
 anyone should go to jail over a piece of paint that you could cover
-over in 5 seconds. And that KRS One city you mentioned would be cool to
+over in 5 seconds. And that KRS-One city you mentioned would be cool to
 see. 
 
 
@@ -2493,7 +2525,7 @@ two. They are not coming from the same thing. But for me its also
 interesting to think about it in terms that these are both sort of
 movements that have at times been given liberational trappings, people
 have assigned liberatory powers to these movements. Statistically the GPL is considerably more popular than the Open Source
-licenses, but I don't know if you sat everybody down
+licences, but I don't know if you sat everybody down
 and took a poll which side they would land on, whether they were more
 about making money than they were about sharing. Are people writing
 blogposts because they really want to share their ideas or because they
@@ -2731,7 +2763,7 @@ but I think the change will always be adding, not removing.
 % 
 % {\tt Evan Roth} is an artist and researcher who explores the
 % intersection of free and popular culture. His research into the
-% practice of graffiti-writing started in 2003 and continues in Graffiti
+% practice of graffiti writing started in 2003 and continues in Graffiti
 % Markup Language.
 % 
 % {\tt Constant} is a Brussels based association for Arts and
@@ -2755,7 +2787,7 @@ but I think the change will always be adding, not removing.
 % In three interviews that took place in Brussels and Paris within a
 % period of one and a half years, we spoke about the collaborative powers
 % of the GML-standard, about contact points between hacker- and
-% graffiti-cultures and the granularity of gesture.
+% graffiti cultures and the granularity of gesture.
 % \godown[19.6pt]
 % \godown[19.6pt]
 % {\tfx Typeset with ConTeXt using Reglo and Linux\crlf Libertine fonts.}
