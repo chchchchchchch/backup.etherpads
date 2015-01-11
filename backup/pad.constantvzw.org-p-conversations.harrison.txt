@@ -15,7 +15,7 @@
 
 % SCALEFONT: 1.3
 
-**August 2006**. One of the original co-conspirators of the OSP adventure is a Brussels graphiste going under the name Harrisson.
+**August 2006**. One of the original co-conspirators of the OSP adventure is the Brussels graphiste going under the name Harrisson.
 His interest in Open Source software flows with the culture of exchange  that keeps the
 off-centre music scene alive, as well as with the  humanist tradition persistingly present
 in contemporary typography.
