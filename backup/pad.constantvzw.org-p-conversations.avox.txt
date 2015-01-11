@@ -17,9 +17,9 @@
 
 % SCALEFONT: 1.15
 
-While in the background participants to the **Libre Graphics Meeting 2007** start saying goodbye to each other,
+While in the background participants of the **Libre Graphics Meeting 2007** start saying goodbye to each other,
 Andreas Vox makes time to sit down with us to talk about Scribus, the Open Source application for professional page layout.
-Not only as users that do design with it, but also because Scribus helps us think about links between software, Free Culture and design.
+The software is significant not only to it's users that do design with it, but also because Scribus helps us think about links between software, Free Culture and design.
 Andreas is a mathematician with an interest in system dynamics, who  lives and works in Lübeck, Germany.
 Together with Franz Schmid, Petr Vanek (subik), Riku Leino (Tsoots),  Oleksandr Moskalenko (malex),
  Craig  Bradney (MrB),  Jean Ghali and Peter Linnel (mrdocs) he forms the core Scribus developer team.
