@@ -16,8 +16,8 @@
 
 % SCALEFONT: 1.32
 
-This conversation took place in Montreal at the last day of the **Libre Graphics Meeting 2011**. In the panel _How to keep and make productive libre graphics projects?_, Asheesh had responded rather sharply to a remark from the audience that only a very small number of women was present at LGM: _Bringing the problem back to gender is avoiding the general problem that F/LOSS has with social inclusion._
-Another good reason to talk to him are the intriguing 'Interactive training missions' that he has been developing as part of the OpenHatch.org  project. I wanted to know more about the tutorials he develops; why he decided to work on 'story manuals' that explain how to report a bug or  how to work with version control.
+This conversation took place in Montreal at the last day of the **Libre Graphics Meeting 2011**. In the panel _How to keep and make productive libre graphics projects?_, Asheesh had responded rather sharply to a remark from the audience that only a very small number of women were present at LGM: _Bringing the problem back to gender is avoiding the general problem that F/LOSS has with social inclusion._
+Another good reason to talk to him were the intriguing 'Interactive training missions' that he had been developing as part of the OpenHatch.org  project. I wanted to know more about the tutorials he develops; why he decided to work on 'story manuals' that explain how to report a bug or  how to work with version control.
 Asheesh Laroia is someone who realizes that most of the work  that makes projects successful is hidden underneath the surface. He volunteered his technical skills for the UN in Uganda, the EFF, and Students for Free Culture, and is a developer on the Debian team. Today, he lives in Somerville, MA. He speaks about his ideas to audiences at international F/LOSS conferences.
 
 % RESETFONT:
@@ -97,9 +97,11 @@ I would like to talk about the new mission on bug reporting you said you were wo
 A big part of that sort of imagination is understanding the kinds of things that could be reasonable. So this is where cultural knowledge comes in. If you program in C or even if you just read about C, you understand that there is something called 'pointers' and something called 'segfaults' and if your program ends in that way, that is not a good thing and you should report a bug. This requires an imagination on the side of the person filing the bug.
 The training missions give people practice in seeing these sorts of things and understand how they could work. To build a mental model, even if it is fuzzy, that has enough of the right components so they can enter in discussion and imagine what happened.
 
+
 % SLOGAN: Mixed feelings
-%
-% N!OWSPEAKING: ALA
+
+
+% NOWSPEAKING: ALA
 % ---------------
 I have mixed feelings about using 'gender' as an important characteristic when considering how to grow our communities. It is not a bad idea maybe, and I am working on projects that are related to this as well, but I think it permits a misunderstanding of the problem and puts things in an awkward space, especially when the issue is addressed in a room primarily filled by men and only a few woman. Is what the men say sort of judge-able by the few women in the room? Are they speaking to the women that are not in the room? It becomes all very tenuous and confusing what you can or should say or do. We can skip this by understanding the real issue, which is community inclusiveness.
 
