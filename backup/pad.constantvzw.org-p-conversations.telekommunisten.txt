@@ -13,7 +13,7 @@
 
 %SCALEFONT: 1.2
 
-In **2007**, OSP met with venture communist Dmytri Kleiner and his wife Franziska,[^]{editor for a German publishing company} late night in bar Le Coq in Brussels. Kleiner had just finished his lecture _InfoEnclosure-2.0_ at Verbindingen/Jonctions and we wanted to ask what his ideas about peer production could mean for the practice of designers and typographers. Referring to Benjamin Tucker, Yochai Benkler, Marcel Mauss and of course Karl Marx, Kleiner explains how to prevent leakage at the point of scarcity  through operating within a total system of worker owned companies.  Between fundamentals of media- and information economy, he talks about free typography and what it has to do with nuts and bolts, the problem of working with estimates and why the people that develop Scribus should  own all the magazines it enables.
+In **2007**, OSP met with venture communist Dmytri Kleiner and his wife Franziska,[^]{editor for a German publishing company} late at night in bar Le Coq in Brussels. Kleiner had just finished his lecture _InfoEnclosure-2.0_ at Verbindingen/Jonctions and we wanted to ask what his ideas about peer production could mean for the practice of designers and typographers. Referring to Benjamin Tucker, Yochai Benkler, Marcel Mauss and of course Karl Marx, Kleiner explains how to prevent leakage at the point of scarcity  through operating within a total system of worker owned companies.  Between fundamentals of media- and information economy, he talks about free typography and what it has to do with nuts and bolts, the problem of working with estimates and why the people that develop Scribus should  own all the magazines it enables.
 
 % RESETFONT:
 % BIGSKIP:
