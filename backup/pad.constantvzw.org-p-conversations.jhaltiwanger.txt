@@ -12,11 +12,9 @@
 
 % TITLE: ConTeXt and the ballistics of design
 
-% NOWSPEAKING: X
-
 %SCALEFONT: 1.27
 
-In **September 2013** writer, developer and freestyle poet John Haltiwanger
+In **September 2013** writer, developer, freestyle rapper and poet John Haltiwanger
 joined the ConTeXt user meeting in Brejlov (Czech Republic)[^]{http://meeting.contextgarden.net/2013/}
 to present his ideas on Subtext, 'A Proposed Processual Grammar for a Multi-Output Pre-Format'.
 The interview started as a way to record John's impressions fresh from the meeting, but moved into
@@ -24,6 +22,7 @@ discussing the future of layout in terms of ballistics.
 
 % RESETFONT:
 % BIGSKIP:
+
 
 % NOWSPEAKING: FS
 % ----------------------------
