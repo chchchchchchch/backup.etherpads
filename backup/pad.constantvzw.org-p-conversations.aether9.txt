@@ -12,8 +12,6 @@
 
 % TITLE: The construction of a book (Aether9)
 
-% NOWSPEAKING: X
-% ---------------
 
 % SCALEFONT: 1.2
 
@@ -24,8 +22,6 @@ audio-visual live performance. The text was published in that same publication.
 
 % RESETFONT:
 % BIGSKIP:
-
-
 
 
 % NOWSPEAKING: MS
