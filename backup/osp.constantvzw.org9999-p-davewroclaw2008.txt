@@ -81,7 +81,7 @@ I started working at the IT department, and that really kept me going to that co
 So I ended up looking at Free Sofware design tools because I became frustrated by the limitations of the Adobe software which in the college was using, just what everybody used.
 And at that point I realized what 'software freedom' meant.
 I've been using Debian since I was like a teenager, but I hadn't really looked to the depth of what Free Software was about.
-I mean back in the nineties Windows wasn't very good but probably at that time 2003 - 2004, MacOSX came out and it was getting pretty nice to use.
+I mean back in the nineties Windows wasn't very good but probably at that time 2003-2004, MacOSX came out and it was getting pretty nice to use.
 I bought a Mac laptop without really thinking about it and because it was a Unix I could use the software like I was used to do. And I didn't really think about the issues with Free Software, MacOSX was Unix so it was the same I figured. But when I started to do my work I really stood against the limitations of Adobe software, specifically in parallel publishing which is when you have the same basic informations that you want to communicate in different mediums. 
 You might want to publish something in .pdf, on the web, maybe also on your mobile phone, etc.
 And doing that with Adobe software back then was basically impossible.
@@ -117,8 +117,8 @@ In that whole journey of getting into this area of parallel publishing and autom
 It's a lot of a bigger deal now, especially in the Free Software community where we have Free Software manuals translated into many languages,
 written in .doc and .xml and then transformed into print and web versions and other versions.
 But back then this was kind of a new concept, not all people worked on it. And so, asking around, I heard about the department of typography at the university of Reading.
-One of the lecturers there, actually the lecturer of the typeface design course put me on to a designer in Holland, Petr van Blokland. He's a really nice guy, really friendly. And I dropped him an e-mail as I was in Holland that year - just dropped by to see him and it turned out he's not only involved in parallel publishing and automated design, but also in typedesign. For him there is really no distinctions between type design and typography.
-It's kind of like a big building - you have the architecture of the building but you can also go down into the bricks.
+One of the lecturers there, actually the lecturer of the typeface design course put me on to a designer in Holland, Petr van Blokland. He's a really nice guy, really friendly. And I dropped him an e-mail as I was in Holland that year -- just dropped by to see him and it turned out he's not only involved in parallel publishing and automated design, but also in typedesign. For him there is really no distinctions between type design and typography.
+It's kind of like a big building -- you have the architecture of the building but you can also go down into the bricks.
 It's kind of like that with typography, the type design is all these little pieces you assembly to create the typography out of .
 He's an award-winning typeface designer and typographer and he was involved in the early days of typography very actively.
 He kind of explained me the whole story of type design technology.
@@ -134,22 +134,22 @@ The TeX typesetting system has its own font software or font system called Metaf
 Metafont is a font programming language, and algebraic programming language describing letter forms.
 It really gets into the internal structure of the shapes. This is a very non-visual programming approach to it where you basically use this programming language to describe with algebra how the shapes make up the letters.
 If you have a capital H, you got essentially 3 lines, two verticals stands and a horizontal crossbar and so, in algebra you can say that you've got one ratio whitch is the height of the vertical lines and another ratio which is the width between them and another ratio which is the distance between the top point and the middle point of the crossbar and the bottom point.
-By describing all of that in algebra, you really describe the structure of that shape and that gives you a lot of power because it means you can trace a pen nib objects over that skeleton to generate the final typeform and so you can apply variations, you can rotate the pen nib - you can have different pen nib shapes
+By describing all of that in algebra, you really describe the structure of that shape and that gives you a lot of power because it means you can trace a pen nib objects over that skeleton to generate the final typeform and so you can apply variations, you can rotate the pen nib -- you can have different pen nib shapes
 And you can have a lot of different typefaces out of that kind of source code. 
 But that approach is not a visual approach, you have to take it with a mathematical mind and that isn't something which graphic designers  typically have as a strong part of their skill set.
 
 The next step was describing the outline of a typeface, and the guy who did this was working, I believe, at URW. He invented a digital typography system or typedesign program called Ikarus. The rumor is it's called Ikarus because it crashed too much. Peter Karow is this guy. He was the absolute unknown real pioneer in this area.
 They were selling this proprietary software powered by a tablet, with a drawing pen for entering the points and it used it's own kind of spline-curve technology.
 
-This was very expensive - it ran on DMS computers and URW was making a lot of money selling those mini computers in well I guess late 70s and early 80s.
+This was very expensive -- it ran on DMS computers and URW was making a lot of money selling those mini computers in well I guess late 70s and early 80s.
 And there was a new small home computer that came out called the Apple Macintosh. This was quite important because not only was it a personal computer. It had a graphical user interface and also a printer, a laser writer which was based on the Adobe PostScript technology.
 This was what made desktop publishing happen. I believe it was a Samsung printer revised by Apple and Adobe's PostScript technology.
 Those three companies, those three technologies was what made desktop publishing happen.
 Petr van Blokland was involved in it, using the Ikarus software, developing it. And so he ported the program to the Mac.
 So Ikarus M was the first font editor for personal computers and this was taken on by URW but never really promoted because the...
 Mac costs not a lot money compared to those big expensive computers.
-So, Ikarus M was not widely distributed. It's kind of an obvious idea - you know you have those innovative computers doing graphic interfaces and laser printing and several different people had several different ideas about how to employ that.
-Obviously you had John Warnock within Adobe and at that point Adobe was a systems company, they made this PostScript system and these components, they didn't make any user applications. But John Warnock - and this is documented in the book on the Adobe story - he really pushed within the company to develop Adobe Illustrator, which allowed you to interact with the edit PostScript code and do vector drawings interactively. That was the kind of illustration and graphic design which we mentioned earlier.
+So, Ikarus M was not widely distributed. It's kind of an obvious idea -- you know you have those innovative computers doing graphic interfaces and laser printing and several different people had several different ideas about how to employ that.
+Obviously you had John Warnock within Adobe and at that point Adobe was a systems company, they made this PostScript system and these components, they didn't make any user applications. But John Warnock -- and this is documented in the book on the Adobe story -- he really pushed within the company to develop Adobe Illustrator, which allowed you to interact with the edit PostScript code and do vector drawings interactively. That was the kind of illustration and graphic design which we mentioned earlier.
 That was the... page layout sort of thing and that was taking care of by a guy called Paul Brainerd, whose company Aldus made PageMaker. That did similar kind of things than Illustrator, but focused on page layout and typography,  text layout rather than making illustrations.
 So you had Illustrator and PageMaker and this was the beginning of the desktop publishing tool-chain.
 
@@ -203,7 +203,7 @@ So you had Fontographer and this is yeah I mean a GUI application for home compu
 Because it meant that anybody could start making fonts not only people that were in the type design guild.
 That all David Carson kind of punk graphic design, it's really because of Desktop publishing and specifically because of Fontographer.
 Because that allowed people to make these fonts. Previous printing technologies wouldn't allow you to make these kinds of fonts without extreme efforts.
-I mean a lot of the effects you can do with digital graphics you can't do without digital graphics - air brushing sophisticated effects like that can be achieved but it's really a lot of efforts.
+I mean a lot of the effects you can do with digital graphics you can't do without digital graphics -- air brushing sophisticated effects like that can be achieved but it's really a lot of efforts.
 
 So going back to the guys from Holland, Petr has a younger brother called Erik and he went to the college at the Royal Academie of design the KABK in the Hague with a guy who is Just van Rossum and he's the younger brother of Guido van Rossum who is now quite famous because he's the guy who developed and invented Python.
 In the early 90s Jim von Ehr is developping Fontographer, and Fontographer 4 comes out and Petr and Just and Erik managed to get a copy of the source code of Fontographer 3 which is the golden version that we used, like Quark, that was what we used throughout most of the 90s and so they started adding things to that to do scripting on Fontographer with Python and this was called Robofog, and that was still used until quite recently, because it had features no one has ever seen enywhere else.
@@ -236,15 +236,15 @@ When Fontographer stopped there was the question of which one will become the pr
 
 The Python guys from Holland started using Fontlab.
 They managed to convince the Fontlab guys to include Python scripting support in Fontlab. Python had become a major language, for doing this kind of scripting. So Fontlab added in Python scripting.
-And then different type designers, font developers started to use Python scripts to help them develop their fonts, and a few of the guys doing that decided to join up and they created the RoboFab project which took the ideas that had been developed for Robofob and reimplemented them with Fontlab - so RoboFab. This is now a Free Software package, under the MIT Python style licence.
+And then different type designers, font developers started to use Python scripts to help them develop their fonts, and a few of the guys doing that decided to join up and they created the RoboFab project which took the ideas that had been developed for Robofob and reimplemented them with Fontlab -- so RoboFab. This is now a Free Software package, under the MIT Python style licence.
 So it is a Free Software licence but without copyleft. It has beeing developed as a collaborative project.
 If you're interested in the development you can just join the mailing list.
 It's a very mature project and the really beautiful thing about it that they developed a font object model and so in Python you have a very clean and easily understandable object-oriented model of what a font is.
 It makes it very easy to script things. This is quite exciting because that means you can start to do things which are just not really visible with the graphic design interface.
 The thing with those fonts is like there is a scale, it is like architecture. You've got the designer of the building and the designer of the bricks.
 With a font it is the same. You have the designer who shapes each letter and then you've got the character-spacing which makes what a paragraph will look like.
-A really good example of this is if you want to do interpolation, if you have a very narrow version of a font and a very wide one, and you want to interpolate in different versions between those two masters - you really want to do that in a script, and RoboFab makes this really easy to do this within Fontlab.
-The ever important thing about RoboFab was that they developed UFO, I think it's the Universal Font Object - I'm not sure what the exact name is - but it's a XML font format which means that you can interchange font source data with different programs and specifically that means that you have a really good font interpolation program that can read and write that UFO XML format and then you can have your regular type design format font editor that will generate bitmap font formats that you actually use in a system. You can write your own tool for a specific task and push and pull the data back and forth. Some of these Dutch guys, especially Erik has written a really good interpolation tool. So, as a kind of thread in the story of font.
+A really good example of this is if you want to do interpolation, if you have a very narrow version of a font and a very wide one, and you want to interpolate in different versions between those two masters -- you really want to do that in a script, and RoboFab makes this really easy to do this within Fontlab.
+The ever important thing about RoboFab was that they developed UFO, I think it's the Universal Font Object -- I'm not sure what the exact name is -- but it's a XML font format which means that you can interchange font source data with different programs and specifically that means that you have a really good font interpolation program that can read and write that UFO XML format and then you can have your regular type design format font editor that will generate bitmap font formats that you actually use in a system. You can write your own tool for a specific task and push and pull the data back and forth. Some of these Dutch guys, especially Erik has written a really good interpolation tool. So, as a kind of thread in the story of font.
 Remember that time where Fontographer was not developed actively then you have Georges Williams from California who was interested in digital typography and fonts and Fontographer was not being activelly developed and he found that quite frustrating so he said like _Well, I'll write my own font editor_. He wrote it from scratch. I mean this is a great project.
 
 % NOWSPEAKING: LL
