@@ -5,7 +5,7 @@
 % HIDDENKEYWORDS: Snelting, Femke
 
 
-% SCALEFONT: 1.1
+% SCALEFONT: 1.2
 
 This book documents an ongoing dialogue between developers and designers involved in the wider ecosystem of Libre Graphics.
 Its lengthy title,  _I think that conversations are the best, biggest thing that Free Software has to offer its user_, is taken from
@@ -23,7 +23,10 @@ Participants in these intersecting events and organisations constitute the vario
 
 % SMALLSKIP:
 
-The transcriptions are loosely organised around three broad themes: **tools**, **communities** and **design**. At the same time, I invite you to read _Conversations_ as a chronology of growing up in Libre Graphics, a portrait of a community gradually grasping the interdependencies between Free Software and design practice.
+The transcriptions are loosely organised around three themes:
+**tools**, **communities** and **design**.
+At the same time, I invite you to read _Conversations_ as a chronology of growing up in Libre Graphics,
+a portrait of a community gradually grasping the interdependencies between Free Software and design practice.
 
 % BIGSKIP:
 
