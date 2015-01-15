@@ -19,7 +19,7 @@ This conversation with Juliane de Moerlooze was recorded in **March 2009**.
 
 % BIGSKIP:
 % RESETFONT:
-% SCALEFONT: 1.4
+% SCALEFONT: 1.38
 
 _When you hear people talk about women having more sense for the global,
 intuitive and empathic …  and men are more logical …  even if it is  true … 
