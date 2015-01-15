@@ -13,7 +13,8 @@
 % TITLE: The Making of Conversations
 
 
-%SCALEFONT: 1.3
+%SCALEFONT: 1.35
+
 The making of _Conversations_ was on many levels a process of dialogue, between people, processes, and systems.
 Xavier Klein and Christoph Haag were as much involved in editorial decisions as they were in creating an experimental platform
 that would allow us to produce a publication in a way true to the content of the conversations it would contain.
