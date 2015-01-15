@@ -26,7 +26,7 @@
 @misc{ krs-1:2014:templeofhiphop,
  author       = {Master Teacher, KRS-One},
  title        = {{AN INTRODUCTION TO HIP HOP }},
- howpublished = {http://www.krs-one.com/#!temple-of-hip-hop/c177q}
+ howpublished = {http://www.krs-one.com/\#!temple-of-hip-hop/c177q}
 }
 
 @Book{ pfiffner:2002:adobe,
