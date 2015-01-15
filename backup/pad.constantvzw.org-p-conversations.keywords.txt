@@ -214,7 +214,7 @@ Smythe, Dallas|Dallas Smythe
 Sobotka, Troy James|Troy James Sobotka
 SourceForge
 Sparkleshare
-stable|stability
+Stable|stability
 Stallman, Richard|Richard Stallman|Stallman
 Standards|Standardization|standardisation
 Stroke|Strokes|stroke-font
