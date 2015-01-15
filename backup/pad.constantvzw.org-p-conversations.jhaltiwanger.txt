@@ -12,7 +12,7 @@
 
 % TITLE: ConTeXt and the ballistics of design
 
-%SCALEFONT: 1.27
+%SCALEFONT: 1.28
 
 In **September 2013** writer, developer, freestyle rapper and poet John Haltiwanger
 joined the ConTeXt user meeting in Brejlov (Czech Republic)[^]{http://meeting.contextgarden.net/2013/}
@@ -1018,6 +1018,5 @@ Ok, there's still painters and there's still people doing Pre-Raphaelite paintin
 % NOWSPEAKING: JH
 % -----------
 Yeah. To borrow a quote from my old buddy Donald Rumsfeld: _There are the known knowns, the known unknowns and the unknown unknowns._ That  actually popped into my head earlier because when we were talking about the potentials of the software and the way that we interact and stuff, it's like we know that we don't know ... other ways of organizing. We know that there are, like there **has** to be, another way, whether it is a middle path between these two or some sort of ... Maybe it's just tenth dimensional, maybe it's fourth  dimensional, maybe it's completely hypermodern or something. Anyway. But the unknown unknowns ... It's like the stuff  that we can't even tell we don't know about. The questions that we don't know about that would come up once we figure out these other ways of organising it. That's when I start to get really interested in this sort of thing. How do you even conceive of a practise  that you don't know? And once you get there, there's going to be other  things that you know you don't know and have to keep finding them. And  then there's gonna be things that you don't know you don't know and they  just appear from nowhere and ... 
-
 it's fun.
 
