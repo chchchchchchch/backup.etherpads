@@ -1,7 +1,17 @@
+% HOWTO ...
+% Lines starting with % are comments and will be ignored
+% comments may be treated as commands/actions/functions
+% A citation reference [@phillips:2004:vectoraesthetic]?
+% A citation reference with pagenumber [@[1-8]phillips:2004:vectoraesthetic]?
+% a text [^]{a footnote} and some more text
+
+
 % TITLE: Introduction
 
 % USED FOR NAME INDEXING
 % HIDDENKEYWORDS: Blazic, Larisa
+
+
 
 Computational concepts, their technological language and the hybridisation of creative practice have been successfully explored in Media Arts for a few decades now. Digital was a narrative, a tool and a concept, an aesthetic and political playground of sorts. These experiments created a notion of the digital artisan and creative technologist on the one hand and enabled a new view of intellectual property on the other. They widened a pathway to participation, collaboration and co-creation in creative software development, looking critically at the software as cultural production as well as technological advance.
 
@@ -23,7 +33,12 @@ Taking part in LGM 2013 was a useful experience that has informed my art and edu
 
 % BIGSKIP:
 
+% PREVENT UGLY HYPHENATION
+% SCALEFONT: 0.99
+
 Libre Graphics seems to offer a very exciting transformation of graphic design practice through implementation of F/LOS software development and production processes. A hybridisation across these often separated fields of practice that take under consideration openness and freedom to create, copy, manipulate and distribute, while contributing to the development  of visual communication itself. All this may lease a new life to an over-commercialised graphic design practice, banalised by mainstream culture.
+
+% RESETFONT:
 
 This book brings together reflections on collaboration and co-creation in graphic design, typography and desktop publishing, but also on gender issues and inclusion to the Libre Graphics community. It offers a paradigm shift, supported by historical research into graphic and type design practice, that creates strong arguments to re-engage with the tools of production. The conversations conducted give an overview of a variety of practices and experiences which show the need for more conversations and which can help educate designers and developers alike. It gives detailed descriptions of the design processes, productions and potential trade-offs when engaged in software design and development while producing designed artefacts. It points to the importance of transparent software development, breaking stereotypes and establishing a new image of the designer-developer combo, a fresh perspective of mutual respect between disciplines and a desire to engage in exchange of knowledge that is beneficial beyond what any proprietary software could ever be.
 
@@ -31,5 +46,5 @@ This book brings together reflections on collaboration and co-creation in graphi
 
 %SCALEFONT: 0.8
 
-Larisa Blazic is a media artist living and working in London. Her interests range from creative collaborations to intersections between video art and architecture. As senior lecturer at the Faculty of Media, Arts and Design of the University of Westminster, she is currently developing a masters programme on F/LOSS art & design.
+Larisa Blazic is a media artist living and working in London. Her interests range from creative collaborations to intersections between video art and architecture. As senior lecturer at the Faculty of Media, Arts and Design of the University of Westminster, she is currently developing a master's program on F/LOSS art & design.
 
