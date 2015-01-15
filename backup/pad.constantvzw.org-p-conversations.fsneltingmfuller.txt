@@ -13,9 +13,6 @@
 
 % TITLE: What's the thinking here
 
-% NOWSPEAKING: X
-% --------------
-
 > One of the things that is notable about OSP is that the problems 
 > that you encounter are also described, appearing on your blog. 
 > This is something unusual for a company attempting to produce 
@@ -66,7 +63,7 @@ Following this, what kind of team have you built up, and what new competencies h
 
 % NOWSPEAKING: FS
 % ---------------
-The core of OSP is five people[^]{Pierre Huyghebaert, Harrisson, Yi Jiang, Nicolas Malevé and me}, and between us we mix amongst others typography, layout, cartography, webdesign, software development, drawing, programming, open content licensing and teaching. Around it is a larger group of designers, a mathematician, a computer scientists and several Free Software coders that we regularly exchange ideas with.
+The core of OSP is five people[^]{Pierre Huyghebaert, Harrisson, Yi Jiang, Nicolas Maléve and me}, and between us we mix amongst others typography, layout, cartography, webdesign, software development, drawing, programming, open content licensing and teaching. Around it is a larger group of designers, a mathematician, a computer scientists and several Free Software coders that we regularly exchange ideas with.
 
 It feels we often do more unlearning than learning; a necessary and interesting skill to develop is dealing with incompetence – what can it be else than a loss of control? In the mean time we expand our vocabulary so we can fuel conversations (imaginary and real life) with people behind GIMP, Inkscape, Scribus etc.; we learn how to navigate our computers using commandline interfaces as well as KDE, GNOME and others; we find out about file formats and how they sometimes can and often cannot speak to each other; how to write manuals and interact with mailing lists. The real challenge is to invent situations that subvert strict divisions of labour while leaving space for the kind of knowledge that comes with practice and experience.
 
