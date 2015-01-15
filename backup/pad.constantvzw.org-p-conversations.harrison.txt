@@ -13,14 +13,14 @@
 % TITLE: You need to copy to understand
 
 
-% SCALEFONT: 1.3
+% SCALEFONT: 1.35
 
 **August 2006**. One of the original co-conspirators of the OSP adventure is the Brussels graphiste going under the name Harrisson.
 His interest in Open Source software flows with the culture of exchange  that keeps the
 off-centre music scene alive, as well as with the  humanist tradition persistingly present
 in contemporary typography.
 Harrisson’s visual frame of reference is eclectic and vibrant, including  modernist giants, vernacular design,
-local typographic culture, classic  painting, drawing and graffiti.    
+local typographic culture, classic  painting, drawing and graffiti.
 Too much food for one conversation.
 
 % RESETFONT:
@@ -270,7 +270,7 @@ At Adobe they still do not understand why it was (and still is) a failure…
 
 
 % GRAFIK: var/figures/you_need_to_copy_to_understand/muniverse_globe_w_MOD.svg inline 1 0
-
+% HIDDENKEYWORDS: Egli, Simon
 
 % NOWSPEAKING: FS
 % ---------------
