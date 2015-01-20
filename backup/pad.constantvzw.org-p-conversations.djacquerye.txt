@@ -93,8 +93,9 @@ to include it in Unicode or not. And if you're very motivated, you can try to me
 has to be a formal proposal using their template with questions to answer, you also have to provide proof that the characters you
 want to add are actually used or how they would be used. 
 
-% HIDDENKEYWORDS: Unicode
-% DOUBLEPAGE: var/figures/unicodes/fig8.pdf
+% H!IDDENKEYWORDS: Unicode
+% D!OUBLEPAGE: var/figures/unicodes/fig8.pdf
+% NEWPAGE:
 
 The criterias are quite complicated because you have to make sure that
 this is not a glyphic variant (the same character but represented differently). Then you also have to prove the character doesn't already
