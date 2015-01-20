@@ -37,6 +37,8 @@
 
 
 
+
+
 % Tools ================================================================================================================= %
 % D!OUBLEPAGE: var/covers/inside/10_HATCHED.pdf
 
@@ -100,7 +102,6 @@
 % DOUBLEPAGE: var/layouts/futuretools-02/futuretools-02_05_0006_0005.pdf 90
 
 
-
 % ---------------------------------------------------------------------------------------------------------------------- %
 % Constant Variable: Etat des lieux
 % http://pad.constantvzw.org/public_pad/conversations.etatdeslieux
@@ -121,9 +122,9 @@
 
 
 
+
 %  Vocabulary, community, politics    ========================================================================================== %
 % DOUBLEPAGE: var/covers/inside/10_HATCHED.pdf
-
 
 % ---------------------------------------------------------------------------------------------------------------------- %
 % Even when you are done, you are not done
@@ -178,7 +179,7 @@
 % http://pad.constantvzw.org/public_pad/conversations.djacquerye
 % ---------------------------------------------------------------------------------------------------------------------- %
 % COVERGRAFIK: var/pettersheets/o/trenner/unicodes_TRENNER.pdf
-% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.djacquerye/1827/export/txt
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.djacquerye/1836/export/txt
 
 
 
@@ -186,7 +187,6 @@
 
 % Design ================================================================================================================ %
 % DOUBLEPAGE: var/covers/inside/10_HATCHED.pdf
-
 
 % ---------------------------------------------------------------------------------------------------------------------- %
 % If the design thinking is correct, the tools should be irrelevant
