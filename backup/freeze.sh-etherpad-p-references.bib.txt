@@ -1,10 +1,26 @@
+@incollection{ melville:1856:bartleby,
+ author    = {Melville, Herman},
+ title     = {Bartleby, the Scrivener: A Story of Wall Street},
+ booktitle = {{The Piazza Tales}},
+ publisher = {{Dix, Edwards & Co.}},
+ year      = {1856},
+ url       = {http://www.gutenberg.org/ebooks/15859}
+}
+
+@Book{ melville:1856:piazzatales,
+ author    = {Melville, Herman},
+ title     = {{The Piazza Tales}},
+ year      = {1856},
+ publisher = {{Dix, Edwards & Co.}},
+ url       = {http://www.gutenberg.org/ebooks/15859}
+}
 
 @Book{ constant:2009:vjtracks,
  author    = {Constant and Delahaut, Clementine and Rassel, Laurence and Sidgwick, Emma},
  title     = {{Verbindingen/Jonctions: Tracks in electr(on)ic fields}},
  year      = {2009},
  publisher = {Constant Verlag},
- note = {http://ospublish.constantvzw.org/sources/vj10}
+ url       = {http://ospublish.constantvzw.org/sources/vj10}
 }
 
 @Book{ devalkmansoux:2008:flossart,
@@ -13,7 +29,7 @@
  year      = {2008},
  ISBN      = {9781906496180},
  publisher = {OpenMute},
- note = {http://things.bleu255.com/floss-art}
+ url       = {http://things.bleu255.com/floss-art}
 }
 
 @misc{ krs-1:2014:templeofhiphop,
@@ -35,7 +51,7 @@
  title        = {{Hans Hagen -- Interview -- TeX Users Group}},
  year         = {2006},
  url          = {http://tug.org/interviews/hagen.html},
- note         = {[Online; accessed 18.12.2014]}
+ note         = {Online; accessed 18.12.2014}
 }
 
 @misc{ wikipedia:20141218:xwindow,
