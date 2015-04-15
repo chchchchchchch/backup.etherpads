@@ -1,3 +1,20 @@
+@Book{ garrett:2010:elements,
+ title     = {{Elements of User Experience,The: User-Centered Design for the Web and Beyond}},
+ author    = {Garrett, Jesse James},
+ isbn      = {9780321624642},
+ series    = {Voices That Matter},
+ year      = {2010},
+ publisher = {Pearson Education}
+}
+
+@Book{ bizios:1991:architecture,
+ title    = {{Architecture Reading Lists and Course Outlines: Architectural design, Human behavior, Special topics}},
+ author   = {Bizios, Georgia},
+ series   = {Architecture Reading Lists and Course Outlines},
+ year     = {1991},
+ publisher= {Eno River Press}
+}
+
 @incollection{ melville:1856:bartleby,
  author    = {Melville, Herman},
  title     = {Bartleby, the Scrivener: A Story of Wall Street},
