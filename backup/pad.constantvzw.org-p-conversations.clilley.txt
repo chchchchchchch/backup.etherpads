@@ -5,7 +5,7 @@
 
 % FS = Femke Snelting
 % CL = Chris Lilley
-% NM = Nicolas Maléve
+% NM = Nicolas Malevé
 % PH = Pierre Huyghebaert
 
 % USED FOR NAME INDEXING
