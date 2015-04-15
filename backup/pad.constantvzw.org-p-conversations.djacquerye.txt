@@ -6,7 +6,7 @@
 % FS = Femke Snelting
 % DJ = Denis Jacquerye
 % PM = Pierre Marchand
-% NM = Nicolas Maléve
+% NM = Nicolas Malevé
 
 % USED FOR NAME INDEXING
 % HIDDENKEYWORDS: Jacquerye, Denis|Marchand, Pierre|Maléve, Nicolas
