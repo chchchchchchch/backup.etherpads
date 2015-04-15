@@ -90,7 +90,7 @@
 % HIDDENTITLE: Tools for a Read Write World
 % PAGESTYLE: empty
 % DOUBLEPAGE: var/layouts/futuretools-02/futuretools-02_05_0001_TITLE.pdf 90
-% HIDDENKEYWORDS: Bosermans, Carla
+% HIDDENKEYWORDS: Boserman, Carla
 % DOUBLEPAGE: var/layouts/futuretools-02/futuretools-02_05_0002_0001.pdf 90
 % HIDDENKEYWORDS: Arana Catania, Miguel|Deswaef, Julien|Barragán, Carlos
 % DOUBLEPAGE: var/layouts/futuretools-02/futuretools-02_05_0003_0002.pdf 90
@@ -155,7 +155,7 @@
 % http://pad.constantvzw.org/p/conversations.telekommunisten
 % ---------------------------------------------------------------------------------------------------------------------- %
 % COVERGRAFIK: var/pettersheets/o/trenner/why_you_should_own_the_beercompany_you_design_for_TRENNER.pdf
-% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.telekommunisten/643/export/txt
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.telekommunisten/654/export/txt
 
 
 % ---------------------------------------------------------------------------------------------------------------------- %
@@ -233,7 +233,7 @@
 % http://pad.constantvzw.org/public_pad/conversations.makingof
 % ---------------------------------------------------------------------------------------------------------------------- %
 % COVERGRAFIK: var/pettersheets/o/trenner/the_making_of_conversations_TRENNER.pdf
-% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.makingof/3787/export/txt
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.makingof/3798/export/txt
 % PAGESTYLE: empty
 % INCLUDEPAGES: var/layouts/makingof-01/mkof-01_01.pdf 1-6 1
 
@@ -244,7 +244,7 @@
 % CLEARDOUBLEPAGE:
 % Colophon
 % http://pad.constantvzw.org/p/conversations.colophon
-% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.colophon/1840/export/txt
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.colophon/2101/export/txt
 % PAGESTYLE: empty
 
 
