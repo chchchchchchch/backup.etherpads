@@ -5,7 +5,7 @@
 % PW = Peter Westenberg
 
 % USED FOR NAME INDEXING
-% HIDDENKEYWORDS: Kleiner, Dmytri|Kleiner, Franziska|Harrison
+% HIDDENKEYWORDS: Kleiner, Dmytri|Kleiner, Franziska|Harrison|Westenberg, Peter
 
 
 % TITLE: Why you should own the beer company you design for
