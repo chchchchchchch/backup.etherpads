@@ -1,550 +1,293 @@
+% http://texts.bleu255.com/preface-flossart/
 
-<!doctype html>
+% WRITTENBY: Marloes de Valk, Aymeric Mansoux
 
-<html>
+The relationship between artist, tool, content and audience has never been of
+greater importance than in digital culture. Data has become both instrument,
+material and medium, all of which are reproducible without cost and
+distributable instantaneously. The software industry is well aware of this, and
+consequently has adopted the model of selling licenses instead of software.
+Similarly, the entertainment industry does not release movies and music to an
+audience, but instead sells end user license agreements that provide a limited
+right to the playback of digital content. In both cases the study, modification
+and redistribution of this digital information is forbidden. At the same time,
+content creators are inclined to use software specifically tuned and developed
+for such a distribution system. As a consequence creativity becomes a passive
+input for a content distribution machine the output of which feeds a passive
+audience. The lack of freedom and the absence of connection between the two
+opposed components of this production chain give the system all rights to
+control both culture and its usage. But is there any alternative?
 
+Actually, yes. What about a model, in which artists and their audience simply
+refuse the passive role of user and instead persevere as creators and
+collectors of great ideas? In this model, artists could own their own
+'tools', would be free to use them whenever and however they want, and
+could dissect, hack, embellish and share them, without breaking any laws. The
+creative process of an artist is no longer restricted by what software
+companies dictate, only by his or her own skill. Software, being more than a
+means by which ideas are expressed technically, functions as medium. Software
+is the artwork and its code is an integral part of it. In this model, artists
+would give free access to this layer of the artwork. Free distribution of the
+work would break the artist out of isolation and put him/her in contact with an
+audience, a community. Such a model is not utopian, it is already practised by
+those artists who choose Free Software and copyleft.
 
-        <title>Etherpad</title>
-        <script>
-          /*
-          |@licstart  The following is the entire license notice for the
-          JavaScript code in this page.|
+Free/Libre/Open Source Software (FLOSS) can be used, copied, shared, modified,
+and redistributed with little or no restriction, always allowing free access to
+its source code. The term FLOSS refers to both Free Software as well as Open
+Source Software, without bias towards one single approach. Free Software, as
+defined by Richard Stallman and promoted by the Free Software Foundation, puts
+the emphasis on the freedom that Free Software gives to its users. The four
+freedoms of Free Software are: the freedom to use the software for any purpose,
+freedom to study and modify its source code, freedom to share and redistribute
+the software, and the freedom to improve the software and release your version
+of it to the public. Open Source Software on the other hand, tries to avoid the
+philosophical and political implications of the interpretation of free as in
+freedom, and emphasises the strengths of the peer to peer development model of
+Open Source Software, thus trying to appeal more to the corporate world.
 
-          Copyright 2011 Peter Martischka, Primary Technology.
+The Free Software definition has its roots in the GNU project. In 1983, Richard
+Stallman announced the plan for the GNU operating system, composed of 100
+percent free software. The GNU project was initiated to give computer users
+back their lost freedom. In the fifties, sixties and seventies, software was
+mostly produced by its users, and in many ways software was free. In the late
+seventies and eighties, companies started to put increasingly tight
+restrictions on software through copyright, making the earlier freedoms
+illegal. Suddenly, volunteer programmers that were sharing and improving code
+were considered thieves. Software became an extremely profitable business.
 
-          Licensed under the Apache License, Version 2.0 (the "License");
-          you may not use this file except in compliance with the License.
-          You may obtain a copy of the License at
+Most components of the GNU operating system were developed between 1983 and
+1991, but the kernel kept on being delayed. When in 1991 Linus Torvalds
+released the Linux kernel, and changed the license to the GNU General Public
+License in 1992, the lack of a kernel was resolved and the first free operating
+system was a reality.
 
-             http://www.apache.org/licenses/LICENSE-2.0
+The GNU General Public License was written by Stallman in 1989 for the GNU
+project. The GPL is a strong copyleft license, it ensures the 4 freedoms of
+Free Software, access to the source code of a work and requires all derivative
+works to preserve the same freedoms. A work licensed under the GPL is
+copyrighted, thus making sure that licensees are bound by the terms of the
+license, and therefore can be sued by the original author if they break the
+conditions of the license. Next to that, the copyleft principle is a workaround
+to copyright, meant to protect the freedom of licensees instead of the
+exclusive rights of the author, with the sole restriction that all derived and
+redistributed works must be GPL licensed as well. The GPL is one of the most
+popular licenses used for FLOSS.
 
-          Unless required by applicable law or agreed to in writing, software
-          distributed under the License is distributed on an "AS IS" BASIS,
-          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-          See the License for the specific language governing permissions and
-          limitations under the License.
+The development and use of GNU/Linux has exploded during the last few years.
+This explosion has resulted from the positive feedback of an increased number
+of users, increased needs from users, triggering more development of software
+to fulfil those needs, which eventually resulted in even more users. Much of
+this increase is due to the massive developments made at the level of the
+desktop. Friendlier user interfaces and the more familiar environment of the
+desktop have brought a lot of fresh attention to GNU/Linux. The Ubuntu
+campaigns have played a big role in this, focusing on usability, accessibility
+and ‘user friendliness’. The results of these recent developments are more
+GNU/Linux powered desktops and more high quality open source desktop
+applications. On top of this, the sheer amount of GNU/Linux distributions has
+grown exponentially. In May 2008 Distrowatch lists an increase from three main
+distributions in 1995, to a total of 354 active distributions in the database
+today, many of which are branches of a few main distributions.
 
-          |@licend  The above is the entire license notice
-          for the JavaScript code in this page.|
-          */
-        </script>
+While this increase is undeniable, thoughts along the line of ‘GNU/Linux is
+nice but if you want to do some real work you have to use proprietary operating
+systems’ are still quite common. This is true as long as you consider ‘real
+work’ to consist of working the way proprietary software companies want you
+to work. In real life, you are more often confronted with the need for tailored
+solutions that can not be delivered by ready made problem solvers. For example,
+in the early days of computer animation it was not unusual to work on
+proprietary UNIX based systems. With the democratisation of PC hardware and
+GNU/Linux in the mid ’90?s, it started to be possible to provide cheaper,
+and most of all more flexible, production environments than the single-vendor
+solutions and high-priced specialised hardware ones could offer. It only took a
+few years for the special effects industry to move its ‘pipeline’ to
+GNU/Linux and more generic hardware. At the same time, software companies,
+although most of them still following closed source models, ported a great
+number of animation, modelling, rendering and post production software to the
+free platform. The side effect of this wave in the VFX industry was that
+GNU/Linux started to gain popularity outside of the computer science arena.
+GNU/Linux became visible to computer artists through the marketing campaigns of
+the VFX industry. This triggered a lot of curiosity, and more and more computer
+artists gave GNU/Linux a try and discovered there was much more to it than
+rendering farms and fancy post production tools.
 
-        <meta charset="utf-8">
-        <meta name="robots" content="noindex, nofollow">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-        <link rel="shortcut icon" href="../favicon.ico">
+The user base was steadily growing, and small communities quickly grew into
+bigger groups, focused on particular aspects of open source artistic software
+and technology, and started to organise large scale events and conventions,
+such as the Linux Audio Convention and the Libre Graphics Meeting. The main
+difference between users grouped as customers, and users who are part of a
+FLOSS community, is that the latter have the ability to be pro-active in the
+process of software development by way of writing documentation, providing
+support, reporting issues, and in some cases participating in the writing of
+the software. The latest iteration of this change in the position of the user
+has made the redistribution and customisation of artistic software possible to
+the point where groups of practitioners have been able to provide free
+operating systems tailored to the needs of artists, performers and musicians.
+This development resulted in art and multimedia centred additions to the
+growing list of GNU/Linux distributions, with systems such as 64 Studio,
+APODIO, dyne:bolic, Musix, pure:dyne, and Ubuntu Studio.
 
-        
-        <link href="../static/css/pad.css" rel="stylesheet">
-        <link href="../static/custom/pad.css" rel="stylesheet">
-        <style title="dynamicsyntax"></style>
-        
+Using FLOSS within digital and software art practice brings lots of added value
+to artists. The most immediate benefit is that the software comes with, instead
+of just a shrink wrapped box with glossy print, an active and lively community
+of users and developers. As a user you are not isolated, but part of this
+community. The software doesn’t come with a help desk phone number, but
+something much better, other users that help each other via mailing lists,
+forums and IRC channels. Once you’ve made it through the first part of the
+learning curve, moving from newbie to more advanced user, you discover you have
+gained great freedoms. No longer are implementations of artistic concepts bound
+by the limits of the software applications that exist. You are free to create
+your own tools by combining or modifying existing ones, using the modularity
+and flexibility of the GNU/Linux operating system and the accessibility of the
+source code of all applications. Small scripts function like a glue between
+different low level software. Suddenly you are materialising your concepts as
+you would create objects using LEGO blocks. The learning has paid off, this
+lower level access to the operating system, software and network greatly
+enhances the freedom to technically implement artistic ideas.
 
-        <link rel="localizations" type="application/l10n+json" href="../locales.json" />
-        <script type="text/javascript" src="../static/js/html10n.js"></script>
-        <script type="text/javascript" src="../static/js/l10n.js"></script>
+In a similar way, the resulting work itself can use a free license and there
+are quite a few good reasons for an artist to do so. With respect to generating
+an audience for ones work, the choice of an open license will greatly increase
+the number of viewers or listeners, especially when published on an online
+platform such as archive.org. From a curatorial point of view, the choice for
+open systems and licenses can simplify the preservation and maintenance of an
+artwork, independent of fickle proprietary standards and limited edition habits
+inherited from previous non-digital media. Last but not least, this new
+distribution framework seems well suited for today’s prosumer approach, as
+demonstrated by the increasing number of independent artist-led organisations,
+productions, festivals and distribution platforms such as net-labels.
 
-        <!-- head and body had been removed intentionally -->
+The openness of an artwork does not only impact its release and relation to its
+audience, it also greatly influences the process underlying the artwork.
+That’s why it’s important to understand that software is not just a
+technical component of digital art, it is the artwork and its code provides
+another reading of it. This often forgotten layer of interpretation should be
+open for others, to study and understand the work, to learn from, get inspired
+by and comment on. It is unfortunate that many artists, including those working
+with FLOSS, still resist to this call for openness. They are unwilling to show
+the inner workings of their art, for fear of giving away their identity and
+ruining their chances of generating income, not realising the latter in fact
+relies solely on the performance, exhibition, commissioning and teaching of
+their art, not on the software that enables its manifestation.
 
-        
-        <div id="editbar" class="toolbar">
-            <div id="overlay">
-                <div id="overlay-inner"></div>
-            </div>
+Beyond the use of artistic and multimedia software, software art using an open
+license can have an afterlife the artist releasing it never could have
+foreseen. At the moment, this is still quite rare, but this might change and
+provide a rich environment for works that could branch and fork into many
+directions, passing through many hands, gracefully escaping the fate of a final
+resting place in a dusty corner of a forgotten hard disk.
 
-            <ul class="menu_left">
-                
-                <li data-type="button" data-key="bold"><a class="grouped-left"><span class=" buttonicon buttonicon-bold" data-l10n-id="pad.toolbar.bold.title"></span></a></li>
-<li data-type="button" data-key="italic"><a class="grouped-middle"><span class=" buttonicon buttonicon-italic" data-l10n-id="pad.toolbar.italic.title"></span></a></li>
-<li data-type="button" data-key="underline"><a class="grouped-middle"><span class=" buttonicon buttonicon-underline" data-l10n-id="pad.toolbar.underline.title"></span></a></li>
-<li data-type="button" data-key="strikethrough"><a class="grouped-right"><span class=" buttonicon buttonicon-strikethrough" data-l10n-id="pad.toolbar.strikethrough.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="insertorderedlist"><a class="grouped-left"><span class=" buttonicon buttonicon-insertorderedlist" data-l10n-id="pad.toolbar.ol.title"></span></a></li>
-<li data-type="button" data-key="insertunorderedlist"><a class="grouped-middle"><span class=" buttonicon buttonicon-insertunorderedlist" data-l10n-id="pad.toolbar.ul.title"></span></a></li>
-<li data-type="button" data-key="indent"><a class="grouped-middle"><span class=" buttonicon buttonicon-indent" data-l10n-id="pad.toolbar.indent.title"></span></a></li>
-<li data-type="button" data-key="outdent"><a class="grouped-right"><span class=" buttonicon buttonicon-outdent" data-l10n-id="pad.toolbar.unindent.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="undo"><a class="grouped-left"><span class=" buttonicon buttonicon-undo" data-l10n-id="pad.toolbar.undo.title"></span></a></li>
-<li data-type="button" data-key="redo"><a class="grouped-right"><span class=" buttonicon buttonicon-redo" data-l10n-id="pad.toolbar.redo.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="clearauthorship"><a class=""><span class=" buttonicon buttonicon-clearauthorship" data-l10n-id="pad.toolbar.clearAuthorship.title"></span></a></li>
-                <li class="separator acl-write"></li>
-<li id="headings" class="acl-write">
-    <select id="heading-selection">
-        <option value="dummy" selected data-l10n-id="ep_headings.style">Style</option>
-        <option value="-1" data-l10n-id="ep_headings.normal">Normal</option>
-        <option value="0" data-l10n-id="ep_headings.h1">Heading 1</option>
-        <option value="1" data-l10n-id="ep_headings.h2">Heading 2</option>
-        <option value="2" data-l10n-id="ep_headings.h3">Heading 3</option>
-        <option value="3" data-l10n-id="ep_headings.h4">Heading 4</option>
-        <option value="4" data-l10n-id="ep_headings.h5">Heading 5</option>
-        <option value="5" data-l10n-id="ep_headings.h6">Heading 6</option>
-        <option value="6" data-l10n-id="ep_headings.code">Code</option>
-        
-    </select>
-</li>
-            </ul>
-            <ul class="menu_right">
-                
-                <li data-type="button" data-key="import_export"><a class="grouped-left"><span class=" buttonicon buttonicon-import_export" data-l10n-id="pad.toolbar.import_export.title"></span></a></li>
-<li data-type="button" data-key="showTimeSlider"><a class="grouped-middle"><span class=" buttonicon buttonicon-history" data-l10n-id="pad.toolbar.timeslider.title"></span></a></li>
-<li data-type="button" data-key="savedRevision"><a class="grouped-right"><span class=" buttonicon buttonicon-savedRevision" data-l10n-id="pad.toolbar.savedRevision.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="settings"><a class="grouped-left"><span class=" buttonicon buttonicon-settings" data-l10n-id="pad.toolbar.settings.title"></span></a></li>
-<li data-type="button" data-key="embed"><a class="grouped-right"><span class=" buttonicon buttonicon-embed" data-l10n-id="pad.toolbar.embed.title"></span></a></li><li class="separator"></li><li data-type="button" data-key="showusers"><a class=""><span class=" buttonicon buttonicon-showusers" data-l10n-id="pad.toolbar.showusers.title"></span></a></li>
-                
-            </ul>
-        </div>
-        
+Using FLOSS automatically gives an artists work an extra dimension, a political
+statement that is embedded in the choice to use FLOSS instead of proprietary
+software. This political statement may seem unrelated to the artistic concept
+of a work, but it is far from trivial. It implies an awareness of the fact that
+software is the base material of a work of art, like the clay of a sculpture,
+and that this choice of material greatly influences the eventual work and its
+context. This awareness often leads to the choice of open licenses for the
+artistic work itself, feeding developed ideas and technical implementations of
+ideas back into the community, enabling the reuse of code and facilitating the
+sharing of knowledge. The demystification of software and code is an important
+result of this.
 
-        <div id="users">
-            
-            <div id="connectionstatus"></div>
-            <div id="myuser">
-                <div id="mycolorpicker">
-                    <div id="colorpicker"></div>
-                    <button id="mycolorpickersave" data-l10n-id="pad.colorpicker.save"></button>
-                    <button id="mycolorpickercancel" data-l10n-id="pad.colorpicker.cancel"></button>
-                    <span id="mycolorpickerpreview" class="myswatchboxhoverable"></span>
-                </div>
-                <div id="myswatchbox"><div id="myswatch"></div></div>
-                <div id="myusernameform"><input type="text" id="myusernameedit" disabled="disabled" data-l10n-id="pad.userlist.entername"></div>
-                <div id="mystatusform"><input type="text" id="mystatusedit" disabled="disabled"></div>
-            </div>
-            <div id="otherusers">
-                <div id="guestprompts"></div>
-                <table id="otheruserstable" cellspacing="0" cellpadding="0" border="0">
-                    <tr><td></td></tr>
-                </table>
-                <div id="nootherusers"></div>
-            </div>
-            <div id="userlistbuttonarea"></div>
-            
-        </div>
+This is why it is rare to come across isolated artists using FLOSS. Most of
+them quickly find their way to online communities that provide help and
+support. The FLOSS scene is also booming with communities and distributed
+collectives focused around politics, art and Free Software. Here, artists
+frequently show each other bits of code, inspire each other, and most of all,
+teach each other. This form of circularity generates an engagement with digital
+art that is close to a form of continuous open artistic research, and marks a
+strong opposition with the classic top-down design approach of an end-product
+form of media art.
 
-        <div id="editorcontainerbox">
-            <div id="editorcontainer"></div>
-            <div id="editorloadingbox">
-              <div id="passwordRequired">
-                <p data-l10n-id="pad.passwordRequired">You need a password to access this pad</p>
-                <form class='passForm' method='POST'>
-                  <input id='passwordinput' type='password' name='password'><input type='submit' value='Submit'>
-                </form>
-              </div>
-              <div id="permissionDenied">
-                <p data-l10n-id="pad.permissionDenied">You do not have permission to access this pad</p>
-              </div>
-              <div id="wrongPassword">
-                <p data-l10n-id="pad.wrongPassword">Your password was wrong</p>
-              </div>
-              
-              <p data-l10n-id="pad.loading" id="loading">Loading...</p>
-              
-              <noscript><strong>Sorry, you have to enable Javascript in order to use this.</strong></noscript>
-            </div>
-        </div>
+Of course, getting started with FLOSS and GNU/Linux within an art practice can
+be quite a rocky ride. Even though some Linux distributions would have you
+believe otherwise, it is not that easy to learn a completely new system.
+GNU/Linux, compared to most proprietary operating systems, takes a very
+different approach to its users. Its design is based on the assumption that
+users are capable of learning to master the system, instead of the assumption
+that users are helpless. At the beginning, you have to unlearn a lot of habits
+and constructs you’ve build up using proprietary systems, and no matter how
+nice the user interface and desktop of some distributions look, you cannot
+avoid the system that lies behind the Graphical User Interface (GUI). Things
+have improved a lot in the past few years, and continue to improve, making
+Linux much more accessible for new users, but it still remains a challenge for
+many.
 
-        <div id="settings" class="popup">
-            <h1 data-l10n-id="pad.settings.padSettings"></h1>
-            <div class="column">
-                
-                <h2 data-l10n-id="pad.settings.myView"></h2>
-                <p>
-                    <input type="checkbox" id="options-stickychat" onClick="chat.stickToScreen();">
-                    <label for="options-stickychat" data-l10n-id="pad.settings.stickychat"></label>
-                </p>
-                <p>
-                    <input type="checkbox" id="options-colorscheck">
-                    <label for="options-colorscheck" data-l10n-id="pad.settings.colorcheck"></label>
-                </p>
-                <p>
-                    <input type="checkbox" id="options-linenoscheck" checked>
-                    <label for="options-linenoscheck" data-l10n-id="pad.settings.linenocheck"></label>
-                </p>
-                <p>
-                    <input type="checkbox" id="options-rtlcheck">
-                    <label for="options-rtlcheck" data-l10n-id="pad.settings.rtlcheck"></label>
-                </p>
-                <p>
-  <input type="checkbox" id="options-markdown" checked></input> 
-  <label for="options-markdown">Show markdown</label>
-</p>
+One of the first things that takes getting used to is how and where to find
+documentation. A lot of applications lack the famous ‘help’ button which
+brings you to a searchable database of topics, or a step by step ‘how to’.
+The writing of documentation is very often at the bottom of the priority list
+of any FLOSS development team. This is changing rapidly, and more and more
+efforts to write good documentation are undertaken, but until this change has
+properly kicked in, users need to use different tactics to find their way
+around. The best strategy is learning to do accurate online searches. This will
+open up a world of information – sometimes scattered, often incomplete, but
+most of the time extremely helpful – written by other users encountering the
+same problem as you and describing how to deal with it, on mailinglists,
+forums, blogs and wikis.
 
-                <table>
-                    
-                    <tr>
-                        <td>
-                            <label for="viewfontmenu" data-l10n-id="pad.settings.fontType">Font type:</label>
-                        </td>
-                        <td>
-                            <select id="viewfontmenu">
-                                <option value="normal" data-l10n-id="pad.settings.fontType.normal"></option>
-                                <option value="monospace" data-l10n-id="pad.settings.fontType.monospaced"></option>
-                            </select>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <label for="languagemenu" data-l10n-id="pad.settings.language">Language:</label>
-                        </td>
-                        <td>
-                            <select id="languagemenu">
-                                
-                                <option value="af">Afrikaans</option>
-                                
-                                <option value="ar">العربية</option>
-                                
-                                <option value="ast">asturianu</option>
-                                
-                                <option value="az">azərbaycanca</option>
-                                
-                                <option value="azb">تورکجه</option>
-                                
-                                <option value="be-tarask">беларуская (тарашкевіца)‎</option>
-                                
-                                <option value="bn">বাংলা</option>
-                                
-                                <option value="br">brezhoneg</option>
-                                
-                                <option value="ca">català</option>
-                                
-                                <option value="cs">česky</option>
-                                
-                                <option value="da">dansk</option>
-                                
-                                <option value="de">Deutsch</option>
-                                
-                                <option value="diq">Zazaki</option>
-                                
-                                <option value="dsb">dolnoserbski</option>
-                                
-                                <option value="el">Ελληνικά</option>
-                                
-                                <option value="en">English</option>
-                                
-                                <option value="es">español</option>
-                                
-                                <option value="et">eesti</option>
-                                
-                                <option value="eu">euskara</option>
-                                
-                                <option value="fa">فارسی</option>
-                                
-                                <option value="fi">suomi</option>
-                                
-                                <option value="fo">føroyskt</option>
-                                
-                                <option value="fr">français</option>
-                                
-                                <option value="gl">galego</option>
-                                
-                                <option value="he">עברית</option>
-                                
-                                <option value="hsb">hornjoserbsce</option>
-                                
-                                <option value="hu">magyar</option>
-                                
-                                <option value="ia">interlingua</option>
-                                
-                                <option value="it">italiano</option>
-                                
-                                <option value="ja">日本語</option>
-                                
-                                <option value="km">ភាសាខ្មែរ</option>
-                                
-                                <option value="ko">한국어</option>
-                                
-                                <option value="ksh">Ripoarisch</option>
-                                
-                                <option value="lb">Lëtzebuergesch</option>
-                                
-                                <option value="lt">lietuvių</option>
-                                
-                                <option value="lv">latviešu</option>
-                                
-                                <option value="map-bms">Basa Banyumasan</option>
-                                
-                                <option value="mk">македонски</option>
-                                
-                                <option value="ml">മലയാളം</option>
-                                
-                                <option value="mr">मराठी</option>
-                                
-                                <option value="ms">Bahasa Melayu</option>
-                                
-                                <option value="nb">norsk (bokmål)‎</option>
-                                
-                                <option value="nds">Plattdüütsch</option>
-                                
-                                <option value="ne">नेपाली</option>
-                                
-                                <option value="nl">Nederlands</option>
-                                
-                                <option value="nn">norsk (nynorsk)‎</option>
-                                
-                                <option value="oc">occitan</option>
-                                
-                                <option value="os">Ирон</option>
-                                
-                                <option value="pa">ਪੰਜਾਬੀ</option>
-                                
-                                <option value="pl">polski</option>
-                                
-                                <option value="ps">پښتو</option>
-                                
-                                <option value="pt-br">português do Brasil</option>
-                                
-                                <option value="pt">português</option>
-                                
-                                <option value="ru">русский</option>
-                                
-                                <option value="sco">Scots</option>
-                                
-                                <option value="sk">slovenčina</option>
-                                
-                                <option value="sl">slovenščina</option>
-                                
-                                <option value="sq">shqip</option>
-                                
-                                <option value="sv">svenska</option>
-                                
-                                <option value="te">తెలుగు</option>
-                                
-                                <option value="tr">Türkçe</option>
-                                
-                                <option value="uk">українська</option>
-                                
-                                <option value="vi">Tiếng Việt</option>
-                                
-                                <option value="zh-hans">中文（简体）‎</option>
-                                
-                                <option value="zh-hant">中文（繁體）‎</option>
-                                
-                            </select>
-                        </td>
-                    </tr>
-                    
-                </table>
-            </div>
-            <div class="column">
-                
-                <h2 data-l10n-id="pad.settings.globalView"></h2>
-                
-            </div>
-        </div>
+Switching from a proprietary system to GNU/Linux, or from proprietary software
+to FLOSS takes time. As with all new tools, you need to learn a whole new set
+of skills before you feel like you can fluently express yourself with them. For
+many artists, the time it takes to reach this point means a loss of
+productivity. Before you have mastered the new software or system, you find
+yourself struggling with tasks you would normally have no problems with.
+Besides the frustration this brings, artists need to generate income and this
+loss of productivity needs to have a big pay off in the end to be worth this
+investment of time. The benefits of using FLOSS can be obscure at first, but
+due to more and more artists making the switch and developers aiming to improve
+the accessibility of FLOSS, these benefits are becoming increasingly apparent.
 
-        <div id="importexport" class="popup">
-            <h1 data-l10n-id="pad.importExport.import_export"></h1>
-            <div class="column acl-write">
-                
-                <h2 data-l10n-id="pad.importExport.import"></h2>
-                <div class="importmessage" id="importmessageabiword" data-l10n-id="pad.importExport.abiword.innerHTML"></div><br>
-                <form id="importform" method="post" action="" target="importiframe" enctype="multipart/form-data">
-                    <div class="importformdiv" id="importformfilediv">
-                        <input type="file" name="file" size="10" id="importfileinput">
-                        <div class="importmessage" id="importmessagefail"></div>
-                    </div>
-                    <div id="import"></div>
-                    <div class="importmessage" id="importmessagesuccess" data-l10n-id="pad.importExport.importSuccessful"></div>
-                    <div class="importformdiv" id="importformsubmitdiv">
-                        <span class="nowrap">
-                            <input type="submit" name="submit" value="Import Now" disabled="disabled" id="importsubmitinput">
-                            <img alt="" id="importstatusball" src="../static/img/loading.gif" align="top">
-                            <img alt="" id="importarrow" src="../static/img/leftarrow.png" align="top">
-                        </span>
-                    </div>
-                </form>
-                
-            </div>
-            <div class="column" id="exportColumn">
-                <h2 data-l10n-id="pad.importExport.export"></h2>
-                
-                <a id="exporthtmla" target="_blank" class="exportlink"><div class="exporttype" id="exporthtml" data-l10n-id="pad.importExport.exporthtml"></div></a>
-                <a id="exportplaina" target="_blank" class="exportlink"><div class="exporttype" id="exportplain" data-l10n-id="pad.importExport.exportplain"></div></a>
-                <a id="exportworda" target="_blank" class="exportlink"><div class="exporttype" id="exportword" data-l10n-id="pad.importExport.exportword"></div></a>
-                <a id="exportpdfa" target="_blank" class="exportlink"><div class="exporttype" id="exportpdf" data-l10n-id="pad.importExport.exportpdf"></div></a>
-                <a id="exportopena" target="_blank" class="exportlink"><div class="exporttype" id="exportopen" data-l10n-id="pad.importExport.exportopen"></div></a>
-                <a id="exportdokuwikia" target="_blank" class="exportlink"><div class="exporttype" id="exportdokuwiki" data-l10n-id="pad.importExport.exportdokuwiki"></div></a>
-                <a id="exportmarkdowna" target="_blank" class="exportlink">
-  <div class="exporttype" id="exportmarkdown">Markdown</div>
-</a>
+The greatest obstacle blocking people from easy access to FLOSS is the fact
+that students are very rarely introduced to it at art schools and universities.
+The best time to get familiar with computers and software is at school,
+especially considering that most people stick with what they’ve learned after
+graduating. But most schools and universities are only offering courses using
+proprietary software running on proprietary systems. Art students will most
+likely only be introduced to the biggest and most dominant producers of closed
+commercial tools for artistic production, such as Adobe. Students rarely are
+given a choice. The choice of schools and universities to only offer this type
+of product has its reasons. Learning to use the most dominant proprietary
+software and operating system will make a student much more employable, since
+those products are also the ones used in the industry. This of course only goes
+for studies aiming at industry, it has no meaning in an art context. And even
+when considering employability, skills like concept development, creativity in
+the use of tools and thinking outside the box, are much more valuable to a
+future employer than knowing how to use a certain product. Those skills will be
+outdated as soon as this product gets updated, and learning technical skills
+takes less time and expertise than developing a strong artistic and creative
+practice.
 
-            </div>
-        </div>
+The wider use of FLOSS is not only blocked by external factors, it is also due
+to its community shooting itself in the foot with internal conflicts. The most
+famous one being the conflict between the Free Software Foundation and the Open
+Source Initiative. Flame wars around notions of freedom haven’t contributed
+much to enhance FLOSS’ friendly face. Neither have the many flame wars and
+various witch hunts between users of FLOSS and proprietary software. For those
+new to the community, it is hard to understand the almost religious fanaticism
+and intolerance with which some people express their opinion regarding these
+topics. In fact, it seems very much at odds with the philosophy of openness and
+sharing that is associated with this community.
 
-        <div id="connectivity" class="popup">
-            
-                <div class="connected visible">
-                  <h2 data-l10n-id="pad.modals.connected"></h2>
-                </div>
-                <div class="reconnecting">
-                  <h1 data-l10n-id="pad.modals.reconnecting"></h1>
-                  <p><img alt="" border="0" src="../static/img/connectingbar.gif" /></p>
-                </div>
-                <div class="userdup">
-                  <h1 data-l10n-id="pad.modals.userdup"></h1>
-                  <h2 data-l10n-id="pad.modals.userdup.explanation"></h2>
-                  <p data-l10n-id="pad.modals.userdup.advice"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="unauth">
-                  <h1 data-l10n-id="pad.modals.unauth"></h1>
-                  <p data-l10n-id="pad.modals.unauth.explanation"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="looping">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.looping.explanation"></h2>
-                  <p data-l10n-id="pad.modals.looping.cause"></p>
-                </div>
-                <div class="initsocketfail">
-                  <h1 data-l10n-id="pad.modals.initsocketfail"></h1>
-                  <h2 data-l10n-id="pad.modals.initsocketfail.explanation"></h2>
-                  <p data-l10n-id="pad.modals.initsocketfail.cause"></p>
-                </div>
-                <div class="slowcommit">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.slowcommit.explanation"></h2>
-                  <p data-l10n-id="pad.modals.slowcommit.cause"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="badChangeset">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.badChangeset.explanation"></h2>
-                  <p data-l10n-id="pad.modals.badChangeset.cause"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                </div>
-                <div class="corruptPad">
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.corruptPad.explanation"></h2>
-                  <p data-l10n-id="pad.modals.corruptPad.cause"></p>
-                </div>
-                <div class="deleted">
-                  <h1 data-l10n-id="pad.modals.deleted"></h1>
-                  <p data-l10n-id="pad.modals.deleted.explanation"></p>
-                </div>
-                <div class="disconnected">
-                  
-                  <h1 data-l10n-id="pad.modals.disconnected"></h1>
-                  <h2 data-l10n-id="pad.modals.disconnected.explanation"></h2>
-                  <p data-l10n-id="pad.modals.disconnected.cause"></p>
-                  <button id="forcereconnect" data-l10n-id="pad.modals.forcereconnect"></button>
-                  
-                </div>
-                <form id="reconnectform" method="post" action="/ep/pad/reconnect" accept-charset="UTF-8" style="display: none;">
-                    <input type="hidden" class="padId" name="padId">
-                    <input type="hidden" class="diagnosticInfo" name="diagnosticInfo">
-                    <input type="hidden" class="missedChanges" name="missedChanges">
-                </form>
-            
-        </div>
+This sometimes brutal online behaviour, unorthodox social organisation, and
+chaotic spreading of information might come as a shock to those arriving from
+the scripted, polished and secure world of customer support. These are not bugs
+though, they are features. Indeed, while the basic ideas behind FLOSS are
+rather simple and trivial to understand, their practical interpretation, use
+and influence remain free from the diktat of a control structure. So, to
+understand the nature of it, you have to picture FLOSS as part of an emerging
+transdisciplinary field that deals with different forms of openness. The
+resulting complexity stems from the confrontation of the many different
+disciplines and groups involved, and the many people forming them.
 
-        <div id="embed" class="popup">
-            
-            <div id="embedreadonly" class="right acl-write">
-                <input type="checkbox" id="readonlyinput">
-                <label for="readonlyinput" data-l10n-id="pad.share.readonly"></label>
-            </div>
-            <h1 data-l10n-id="pad.share"></h1>
-            <div id="linkcode">
-                <h2 data-l10n-id="pad.share.link"></h2>
-                <input id="linkinput" type="text" value="" onclick="this.select()">
-            </div>
-            <br>
-            <div id="embedcode">
-                <h2 data-l10n-id="pad.share.emebdcode"></h2>
-                <input id="embedinput" type="text" value="" onclick="this.select()">
-            </div>
-            
-        </div>
+FLOSS+Art, or the interaction between the FLOSS philosophy and digital art,
+should not be seen as yet another category of art, but as an added layer. It
+acts as another dimension on top of existing fields of digital art and enriches
+the way artists and collectives can work by adding another degree of freedom in
+the creative process. We think this openness will create more transparency and
+bring to light otherwise hidden properties of digital art practice in the world
+of connected artist communities and collectives. And although it is too early
+to speculate on the long-term influence FLOSS will have on digital art, we
+believe it will bring a better understanding of software as an artistic medium
+beyond the simplicity of neoclassical code aesthetics.
 
-        <div id="chaticon" onclick="chat.show();return false;">
-            <span id="chatlabel" data-l10n-id="pad.chat"></span>
-            <span class="buttonicon buttonicon-chat"></span>
-            <span id="chatcounter">0</span>
-        </div>
-
-        <div id="chatbox">
-            <div id="titlebar"><span id ="titlelabel" data-l10n-id="pad.chat"></span>
-              <a id="titlecross" onClick="chat.hide();return false;">-&nbsp;</a>
-              <a id="titlesticky" onClick="chat.stickToScreen(true);$('#options-stickychat').prop('checked', true);return false;" title="Stick chat to screen">█&nbsp;&nbsp;</a>
-            </div>
-            <div id="chattext" class="authorColors">
-                <img alt="loading.." id="chatloadmessagesball" class="chatloadmessages" src="../static/img/loading.gif" align="top">
-                <button id="chatloadmessagesbutton" class="chatloadmessages" data-l10n-id="pad.chat.loadmessages"></button>
-            </div>
-            <div id="chatinputbox">
-                <form>
-                    <input id="chatinput" type="text" maxlength="999">
-                </form>
-            </div>
-        </div>
-
-        <div id="focusprotector">&nbsp;</div>
-
-        
-
-        
-        <script type="text/javascript">
-            (function() {
-              // Display errors on page load to the user
-              // (Gets overridden by padutils.setupGlobalExceptionHandler)
-              var originalHandler = window.onerror;
-              window.onerror = function(msg, url, line) {
-                var box   = document.getElementById('editorloadingbox');
-                box.innerHTML = '<p><b>An error occured while loading the pad</b></p>'
-                              + '<p><b>'+msg+'</b> '
-                              + '<small>in '+ url +' (line '+ line +')</small></p>';
-                // call original error handler
-                if(typeof(originalHandler) == 'function') originalHandler.call(null, arguments);
-              };
-            })();
-        </script>
-
-        <script type="text/javascript" src="../static/js/require-kernel.js"></script>
-        <script type="text/javascript" src="../socket.io/socket.io.js"></script>
-
-        <!-- Include base packages manually (this help with debugging) -->
-        <script type="text/javascript" src="../javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.define"></script>
-        <script type="text/javascript" src="../javascripts/lib/ep_etherpad-lite/static/js/ace2_common.js?callback=require.define"></script>
-
-        <script type="text/javascript" src="../static/custom/pad.js"></script>
-
-        <!-- Bootstrap page -->
-        <script type="text/javascript">
-            var clientVars = {};
-            (function () {
-              var pathComponents = location.pathname.split('/');
-
-              // Strip 'p' and the padname from the pathname and set as baseURL
-              var baseURL = pathComponents.slice(0,pathComponents.length-2).join('/') + '/';
-
-              require.setRootURI(baseURL + "javascripts/src");
-              require.setLibraryURI(baseURL + "javascripts/lib");
-              require.setGlobalKeyPath("require");
-
-              $ = jQuery = require('ep_etherpad-lite/static/js/rjquery').jQuery; // Expose jQuery #HACK
-
-              if ((!$.browser.msie) && (!($.browser.mozilla && $.browser.version.indexOf("1.8.") == 0))) {
-                document.domain = document.domain; // for comet
-              }
-
-              var plugins = require('ep_etherpad-lite/static/js/pluginfw/client_plugins');
-              var hooks = require('ep_etherpad-lite/static/js/pluginfw/hooks');
-
-              plugins.baseURL = baseURL;
-              plugins.update(function () {
-                hooks.plugins = plugins;
-
-                // Call documentReady hook
-                $(function() {
-                  hooks.aCallAll('documentReady');
-                });
-
-                var pad = require('ep_etherpad-lite/static/js/pad');
-                pad.baseURL = baseURL;
-                pad.init();
-              });
-
-              /* TODO: These globals shouldn't exist. */
-              pad = require('ep_etherpad-lite/static/js/pad').pad;
-              chat = require('ep_etherpad-lite/static/js/chat').chat;
-              padeditbar = require('ep_etherpad-lite/static/js/pad_editbar').padeditbar;
-              padimpexp = require('ep_etherpad-lite/static/js/pad_impexp').padimpexp;
-            }());
-        </script>
-        <script src="/static/plugins/ep_markdown/static/js/main.js"></script>
-
-</html>
