@@ -1,6 +1,6 @@
 % http://texts.bleu255.com/preface-flossart/
 
-% WRITTENBY: Marloes de Valk, Aymeric Mansoux
+% BY: Marloes de Valk, Aymeric Mansoux
 
 The relationship between artist, tool, content and audience has never been of
 greater importance than in digital culture. Data has become both instrument,
@@ -22,13 +22,13 @@ Actually, yes. What about a model, in which artists and their audience simply
 refuse the passive role of user and instead persevere as creators and
 collectors of great ideas? In this model, artists could own their own
 'tools', would be free to use them whenever and however they want, and
-could dissect, hack, embellish and share them, without breaking any laws. The
-creative process of an artist is no longer restricted by what software
-companies dictate, only by his or her own skill. Software, being more than a
-means by which ideas are expressed technically, functions as medium. Software
+could dissect, hack, embellish and share them, without breaking any laws.
+The creative process of an artist is no longer restricted by what software
+companies dictate, only by his or her own skill. Software, being more than
+a means by which ideas are expressed technically, functions as medium. Software
 is the artwork and its code is an integral part of it. In this model, artists
 would give free access to this layer of the artwork. Free distribution of the
-work would break the artist out of isolation and put him/her in contact with an
+work would break the artist out of isolation and put her/him in contact with an
 audience, a community. Such a model is not utopian, it is already practised by
 those artists who choose Free Software and copyleft.
 
@@ -39,7 +39,7 @@ Source Software, without bias towards one single approach. Free Software, as
 defined by Richard Stallman and promoted by the Free Software Foundation, puts
 the emphasis on the freedom that Free Software gives to its users. The four
 freedoms of Free Software are: the freedom to use the software for any purpose,
-freedom to study and modify its source code, freedom to share and redistribute
+the freedom to study and modify its source code, the freedom to share and redistribute
 the software, and the freedom to improve the software and release your version
 of it to the public. Open Source Software on the other hand, tries to avoid the
 philosophical and political implications of the interpretation of free as in
@@ -50,9 +50,9 @@ The Free Software definition has its roots in the GNU project. In 1983, Richard
 Stallman announced the plan for the GNU operating system, composed of 100
 percent free software. The GNU project was initiated to give computer users
 back their lost freedom. In the fifties, sixties and seventies, software was
-mostly produced by its users, and in many ways software was free. In the late
-seventies and eighties, companies started to put increasingly tight
-restrictions on software through copyright, making the earlier freedoms
+mostly produced by its users, and in many ways software was free.
+In the late seventies and eighties, companies started to put increasingly
+tight restrictions on software through copyright, making the earlier freedoms
 illegal. Suddenly, volunteer programmers that were sharing and improving code
 were considered thieves. Software became an extremely profitable business.
 
