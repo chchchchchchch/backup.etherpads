@@ -1,3 +1,348 @@
+@misc{ wikipedia:20150915:nonfinito,
+ author = {Wikipedia},
+ title  = {Non-finito --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2014},
+ url    = {https://de.wikipedia.org/w/index.php?title=Non-finito&oldid=126853796},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:blocking,
+ author = {Wikipedia},
+ title  = {Blocking (stage) --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Blocking_(stage)&oldid=663198871},
+ note   = {[Online; accessed 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:regieanweisung,
+ author = {Wikipedia},
+ title  = {Regieanweisung --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Regieanweisung&oldid=138888997},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ zaksite:20150915:fox,
+ author = {Tolworthy, Chris},
+ title  = {zak-site.com: David and Annie Fox},
+ year   = {2015},
+ url    = {http://www.zak-site.com/davidfox.htm},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:scumm,
+ author = {Wikipedia},
+ title  = {Script Creation Utility for Maniac Mansion --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Script_Creation_Utility_for_Maniac_Mansion&oldid=141871963},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:markuplanguage,
+ author = {Wikipedia},
+ title  = {Markup language --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Markup_language&oldid=680988805},
+ note   = {[online; accessed 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:auszeichnungssprache,
+ author = {Wikipedia},
+ title  = {Auszeichnungssprache --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Auszeichnungssprache&oldid=145669996},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150914:peripheral,
+ author = {Wikipedia},
+ title  = {Peripheral --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Peripheral&oldid=680363450},
+ note   = {[online; accessed 14.9.2015]}
+}
+
+@misc{ wikipedia:20150914:peripherie,
+ author = {Wikipedia},
+ title  = {Peripherie --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Peripherie&oldid=145392075},
+ note   = {[online; accessed 14.9.2015]}
+}
+
+@misc{ wikipedia:20150911:knowledge,
+ author = {Wikipedia},
+ title  = {Knowledge --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Knowledge&oldid=680037015},
+ note   = {[online; accessed 11.9.2015]}
+}
+
+@misc{ ijeh:2014:bimarchitecture,
+ author = {Ijeh, Ike},
+ title  = {Is there a BIM architecture?},
+ year   = {2014},
+ url    = {http://www.bdonline.co.uk/is-there-a-bim-architecture?/5072309.article},
+ note   = {[online;accessed 10.9.2015]}
+}
+
+@misc{ nasa:1976:graphicsmanual,
+ author = {National Aeronautics and Space Administration },
+ title  = {NASA Graphics Standards Manual},
+ year   = {1976},
+ url    = {http://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf?linkId=16902171},
+ note   = {[online;accessed 10.9.2015]}
+}
+
+@misc{ wikipedia:20150910:microtypography,
+ author = {Wikipedia},
+ title  = {Microtypography --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Microtypography&oldid=678417331},
+ note   = {[online; accessed 10.9.2015]}
+}
+
+@misc{ wikipedia:20150910:grid,
+ author = {Wikipedia},
+ title  = {Grid (graphic design) --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Grid_(graphic_design)&oldid=641277757},
+ note   = {[online; accessed 10.9.2015]}
+}
+
+@misc{ mau:1998:manifesto,
+ author = {Mau, Bruce},
+ title  = {An Incomplete Manifesto for Growth},
+ year   = {1998},
+ url    = {http://www.manifestoproject.it/bruce-mau},
+ note   = {[online;accessed 9.9.2015]}
+}
+
+@Book{ krausse:2001:fuller,
+ title    = {{Your Private Sky: Discourse}},
+ author   = {Fuller, Richard Buckminster and Krausse, Joachim and Lichtenstein, Claude},
+ series   = {},
+ year     = {2001},
+ publisher= {}
+}
+
+@misc{ woods:2013:artdesignbreakup,
+ author = {Woods, Paul},
+ title  = {The breakup of art and design},
+ year   = {2013},
+ url    = {http://www.edenspiekermann.com/blog/the-breakup-of-art-and-design},
+ note   = {[Online; accessed 20. August 2015]}
+}
+
+@misc{ dylan:1965:shb,
+ author  = {Dylan, Bob},
+ title   = {Subterranean Homesick Blues},
+ year    = {1965},
+ address = {USA}
+}
+
+@misc{ bills:2014:lol,
+ author = {Bills, Andrew},
+ title  = {2:18 AM - 9 Oct 2014},
+ year   = {2015},
+ url    = {https://twitter.com/EvilSpyBoy/status/520005381225861120},
+ note   = {[Online; accessed 15. August 2015]}
+}
+
+@misc{ gertz:2015:designmachines,
+ author = {Gertz, Travis},
+ title  = {Design Machines --- How to survive the digital apocalypse.},
+ year   = {2015},
+ url    = {https://louderthanten.com/articles/story/design-machines},
+ note   = {[Online; accessed 15. August 2015]}
+}
+
+@misc{ wikipedia:20150813:markup,
+ author = {Wikipedia},
+ title  = {Markup language --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Markup_language&oldid=675819815},
+ note   = {[Online; accessed 13-August-2015]}
+}
+
+@misc{ wikipedia:20150813:adhoc,
+ author = {Wikipedia},
+ title  = {{Ad hoc --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Ad_hoc&oldid=675928332},
+ note   = {[Online; accessed 13-August-2015]}
+}
+
+@misc{ boardley:2015:helvetica,
+ author = {Boardley, John},
+ title  = {The Last Word on Helvetica?},
+ year   = {2015},
+ url    = {http://ilovetypography.com/2015/06/27/the-last-word-on-helvetica/},
+ note   = {[Online; accessed 7.8.2015]}
+}
+
+@movie{ jeunet:1997:alien4,
+ author  = {Jeunet, Jean-Pierre},
+ title   = {Alien: Resurrection},
+ year    = {1997},
+ address = {USA}
+}
+
+@movie{ hitchcock:1960:psycho,
+ author  = {Hitchcock, Alfred},
+ title   = {Psycho},
+ year    = {1960},
+ address = {USA}
+}
+
+@movie{ hustwit:2009:objectified,
+ author  = {Hustwit, Gary},
+ title   = {Objectified},
+ year    = {2009},
+ address = {USA}
+}
+
+@misc{ stallman:1985:manifesto,
+ author = {Stallman, Richard},
+ title  = {The GNU Manifesto},
+ year   = {1985},
+ url    = {http://www.gnu.org/gnu/manifesto.html},
+ note   = {[Online; accessed 5.8.2015]}
+}
+
+@movie{ chalfant:1983:stylewars,
+ author  = {Chalfant, Henry and Silver, Tony},
+ title   = {Style Wars},
+ year    = {1983},
+ address = {USA}
+}
+
+@movie{ kubrick:1968:2001,
+ address    = {GB and USA},
+ author     = {Kubrick, Stanley},
+ pagetotal  = {141},
+ shorttitle = {\film{2001}},
+%subtitle   = {2001: Odyssee im Weltraum},
+ title      = {2001: A Space Odyssey},
+ year       = {1968}
+} 
+
+@movie{ reardon:1994:thoh,
+ author    = {Reardon, Jim},
+ location  = {USA},
+ maintitle = {The Simpsons},
+%number    = {6},
+ rating    = {5},
+ title     = {Treehouse of Horror V},
+%volume    = {6},
+ year      = {1994}
+}
+
+@movie{ hitchcock:1960:psycho,
+ author   = {Hitchcock, Alfred},
+ title    = {{Psycho}},
+ location = {USA},
+ year     = {1960},
+} 
+
+@movie{ nichols:1966:virginiawoolf,
+ author  = {Nichols, Mike},
+ title   = {Who's Afraid of Virginia Woolf?},
+ year    = {1966},
+ address = {USA}
+}
+
+@misc{ wikipedia:20150803:greyliterature,
+ author = {Wikipedia},
+ title  = {{Grey literature --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Grey_literature&oldid=672335538},
+ note   = {[Online; accessed 3-August-2015]}
+}
+
+@book{ cassell:1854:latinenglish,
+ author    = {Marchant, James Robert Vernam and Charles, Joseph Fletcher},
+ isbn      = {},
+ publisher = {},
+ title     = {},
+ year      = {},
+ url       = {https://archive.org/details/cassellslatindic00marc}
+}
+
+@misc{ wikipedia:20150803:memorandum,
+ author = {Wikipedia},
+ title  = {{Memorandum --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Memorandum&oldid=671641108},
+ note   = {[Online; accessed 3-August-2015]}
+}
+
+@misc{ wikipedia:20150802:werkstuck,
+ author = {Wikipedia},
+ title  = {{Werkstück --- Wikipedia{,} Die freie Enzyklopädie}},
+ year   = {2014},
+ url    = {https://de.wikipedia.org/w/index.php?title=Werkst%C3%BCck&oldid=127967345},
+ note   = {[Online; Stand 2. August 2015]}
+}
+
+@misc{ wikipedia:20150802:form,
+ author = {Wikipedia},
+ title  = {{Form --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Form&oldid=674146109},
+ note   = {[Online; accessed 2-August-2015]}
+}
+
+@misc{ sondheim:2002:ccbbcb,
+ author = {Sondheim, Alan},
+ title  = {CORE CORE bash bash CORE bash},
+ year   = {2002},
+ url    = {http://sondheim.rupamsunyata.org/2002/07/21/core-core-bash.xhtml},
+ note   = {[Online; accessed 20-July-2015]}    
+}
+
+@misc{ bennahum:1997:stallman,
+ author  = {Bennahum, David},
+ title   = {{Interview with Richard Stallman}},
+ year    = {1997},
+ url     = {http://www.ljudmila.org/nettime/zkp4/21.htm},
+ note    = {[Online; accessed 20-July-2015]}
+}
+
+@misc{ breeze:2013:interview,
+ author  = {Thalmair, Franz and Breeze, Mary-Anne},
+ title   = {{Re:Interview \#005}},
+ url     = {http://cont3xt.net/blog/?p=251},
+ note    = {[Online; accessed 20-July-2015]}
+}
+
+@misc{ scoville:1998:unix,
+ author  = {Scoville, Thomas},
+ title   = {{The Elements Of Style: UNIX As Literature}},
+ year    = {1998},
+ url     = {http://theody.net/elements.html},
+ note    = {[Online; accessed 20-July-2015]}
+}
+
+@incollection{ kay:1990:uiapv,
+ author    = {Kay, Alan},
+ booktitle = {The Art of Human-Computer Interface Design},
+ editor    = {Laurel, Brenda and Mountford, Joy S.},
+ pages     = {191--207},
+ priority  = {2},
+ publisher = {Addison-Wesley},
+ title     = {{User Interface: A Personal View}},
+ year      = {1990}
+}
+
+@book{ barthes:1975:sz,
+ author    = {Barthes, Roland},
+ isbn      = {0374521670},
+ publisher = {{Hill \& Wang}},
+ title     = {{S/Z: An Essay}},
+ year      = {1991}
+}
+
 @misc{ wikipedia:20150511:freeze,
  author = {Wikipedia},
  title  = {{Freeze --- Wikipedia, The Free Encyclopedia}},
