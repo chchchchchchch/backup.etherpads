@@ -1,0 +1,36 @@
+% .MDSH IS MARKDOWN +X -> http://freeze.sh/2015/mdsh
+%
+% A COMMENT MAY BE FUNCTIONAL (= ignored/interpreted during export)
+% A text [^]{a footnote} and some more text
+% A citation reference [@krausse:2001:fuller]
+% A citation reference with pagenumber [@[1-8]krausse:2001:fuller]
+% -> bibtex references: http://freeze.sh/etherpad/bibref
+% -> markdown reference: http://daringfireball.net/projects/markdown
+
+% FROM: http://git.io/vnmjD
+% YEAR: 2011
+% LICENSE: CC-BY-SA
+
+
+% TITLE: Resource list 1.2
+
+- Blender: A powerful F/LOSS 3D animation application for GNU/Linux, 
+           Mac OS X and Microsoft Windows.
+- GIMP: A raster based image editor for GNU/Linux, Mac OS X and 
+        Microsoft Windows.
+- ImageMagick: A raster image editing, creation and conversion suite 
+               for GNU/Linux, Mac OS X, Microsoft Windows and iPhone,
+               among others.
+- Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and 
+            Microsoft Windows.
+- Kdenlive: A video editor for GNU/Linux, Mac OS X, Microsoft Windows 
+            and FreeBSD.
+- MyPaint: Graphics application focused on natural media simulation. 
+           Available for GNU/Linux, Mac OS X and Microsoft Windows.
+- Scribus: A desktop publishing program for GNU/Linux, Mac OS X and 
+           Microsoft Windows.  
+- Web Font Downloader: An extension for Firefox, allowing downloads of 
+                       embedded web fonts. 
+
+
+
