@@ -1,6 +1,7 @@
 % http://texts.bleu255.com/preface-flossart/
 
 % BY: Marloes de Valk, Aymeric Mansoux
+% LICENSE: FAL?
 
 The relationship between artist, tool, content and audience has never been of
 greater importance than in digital culture. Data has become both instrument,
@@ -97,7 +98,7 @@ to work. In real life, you are more often confronted with the need for tailored
 solutions that can not be delivered by ready made problem solvers. For example,
 in the early days of computer animation it was not unusual to work on
 proprietary UNIX based systems. With the democratisation of PC hardware and
-GNU/Linux in the mid ’90?s, it started to be possible to provide cheaper,
+GNU/Linux in the mid ’90s, it started to be possible to provide cheaper,
 and most of all more flexible, production environments than the single-vendor
 solutions and high-priced specialised hardware ones could offer. It only took a
 few years for the special effects industry to move its ‘pipeline’ to
