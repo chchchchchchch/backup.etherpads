@@ -1,0 +1,110 @@
+% .MDSH IS MARKDOWN +X -> http://freeze.sh/2015/mdsh
+%
+% A COMMENT MAY BE FUNCTIONAL (= ignored/interpreted during export)
+% A text [^]{a footnote} and some more text
+% A citation reference [@krausse:2001:fuller]
+% A citation reference with pagenumber [@[1-8]krausse:2001:fuller]
+% -> bibtex references: http://freeze.sh/etherpad/bibref
+% -> markdown reference: http://daringfireball.net/projects/markdown
+
+% FROM: http://git.io/vnmm1
+% YEAR: 2010
+% LICENSE: CC-BY-SA
+
+
+% BY: Ludivine Loiseau
+
+The École de Recherche Graphique in Brussels has a history of 
+introducing F/LOSS tools to its students. But in the autumn, 2010 
+semester, it went all out. Ludi OSP taught the first instance of a 
+class solely devoted to F/LOSS-based design tools and tactics. 
+Collected below are reactions and recollections from the class, 
+translated into English. 
+
+
+Session 1 - September 24 
+------------------------
+% ACCORDING: Jérémy and Jiacinto 
+
+The goal of this session was to explain the principles behind F/LOSS 
+software (GIMP and others). These programs are conceived by 
+programmers who have decided to develop, on Linux (to start). 
+Freeware: These softwares are free to use and let the possibility 
+open, for users capable of programming, to modify the code of the 
+software and, by connection, its functions. Knowing that the license 
+for a similar Adobe program might be 700€ and that it takes more 
+than one program to make a work flow, freeware is something of 
+obvious interest. 
+
+! freeware ≠ open source → libre and open source do not mean 
+monetarily free 
+
+
+The goal of our first project is to create an alphabet made up of 
+photos. Choose a theme, take photos of objects which fit the theme. 
+Each object has to start with a specific letter of the alphabet. 
+
+The photos are then modified using GIMP, followed by Inkscape to turn 
+a bitmap-based image (JPG, tiff, PSD in GIMP) into a vector-based 
+image (the drawing is written by the computer in the form of 
+coordinates and points, making it infinitely scalable, allowing scale 
+changes without quality loss). Once in a vector format (.ai in Adobe 
+Illustrator) the image can now be used as a font after some 
+manipulation with FontForge. 
+
+Onto the job, kids! 
+
+
+Session 2 - October 1 
+---------------------
+% ACCORDING: Edwin and Flore 
+
+In this session, we familiarized ourselves with pixels in order to 
+better understand that digital image matrix (acquiring, creating, 
+processing or storing in binary form). We also learned about the 
+existence of a multitude of image formats like .tiff (for high 
+quality, lossless images) or .jpg (images compressed with an 
+algorithm which simplifies pixels of similar colours). We also 
+deepened our use of GIMP, working directly on our laptops. Not only 
+that, but we had an introduction to vectorising images which allowed 
+us to visualize the next step in our alphabet-building process. 
+
+
+Session 3 - October 15 
+----------------------
+% ACCORDING: Viola and Gwenael 
+
+Some notions on ASCII art: images are replaced by text → 128 
+characters monospace, which means that all letters have the same 
+pitch. If the image is crowded, all it takes is to change the 
+typeface. 
+
+Vectorisation with Inkscape: vector-based formats are made up of 
+mathematical coordinates, not pixels. It's possible to have access to 
+the source code of vectors in an image and also to change, at will, 
+the source code. 
+
+
+Session 4 - October 22 
+----------------------
+% ACCORDING: Adrien 
+
+We took a look at the command line -- which provides a space for 
+executing actions by typing text in a window provided for that 
+purpose. This allows us to carry out actions in batches, like 
+reducing the size of multiple images by inputting a single line, 
+modifying a whole text, executing actions in multiple programs at 
+once... Once we have that figured out, it could prove to be very 
+useful and advantageous. 
+
+Next, we had an intro to FontForge, a program for creating fonts.
+We learned how to import images to make a font, modify them... 
+
+
+
+% http://www.erg.be/erg
+% from http://www.ludi.be/erg/doku.php?id=notes_de_cours
+
+
+
+
