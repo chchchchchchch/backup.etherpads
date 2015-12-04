@@ -1,7 +1,11 @@
-% http://texts.bleu255.com/preface-flossart/
+% TITLE: Preface FLOSS+Art 
+% BY: Marloes de Valk, Aymeric Mansoux 
+% LICENSE: GPL/GFDL/FAL
 
-% BY: Marloes de Valk, Aymeric Mansoux
-% LICENSE: FAL?
+% http://texts.bleu255.com/preface-flossart/
+% http://forkable.eu/utils/texts/goto10.org/FLOSS+Art.v1.1.eBook-GOTO10/
+% http://ospublish.constantvzw.org/documents/FLOSS+Art.pdf
+
 
 The relationship between artist, tool, content and audience has never been of
 greater importance than in digital culture. Data has become both instrument,
