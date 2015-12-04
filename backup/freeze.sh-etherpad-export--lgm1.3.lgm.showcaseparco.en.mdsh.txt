@@ -28,7 +28,7 @@ their personal computer trash cans, and encourages them to habitually
 share dumped files. The internet repository that collects them is 
 specifically designed for graphic design purposes and aims to have 
 different interfaces, in order to encourage diverse utilizations of 
-the files.  
+the files. ?
 
 Contribute to the dump at: http://ddump.parcodiyellowstone.it
 
