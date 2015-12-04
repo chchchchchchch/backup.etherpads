@@ -66,7 +66,7 @@ We started by looking at the first tool known to mankind, the bone or
 stick that was used for beating, the simple function of hammering, 
 which could be used either as a weapon or as a tool to crack things. 
 We found out that the old saying "all tools can be used as a hammer" 
-didnʼt quite work for digital tools, but tried to simulate this by 
+didn?t quite work for digital tools, but tried to simulate this by 
 developing a version that could create but also destroy. From here we 
 drifted off into the weird evolution of the mouse as a drawing tool. 
 What the mouse basically did was separate the hand from the eye. 
@@ -106,7 +106,7 @@ It basically has two functions: cutting and chipping. Both functions
 operate in a very clear way so that you are actually able to sculpt 
 if you learn to operate the tool, but it also leaves room for 
 intuitive cutting. Although we've just started using the Baltan 
-Cutter for Baltanʼs identity-related items, we are finding out that 
+Cutter for Baltan?s identity-related items, we are finding out that 
 the simplicity, limitations and the learning process of handling the 
 tool create fresh outcomes and leave a lot of space for intuition and 
 creativity. By consistently applying this output in different ways it 
