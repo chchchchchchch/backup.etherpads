@@ -13,7 +13,7 @@
 
 
 
-
+*/usr/share/doc/sed/sedfaq.txt.gz
 
 
 
