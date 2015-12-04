@@ -174,7 +174,7 @@ years, it's slowed down a bit. We are stabilising.
 How long had Deja Vu been going before you started on it?
 
 % B:
-I think a year or so. It started with Štěpán Roh... He's from 
+I think a year or so. It started with Št?pán Roh... He's from 
 [the Czech Republic] so he needed a few more glyphs that weren't in 
 Bitstream Vera. So he started with that. It was pretty slow before 
 [Denis Jacquerye and I] entered the project but I came with Greek, 
@@ -228,7 +228,7 @@ Have any competitors to DejaVu sprung up?
 
 % B:
 Not really. There were a lot of Vera derivatives which were trying 
-to do the same. Štěpán Roh was actually quite clever because he 
+to do the same. Št?pán Roh was actually quite clever because he 
 basically ported all those glyphs from the other fonts and tried to 
 get them in DejaVu. So we ended up with the most complete set of 
 glyphs. And we became a little community around the font, which also 
