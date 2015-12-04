@@ -36,7 +36,7 @@ for a similar Adobe program might be 700€ and that it takes more
 than one program to make a work flow, freeware is something of 
 obvious interest. 
 
-! freeware ≠ open source → libre and open source do not mean 
+! freeware ? open source ? libre and open source do not mean 
 monetarily free 
 
 
@@ -74,7 +74,7 @@ Session 3 - October 15
 ----------------------
 % ACCORDING: Viola and Gwenael 
 
-Some notions on ASCII art: images are replaced by text → 128 
+Some notions on ASCII art: images are replaced by text ? 128 
 characters monospace, which means that all letters have the same 
 pitch. If the image is crowded, all it takes is to change the 
 typeface. 
