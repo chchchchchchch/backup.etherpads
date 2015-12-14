@@ -1,3 +1,177 @@
+@article{ hwanglevy:2015:metaphors,
+ title      = {'The Cloud' and Other Dangerous Metaphors,
+                Contemporary ideas about data and privacy are tied up inextricably with language choices},
+ shorttitle = {'The Cloud' and Other Dangerous Metaphors},
+ author     = {Hwang, Tim and Levy, Karen},
+ journal    = {The Atlantic, January 20, 2015},
+ note       = {http://www.theatlantic.com/technology/archive/2015/01/the-cloud-and-other-dangerous-metaphors/384518},
+ year       = {2015}
+}
+
+@book{ weizenbaum:1976:computerpower,
+ title      = {Computer Power and Human Reason},
+ author     = {Weizenbaum, Joseph},
+ year       = {1976},
+ publisher  = {W.H. Freeman},
+ address    = {San Francisco}
+}
+
+@book{ wiener:1950:humanuse,
+ title      = {The Human Use of Human Beings: Cybernetics and Society},
+ author     = {Wiener, Norbert},
+ year       = {1950},
+ publisher  = {Houghto Mifflin},
+ address    = {Boston}
+}
+
+@book{ roszak:1986:informationcult,
+ title     = {Information, please},
+ author    = {Roszak, Theodore},
+ booktitle = {The Cult of Information: The Folklore of Computers and the True Art of Thinking},
+ publisher = {Pantheon Books},
+ address   = {New York},
+ year      = {1986}
+}
+
+@book{ borges:2000:fictions,
+ title      = {Fictions},
+ author     = {Borges, Jorge Luis},
+ year       = {2000},
+ publisher  = {Penguin Books},
+ address    = {London}
+}
+
+@misc{ krishnan:2011:brandmetrics,
+ author = {Krishnan, Mythreyi},
+ title  = {{"Influence Metrics for B2C Brands." The JamiQ Blog}},
+ year   = {2011},
+ url    = {http://blog.jamiq.com/commentary/influence-metrics-for-b2c-brands},
+ note   = {online; accessed 5.5.2013}
+}
+
+@misc{ klout:2013:score,
+ author = {Klout.com},
+ title  = {{Klout Score}},
+ url    = {http://klout.com/corp/klout_score},
+ note   = {online; accessed 5.5.2013}
+}
+
+@book{ mcluhan:1972:taketoday,
+ title      = {Take Today; the Executive as Dropout},
+ author     = {McLuhan, Marshall, and Barrington Nevitt},
+ year       = {1972},
+ publisher  = {Harcourt Brace Jovanovich},
+ address    = {New York}
+}
+
+@article { kosstigra:2013:private,
+ author  = {Kosinski, Michal and Stillwell, David and Graepel, Thore},
+ journal = {Proceedings of the National Academy of Sciences of the United States of America (PNAS)},
+ note    = {Available at http://www.pnas.org/content/early/2013/03/06/1218772110},
+ title   = {Private traits and attributes are predictable from digital records of human behavior},
+ url     = {http://research.microsoft.com/apps/pubs/default.aspx?id=187496},
+ year    = {2013},
+}
+
+@misc{ xbox:2011:tou,
+ author = {Xbox.com},
+ title  = {{Xbox LIVE Terms of Use.}},
+ year   = {2011},
+ url    = {Xbox.com},
+ note   = {online; accessed 4.5.2013}
+}
+
+@book{ mcluhan:1962:gutenberg,
+ title      = {The Gutenberg Galaxy; the Making of Typographic Man},
+ author     = {McLuhan, Marshall},
+ year       = {1962},
+ publisher  = {University of Toronto},
+ address    = {Toronto}
+}
+
+@book{ nunes:2012:glitch,
+ title      = {Error, Glitch, Noise and Jam in New Media Cultures},
+ author     = {Nunes, Mark},
+ year       = {2012},
+ publisher  = {Bloomsbury},
+ address    = {New York}
+}
+
+@book{ mayercukier:2013:bigdata,
+ title      = {Big Data. A Revolution That Will Transform How We Live, Work and Think},
+ shorttitle = {Big Data.},
+ author     = {Mayer-Schonberger, Viktor and Cukier, Kenneth},
+ year       = {2013},
+ publisher  = {John Murray Publishers},
+ address    = {London}
+}
+
+@book{ baumanlyon:2013:liquidsurveillance,
+ title     = {Liquid Surveillance. A Conversation},
+ author    = {Bauman, Zygmunt and Lyon, David},
+ year      = {2013},
+ publisher = {Polity Press},
+ address   = {UK}
+}
+
+@book{ deleuze:1992:postscript,
+ title     = {Postscript on Societies of Control},
+ author    = {Deleuze, Gilles},
+ year      = {1992},
+}
+
+@book{ turner:2006:c2cculture,
+ title      = {From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism},
+ shorttitle = {From Counterculture to Cyberculture.},
+ author     = {Turner, Fred},
+ year       = {2006},
+ publisher  = {The University of Chicago Press},
+ address    = {Chicago}
+}
+
+@book{ castells:1996:networksociety,
+ title      = {The Rise of the Network Society: The Information Age: Economy, Society, and Culture},
+ shorttitle = {The Rise of the Network Society},
+ author     = {Castells, Manuel},
+ year       = {1996},
+ publisher  = {Blackwell Publishers Ltd},
+ address    = {Oxford}
+}
+
+@book{ d+g:1972:oedipus,
+ title     = {Anti-Oedipus. Capitalism and Schizophrenia},
+ author    = {Deleuze, Gilles and Guattari, Félix},
+ year      = {1972},
+ publisher = {Continuum},
+ address   = {London}
+}
+
+@book{ steiner:2012:automate,
+ title     = {Automate This: How Algorithms Came to Rule Our World},
+ author    = {Steiner, Christopher},
+ year      = {2012},
+ publisher = {Portfolio/Penguin},
+ address   = {New York}
+}
+
+@book{ ludlow:2001:essays,
+ title      = {Crypto Anarchy, Cyberstates, and Pirate Utopias. Collection of essays},
+ shorttitle = {Crypto Anarchy, Cyberstates, and Pirate Utopias.},
+ author     = {Ludlow, Peter},
+ year       = {2001},
+ publisher  = {The MIT Press},
+ address    = {Cambridge, MA}
+}
+
+@book{ latour:2005:reassembling,
+ title     = {Reassembling the Social: An Introduction to Actor-Network-Theory},
+ author    = {Latour, Bruno},
+ year      = {2005},
+ isbn      = {9780199256044},
+ publisher = {Oxford University Press},
+ address   = {Oxford; New York}
+}
+
 @misc{ osp:2006:dtfd,
  author = {Open Source Publishing},
  title  = {{Design Tools for Designers}},
