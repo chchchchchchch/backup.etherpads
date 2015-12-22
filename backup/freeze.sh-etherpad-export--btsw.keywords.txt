@@ -1,0 +1,24 @@
+# KEYWORDS TO MAKE INDEX FOR github.com/lafkon/servus.btsw
+# => main keyword|synonym 1|synonym 2|synonym 3|synonym 4
+# MAIN KEYWORD WILL BE SHOWN WITHIN INDEX
+# LINES STARTING WITH # WILL BE IGNORED
+
+Snowden, Edward|Snowden|Edward Snowden
+National Security Agency|NSA|nsa.gov
+Google Inc.|google|google.com
+Digital forensics|data forensic
+Recover|Data Recovery
+Save|Ctrl-S|Cmd-S|saving
+Delete|deleting
+Free software|f/l/os|Libre Software|Linux
+Megacorp.
+Design|designer
+Open Source
+Evolution
+Linz|Linuxwochen|servus.at
+Artistic Research
+Audience
+Reflect|Reflections|Reflection
+Ownership|owner|owners|own|belong
+Practice|practise
+
