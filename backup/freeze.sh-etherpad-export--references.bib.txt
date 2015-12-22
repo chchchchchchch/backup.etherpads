@@ -1,3 +1,50 @@
+@book{ garbys:2011:digitalrubbish,
+ title      = {Digital Rubbish: a natural history of electronics},
+ author     = {Garbys, Jennifer},
+ year       = {2011},
+ publisher  = {University of Michigan Press},
+ address    = {USA}
+}
+
+@book{ parikka:2015:mediageology,
+ title     = {A Geology of Media},
+ author    = {Parikka, Jussi},
+ publisher = {University of Minnesota Press},
+ year      = {2015}
+}
+
+@article{ warner:2011:cybercrime,
+ title      = {Understanding Cyber-Crime in Ghana: A View from Below},
+ author     = {Warner, Jason},
+ journal    = {International Journal of Cyber Criminology},
+ year       = {2011}
+}
+
+@book{ morton:2010:ecothought,
+ title      = {The Ecological Thought},
+ author     = {Morton, Timothy},
+ year       = {2010},
+ publisher  = {Harvard~University~Press},
+ address    = {Cambridge, MA}
+}
+
+@article{ orisakwefrazzoli:2010:revolutionwasteland,
+ title      = {Electronic revolution and electronic wasteland: The West/waste Africa experience},
+ shorttitle = {Electronic revolution and electronic wasteland},
+ author     = {Orisakwe, Orish Ebere and Frazzoli, Chiara },
+ journal    = {Journal of Natural & Environmental Sciences},
+ year       = {2010}
+}
+
+@misc{ maughan:2015:dystopianlake,
+ author    = {Maughan, Tim},
+ title     = {The dystopian lake filled by the world’s tech lust},
+ year      = {2015},
+ publisher = {BBC Future},
+ url       = {http://www.bbc.com/future/story/20150402-the-worst-place-on-earth},
+ note      = {}
+}
+
 @article{ hwanglevy:2015:metaphors,
  title      = {'The Cloud' and Other Dangerous Metaphors,
                 Contemporary ideas about data and privacy are tied up inextricably with language choices},
