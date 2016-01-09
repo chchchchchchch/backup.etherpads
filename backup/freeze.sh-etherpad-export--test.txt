@@ -1,0 +1,167 @@
+-----------GENERAL NOTES---------------------
+
+-----------typo titles in general-------------------
+Could there be more difference between the H1 and H2 titles?
+
+
+
+
+Regarding the Interviews (Audrey p.81 and Michaela p.131):
+- Title in caps and the "interview with XXX" should be in the same style as in by "XXX" (we have made necessary changes in the odt. files)
+- Abbrevations without a space between the letters and the semi colon:
+    LK : > LK: (same for all) AS:, AZ:, ML:
+
+-------------- separator pages (color)------------------
+Could the colors of the separation pages be slightly different shades of red for each chapter e.g. saving (more towards pink), deleting (red as it is), resurfacing (more towards orange)? 
+On the cover and on the separation pages we would like to use a image of a diagram of hard drive sectors (see here: 
+    http://pccarebusiness.com/wp-content/uploads/2012/03/unhealthy-hard-drive.png  to get an idea). Would this be possible to add to the spearation pages in some way (crooped, as a whole, big, small?) We imagine it with a white outline on the colored pages and with no background.  On the cover we imagine it in black and some of the sectors colored in the 3 shades of red that we would use in the separaton pages. We can either make a vector graphics for you if you don't prefer to create it your self.
+
+------------ Before each artwork: 3 pages for image opener ----------------
+This is in general fine.
+
+----- selected (additional) images ------
+Comments on images you find later.
+In general for some of the images we need to make captions or atribute the photograpers in the end.
+
+Could this be done as the foot note on page 26. We don't like to have the foot note like this but maybe this style could be used for the following:
+ On page 69:
+Image 1: Granulates resulting from the recycling process of e-waste, at Immark Regensdorf/Switzerland. copyright: Research team "Times of Waste" 2015.
+Image 2: Silver raw material with high purity of 99.98%, storaged as asset by Schweizer Metallhandels AG. copyright: Research team "Times of Waste" 2015.
+
+On page 81:
+Image 2: Photo by Alexis Bellavance
+
+In the rest of the images the rights of the photos stays with the artist as we agreed. 
+Is this now mentioned somewhere in this format?
+
+----- keyword index (not ready) --------
+We are still working on these
+http://freeze.sh/etherpad/keywords-btsw
+u: kairus
+p: KRS
+
+
+
+
+
+
+--------------------PAGE BY PAGE NOTES-------------------------
+
+We did some changes in all the odt files (typos etc.) so they should all be updated. 
+Additionally here are some changes we could not do in the odt. files, changes in footnotes or comments on the layout.
+
+
+-----------cover page-------------------
+- There should be "Behind the smart world" and aditionally  "Saving, deleting, resurfacing data" on the cover because this is the whole title of the book.
+- For graphics suggestion see earlier notes under "separator pages"
+
+-----------p. 2-------------------
+- Flipped image is good
+
+-----------p. 3-------------------
+- p.3 as it is now should be empty (no amro text or our names) and then move the pages 156 and 157 here.
+When one looks for reference notes it is in the begining of the book, so it better be there :)
+
+-----------p. 6 shortened titles for table of content-------------
+- We would like to have the seperate chapters (saving, deleting, resurfacing) visible in the table of content
+- It would be good to have the full titles in the table of content since this are the titles which the artists chose and there are no shortened titles agreed upon.
+- Interviews can be as they are now.
+- Yvonne Volkart: TIMES OF WASTE -> Research Team "Times of Waste": TIMES OF WASTE (they want to attribute the text to the whole research team)
+
+------------- p.7-11 Kairus intro----------------------
+- The Introduction should be layouted as a "theoretical" text similar to Ushi's intro (now it is like an "artist text")
+
+------------------------p. 13------------------------------------ 
+- Title is now spelled wrong: saving daat -> saving data
+- For graphic suggestion see earlier notes under "separator pages"
+
+---------------- p. 20-21---------------------------------------------
+- Can we have more space between the points in the list?
+
+-----------p. 26-------------------
+
+- Please put the footnote down in the footnote section as it is in all the other cases.
+- The letter graphic can be just a box 
+- Headline second line is not aligned with first line
+
+-----------p. 29-------------------
+- The headline "corporate power and diy servitude" is spread out on 3 lines, it could be written in 2 lines (line 1: corporate power, line 2: and diy servitude)
+
+-----------p. 58-59-------------------
+- For graphic suggestion see earlier notes under "seperator pages"
+
+-----------p. 61-------------------
+- Footnote 3 should be:
+Theodore Roszak, “Information, please”, in The Cult of Information: The Folklore of Computers and the True Art of Thinking, (New York: Pantheon Books, 1986), pp. 3 – 20.
+
+As it is in the odt. file of some reason it is different in the pdf. The article name is  “Information, please” and it is in the book: The Cult of Information: The Folklore of Computers and the True Art of Thinking. Both should be mentioned in the footnote.
+
+-----------p. 63-------------------
+- Footnote 7 should be:
+Tim Hwang and Karen Levy, “'The Cloud' and Other Dangerous Metaphors, Contemporary ideas about data and privacy are tied up inextricably with language choices”, The Atlantic, January 20, 2015,
+http://www.theatlantic.com/technology/archive/2015/01/thecloudandotherdangerousmetaphors/384518/. 
+
+Again this is the format in the odt file but not in the pdf. The Link should be there as well even if it not so good looking or practical. Also the (2015) in the pdf should not be there. 
+
+-----------p. 64-------------------
+- Same thing with Footnote 8 which should be:
+Tim Maughan, “The dystopian lake filled by the world’s tech lust”, BBC Future, April 2, 2015, http://www.bbc.com/future/story/20150402theworstplaceonearth.
+
+----------- p. 69 -----------------------------------------------
+- I did not know how to make the following change in the odt file while the whole text is in cursive there but not in the final layout, so in the first quote:
+"It isn’t like thinking about where your toilet waste goes. It is thinking about where your toilet waste
+goes."
+like (in like thinking) and
+is (in is thinking) should actually be cursive within the quote.
+
+- Note: One footnote deleted (note: in odt it was footnote 1 and in the pdf footnote 2 because the quotes are referenced differently)
+
+-----------p. 81-------------------
+Title: DIGITAL DATA FUNERALS                                
+Interview with Audrey Samson (should look like the by author text)
+change made in odt, but here the by author text is not showing so that has to still be changed.
+
+------------ p. 92 ----------------------
+- Header break somewhere else: 
+    USER GENERATED 
+    SERVER DESTRUCTION – 2013
+
+-----------p. 98-99-------------------
+- For graphic suggestion see earlier notes under "seperator pages"
+
+-----------p. 105-------------------
+- Break title differenly:
+How to know that data 
+exists at all - and where
+
+-----------p. 108-------------------
+Table content is partly wrong, is correct in the .odt file but is mixed up in the pdf (something to be aware of)
+
+---------- p. 116 and 118 --------------
+- images missing but this was already noted by christof in his mail  (something to be aware of)
+
+------------- p. 119--------------
+- Footnote, should say:                                
+Jason Warner, Understanding Cyber-Crime in Ghana: A View from Below, 2011 International Journal of Cyber Criminology (IJCC) ISSN:0974 – 2891 Jan – July 2011, Vol 5 (1): p. 736–749. 
+(this is how it is in the odt. file)
+
+------------------ p. 126---------------------------------------
+- remove stars, it is correctly formated in the odt file:
+When zooming in enough with a magnetic force microscope, even “individual bit representations deposit discreet legible trails” * 13 *
+
+------------------p. 128-130-----------------------------------------
+Michaela sent again a higher resolution of her images so that they are not so pixelated.
+The new versions are in the cloud: https://k4.servus.at/index.php/s/jx0vNL9v9oMvMyg
+
+------------------p. 131-----------------------------------------
+- "INTERVIEW WITH MICHAELA LAKOVA" should be part of the Author sentence (like: p. 81). it is corrected in the .odt file
+
+-------------------------- p. 135 -----------------------------------------------
+- S in ColdStorage is bold and should not be like this. It is not bold in the .odt file.
+
+--------------p. 156 and 157------------------------
+see page 3. should be in the beginning
+
+-----------back page-------------------
+- the hard drive sector diagram should be here aswell
+
