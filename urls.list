@@ -1,58 +1,15 @@
-http://pad.constantvzw.org/p/conversations.jhaltiwanger/export/txt
-http://pad.constantvzw.org/p/conversations.mterry/export/txt
-http://pad.constantvzw.org/p/conversations.clilley/export/txt
-http://pad.constantvzw.org/p/conversations.rlafuente/export/txt
-http://pad.constantvzw.org/p/conversations.avox/export/txt
-http://pad.constantvzw.org/p/conversations.gwilliams/export/txt
-http://pad.constantvzw.org/p/conversations.jdmoerlooze/export/txt
-http://pad.constantvzw.org/p/conversations.tlechner/export/txt
-http://pad.constantvzw.org/p/conversations.versioning/export/txt
-http://pad.constantvzw.org/p/conversations.mterry/export/txt
-http://pad.constantvzw.org/p/conversations.alaroia/export/txt
-http://pad.constantvzw.org/p/conversations.eroth/export/txt
-http://pad.constantvzw.org/p/conversations.djacquerye/export/txt
-http://pad.constantvzw.org/p/conversations.pamado/export/txt
-http://pad.constantvzw.org/p/conversations.harrison/export/txt
-http://pad.constantvzw.org/p/conversations.fsnelting+mfuller/export/txt
-http://pad.constantvzw.org/p/conversations.aether9/export/txt
-http://pad.constantvzw.org/p/conversations.csolfrank/export/txt
-http://pad.constantvzw.org/p/conversations.makingof/export/txt
-http://pad.constantvzw.org/p/conversations.futuretools/export/txt
-http://pad.constantvzw.org/p/conversations.etatdeslieux/export/txt
-http://pad.constantvzw.org/p/references.bib/export/txt
-http://pad.constantvzw.org/p/conversations.keywords/export/txt
-http://pad.constantvzw.org/p/conversations.dearreader/export/txt
-http://pad.constantvzw.org/p/conversations.introduction/export/txt
-http://pad.constantvzw.org/p/conversations.telekommunisten/export/txt
-http://pad.constantvzw.org/p/conversations/export/txt
-http://pad.constantvzw.org/p/conversations.keywords/export/txt
-http://pad.constantvzw.org/p/conversations.colophon/export/txt
-http://pad.constantvzw.org/p/references.bib/export/txt
-http://osp.constantvzw.org:9999/p/dave-wroclaw-2008/export/txt
 
-% ALTE PFADE
-% http://freeze.sh/etherpad/p/references.bib/export/txt
-% http://freeze.sh/etherpad/p/stylewars.txt/export/txt
-% http://freeze.sh/etherpad/p/preface-floss+art.mdsh/export/txt
-% http://freeze.sh/etherpad/p/newbabylon.mdsh/export/txt
-% http://freeze.sh/etherpad/p/afcnjtw.mdsh/export/txt
-% http://freeze.sh/etherpad/p/printmaking.mdsh/export/txt
-
-http://freeze.sh/etherpad/export/_/references.bib
-http://freeze.sh/etherpad/export/_/stylewars.txt
-http://freeze.sh/etherpad/export/_/preface-floss+art.mdsh
-http://freeze.sh/etherpad/export/_/newbabylon.mdsh
 http://freeze.sh/etherpad/export/_/afcnjtw.mdsh
-http://freeze.sh/etherpad/export/_/printmaking.mdsh
-http://freeze.sh/etherpad/export/_/sed.mdsh
-http://freeze.sh/etherpad/export/_/zakmckracken-walkthrough.mdsh
-
+http://freeze.sh/etherpad/export/_/btsw.keywords
 http://freeze.sh/etherpad/export/_/clipoetics.mdsh
+http://freeze.sh/etherpad/export/_/dev.141105
 http://freeze.sh/etherpad/export/_/dev.mdsh
+http://freeze.sh/etherpad/export/_/floss+art.lafuente.aatbat.mdsh
+http://freeze.sh/etherpad/export/_/floss+art.vanschaik.tswdp.mdsh
+http://freeze.sh/etherpad/export/_/freebeer.nielsen.c2c.mdsh
 http://freeze.sh/etherpad/export/_/gnu-announcement.mdsh
-
-http://freeze.sh/etherpad/export/_/var.mdsh
-
+http://freeze.sh/etherpad/export/_/indicu.mdsh
+http://freeze.sh/etherpad/export/_/instruct.mdsh
 http://freeze.sh/etherpad/export/_/lgm-1.1.coons.if.en.mdsh
 http://freeze.sh/etherpad/export/_/lgm-1.1.coons.tutorial.en.mdsh
 http://freeze.sh/etherpad/export/_/lgm-1.1.crossland.freed.en.mdsh
@@ -127,6 +84,59 @@ http://freeze.sh/etherpad/export/_/lgm-1.4.lgm.smalluseful.en.mdsh
 http://freeze.sh/etherpad/export/_/lgm-1.4.lgm.upcoming.en.mdsh
 http://freeze.sh/etherpad/export/_/lgm-1.4.puckey.tools.en.mdsh
 http://freeze.sh/etherpad/export/_/lgm-1.4.schrijver.dirtyhands.en.mdsh
+http://freeze.sh/etherpad/export/_/lgru.projectdescription.mdsh
+http://freeze.sh/etherpad/export/_/mdsh.mdsh
+http://freeze.sh/etherpad/export/_/mehrweg.mdsh
+http://freeze.sh/etherpad/export/_/memo.mdsh
+http://freeze.sh/etherpad/export/_/menotti.gambiarra.mdsh
+http://freeze.sh/etherpad/export/_/murtaugh.dry.mdsh
+http://freeze.sh/etherpad/export/_/newbabylon.mdsh
+http://freeze.sh/etherpad/export/_/preface-floss+art.de.mdsh
+http://freeze.sh/etherpad/export/_/preface-floss+art.mdsh
+http://freeze.sh/etherpad/export/_/printmaking.mdsh
+http://freeze.sh/etherpad/export/_/proof-02-sw
+http://freeze.sh/etherpad/export/_/references.bib
+http://freeze.sh/etherpad/export/_/sandbox.mdsh
+http://freeze.sh/etherpad/export/_/schrijver.hcatfowysiwyg.mdsh
+http://freeze.sh/etherpad/export/_/scripting.mdsh
+http://freeze.sh/etherpad/export/_/sed.mdsh
+http://freeze.sh/etherpad/export/_/stephenson.beginning.mdsh
+http://freeze.sh/etherpad/export/_/stephenson.interfaceculture.mdsh
+http://freeze.sh/etherpad/export/_/stylewars.txt
+http://freeze.sh/etherpad/export/_/test
+http://freeze.sh/etherpad/export/_/test2.mdsh
+http://freeze.sh/etherpad/export/_/testdruck
+http://freeze.sh/etherpad/export/_/tmp.txt
+http://freeze.sh/etherpad/export/_/var.mdsh
+http://freeze.sh/etherpad/export/_/zakmckracken-walkthrough.mdsh
 
-http://freeze.sh/etherpad/export/_/btsw.keywords
+http://osp.constantvzw.org:9999/p/dave-wroclaw-2008/export/txt
+
+http://pad.constantvzw.org/p/conversations.aether9/export/txt
+http://pad.constantvzw.org/p/conversations.alaroia/export/txt
+http://pad.constantvzw.org/p/conversations.avox/export/txt
+http://pad.constantvzw.org/p/conversations.clilley/export/txt
+http://pad.constantvzw.org/p/conversations.colophon/export/txt
+http://pad.constantvzw.org/p/conversations.csolfrank/export/txt
+http://pad.constantvzw.org/p/conversations.dearreader/export/txt
+http://pad.constantvzw.org/p/conversations.djacquerye/export/txt
+http://pad.constantvzw.org/p/conversations.eroth/export/txt
+http://pad.constantvzw.org/p/conversations.etatdeslieux/export/txt
+http://pad.constantvzw.org/p/conversations/export/txt
+http://pad.constantvzw.org/p/conversations.fsnelting+mfuller/export/txt
+http://pad.constantvzw.org/p/conversations.futuretools/export/txt
+http://pad.constantvzw.org/p/conversations.gwilliams/export/txt
+http://pad.constantvzw.org/p/conversations.harrison/export/txt
+http://pad.constantvzw.org/p/conversations.introduction/export/txt
+http://pad.constantvzw.org/p/conversations.jdmoerlooze/export/txt
+http://pad.constantvzw.org/p/conversations.jhaltiwanger/export/txt
+http://pad.constantvzw.org/p/conversations.keywords/export/txt
+http://pad.constantvzw.org/p/conversations.makingof/export/txt
+http://pad.constantvzw.org/p/conversations.mterry/export/txt
+http://pad.constantvzw.org/p/conversations.pamado/export/txt
+http://pad.constantvzw.org/p/conversations.rlafuente/export/txt
+http://pad.constantvzw.org/p/conversations.telekommunisten/export/txt
+http://pad.constantvzw.org/p/conversations.tlechner/export/txt
+http://pad.constantvzw.org/p/conversations.versioning/export/txt
+http://pad.constantvzw.org/p/references.bib/export/txt
 
