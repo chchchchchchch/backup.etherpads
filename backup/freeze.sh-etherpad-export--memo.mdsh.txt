@@ -1,0 +1,220 @@
+% SCHMUTZTITEL
+% EMPTYPAGE:
+
+
+% COPYRIGHT (SELF INCLUDE FROM VERSION IN TIME)
+% ----------------------------------------------------------------------- %
+% QR: OFF
+% INCLUDE: http://freeze.sh/etherpad/export/_/memo.mdsh/739 10-44
+% QR: ON
+% ----------------------------------------------------------------------- %
+% NEWPAGE:
+
+% HAUPTTITEL
+
+
+% VORWORT
+
+% SCALEFONT: 0.94
+**Freeze+Press** is driven by curiosity for the explorative
+use of software for _Printmaking_.
+% RESETFONT:
+
+_Print_ as synthesized or manipulated visual content on a surface,
+_Making_ not as streamlined production but as creative matter to 
+engage with. F/L/OS Software provides the environment for these 
+adventures. Software that is free. Free to use, study or modify.
+Free not like without cost, but like priceless, namely disclosed
+to make modifications to some streamlined purpose.
+
+
+## Free/Libre/Open Source?
+
+Along the rise of digital technology an exciting culture developed.
+Initially connected to the production and use of software it started
+to spread to all kinds of different fields. To put it short:
+A model that supports development and innovation is employed instead
+of restrictive copyright. The idea is to build a body of shared
+resources, that may be used by anybody for any mean, while respecting
+the rights of the commons. This has been practised for software for
+about 30 years and brought us great things like GNU/Linux, Wikipedia
+and the Internet. Free/Libre/Open Source Software is a legal and
+ideological framework that conserves the right of users to interact
+with their software, namely to copy, study, change and improve it.
+
+% TEXINJECT: \bigskip
+
+**Freeze+Press** tries to contribute to a digital culture that preserves
+the right of people to interact with their surrounding as a matter of 
+principle. Interaction not as superficial mode of operation but to the 
+extent that makes things possible never thought of.
+% This book collects, combines and builds upon software, texts, graphics 
+% and more from the generous world of Free Culture. In reverse best effort
+% is made to share and make _this work_ comprehensible, not only as concluded
+% object but also as a process.
+This book collects and combines own and adopted software, texts, graphics 
+from the ecosystem of Free Culture and beyond.
+Best effort was made to share and make _this work_ comprehensible,
+not only as concluded object but also as a process.
+Every end is a potential start for something new.
+
+% TEXINJECT: \bigskip
+
+Christoph Haag    
+_Augsburg, 10/2015_
+
+
+% INHALTSVERZEICHNIS
+
+
+
+
+
+
+
+% Tools Shape Practise (FRICK A5)
+% PDF: https://github.com/christop/fpshgrafik/raw/master/FREEZE/131110_LGRU.pdf 1-50  # scale=.8,nup=5x10,delta=15 5,offset=20 10
+%! QR: OFF
+% PDF: https://github.com/christop/fpshgrafik/raw/master/FREEZE/131110_LGRU.pdf 51-68 # scale=.8,nup=3x6,delta=35 10,offset=30 10
+%! PDF: https://github.com/christop/fpshgrafik/raw/master/FREEZE/131110_LGRU.pdf 69-86 # angle=30,scale=.87,nup=3x6,delta=10 -20,offset=30 10
+
+% PDF: http://www.forkable.eu/generators/chmod+x/o/free/nl/A2/chmod+x_nl--022.pdf # scale=.7,frame=true,offset=20 10
+% QR: OFF
+% PDF: http://www.forkable.eu/generators/chmod+x/o/non-free/en/A2/chmod+x_en--008.pdf # scale=.7,frame=true,offset=20 10
+
+
+% QR: ON
+
+% http://freeze.sh/_/2015/fontainbot/o/150710
+% -------------------------------------------
+% PDF: http://freeze.sh/_/2015/fontainbot/o/070949101508.pdf # scale=.7,frame=true,offset=20 10
+
+% FONTAINBOT MAKING-OF
+
+
+
+%! QR: ON
+
+
+% LINEBREAK ERROR ????
+% DEBUG DEBUG DEBUG !!!!!
+%! NEWPAGE:
+%! INCLUDE: http://freeze.sh/etherpad/export/_/zakmckracken-walkthrough.mdsh 5-100
+
+
+
+% NEWPAGE:
+
+
+Explain a bit ...
+% SRCODE: https://github.com/christop/memo/raw/9d116770929c934a23e8c80298f4f2836a22a876/150914_mkmemo_pdf.sh 58-62
+and a bit more.
+% QR: OFF
+% SRCODE: https://github.com/christop/memo/raw/9d116770929c934a23e8c80298f4f2836a22a876/150914_mkmemo_pdf.sh 55-62
+
+some text with inline code examples `cat %SRCDUMP > $SRCDUMP` as this could be useful.
+
+% SRCODE: https://github.com/christop/memo/raw/9d116770929c934a23e8c80298f4f2836a22a876/150914_mkmemo_pdf.sh 84-93
+
+
+
+% FLUSHLOG:
+
+
+% NEWPAGE:
+
+  MARION:    
+ _It's a strange hobby. Curious._    
+  NORMAN:    
+ _Uncommon, too._    
+  MARION:    
+ _Oh, I imagine so._    
+  NORMAN:    
+ _And it's not as expensive as you'd think._     
+%_It's cheap really. You know -- needles and thread, sawdust._    
+%_The chemicals are the only thing that cost anything._    
+%
+  MARION:    
+ _A man should have a hobby._    
+  NORMAN:    
+  (sitting back)_Well, it's -- it's more than a hobby.    
+  A hobby's supposed to pass the time -- not fill it._
+% MARION:    
+%_Is your time so empty?_    
+% NORMAN:    
+%_No, uh -- well, I run the office, and uh, tend the cabins    
+% and grounds, and -- and do little errands for my mother    
+% -- the ones she allows I might be capable of doing._    
+% MARION:    
+%_Do you go out with friends?_    
+% NORMAN:    
+% (pause)_Well, uh--a boy's best friend is his mother._    
+  [@hitchcock:1960:psycho]
+
+
+% CLEARTOLEFT:
+
+
+% SCALEFONT: 1.5
+
+  GEDIMAN    
+ _"Fork."_    
+  The memory comes, and she shakes her head wearily.    
+  RIPLEY (softly)    
+ _Fuck...._    
+  GEDIMAN (pretending to correct her)    
+ _"Fork."_
+  [@jeunet:1997:alien4]    
+
+% RESETFONT:
+
+
+some text[^]{with a footnote}
+some text[^]{with a footnote[@zaksite:20150915:fox]}
+
+% QR: ON
+
+
+
+
+
+
+% CLEARTORIGHT:
+% new babylon
+A short introduction to New Babylon
+
+% TEXINJECT: \bigskip
+% INCLUDE: http://freeze.sh/etherpad/export/_/newbabylon.mdsh 8-818
+
+
+% DEBUG DEBUG DEBUG !!!!!
+% INCLUDE: http://freeze.sh/etherpad/export/_/newbabylon.mdsh/241 20-30
+% NEWPAGE:
+
+% FLUSHLOG:
+% INCLUDE: http://freeze.sh/etherpad/export/_/newbabylon.mdsh/241 20-30
+
+
+
+
+
+% Yes, this is self-reflexsive. But recursion is great.
+
+% KREDITSYSTEM
+
+% HELLO COMPUTER
+
+% (TEXT)FLOW BASED ... PD ... PIPES ... TEXT SYNTHESIZER
+
+% schrijver/howell
+% plotters (libre graphics mag)
+% cramer
+% http://www.notbored.org/intro.html
+% wargames
+
+
+
+
+
+
+
