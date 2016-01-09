@@ -1,0 +1,254 @@
+% .MDSH IS MARKDOWN +X -> http://freeze.sh/2015/mdsh
+%
+% lines starting with % are comments and therefore will be ignored
+% BUT: A COMMENT MAY BE FUNCTIONAL (= interpreted during export)
+% A text [^]{a footnote} and some more text
+% A citation reference [@fsf:2007:gpl]
+% A citation reference with pagenumber [@[1-8]kay:1990:uiapv]
+% -> bibtex references: http://freeze.sh/etherpad/bibref
+% -> markdown reference: http://daringfireball.net/projects/markdown
+
+% FROM: Free Beer 1.0
+% This book was written during a year and finished in a hurry.
+% All texts are based on speeches that were held during FSCONS 2008.
+% A complete list of reference links can be found on freebeer.fscons.org.
+
+% --------------------------------------------------------------------------- %
+
+
+% TITLE: From Consumer to Creator
+% SUBTITLE: The Lego Generation in the Digital Age
+% BY: Nikolaj Hald Nielsen
+
+% FROM: http://freebeer.fscons.org/code.html
+% INFO: http://lfkn.de/ztzi
+% LICENSE: CC-BY-SA (2.5)
+
+
+
+Intro
+-----
+
+I spent much of my childhood playing with Lego. My parents were never at a loss
+for what to get me for my birthday. While soft packages were scorned, the hard,
+box-shaped packages with that very special sound when you shake them were
+always a hit. I quickly outgrew building fixed models based on other people's
+ideas and started exploring the boundaries of what could be achieved with my
+imagination and my, unfortunately not as large as I would have wanted,
+collection of bricks. I would spend long afternoons building a spaceship that
+could transform itself into a moon base once it had landed, castles filled with
+secret rooms and traps, or weird machines that did a whole lot of nothing, but
+looked very cool doing it. Once built, I quickly lost interest though. For me,
+the fun part was not so much in playing with the things I built, as the
+creative process of actually building them. I know I was far from the only one.
+
+Today I have replaced the Lego bricks with something else. Instead of small
+pieces of plastic, I am piecing together virtual building blocks of code on
+a computer screen. The basic desire to create, to use my mind and my hands
+to build something that no one else has done before is the same, however, the
+satisfaction when my ideas slowly become real no less exhilarating. There are
+important differences though. Whereas in my childhood, building my Lego
+contraptions was mostly a solitary activity, today I am working with
+like-minded creators, accomplishing together what we could never hope to
+achieve on our own. And we are doing this in a spirit of openness and freedom,
+sharing the results of our labour, our software, freely with each other and
+the rest of the world.
+
+Thanks to the ideas that were first formalized with Stallman's definition of
+Free Software[^]{See `http://www.gnu.org/philosophy/free-sw.html`}, which have
+long since spread into other areas, such as Free Culture, we now have a
+conceptual and legal framework in place to foster this kind of collaboration
+and creative process, and the results are starting to show in a very big way.
+
+For people who, like me, have grown up spending a great deal of time dreaming
+up crazy new ideas and trying to make them real with their hands and a finite
+number of bricks, the role as a consumer is not a natural fit. The notion of
+always receiving the creative works of others, only being allowed to play with
+the toys that others have built, feels strange. Yet this is how, for a large
+part, modern society works. A relatively small number of creators of software
+and culture try to convince us that their latest offering is what will make us
+happy, at least until the next big thing comes along. To make matters worse,
+the companies whose business is dependent on people constantly "consuming"
+their virtual goods have seen it in their best interest to start locking down
+their content by ever more sophisticated technical and legal means designed to
+make tinkering impossible. This is the digital equivalent of buying a Lego set
+that is not only pre-built, but where the pieces have been glued together.
+
+The reasons why companies claim a need to lock down their contents
+are many, piracy being not the least. This discussion, and whether
+the countermeasures actually make economic sense, is a very large
+discussion all by itself that is better left for others with more
+knowledge of the area. One big issue I do see is that the companies
+value a creative work differently from society as a whole. For a record
+company or book publisher, value is proportionally related to the ability
+to monetize a given work. For society at large, the value of a creative
+work is something else completely, and something that is much harder to
+quantify. How do you determine the cultural value of a creative work?
+It would seem logical that cultural value is related to how many
+people come into contact with the work and how many new ideas it
+contains. But perhaps more importantly, a great indicator of a work's
+cultural value is how much it is referenced, quoted and perhaps
+even  remixed[^]{See `https://en.wikipedia.org/wiki/Remix_culture`}
+(to borrow a term from Lessig) into derivative works, thus becoming
+a part of Culture in general. Based on this, it is my strong belief
+that the more controlled a creative work is, the less its cultural
+value will be as it becomes harder (or the barrier of entry becomes
+greater) to remix the work and integrate it with other works and other
+ideas in our shared cultural heritage.
+
+
+Making the bricks play sound
+----------------------------
+
+My current involvement in Free Software is centred around the popular
+\*nix (and slowly moving on to other platforms as well) audio player and
+manager, Amarok 2.[^]{See `https://amarok.kde.org`} This is something I am quite
+passionate about as it is not only an outlet for my own creativity and that of
+the other authors and contributors, but it also strives to be a hub that can
+help bring other forms of freely licensed creative content to a greater
+audience.
+
+Much of my understanding of, and appreciation for, the areas of Free Software,
+Free Culture and indeed the greater issues of Free Society comes from my work
+on this project, so it is only natural for me to explore these issues through
+this lens.
+
+One of the basic premises behind Amarok 2 is that there is really no lack of
+high quality free content out there on the web (or in "The Cloud" as the
+fashionable term seems to be these days). The main challenge is making people
+aware of its existence. Whether you are an "up an coming" band, radio station,
+record label or indeed producer of  nearly any kind of cultural content not
+inside the "mainstream media", one of your worst enemies is obscurity. With
+the vastness of the Internet, how do  you get people to pay attention to you?
+You have to make yourself discoverable.
+
+Amarok tries to accomplish this by making it easy to tie content from nearly
+any source into the core desktop application experience. Many of these sources
+will have content licensed under Creative Commons or similar licences, but this
+is not a strict requirement for inclusion of a service into Amarok. By making
+content available in a consistent way, and possibly tying content from multiple
+different sources together, the entire experience of discovering new content is
+greatly simplified. With the enormous potential audience, even the more obscure
+or experimental content, as long as the quality is high, is likely to find a
+significant audience.
+
+An example of a source that is now integrated, and the one that actually got
+this idea started, is `Magnatune.com`.[^]{See `http://magnatune.com`}
+`Magnatune.com` is a record label that tries to do "fair trade" music,
+treating both artist and customers with respect. One of the things this means
+is that customers should be able to listen, in full, to any album before
+deciding whether to purchase it or not. `Magnatune.com` not only provides these
+preview streams for all their content, but also a structured way of getting access
+to it from third-party applications. So within Amarok, it is possible not only
+to browse and listen to each and every album from `Magnatune.com` freely, as much
+as you like, but also make purchases directly from within the application. Many other
+Free Software applications have now included the `Magnatune.com` content as well,
+making it a classic case of "if you free it, they will come".
+
+Amarok 2 includes many other sources of content already, such as
+`Jamendo.com`,[^]{See `http://www.jamendo.com`}
+`LibriVox.org`[^]{See `http://www.librivox.org`}
+and others. So as soon as a new user launches Amarok, these are immediately
+available. Perhaps much more powerful than this however, Amarok 2 provides the
+ability for people to add their own content in a relatively simple way.
+
+One of the key issues to adoption of a scheme like the Amarok 2 service
+framework is the barrier to entry. In order to spur adoption, this should
+naturally be as low as possible. In an attempt to overcome this, Amarok 2 makes
+it possible for third parties to add services using simple scripts. This means
+that with very little knowledge of code, it is possible to add content to
+Amarok. Coupled with Amarok's integrated system for downloading new
+"service scripts", this is a potentially very powerful feature.
+
+
+Celebrating Diversity
+---------------------
+
+To be completely honest, the possibility of adding services to Amarok using
+scripts did not start out as a grand vision of empowerment. Few such things do.
+But as the work progressed and interested people started contributing scripts,
+even before Amarok 2 was ever officially released, it started to become clear
+that it had great potential.
+
+A concept that has become quite clear to me lately is that though some content
+might be limited in its scope of appeal, due to language, topic, genre or a
+host of other reasons, this does not make it collectively less important. In
+fact, the sum of people interested in content like this might well exceed the
+number of people interested in some of the services with more broad appeal that
+are already integrated. This is in essence the idea of the "long
+tail"[^]{See `https://en.wikipedia.org/wiki/Long_tail`}.
+
+There are however two main issues with "narrow" content of this kind. First
+of all, it is unlikely that any of the regular contributors to a project like
+Amarok will be motivated in adding sources of content far outside their own
+areas of interest. Secondly, including content that is too narrow in the
+default installation is not desired. 99% of the users are not likely to care
+much about Danish radio stations, and having too large a list of services
+installed by default is likely to cause confusion. Also, everything that is
+included in the default install will have to be maintained by the Amarok
+developers, taking time away from other development work. This is where the
+scripted services really show their worth.
+
+Using the scripted service framework, people have already created a host of
+services for national radio stations, access to the BBC's and NPR's
+archives of freely available (but unfortunately not always freely licensed)
+materials, a service for a site running a monthly vote of the best Free music,
+and the aforementioned LibriVox service (which is included in the default
+distribution as an example of what is possible using scripts). All of these
+services can be browsed and installed from within Amarok and the content
+becomes instantly available.
+
+Having localized or niche content easily available in an integrated form is
+interesting in a number of ways. Generally, in the Free Software and Free
+Culture movements, we have a tendency to be very Anglocentric. That is, most
+development work takes place in English, and this spills over into the kinds of
+content that we generally include in the standard distribution of an
+application like Amarok. For many people though, who speak poor or no English
+(or simply have no interest in English language content) this makes the
+application less appealing. The availability of third party scripted services
+providing easy access to local content, such as local or regional radio
+stations, can potentially do much to overcome this issue, making Amarok feel
+more "native" to non-English users. For instance, having the service
+providing a comprehensive list of Danish radio stations would be a great
+selling point for my parents, who, even though they speak perfectly fine
+English, generally only listen to Danish radio. And getting Amarok into the
+hands of more users expands the potential audience for the other integrated
+services, not the least of which is the Free Culture based ones. This example
+is based solely on my own work with Amarok and the integrated services, but the
+underlying mechanics apply far beyond this limited scope.
+
+Which neatly brings me back to the Lego bricks.
+
+
+Empowerment
+-----------
+
+One of the truly great things I see in the advent of Free Software and Free
+Culture is that it is getting a nearly unlimited amount of interesting bricks
+into the hands of creative people to build even more interesting stuff. This
+overcomes many of the financial and social barriers of entry that have
+traditionally made it difficult or impossible for "ordinary" people to
+create and disseminate high quality cultural works, software and so on, without
+the backing of a large corporate entity. The flow of culture, traditionally one
+way from the few to the many, is becoming much more many to many, peer to peer.
+While this new wave of peer-generated content might not supplant the
+traditional media industry any time soon, the amount and quality of Free
+Culture and Software available has long since reached the tipping point of
+becoming a viable alternative to many people in many cases. You can now run
+your computer using only Free Software and have a very functional setup, and
+you can have a life filled with great music from one of the many online sources
+of freely licensed music.
+
+For most, this creation of new culture will be unpaid, but the instinct to
+tinker and the gratification of being a creator and not merely a consumer is a
+great motivation for many. And of course, as with all other things, the people
+who are most skilled will find ways to make money from their works, even if
+they are freely licensed.
+
+I don't know what it will take to create a truly free society, but I have no
+doubt that a large amount of Free Culture and Free software
+"bricks" will go a very long way!
+
+
+
+
