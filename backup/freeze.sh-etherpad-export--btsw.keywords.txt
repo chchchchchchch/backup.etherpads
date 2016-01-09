@@ -5,20 +5,78 @@
 
 Snowden, Edward|Snowden|Edward Snowden
 National Security Agency|NSA|nsa.gov
-Google Inc.|google|google.com
-Digital forensics|data forensic
-Recover|Data Recovery
-Save|Ctrl-S|Cmd-S|saving
-Delete|deleting
+Google Inc.|google|google.com|Google
+forensics|Digital forensics|data forensic|forensic|computer forensics
+recover|Recover|Data Recovery|recovered|recovered data
+save|Save|Ctrl-S|Cmd-S|saving
+delet|Delete|deleting|erase|deletion
 Free software|f/l/os|Libre Software|Linux
-Megacorp.
-Design|designer
-Open Source
-Evolution
+Megacorp.|megacorp|conglomerate
+Open Source|openness|open source
 Linz|Linuxwochen|servus.at
-Artistic Research
-Audience
-Reflect|Reflections|Reflection
-Ownership|owner|owners|own|belong
-Practice|practise
+artistic research|Artistic Research|artistic strategies
+reflect|Reflect|Reflections|Reflection
+ownership|Ownership|owner|owners|own|belong
+
+
+hard-drive|hard drive|storage|harddisks|hard drives 
+memory
+data
+data storage
+data sets
+data privacy
+data industry
+social media
+surveillance
+Facebook| facebook
+identity|identities
+e-waste|waste|electronic waste|dump
+recycling
+smartphone|smart phone|smart-phone|mobile phones|mobile phone
+privacy|privat
+material
+cloud
+security
+server
+smart world
+control
+error|errors
+tool|tools
+power
+public
+installation
+domain
+Agbogbloshie|agbogbloshie
+fraud|scam|fake
+death|funeral|data funeral
+traces
+artlab|ArtLab
+metamorphosis
+faces|face
+Ghana|ghana
+mining
+tracking|track|trackers
+data broker
+activism|activist|hacktivist|hacker
+data center
+Urme|urme
+ethics|ethical
+found footage
+profil
+third person|third parties
+personal data|person data
+facial recognition
+location data
+technological power
+information technology
+resurfacing data
+public space
+passive reconnaissance
+vigilante communities
+crystal computing
+consumer culture
+cold storage
+zombie media
+
+
 
