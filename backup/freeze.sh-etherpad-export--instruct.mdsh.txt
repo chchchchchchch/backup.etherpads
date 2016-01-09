@@ -1,0 +1,100 @@
+
+> Der typografische Begriff _Auszeichnung_ kommt aus der Druckersprache.
+> Ursprünglich war damit lediglich die Methode gemeint, Teile eines Textes
+> durch von der Grundschrift abweichende Schriften zu gestalten,
+> z. B. durch andere Schriftgrößen und -arten, aber auch durch Unterstreichen,
+> Sperren oder andere Druckfarben. Für den Schriftsetzer wurden die entsprechenden
+> Stellen früher handschriftlich auf dem zugehörigen Manuskript kenntlich gemacht;
+> auch dies wurde _Auszeichnen_ genannt.
+> [@wikipedia:20150915:auszeichnungssprache]
+
+> A (document) markup language is a modern system for annotating 
+> a document in a way which is syntactically distinguishable from the text.
+> [@wikipedia:20150915:markuplanguage]
+
+> The idea and terminology evolved from the "marking up" of paper manuscripts, 
+> i.e., the revision instructions by editors, traditionally written with 
+> a blue pencil on authors' manuscripts.
+> [@wikipedia:20150915:markuplanguage]
+
+> Markup instructs the software displaying the text to carry out appropriate 
+> actions, but is omitted from the version of the text which is displayed to users.
+> [@wikipedia:20150915:markuplanguage]
+
+> The term markup is derived from the traditional publishing practice of "marking up"
+> a manuscript, which involves adding handwritten annotations in the form of 
+> conventional symbolic printer's instructions in the margins and text of a paper 
+> manuscript or printed proof. For centuries, this task was done primarily by skilled 
+> typographers known as "markup men" or "copy markers" who marked up text to indicate
+> what typeface, style, and size should be applied to each part, and then passed the
+> manuscript to others for typesetting by hand. Markup was also commonly applied by 
+> editors, proofreaders, publishers, and graphic designers, and indeed by document authors.
+> [@wikipedia:20150915:markuplanguage]
+
+
+
+% https://de.wikipedia.org/wiki/Kommando
+% https://de.wikipedia.org/wiki/Unix-Kommando
+
+% Sprünge, Schleifen und bedingte Anweisungen
+% https://de.wikipedia.org/wiki/Anweisung_(Programmierung)
+%https://de.wikipedia.org/wiki/Imperative_Programmierung
+
+
+
+% https://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
+% https://en.wikipedia.org/wiki/SCUMM
+
+    script clock-tick {
+        do {
+            clock-state = not clock-state
+            object living-room-clock state clock-state
+            play-sound clock-tick
+            break-here 60
+        }
+    }
+[@wikipedia:20150915:scumm]
+
+
+> Ron Gilbert created SCUMM, as well as all the tools we needed to build the game.
+> SCUMM (Script Creation Utility for Maniac Mansion) was really a programming language.
+> It used high-level commands to make things happen, and it was a set up so you could
+> have multiple scripts running at the same time. For example, one script might make
+> the clock on the wall tick-tock. Another might keep track of the time for a specific
+> event to happen. Another to make a character walk across the room and pick up an object.
+> It’s been a while, but I think a typical statement might have been something like
+
+    WALK ACTOR(ZAK) TO OBJECT(CREDIT-CARD)
+    WAIT-FOR-ACTOR(ZAK)
+    PICK-UP OBJECT(CREDIT-CARD)
+    SAY(ZAK)"Wow, a credit card with a two-headed squirrel on the front!"
+
+> This made it easy to see what was supposed to be happening.
+> [@zaksite:20150915:fox]
+
+
+
+
+> Eine **Regieanweisung** ist ein Teil eines Dramentexts, der Empfehlungen für die szenische
+> Umsetzung gibt. Meist werden Regieanweisungen in Klammern und/oder kursiv in die Dialoge
+> eingefügt, gehören also zum „Nebentext“ des Dramas.
+> [@wikipedia:20150915:regieanweisung]
+
+> In theatre, **blocking** is the precise movement and staging of actors on a stage in order
+> to facilitate theperformance of a play, ballet, film or opera. The term derives from the
+> practice of 19th-century theatre directors such as Sir W. S. Gilbert who worked out the
+> staging of a scene on a miniature stage using blocks to represent each of the actors.
+> [@wikipedia:20150915:blocking]
+
+% GEHEIMSPRACHE/TINTE
+% YOKO ONE
+% RULE BASED DESIGN
+% REGIEANWEISUNGEN
+
+% .mdsh ->
+% https://en.wikipedia.org/wiki/Esoteric_programming_language
+% HOW ABOUT: esoteric markup
+% essential: understand what is going on.
+
+
+
