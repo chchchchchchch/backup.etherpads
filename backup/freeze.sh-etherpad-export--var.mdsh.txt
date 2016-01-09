@@ -713,15 +713,33 @@ other operations are far easier and more efficient on traditional computers.
 
 
 
-
-
-
-
 > Ästhetik bedeutet wörtlich: Lehre von der Wahrnehmung bzw. vom sinnlichen Anschauen.
 > Ästhetisch ist demnach alles, was unsere Sinne bewegt, wenn wir es betrachten:
 > Schönes, Hässliches, Angenehmes und Unangenehmes.
 > Eine Lehre, die sich nur mit schönen Dingen beschäftigt, heißt Kallistik.
 % https://de.wikipedia.org/wiki/%C3%84sthetik
+
+
+> Siphonophores are of special scientific interest because they are composed of
+> medusoid and polypoid zooids that are morphologically and functionally specialized.
+> Each zooid is an individual module, but their integration with each other is so
+> strong that the colony attains the function of a large organism. Indeed, most of
+> the zooids are so specialized, they lack the ability to survive on their own.
+> This is somewhat analogous to the construction and function of multicellular organisms;
+> because multicellular organisms have organs which, like zooids, are specialized and
+> interdependent, siphonophores may provide clues regarding the evolution of more complex bodies.
+% https://en.wikipedia.org/wiki/Siphonophorae
+
+
+Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
+
+
+> In restoration ecology of native plant communities or habitats, some invasive species
+> create monotypic stands that replace and/or prevent other species, especially indigenous
+> ones, from growing there.
+% https://en.wikipedia.org/wiki/Habitat
+
+
 
 
 
