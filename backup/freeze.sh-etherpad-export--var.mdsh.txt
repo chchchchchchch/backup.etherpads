@@ -373,16 +373,7 @@ We've got cinema, fine arts, literature, craft ...
 > [@boardley:2015:helvetica]
 % http://ilovetypography.com/2015/06/27/the-last-word-on-helvetica/
 
-Screwdriver. Why? Because bolts are made to be opened again.
-So yes, if it's up to my decision I prefer bolts over nails.
-And there are decisions made everywhere.
-And these decisions are by no means neutral.
-
-But what if I can decide if I use nails, bolts or a massive woodblock?
-The approach of _it is simply a tool_[@boardley:2015:helvetica]
-is necessarily questionable.
-
-The discussion is an interesting in dismissing 'Helvetica'
+... dismissing 'Helvetica'
 and at the same time promoting a modernist mindset of the
 _right_ tool for the _right_ job.
 
@@ -437,7 +428,7 @@ subjective code.
 % what are interesting 'unorthodox' uses of GarageBand?
 
 > And criticizing the Facebook-generation guitarist for  exploring more affordable digital methods
-> of recording can seem like a  form of classism that draws a defensive line between experts and 
+> of recording can seem like a form of classism that draws a defensive line between experts and 
 > would-be experts.
 > http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
 
@@ -605,7 +596,8 @@ subjective code.
 % http://www.jnd.org/dn.mss/error_messages_are_e.html
 
 > "Bad, bad," says Apple, don't you know better?
->  Starting a file with a dot isour secret way of marking system files.
+>  Starting a file with a dot is our secret way
+> of marking system files.
 >  You can't do that: start all over again."
 >  And then it rudely discarded all my work.
 
@@ -738,6 +730,63 @@ Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
 > create monotypic stands that replace and/or prevent other species, especially indigenous
 > ones, from growing there.
 % https://en.wikipedia.org/wiki/Habitat
+
+
+
+> Today, Linux is everywhere,
+> powering everything from massive corporate enterprise systems
+> to the millions of objects that make up the Internet of Things.
+> And you’ll find Linux in products you’d never expect:
+> from drones to phones,
+> from cars to TV sets.
+> The biggest computing systems in the world use Linux
+> — and the smallest as well.
+> Linux even helped land a spacecraft on Mars.
+% http://www.wired.com/brandlab/2016/01/taking-linux-and-the-open-community-to-new-heights
+
+
+> the best developers on the planet work around the clock
+> to ensure that Linux is flexible, secure, and — most critically — interoperable. 
+% http://www.wired.com/brandlab/2016/01/taking-linux-and-the-open-community-to-new-heights
+
+
+> The great power in viewing a mind as a society of agents,
+> as opposed to the consequence of some basic principle
+> or some simple formal system,
+> is that different agents can be based on
+> different types of processes with different purposes,
+> ways of representing knowledge,
+> and methods for producing results.
+% https://en.wikipedia.org/wiki/Society_of_Mind
+
+
+
+% https://de.wikipedia.org/wiki/Sondersprache
+
+> Fundamentally,
+> a pidgin is a simplified means of linguistic communication,
+> as it is constructed impromptu,
+> or by convention,
+> between individuals or groups of people.
+> A pidgin is not the native language of any speech community,
+> but is instead learned as a second language.
+> A pidgin may be built from
+> words
+> sounds,
+> or body language
+> from multiple other languages and cultures.
+% https://en.wikipedia.org/wiki/Pidgin
+
+
+> The initial development of a pidgin usually requires:
+>  - prolonged, regular contact between the different language communities
+>  - a need to communicate between them
+>  - an absence of (or absence of widespread proficiency in) a widespread, accessible interlanguage
+% https://en.wikipedia.org/wiki/Pidgin
+
+
+% https://en.wikipedia.org/wiki/Creole_language
+
 
 
 
