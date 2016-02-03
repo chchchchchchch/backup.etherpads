@@ -235,13 +235,15 @@ from Rands' article:
 > [@usesthis:2010:stallman]
 % richard.stallman.usesthis.com
 
+% EMPTYPAGE:
+
 Richard Stallman does not even use a mouse. This might seem an outlier
 position, yet he is not the only hacker to take such a position.
 Otherwise, there would be no audience for the open source window manager
 called 'ratpoison'. This software allows one to control the computer
 without any use of the mouse, killing it metaphorically.
 
-% PDFASAP: /home/christoph/0000_GIT/ch/000000_CURRENT/A5x2/EDIT/151109_hcatfowysiwyg.svg 11
+% P!DFASAP: /home/christoph/0000_GIT/ch/000000_CURRENT/A5x2/EDIT/151109_hcatfowysiwyg.svg 11
 
 The mouse is invented in the early sixties by Douglas Engelbart. It is
 incorporated into the Xerox Star system that goes on to inspire the
