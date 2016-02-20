@@ -788,8 +788,89 @@ Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
 % https://en.wikipedia.org/wiki/Creole_language
 
 
+----
+
+%   "Meet Artist Matthieu Bourel" (for THE AGE OF COLLAGE VOL. 2)
+% -> https://vimeo.com/154714950 
+
+
+> Francis Bacon was saying: "Chaos brings images"
+
+> I don't glue immediately so usually I'm searching and combining,
+> and then during the process, the idea appears.
+
+> It's still very important for me to use the analog (processes),
+> like body contact and hand contact. It's something real when you
+> have some glue on your hands and you have a big mess around you.
+
+> It was something very personal, something to know myself more,
+> and something private. 10 years ago, I was like:
+> "No computer, I don't want anything digital."
+> But since 5 years, it has really developed and I also know more
+> collage artists. Then I wanted, again, to find my own way to this.
+> Something personal.
+
+> I still love to do the traditional collage, but that is not what
+> I'm searching for anymore. You have to use today's techniques.
+> Max Ernst -- 100 years ago did this. He didn't have a scanner or a printer. 
+> I don't have problems these days to use digital techniques.
+> The most important things for me, even for music, is to appropriate things,
+> to make it somehow special. So that the power does not come from the source
+> but from what I did with it.
+
+
+----
+
+
+> While boxes represent the contents of a page,
+> _glue_ represents the white space that fits in between boxes,
+> and as TeX is building the page this glue can expand or contract
+> to allow the contents to be positioned optimally.
+> This glue is eventually 'set' after which it can no longer adjust
+> --it's just fixed white space.
+% https://en.wikibooks.org/wiki/TeX
+
+
+> De oarlengde Woimuichsau war a Sach, vo de a jeda Baur dramt.
+> S' is aba eascht amoi a Fabewesn wia da Woiperdinger. 
+% https://bar.wikipedia.org/wiki/Oarlengde_Woimuichsau
 
 
 
+> One Ring to rule them all, One Ring to find them,
+> One Ring to bring them all and in the darkness bind them.
+
+
+> The Universe is all of time and space and its contents.
+% https://en.wikipedia.org/wiki/Universe
+
+
+> A term for "universe" among the ancient Greek philosophers
+> from Pythagoras onwards was τὸ πᾶν tò pân ("the all"),
+> defined as all matter and all space, and τὸ ὅλον tò hólon
+> ("all things"), which did not necessarily include the void.
+> Another synonym was ὁ κόσμος ho kósmos (meaning the world, the cosmos).
+> Synonyms are also found in Latin authors (totum, mundus, natura)
+> and survive in modern languages, e.g., the German wordsDas All, Weltall,
+> and Natur for Universe. The same synonyms are found in English,
+> such as everything (as in thetheory of everything),
+> the cosmos (as in cosmology),
+> the world (as in the many-worlds interpretation),
+> and nature(as in natural laws or natural philosophy).
+% https://en.wikipedia.org/wiki/Universe
+
+
+> Why doesn’t calibre let me store books in my own directory structure?
+> ---------------------------------------------------------------------
+>
+> The whole point of calibre’s library management features is that they
+> provide a search and sort based interface for locating books that is
+> _much_ more efficient than any possible directory scheme you could come
+> up with for your collection. Indeed, once you become comfortable using
+> calibre’s interface to find, sort and browse your collection, you won't
+> ever feel the need to hunt through the files on your disk to find a book
+> again.
+
+% https://manual.calibre-ebook.com/faq.html#why-doesn-t-calibre-let-me-store-books-in-my-own-directory-structure
 
 
