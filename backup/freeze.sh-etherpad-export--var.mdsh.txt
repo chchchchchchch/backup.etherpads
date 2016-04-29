@@ -846,10 +846,10 @@ Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
 
 
 > A term for "universe" among the ancient Greek philosophers
-> from Pythagoras onwards was τὸ πᾶν tò pân ("the all"),
-> defined as all matter and all space, and τὸ ὅλον tò hólon
+> from Pythagoras onwards was ?? ??? tò pân ("the all"),
+> defined as all matter and all space, and ?? ???? tò hólon
 > ("all things"), which did not necessarily include the void.
-> Another synonym was ὁ κόσμος ho kósmos (meaning the world, the cosmos).
+> Another synonym was ? ?????? ho kósmos (meaning the world, the cosmos).
 > Synonyms are also found in Latin authors (totum, mundus, natura)
 > and survive in modern languages, e.g., the German wordsDas All, Weltall,
 > and Natur for Universe. The same synonyms are found in English,
@@ -872,5 +872,99 @@ Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
 > again.
 
 % https://manual.calibre-ebook.com/faq.html#why-doesn-t-calibre-let-me-store-books-in-my-own-directory-structure
+
+
+> **Punctuation** is "the use of spacing, conventional signs,
+> and certain typographical devices as aids
+> to the understanding and the correct reading,
+> both silently and aloud,
+> of handwritten and printed texts."
+> Another description is:
+> "The practice, action, or system of inserting
+> points or other small marks into texts,
+> in order to aid interpretation;
+> division of text into sentences, clauses, etc.,
+> by means of such marks."
+% https://en.wikipedia.org/wiki/Punctuation
+
+> "woman, without her man, is nothing"
+> (emphasizing the importance of men),
+> and
+> "woman: without her, man is nothing"
+> (emphasizing the importance of women)
+% https://en.wikipedia.org/wiki/Punctuation
+
+
+> Ich hatte zu der Zeit einen alten Rechner.
+> Der hatte eine so schlechte Grafikkarte,
+> dass sich die Freehand-Dateien,
+> die Honza gebaut hatte,
+> extrem langsam von hinten nach vorne aufbauten.
+> Das sah total cool aus.
+> Also haben wir MTV angerufen und haben denen gesagt,
+> dass wir doch Visuals machen können,
+> nur noch nicht wissen,
+> wie wir sie aus unserem Rechner rauskriegen.
+> MTV hat ein Kamerateam angeheuert,
+> die das Ganze mit einer 16mm Kamera
+> von meinem Bildschirm abgefilmt haben.
+% http://de-bug.de/share/debug45.pdf
+
+
+> Neusprech bezeichnet
+> die vom herrschenden Regime vorgeschriebene,
+> künstlich veränderte Sprache.
+> Das Ziel dieser Sprachpolitik ist es,
+> die Anzahl und das Bedeutungsspektrum der Wörter zu verringern,
+> um die Kommunikation des Volkes in
+> enge, kontrollierte Bahnen zu lenken.
+> Damit sollen sogenannte Gedankenverbrechen unmöglich werden.
+> Durch die neue Sprache bzw. Sprachregelung soll die Bevölkerung so manipuliert werden,
+> dass sie nicht einmal an Aufstand denken kann,
+> weil ihr die Wörter dazu fehlen.
+% https://de.wikipedia.org/wiki/Neusprech
+
+
+
+% https://en.wikipedia.org/wiki/Weasel_word
+% https://de.wikipedia.org/wiki/Plansprache
+% https://en.wikipedia.org/wiki/Controlled_natural_language
+% https://en.wikipedia.org/wiki/Newspeak
+% https://de.wikipedia.org/wiki/Stottern
+
+
+
+> Und niemand weiß das Ungeordnete noch zu schätzen -
+> das „Vergnügen an der Unordnung“ gibt es nicht mehr.
+> („Ein sorgloser Schnürsenkel,
+>  in dessen Schleife ich eine wilde Höflichkeit erkenne /
+>  verzaubert mich mehr, als wenn Kunst /
+>  in allem zu präzise ist.“ - Robert Herrick.)
+% http://www.faz.net/aktuell/feuilleton/bilder-und-zeiten-1/david-hockney-ich-rauche-weil-es-mir-guttut-1464545-p2.html
+
+
+> Single-source publishing has been criticized due to
+> the quality of work, being compared to as the
+> "conveyor belt assembly" of content creation by its
+> critics. While heavily used in technical translation,
+> there are risks of error in regard to indexing.
+> While two words might be synonyms in English,
+> they may not be synonyms in another language.
+> In a document produced via single sourcing, however,
+> the index will be translated automatically and the
+> two words will be rendered as synonyms because they
+> are in the source language, while in the target
+> language they are not.
+% https://en.wikipedia.org/wiki/Single_source_publishing
+
+
+> tyres, rims and axes will continue to be perfected,
+> but the wheel in itself, as a principle,
+> but also as a mere matter of fact,
+> will never be altered, superseded or bettered.
+> Quite simply, the wheel makes too much sense to be tinkered with.
+>
+> Dieter Roelstraete: Art Books Now - Seven Theses (From the Accomplice’s Point of View) 
+
 
 
