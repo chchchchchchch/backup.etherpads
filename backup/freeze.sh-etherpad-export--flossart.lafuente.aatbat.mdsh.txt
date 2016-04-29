@@ -10,8 +10,8 @@
 
 % --------------------------------------------------------------------------- %
 
-% http://forkable.eu/utils/texts/goto10.org/FLOSS+Art.v1.1.eBook-GOTO10/
 % http://ospublish.constantvzw.org/documents/FLOSS+Art.pdf
+% http://forkable.eu/utils/texts/goto10.org/FLOSS+Art.v1.1.eBook-GOTO10/
 
 
 
@@ -44,7 +44,7 @@ appropriation of ideas and designs.
 
 
 Appropriation in Type through History
-=====================================
+-------------------------------------
 
 We could certainly identify many more instances of inspiration or
 downright copying of ideas in typography, but these four cases will
@@ -55,7 +55,7 @@ models and copyright issues (plagiarism) on the other.
 
 
 The Gutenberg Press
-===================
+-------------------
 
 In 1450, Johannes Gutenberg produced the first commercially viable model
 of his printing press, which was widely used for centuries until the
@@ -91,7 +91,7 @@ partial automation of the printing process.
 
 
 Stanley Morison and Monotype
-============================
+----------------------------
 
 In 1886, the Linotype machine began to be produced by the Mergenthaler
 Printing Co. in the United States. This machine revolutionised the
@@ -123,7 +123,7 @@ poorer today.
 
 
 Arial, Monotype and Microsoft
-=============================
+-----------------------------
 
 1982 is the year in which the Arial typeface was released by Monotype
 Typography, Monotype Corporation's type design division. Designed by
@@ -164,7 +164,7 @@ actions as of 2008.
 
 
 Segoe
-=====
+-----
 
 In early 2006, Microsoft announced a significant effort to dignify type
 design in their upcoming Vista operating system: six type designers --
@@ -202,7 +202,7 @@ the designers of Segoe -- in 2006.
 
 
 The Digital Typography Paradigm
-===============================
+-------------------------------
 
 Typography, and type design in particular, is historically defined by a
 constant recursion of past themes and trends, be it as inspiration,
@@ -241,7 +241,7 @@ typography usage and creation.
 
 
 Corporate Type
-==============
+--------------
 
 The digital revolution made a deep redefinition of most areas of study
 possible. We will show, though, that the field of typography has been
@@ -294,7 +294,7 @@ to their entire type collection.
 
 
 User Type
-=========
+---------
 
 Most people get introduced to digital type by means of text editors. The
 digital revolution would be the perfect reason to finally open
@@ -336,7 +336,7 @@ to develop alternative business models for type design.
 
 
 Designer Type
-=============
+-------------
 
 The type designer community is centred on the study of classical and
 modern examples and making attempts to postulate theory and practical
@@ -402,7 +402,7 @@ or a work of art is left to the courts.
 
 
 Tweaking and Reviving
-=====================
+---------------------
 
 In order to explain the type designer's first reluctance to embrace the
 digital alternative, and also to understand how design processes are not
@@ -462,7 +462,7 @@ sanctioned font tweak?
 
 
 Free software and Type Design
-=============================
+-----------------------------
 
 So far, we've kept our focus on corporate approaches to type design. As
 of 2008, the digital design tools field is dominated by Adobe Systems
@@ -527,7 +527,7 @@ software alternative, Fontforge.
 
 
 Technology on Arcane Standards
-==============================
+------------------------------
 
 The current terminology used in typography is also a clear signal of how
 it still depends on former traditions instead of adapting to its new
@@ -556,7 +556,7 @@ the creeping tweaker threat.
 
 
 What Now?
-=========
+---------
 
 Given that digital type has been hanging around for thirty years, the
 progress in improving on font technology and taking advantage of the
