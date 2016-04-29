@@ -1,3 +1,11 @@
+@book{ eco:1982:namederrose,
+ title      = {Der Name der Rose},
+ author     = {Eco, Umberto},
+ year       = {1982},
+ publisher  = {},
+ address    = {}
+}
+
 @book{ garbys:2011:digitalrubbish,
  title      = {Digital Rubbish: a natural history of electronics},
  author     = {Garbys, Jennifer},
