@@ -33,7 +33,7 @@ duplication of knowledge -- not just text -- is the real culprit.
  
 The DRY (Don't Repeat Yourself) Principle states:
 
-> Every piece of knowledge must have a single, unambiguous,    
+> Every piece of knowledge must have a single, unambiguous,
 > authoritative representation within a system.    
  
 [...]
