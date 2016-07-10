@@ -373,9 +373,9 @@ We've got cinema, fine arts, literature, craft ...
 > [@boardley:2015:helvetica]
 % http://ilovetypography.com/2015/06/27/the-last-word-on-helvetica/
 
-... dismissing 'Helvetica'
-and at the same time promoting a modernist mindset of the
-_right_ tool for the _right_ job.
+% ... dismissing 'Helvetica'
+% and at the same time promoting a modernist mindset of the
+% _right_ tool for the _right_ job.
 
 
 % MY FAVOURITE TOOL IS AN ADAPTER
@@ -965,6 +965,47 @@ Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
 > Quite simply, the wheel makes too much sense to be tinkered with.
 >
 > Dieter Roelstraete: Art Books Now - Seven Theses (From the Accomplice’s Point of View) 
+
+
+% -----
+
+% http://www.wired.com/1997/02/ffharaway/
+
+> In the manifesto, Haraway argues that the cyborg
+> -- a fusion of animal and machine --
+> trashes the big oppositions between nature and culture,
+> self and world that run through so much of our thought. 
+
+% KEEP OPPOSITIONS ALIVE ??
+
+> In conversation, when people describe something as natural,
+> they're saying that it's just how the world is; we can't change it.
+
+> "Technology is not neutral.
+> We're inside of what we make,
+> and it's inside of us.
+> We're living in a world of connections --
+> and it matters which ones get made and unmade."
+
+% http://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf
+
+> Cyborgs, Haraway explains,
+> "are information machines.
+> They're embedded with circular causal systems,
+> autonomous control mechanisms,
+> information processing
+> -- automatons with built-in autonomy."
+
+
+
+% NATURE <-> CULTURE ??
+% IS THE CLOUD THOUGHT TO FEEL NATURAL
+
+
+
+
+
+
 
 
 
