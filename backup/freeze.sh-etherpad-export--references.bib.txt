@@ -1,3 +1,379 @@
+
+% - SANDBOX CULTURE ----------- %
+
+@book{ stephenson:2009:cli,
+ title     = {In the Beginning...Was the Command Line},
+ author    = {Stephenson, Neal},
+ publisher = {HarperCollins},
+ address   = {New York City},
+ year      = {2009}
+}
+
+@phdthesis{ mclean:2011:apapla,
+ title     = {Artist-Programmers and Programming Languages for the Arts},
+ author    = {McLean, Christopher Alex},
+ school    = {Goldsmiths},
+ address   = {University of London},
+ year      = {2011}
+}
+
+@book{ lessig:2009:remix,
+ title     = {Remix: Making Art and Commerce Thrive in the Hybrid Economy},
+ author    = {Lessig; Lawrence},
+ publisher = {A&C Black},
+ address   = {London},
+ year      = {2009}
+}
+
+@movie{ gaylor:2008:rip,
+ author    = {Gaylor, Brett},
+ title     = {RiP!: A Remix Manifesto},
+ publisher = {EyeSteelFilm},
+ address   = {USA},
+ year      = {2008}
+
+}
+
+@book{ veal:2007:dub,
+ title     = {Dub: Soundscapes and Shattered Songs in Jamaican Reggae},
+ author    = {Veal, Michael},
+ publisher = {Wesleyan University Press},
+ address   = {Middletown, Connecticut},
+ year      = {2007}
+}
+
+@book{ hafnerlyon:1999:wizards,
+ title     = {Where Wizards Stay Up Late: The Origins Of The Internet},
+ author    = {Hafner, Katie and Lyon, Matthew},
+ publisher = {Simon & Schuster},
+ address   = {New York City},
+ year      = {1999}
+}
+
+@book{ esr:2003:taoup,
+ title     = {The Art of UNIX Programming},
+ author    = {Raymond, Eric Steven},
+ publisher = {Pearson Education},
+ address   = {Boston},
+ year      = {2003}
+}
+
+@incollection{ unsworth:1996:livingvr,
+ title     = {Living Inside the (Operating) System: Community in Virtual Reality},
+ author    = {Unsworth, John},
+ editor    = {Harrison, Teresa M. and Stephen, Timothy},
+ booktitle = {Computer Networking and Scholarly Communication in the Twenty-first-century University},
+ publisher = {SUNY Press},
+ address   = {Albany, New York},
+ year      = {1996}
+}
+
+@techreport{ timar:2004:faq,
+ author       = {Timar, Ted}, 
+ title        = {Unix - Frequently Asked Questions (6/7) [Frequent posting]},
+ institution  = {comp.unix.questions},
+ address      = {unix-faq/faq/part6_1084272547@rtfm.mit.edu},
+ year         = {2004},
+ month        = {May},
+ day          = {11}
+}
+
+@misc{ wheeler:1999:secureprogramming,
+  author       = {Wheeler. David A.}, 
+  title        = {Secure Programming for Linux and Unix HOWTO},
+  year         = {1999},
+}
+
+@book{ dick:1991:stigmata,
+ title     = {The three stigmata of Palmer Eldritch},
+ author    = {Dick; Philip K.},
+ publisher = {Vintage Books},
+ address   = {New York},
+ year      = {1991}
+}
+
+@misc{ icircle:1997:faq,
+ author    = {The Inner Circle},
+ title     = {FAQ},
+ year      = {1997},
+ url       = {http://web.archive.org/web/19970508133415/http://www.aditom.se/~inner-circle/13.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ apple:2008:toptenm,
+ author    = {Apple Inc.},
+ title     = {Apple - Press Info - iPhone App Store Downloads Top 10 Million in First Weekend},
+ year      = {2008},
+ url       = {http://www.apple.com/pr/library/2008/07/14iPhone-App-Store-Downloads-Top-10-Million-in-First-Weekend.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ aokietal:2012:debianpackaging,
+ author    = {Aoki, Osamu et al.},
+ title     = {Chapter 2. Debian package management},
+ year      = {2012},
+ url       = {http://www.debian.org/doc/manuals/debian-reference/ch02.en.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ freebsd:2013:usingports,
+ author    = {The FreeBSD Project},
+ title     = {5.6. Using the Ports Collection},
+ year      = {2013},
+ url       = {http://www.freebsd.org/doc/en/books/handbook/ports-using.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ yourantiandi:2012:kuaiyong,
+ author    = {Beijing YouRanTianDi Technology},
+ title     = {kuaiyong},
+ year      = {2012},
+ url       = {http://www.kuaiyong.com/eg_web/announcement.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ fdroid:2013:basicconcepts,
+ author    = {F-Droid Limited},
+ title     = {F-Droid · About},
+ year      = {2013},
+ url       = {https://fdroid.org/about},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ cyanogenmod:2013:basicconcepts,
+ author    = {CyanogenMod Wiki},
+ title     = {Basic concepts - CyanogenMod},
+ publisher = {CyanogenMod}, 
+ year      = {2013},
+ url       = {http://wiki.cyanogenmod.org/w/Basic_concepts#.22side-loading.22},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ google:2013:androidsecurity,
+ author    = {Google Inc.},
+ title     = {Android Security Overview | Android Open Source},
+ publisher = {Google Inc.},
+ year      = {2013},
+ url       = {https://source.android.com/tech/security/#the-application-sandbox},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ geiger:2008:rjdjrelease,
+ author       = {Geiger, Günter},
+ title        = {[PD] [PD-announce] RJDJ released},
+ howpublished = {E-Mail to the Pd-announce mailing list},
+ year         = {2008},
+ month        = {October},
+ day          = {10},
+ url          = {http://lists.puredata.info/pipermail/pd-announce/2008-10/001314.html},
+ note         = {accessed October 28, 2012}
+}
+
+@unpublished{ farnell:2013:rjdj,
+  author       = {Farnell, Andy}, 
+  title        = {Re: Questions Pd/RjDj},
+  note         = {E-Mail to Aymeric Mansoux},
+  day          = {28}
+  month        = {May},
+  year         = {2013}
+}
+
+@movie{ romero:2009:floss,
+ author    = {Romero, Ernesto},
+ title     = {FLOSSOFíA: El Software Libre en el Arte},
+ publisher = {Centro Nacional de las Artes},
+ address   = {México},
+ year      = {2009}
+}
+
+@incollection{ barknecht:2007:pd,
+ title     = {Pure Dataflow - Diving into Pd},
+ author    = {Barknecht, Frank},
+ editor    = {de Valk, Marloes},
+ booktitle = {Digital Artist’s Handbook},
+ publisher = {folly/GOTO10},
+ address   = {Lancaster},
+ year      = {2007}
+}
+
+@phdthesis{ lee:2008:unlimited,
+ title     = {Art Unlimited: An investigation into contemporary digital arts and the free software movement},
+ author    = {Lee, Chun},
+ school    = {MiddleSex University},
+ year      = {2011}
+}
+
+@incollection{ brinkmannetal:2011:embedpd,
+ title     = {Embedding pure data with libpd},
+ author    = {Peter Brinkmann and 
+              Peter Kirn      and
+              Richard Lawler  and
+              Chris McCormick and
+              Martin Roth     and
+              Hans-Christoph Steiner} 
+ booktitle = {Proceedings Pure Data Convention},
+ year      = {2011}
+}
+
+@book{ brinkmann:2012:mma,
+ title     = {Making Musical Apps},
+ author    = {Brinkmann, Peter},
+ publisher = {Oreilly & Associates Incorporated},
+ address   = {Sebastopol, California},
+ year      = {2012}
+}
+
+@misc{ kirn:2013:libpd,
+ author = {Kirn, Peter},
+ title  = {libpd » About},
+ year   = {2012},
+ url    = {http://libpd.cc/about},
+ note   = {accessed May 10, 2013}
+}
+
+@incollection{ puckette:2004:own,
+ title     = {Who owns our software? —- a first-person case study},
+ author    = {Puckette, Miller},
+ booktitle = {Proceedings ISEA},
+ year      = {2004}
+}
+
+@incollection{ puckette:1996:pd,
+ title     = {Pure Data},
+ author    = {Puckette, Miller},
+ booktitle = {Proceedings International Computer Music Conference},
+ year      = {1996}
+}
+
+@misc{ geiger:2008:kickstartrj,
+ author       = {Geiger, Günter},
+ title        = {[PD] Announcement Kickstart RJ},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2008},
+ month        = {July},
+ day          = {2},
+ url          = {http://lists.puredata.info/pipermail/pdlist/2008-07/063497.html},
+ note         = {accessed May 10, 2013}
+}
+
+@unpublished{ mccormick:2013:rjdj,
+ author       = {McCormick, Chris}, 
+ title        = {Re: question RjDj},
+ note         = {e-mail to Aymeric Mansoux},
+ day          = {31}
+ month        = {May},
+ year         = {2013}
+}
+
+@misc{ humphrey:2011:shortcut,
+ author       = {Humphrey, Marvin},
+ title        = {[PD] Keyboard shortcuts for "nudge", "done editing"},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2011},
+ month        = {September},
+ day          = {24},
+ url          = {http://lists.puredata.info/pipermail/pd-list/2011-09/091294.html},
+ note         = {accessed May 10, 2013}
+}
+
+@misc{ stewart:2008:rjdjmakeart,
+ author       = {Stewart, Damian},
+ title        = {RjDj presentation - FAQ with audience},
+ howpublished = {make art, GOTO10},
+ year         = {2008},
+ month        = {November},
+ day          = {29}
+}
+
+@misc{ looney:2012:robotcowboy,
+ author       = {Looney, Scott R.},
+ title        = {[PD] rjdj is gone, robotcowboy is coming ...},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2012},
+ month        = {November},
+ day          = {3},
+ url          = {http://lists.puredata.info/pipermail/pd-list/2012-11/098781.html},
+ note         = {accessed May 10, 2013}
+}
+
+@misc{ c74:2013:faqmax,
+ author       = {Cycling '74},
+ title        = {FAQ: Max 4 « Cycling 74},
+ publisher    = {Cycling '74},
+ year         = {2013},
+ url          = {accessed May 10, 2013},
+ note         = {http://cycling74.com/support/faq_max4}
+}
+
+@misc{ danks:2007:pdspore,
+ author       = {Danks, Mark},
+ title        = {[PD] Pd in video game Spore},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2007},
+ url          = {http://lists.puredata.info/pipermail/pdlist/2007-11/056300.html},
+ note         = {accessed May 10, 2013}
+}
+
+@misc{ mclean:2009:itoilet,
+ author       = {McLean; Christopher Alex},
+ title        = {Alex McLean | The iPhone and toilet paper freedom},
+ year         = {2009},
+ url          = {http://yaxu.org/the-iphone-and-toilet-paperfreedom},
+ note         = {accessed May 10, 2013}
+}
+
+@unpublished{ brossier:2013:rjdj,
+ author       = {Brossier, Paul}, 
+ title        = {Re: question RjDj},
+ note         = {e-mail to Aymeric Mansoux},
+ day          = {4}
+ month        = {June},
+ year         = {2013}
+}
+
+@unpublished{ x:2013:rjdj,
+ author       = {Anonymous}, 
+ title        = {Re: question RjDj},
+ note         = {e-mail to Aymeric Mansoux},
+ day          = {14}
+ month        = {May},
+ year         = {2013}
+}
+
+@incollection{ baudrillard:1967:prise,
+ title     = {La Prise d’Otage},
+ author    = {Baudrillard, Jean},
+ booktitle = {Le ludique et le policier: et autres textes parus dans Utopie},
+ publisher = {Sens/Tonka},
+ address   = {Paris},
+ year      = {1967/78}
+}
+
+@misc{ thompson:1984:trust,
+ title        = {Reflections on trusting trust},
+ author       = {Thompson, Ken},
+ howpublished = {Communications of the ACM 27, no. 8},
+ year         = {1984}
+}
+
+@inproceedings{ dixonetal:2010:homeos,
+ author    = {Dixon, Colin    and 
+              Mahajan, Ratul  and 
+              Agarwal, Sharad and 
+              Brush, A. J.    and 
+              Lee, Bongshin   and 
+              Saroiu, Stefan  and 
+              Bahl, Victor},
+ title     = {The Home Needs an Operating System (and an App Store)},
+ booktitle = {Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks},
+ year      = {2010},
+ publisher = {ACM},
+ address   = {New York, NY, USA},
+} 
+
+% ------------------------------ %
+
+
 @book{ eco:1982:namederrose,
  title      = {Der Name der Rose},
  author     = {Eco, Umberto},
