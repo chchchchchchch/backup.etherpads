@@ -372,7 +372,6 @@
 
 % ------------------------------ %
 
-
 @book{ eco:1982:namederrose,
  title      = {Der Name der Rose},
  author     = {Eco, Umberto},
