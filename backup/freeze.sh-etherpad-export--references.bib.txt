@@ -1,4 +1,3 @@
-
 % - SANDBOX CULTURE ----------- %
 
 @book{ stephenson:2009:cli,
