@@ -340,7 +340,7 @@
 }
 
 @incollection{ baudrillard:1967:prise,
- title     = {La Prise d’Otage},
+ title     = {La Prise d'Otage},
  author    = {Baudrillard, Jean},
  booktitle = {Le ludique et le policier: et autres textes parus dans Utopie},
  publisher = {Sens/Tonka},
