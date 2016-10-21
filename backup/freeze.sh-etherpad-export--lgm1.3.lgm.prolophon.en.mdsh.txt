@@ -1,0 +1,21 @@
+% .MDSH IS MARKDOWN +X -> http://freeze.sh/2015/mdsh
+%
+% A COMMENT MAY BE FUNCTIONAL (= ignored/interpreted during export)
+% A text [^]{a footnote} and some more text
+% A citation reference [@krausse:2001:fuller]
+% A citation reference with pagenumber [@[1-8]krausse:2001:fuller]
+% -> bibtex references: http://freeze.sh/etherpad/bibref
+% -> markdown reference: http://daringfireball.net/projects/markdown
+
+% FROM: http://git.io/vnCTK
+% YEAR: 2011
+% LICENSE: CC-BY-SA
+
+As co-workers, we needed to gather ideas in a straightforward way, 
+beyond just notes and emails. Pickpic was good for this, because it 
+allowed us to upload pictures while chatting. We met this way on 
+April 21 and 27, then again on May 3. Here are some excerpts, 
+according to the tracks we followed, from conceptual to technical 
+questions.
+
+
