@@ -1,0 +1,623 @@
+% .MDSH IS MARKDOWN +X -> http://freeze.sh/2015/mdsh
+%
+% lines starting with % are comments and therefore will be ignored
+% BUT: A COMMENT MAY BE FUNCTIONAL (= interpreted during export)
+% A text [^]{a footnote} and some more text
+% A citation reference [@fsf:2007:gpl]
+% A citation reference with pagenumber [@[1-8]kay:1990:uiapv]
+% -> bibtex references: http://freeze.sh/etherpad/bibref
+% -> markdown reference: http://daringfireball.net/projects/markdown
+
+% --------------------------------------------------------------------------- %
+
+% http://ospublish.constantvzw.org/documents/FLOSS+Art.pdf
+% http://forkable.eu/utils/texts/goto10.org/FLOSS+Art.v1.1.eBook-GOTO10/
+
+
+
+% TITLE: Appropriation and Type -- Before and Today
+%        ------------------------------------------
+% BY: Ricardo Lafuente
+% INFO: http://lfkn.de/mzlm
+% LICENSE: GPL (2.0) / GFDL (1.2) / FAL (1.3)
+
+
+
+Appropriation has been a recurring and accepted strategy in defining
+typography as an activity and a business. We can pinpoint four cases
+where appropriation has been key in defining landmarks in the history of
+type, not only aiding the breaking of technical and creative boundaries
+but also helping to question legal and moral ones.
+
+A brief analysis of the current situation in typography will follow,
+focusing on the approach to the subject by corporations, users and
+designers. The current business model (digital foundries, font files
+with copyrights) is, as we'll argue, a remnant of a time where a
+typeface filled a whole drawer and fails to account for the necessary
+changes that the information age demands.
+
+Finally, we'll conclude with the definition of an essentially
+contradictory business model that has a very strong stance against "font
+forging" and copyright issues, although it has historically -- and now,
+more than ever -- thrived on constant, and often uncredited,
+appropriation of ideas and designs.
+
+
+Appropriation in Type through History
+-------------------------------------
+
+We could certainly identify many more instances of inspiration or
+downright copying of ideas in typography, but these four cases will
+suffice to demonstrate the different uses of copy, inspiration and
+appropriation in general. Our focus here will be on the issue of
+creative appropriation (inspiration) on one hand, and corporate business
+models and copyright issues (plagiarism) on the other.
+
+
+The Gutenberg Press
+-------------------
+
+In 1450, Johannes Gutenberg produced the first commercially viable model
+of his printing press, which was widely used for centuries until the
+advent of the Linotype machine, the first way to automate, though only
+partially, the type setting and printing process. Gutenberg's press was
+the result of the combination of five key methods and processes, three,
+possibly four, of which were not original:
+
+-   The screw press, which was already used by the Greeks and Romans to
+    process olive oil and wine.
+-   Block printing, present in China since 594 AD. Gutenberg's
+    innovation was to use metal cast types (instead of the Chinese
+    traditional woodblock printing technique), although metal
+    typecasting was already developed in Korea around 1230 AD.
+-   Letter punches, which were a goldsmithing technique -- Gutenberg
+    was a goldsmith -- used to engrave letters in metal pieces.
+-   Letter replica casting, a method to quickly create new individual
+    characters, along with a particular metal alloy that made for
+    durable pieces. This method has been attributed to Gutenberg but
+    recent studies shed doubts on this fact.
+-   Metal-adherent ink, devised by Gutenberg.
+
+This shows that originality, in a time before copyrights and patents
+existed, is not a straightforward issue. It was not before 1700 that the
+first copyright statute appeared in Britain -- the protection of ideas
+could have changed the fate of this invention and the combination of
+methods made. The point here is that they were combined in a way that
+made typography as we know it possible, and there seems to be absolutely
+no question regarding the legitimacy of this invention made possible by
+appropriating previous methods and processes. Gutenberg's model of
+printing stood firm for centuries until the Linotype machine introduced
+partial automation of the printing process.
+
+
+Stanley Morison and Monotype
+----------------------------
+
+In 1886, the Linotype machine began to be produced by the Mergenthaler
+Printing Co. in the United States. This machine revolutionised the
+printing process by introducing a degree of automation, allowing for
+quick composition of lines of text. It wouldn't take long (a year) for
+Lanston Monotype to begin production of their own fully automated
+typesetting machine, devised by Tolbert Lanston, which could typeset
+whole pages from a mechanical keyboard input.
+
+In 1922, Stanley Morison was appointed as typographic advisor of the
+Monotype Corporation (the British branch of the Philadephia company), a
+post he would keep until 1967. The Monotype Corporation built an
+extensive catalogue of cuts made by Morison from classic references,
+such as Bodoni, Bembo, Baskerville, and several others. These revivals
+helped bring general interest to the old masters' works They were also
+a key marketing strategy to try to push up the value of the Monotype
+machine -- the faces available would definitely determine the decision of
+a buyer who fancies a particular style, and thus the Monotype
+Corporation had no qualms about recruiting all the classics, which were
+by then in the public domain.
+
+It is tremendously unfair, though, to portray Morison as a hijacker -- he
+was one of the hallmarks of 20th century type, being responsible for the
+creation of the Times typeface and hugely influencing the field of
+typography to the present day through the efforts he dedicated to
+bringing the classics to the general public -- legitimately appropriating
+other designs. Without Morison's endeavour, our legacy would no doubt be
+poorer today.
+
+
+Arial, Monotype and Microsoft
+-----------------------------
+
+1982 is the year in which the Arial typeface was released by Monotype
+Typography, Monotype Corporation's type design division. Designed by
+Robin Nicholas and Patricia Saunders, this typeface had a remarkable
+impact. Not only does it have obvious similarities to other modern sans
+serifs (sharing features with Helvetica, Univers and Akzidenz Grotesk),
+it exactly mirrors the glyph width tables from Helvetica, which is the
+data included in a font file that describes each character's dimensions
+-- an exact match that gives little chance of coincidence.
+
+Microsoft licensed Arial from Monotype instead of the more expensive
+Helvetica, and in 1990 it was bundled with Microsoft Windows 3.1. It has
+been a staple of Windows systems until today. This is a specific case
+where a typeface was chosen not for its genuine creative and/or
+practical value but based upon external reasons, in this case driven by
+financial motives. Type designers are almost unanimous in shunning
+Arial as a lesser typeface: it is notably absent from Robert Bringhurst's
+typeface selection in _The Elements of Typographic Style_ (the current all
+round reference on type design from the designer's perspective), and is
+also only mentioned as a passing remark on Robin Nicholas's entry on the
+typographic encyclopaedic survey by Friedl et 
+al.[@[p.409]friedletal:1998:tdth] This is pretty much a clear
+indication of type designers' consensus on the Arial issue; it's also
+worth noting that there has been, to date, no attempt to replace Arial
+as a standard font in operating systems.[^]{Arial is now a "standard"
+font of web typography, being part of a very limited set of fonts that
+most browsers can read.}
+In strict law and copyright terms, it's appropriate to compare the Arial
+case to a cheating student who argues that the fact that his exam has
+exact passages from his nearest classmates' exams owes to coincidence.
+It is equally reasonable to argue that borrowing from three sources
+rather than just one does not make the situation more acceptable.
+
+So Arial stands in mixed principles: the type community is almost
+unanimous in calling shenanigans, but it has still made its way into our
+current operating systems despite that fact -- it didn't face any legal
+actions as of 2008.
+
+
+Segoe
+-----
+
+In early 2006, Microsoft announced a significant effort to dignify type
+design in their upcoming Vista operating system: six type designers --
+Lucas de Groot and Robin Nicholas figuring among them -- were
+commissioned to design appropriate typefaces for screen and print. The
+result was six very attractive fonts that not only could appeal to
+general uses by less savvy people for simple word processing tasks, but
+also suit the type designers' fancy.
+
+Another font included in Vista is Segoe, a revival of Frutiger Next
+(which in turn is a revival of Frutiger) that Microsoft licensed from
+Monotype and altered. It's not the first case in which Adrian Frutiger's
+work has been remade, Adobe's Myriad and Apple's Podium Sans also bear a
+striking resemblance to Frutiger's structure. When Microsoft registered
+Segoe in Europe in 2004, Linotype sued for copyright infringement since
+European law, unlike the American one, recognises the rights to font
+designs (although patent law is often used to circumvent this legal void
+in the U.S.).
+
+The most significant fact is that Microsoft based their defence not on
+the issue of originality -- stating the differences between Segoe and
+Frutiger Next, but on the fact that Linotype wasn't selling its typeface
+in Europe when the request was filed. This situation could very well be
+interpreted as an admission by Microsoft's part that the font in fact
+owes credit to Frutiger's design.
+
+This case becomes all more revealing in that it is both a high profile
+and current example of an attempt to settle the authenticity of a type
+design in courts. Unlike Arial, it didn't sneak past the critics and
+found serious hurdles while Microsoft tried to implement it in its
+Windows OS. The EU ended up rejecting Segoe's application, prompting the
+release of a modified version that bore less resemblance to the Frutiger
+typeface. The plaintiff, Linotype, was acquired by Monotype Imaging -- 
+the designers of Segoe -- in 2006.
+
+
+The Digital Typography Paradigm
+-------------------------------
+
+Typography, and type design in particular, is historically defined by a
+constant recursion of past themes and trends, be it as inspiration,
+revivals, or as a way to question them -- as in postmodern type examples,
+such as Emigre's or David Carson's work. Nevertheless, modern designs
+still owe heavily (with or without credit) to a tradition of arts and
+crafts spanning five centuries.
+
+Meanwhile, during the last two decades, the type world hasn't ceased
+discussing the issue of rights and plagiarism, a discussion that was
+sparked by the digital revolution and the introduction of the personal
+computer as an all purpose design and production tool. This shift
+implied that the tools used in typography and book production ceased to
+be the sole domain of type makers, printers and book publishers -- the
+only ones who could afford the initial investment of a type foundry,
+workshop or printing press and manage it effectively. Designing type
+soon became cheaper and cheaper, as the physical and financial burden of
+the new tools gradually became less and less significant. Nowadays, a
+computer and a printer can do in minutes what a huge phototypesetting
+equipment would have taken a lot of time, effort and money to produce
+ten years ago.
+
+The key effect of the digital revolution in type design is that
+typefaces became fonts -- a radical change in that they were no more lead
+blocks but data -- files that describe how each glyph should be drawn on
+screen or on a printer. A free software solution to type design,
+FontForge, was released in 2004, doing away with any software costs
+involved in font creation and editing, meaning the only overhead for a
+type design business would be a PC, paper, drawing tools, an image
+capture device (scanner or camera) and eventually an internet
+connection. This change has serious repercussions in the whole
+typography market: now type design wouldn't, in theory, require any kind
+of intermediaries between the typographer/designer and its audience.
+Reality developed otherwise, as we will see from three standpoints in
+typography usage and creation.
+
+
+Corporate Type
+--------------
+
+The digital revolution made a deep redefinition of most areas of study
+possible. We will show, though, that the field of typography has been
+lagging behind when it comes to taking advantage of the digital medium.
+Moreover, the corporate business model has failed to account for the
+specific needs and features of information technology, sticking to an
+artificial market sustained by an inflated value attributed to digital
+files as if they still were physical objects that are owned.
+
+Nowadays, there are three major players in the type business:
+Microsoft, Adobe and Monotype Imaging.
+
+Apple Computer hasn't been a key figure in the type market
+(concentrating on developing font technology for its operating system),
+but it had an essential role in developing the actual playing field.
+Apple heralded the personal computer era in with their original
+Macintosh and has intermittently collaborated and competed with
+Microsoft and Adobe, being responsible for the development of the
+TrueType font format along with Microsoft as a response to Adobe's
+expensively priced PostScript Type I font description format. The
+release of TrueType in 1991 forced Adobe to gradually reduce prices and
+eventually follow suit, releasing the PostScript specifications so that
+software developers could implement it in their programs without
+limitations.
+
+Adobe Systems Inc., besides being responsible for a highly successful
+suite of imaging and DTP software, has a very strong position in the
+type market: not only is it a type vendor (through its typography
+division, Adobe Type) but also the most influential company in the sense
+that it owns most digital design solutions, especially after acquiring
+its main rival Macromedia in April 2005 and facing no significant
+competition in its market.
+
+Microsoft is responsible for creating the most widely used operating
+system in personal computers, as well as the most popular office suite.
+Along with Adobe, Microsoft developed the currently dominant OpenType
+file format, which is freely available to developers as long as they
+agree to its rather restrictive licensing terms. Adobe converted its
+entire type collection to OpenType in a move to spread the new standard.
+
+Monotype Imaging is now a distant remnant of Tolbert Lanston's original
+creation. It has adjusted technical breakthroughs in the 20th century
+and claimed a staunch position in today's digital type market. It was
+acquired by Agfa in 1999 forming Agfa Monotype, which in turn was
+acquired by T. A. Associates, a North American investment firm, changing
+its name to Monotype Imaging and developing a position in font software
+and rendering engines. It also secured a strong standpoint in the font
+vendor market after acquiring its rival Linotype, along with the rights
+to their entire type collection.
+
+
+User Type
+---------
+
+Most people get introduced to digital type by means of text editors. The
+digital revolution would be the perfect reason to finally open
+typography to everyone and make it a mainstream subject instead of a
+limited access craft. Things have happened otherwise, though, and the
+inability to create a suitable interface for allowing basic
+experimentation with type has severely crippled the possibilities of the
+new medium.
+
+The font selection paradigm has changed little during the years,
+offering a whole collection of typefaces in a drop down menu. Such is
+the immediateness of digital type: It's just there, no need to open
+drawers with thousands of lead characters. Users are encouraged, by
+means of a simple GUI, to just pick their font and get to work on their
+document. Even more: you don't even need to choose, just stick with the
+default choice the software maker has made for you. Word processing
+interfaces also assume the user doesn't want to be bothered with layout
+choices such as margins, structure -- and they also make the choice for
+us (incidentally, they also made it quite awkward to change these
+defaults). In short: the standard word processing interface tells users
+not bother to with type.
+
+This paradigm helps to build the general perception that a font is a
+finished, shrinkwrapped and untouchable product -- pretty much like
+pre-packaged software. Although font files can be opened and edited as
+long as we have an appropriate editor, most typeface editors are either
+crude or catering exclusively to the type designer market. The user
+usually isn't able to reach the underpinnings and intricacies of type,
+instead being expected just to understand that the default template is
+more than enough.
+
+Such an approach to software designing effectively discourages any kind
+of interest in typographic issues by the general public, and helps to
+fuel the thought that fonts are "just there". It's worth noting that
+there is still no easy and streamlined way to buy, install and use
+fonts, unlike most other digital markets -- iTunes would be a good
+example of that kind of market strategy. There's an obvious reluctance
+to develop alternative business models for type design.
+
+
+Designer Type
+-------------
+
+The type designer community is centred on the study of classical and
+modern examples and making attempts to postulate theory and practical
+guidelines for the craft of type design, sitting somewhere between the
+methods of architecture and those of poetry.
+
+Fred Smeijers, a highly regarded Dutch type designer, analyses the type
+designer's duty quite straightforwardly in his manifesto Type Now. On
+the issue of the responsibilities of type designers and commitment to
+specific guidelines, he states that
+
+> a type designer cannot escape this responsibility of judgement (...).
+> In the end, people -- the society -- either accept it or they don't
+> [@[p.25]smeijers:2003:tn]
+
+Society, it seems, would be the ultimate judge of whether a typeface is
+a hallmark of craft or doomed to failure.
+
+On the other hand, we find a curious account on Smeijers's description
+on Fontana, a typeface by Ruben Fontana inspired by Meta: he describes
+it as "uncomplicated", "_tres sympathique_", "sunny" and "open
+minded".[@[p.40]smeijers:2003:tn] This certainly sounds more like a
+description of a person or a song than of an object, and indeed sheds
+some doubt on the much touted objectiveness of good type design. It
+seems impossible to find serious and objective terms to classify a
+typeface's features. Historical categorisations of design tendencies
+vary from author to author, and although there are some widely used
+terms to describe historical periods and typeface features, such as
+"transitional type" or "slab serifs", there's a tendency to borrow from
+poetry and music to identify a type family's "soul" (which, though
+relevant from an artist or a historical point of view, is rather
+unscientific).
+
+This is not a contradiction, though, since we can distinguish between
+type as a creative activity (in which there would be no problem with
+this kind of analogy) and type as an industry and commodity (where
+profit, market tendency, shareholder demands and legal requirements
+imply that things have a definite value and purpose). Naturally,
+Smeijers's interest is in the craft and art of typography, and not the
+market and the economic relationships that it spawns. On the other hand,
+our interest is definitely that which Smeijers doesn't care for.
+
+We must assert that defending the status of type as a functional
+solution to practical problems requires an objective set of rules that
+derive from the way we read and write. We cannot yet account for matters
+of objective legibility while we do not possess all information on our
+mental processes and the mechanisms in the brain involved in acquiring
+and processing written information -- this is the responsibility of
+cognitive psychology and neuroscience.
+
+We know, from history, that a text with generous line spacing will
+certainly read better than other with no line spacing at all. The German
+blackletter used by Gutenberg in his Bible, however, is almost
+unreadable to a contemporary westerner's eyes and definitely alien to
+someone from a non-Western background. In the fifteenth century, though,
+it was certainly the norm. History can help to avoid repeating our
+mistakes, but it also shows the relative importance of our current
+standards. In short, we still cannot objectively define type, and won't
+be able to before a major breakthrough in neural science. However,
+copyright issues and legal matters impose formal specifications on what
+a font is and what it is not. Whether a typeface is a tweak, a revival
+or a work of art is left to the courts.
+
+
+Tweaking and Reviving
+---------------------
+
+In order to explain the type designer's first reluctance to embrace the
+digital alternative, and also to understand how design processes are not
+as straightforward as they are presented to us, we'll concentrate on
+Fred Smeijers's account on the current state of events in typography.
+Specifically, we'll borrow his term font
+tweaking.[@[p.32]smeijers:2003:tn] This process consists of loading
+a font, "tweaking" it -- altering small details -- and releasing it with
+different names, thereby circumventing copyright laws, since U.S. Law
+protects font names as trademarks, but not font designs. Smeijers is
+clear in pointing that font tweakers have nothing to do with type design
+at all, reinforcing the distinction between doing type as a labour of
+love and doing it for a profit.
+
+Font revivals, on the other hand, are reinterpretations of existing
+designs, and our best example would be Morison's effort in bringing the
+classical designs into the Monotype type library. Revivals matter to us
+because they aren't original productions (as they draw inspiration from
+existing designs) but aren't copies either (because no rights over them
+could be warranted otherwise, since there would be no original idea).
+
+Digital type foundries and vendors still maintain the tradition,
+digitising and redoing the old masters' work. It's worth noting that
+even if a certain typeface, such as those with expired copyrights,
+resides in the public domain, anyone can make a digital version -- a
+revival -- and claim the rights to it.
+
+Digital type catalogues are rife with revivals: In Bringhurst's
+inventory of digital foundries, we can find 14 that issue revivals, and
+4 that only release original designs.[@[p.309]bringhurst:2002:ets]
+This interest in resuscitating previous designs also has motives that
+stand apart from simple typographic archaeology. Revivals are routinely
+issued by vendors and foundries to protect the rights of the rights
+holder when a typeface's copyright is about to expire. Such is the case
+with Avenir LT, Adobe Garamond and Frutiger Next -- which is what allowed
+Linotype to retain the rights to the original design and be able to sue
+Microsoft in the Segoe case.
+
+Revivals reside in a kind of legal no man's land -- some, like Arial
+(which is more a tweak than a declared revival), manage to stick around
+while others, like Segoe, raise copyright lawyers' eyebrows.
+
+Given these two aspects, one cannot but wonder that a type designer
+wouldn't be thrilled with this perspective. One has also to question why
+there is such a rift in reactions between font tweaking and font
+revivals, which can be interpreted as no more than corporate font
+tweaking. A practical example of this is MyFonts.com's description of
+the Avenir LT font 
+% (link, down the page) 
+-- a "recut version of Avenir",
+stating that "The 'LT' was added to the name as the metrics differ from
+the original version". This definitely corresponds to Smeijer's
+description of font tweaking, despite the fact that the name change
+wasn't intended to avoid legal troubles, but to assert the brand of the
+author of the revival. What is a revival, then, other than a corporate
+sanctioned font tweak?
+
+
+Free software and Type Design
+-----------------------------
+
+So far, we've kept our focus on corporate approaches to type design. As
+of 2008, the digital design tools field is dominated by Adobe Systems
+Inc. with its Creative Suite bundle of applications targeting photo,
+video, vector and sound editing. Adding to that the fact that Adobe
+software is the staple in most design courses in Europe and the United
+States, it can be stated that we are, indeed, faced with stifled
+possibilities when choosing digital creative tools, a monoculture of
+sorts. Although there have been parallel efforts from the free software
+and open source world to create alternatives, Adobe's sole dominance in
+this market remains unquestioned.
+
+Going back to type design, we could point Donald Knuth's TeX and Metafont
+as the best examples of an alternative approach to designing type on computers.
+
+Having come from the UNIX crowd, and hailed as one of its most highly
+regarded representatives, Donald E. Knuth reflected this background in
+his efforts to create a simple system for dynamic typesetting. TeX was
+first released in 1989, with several new versions being introduced
+during the '90; its most recent update was released on 2002. It is still
+very popular among the academic and scientist audience for typesetting
+papers, since TeX excels at accurately setting and displaying
+mathematical formulae and including them in book layouts.
+
+For an Adobe software user, TeX will definitely look alien, not least
+because of its lack of a graphical user interface, instead relying on
+command line input for operating. Instead of the mainstream point and
+click, drag and drop way of laying out and manipulating text and image
+boxes, TeX is meant for processing specifically crafted plaintext files,
+in turn outputting a printer-ready, typeset document. While requiring a
+rather steep learning curve, TeX introduced a model of digital
+typesetting that would be mostly put aside by the software houses that
+produced GUI page layout editors.
+
+Metafont was designed to be the font handling backend for TeX. It is
+based on a modular method of generating letterforms, based on
+instructions fed to the Metafont processor, which outputs valid font
+files for use in TeX documents. Computer Modern, the hallmark font of
+TeX, was created by Knuth using Metafont, and sports variable parameter
+such as stroke thickness, serif dimensions and shape contrast. Thus, by
+tweaking the parameters, one could create endless variations on letterforms,
+treating them as data to be manipulated, in contrast with the commercial
+model of fonts as unique authored pieces.
+
+Due to its lack of a GUI -- an absence that a seasoned hacker would see
+as a good feature -- TeX and Metafont presented little appeal for business
+opportunities. As such, these two programs remain largely unknown to the
+non-computer scientist audience since, among other reasons, you won't
+easily find a book introducing TeX as you would a book on Adobe
+InDesign.
+
+Still, the Metafont model can be the foundation of a new model of regarding
+typography and type design. Because of its simple input/output
+architecture, it is only missing a proper interface for easy operation,
+along with compatibility with existing formats. Other projects, such as
+MetaType1 or LiveType -- not the Apple product, but a parametric approach
+to typeface construction, presented in 1997 at SIGGRAPH -- show that a
+modular, open-ended approach to fonts is possible and has definite
+advantages over the manual creation process that's the norm in
+applications such as Fontographer, FontLab or its comprehensive free
+software alternative, Fontforge.
+
+
+Technology on Arcane Standards
+------------------------------
+
+The current terminology used in typography is also a clear signal of how
+it still depends on former traditions instead of adapting to its new
+medium. Digital typography's rules and terminology have been determined
+by its physical counterparts, and that still hasn't changed. For
+example, we still talk about "leading" -- a term for the spacing between
+lines that takes its name from the lead strips used for that purpose --
+although the term "line spacing" is gradually replacing it in user
+oriented applications such as Microsoft Word.
+
+Another example -- while type foundries got that name because of their
+heavy use of metal, single person studios with Macs are still referred
+to as "foundries". And fonts are described as being "cut" or "cast",
+more than "digitised". We talk about "digital versions" instead of
+digital copies, perhaps to preserve their history and soul and not treat
+them as just another file in a user's computer.
+
+Although we can forgive this persistence in using traditional
+typesetting terms, it also is a symptom that the type activity and
+business have failed to redefine themselves for the digital medium. On
+the other hand, these examples can actually be interpreted as quite an
+artificial and linguistic way to value the work of the typographer,
+probably with the aim of distinguishing between "true" type designers
+and mere font tweakers, and not let "true" typography be contaminated by
+the creeping tweaker threat.
+
+
+What Now?
+---------
+
+Given that digital type has been hanging around for thirty years, the
+progress in improving on font technology and taking advantage of the
+digital medium has been rather low. On the other hand, type designers in
+general (with the exception of rare cases such as Emigre or Letterror)
+have not tried to get to grips with font technology, rather limiting
+themselves to drawing and tracing their designs in Fontographer and
+selling them on major font vendors (MyFonts, Monotype) or independent
+ones (such as T26 and Veer). Worse still, issues of originality and
+plagiarism have been discussed in type design circles, but corporate
+entities break them routinely while trying, at the same time, to assert
+their rights in courts.
+
+The difference between major and minor vendors is not substantial:
+though distributors like Veer try to create a community and improve on
+the users' and designers' experience through research, designer
+spotlights and support. Despite these efforts, digital typefaces are
+still regarded in an esoteric limbo between metal characters and
+abstract data. And though the price tags have steadily declined (and
+recently stabilised around the 20 dollar range in general), it is
+revealing that despite business models such as iTunes or Flickr,
+collaborative methods in producing typefaces (many typographers are
+still lone workers) haven't yet developed, and file formats have changed
+so little in the face of recent, sleeker solutions like XML and SVG.
+There's little hope for innovation: the Adobe-Macromedia and
+Monotype-Linotype mergers have paved the ground for a corporate
+monoculture ruled by software and typeface vendors and distributors,
+with very little margin for competition.
+
+We can also point a mutual apathy between commercial developers and
+designers as a possible reason -- type designers try to adapt to outdated
+ways -- file formats and type tools -- to create their works, while
+developers lag in keeping up to date to new breakthroughs. Limiting the
+tools is limiting the imagination.
+
+On the other hand, font vendors have an incredibly contradictory stance
+regarding font rights, using copyright law to protect their products
+while violating it to borrow from others'. The different fate of Arial
+and Segoe begs the question: are the vendors and distributors handling
+this as it should be handled?
+
+This model's obvious contradictions definitely invite serious
+questioning as to the legitimacy and validity of the current type market
+and business model, which cannot effectively release its standards and
+technology because of the threat of competition. It is therefore left to
+users, designers and independent developers to shape a new way of
+defining type and creating effective communication channels between
+providers and users, be it through online communities or real world
+discussion in type designer's circles and colleges.
+
+If type design takes the free/open source route -- and the wheels are
+already in motion -- how can type vendors sustain their profit margins
+and their markets? With open fonts and free font editing software
+around, there would be little doubt that typography can take a very
+interesting turn. Could we also see the open approach and the business
+approach coexist, catering to specific users' needs, whether amateur or
+professional? And, finally, will the type world come to terms with the
+fact that appropriation and use of other's ideas have defined the
+activity since its beginnings, and that it implies a serious rethinking
+of concepts such as authorship, plagiarism and author's rights?
+
+% SWAPHERE: Metafont \metafont
+% SWAPHERE: TeX \tex
+
