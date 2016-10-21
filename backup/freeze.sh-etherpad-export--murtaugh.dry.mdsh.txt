@@ -1,0 +1,459 @@
+
+
+% TITLE: Do (not) Repeat Yourself
+% BY: Michael Murtaugh
+% LICENSE:
+
+
+% --------------------------------------------------------------------------- %
+% TEXINJECT: \begin{quotewwwsite}
+
+Duplication (inadvertent or purposeful duplication) can lead to 
+maintenance nightmares, poor factoring, and logical contradictions.
+
+Duplication, and the strong possibility of eventual contradiction,
+can arise anywhere: in architecture, requirements, code or documentation.
+The effects can range from mis-implemented code and developer confusion 
+to complete system failure.
+ 
+The Mars Climate Orbiter was lost due to a semantic contradiction:
+part of the system was working in Imperial units, another in Metric.
+There was a duplication of knowledge (implicit units),
+and the duplicates were out of step.
+
+**The Problem:**
+ 
+But what exactly counts as duplication? CloneAndModifyProgramming is
+generally cited as the chief culprit (see OnceAndOnlyOnce, etc.),
+but there is more to it than that.
+Whether in code, architecture, requirements, documents or user documentation,
+duplication of knowledge -- not just text -- is the real culprit.
+ 
+**Therefore:**
+ 
+The DRY (Don't Repeat Yourself) Principle states:
+
+> Every piece of knowledge must have a single, unambiguous,
+> authoritative representation within a system.    
+ 
+[...]
+ 
+It's a battle of two really strong urges -- OnceAndOnlyOnce vs avoiding
+PrematureGeneralization. Do I duplicate for now and try to live with the
+duplication for a while, or violate YagNi (YouArentGonnaNeedIt) and come up
+with some half-cocked generalized solution? It's a tough one, because almost
+all programmers hate duplication; it's a sort of primordial programming
+urge.[^]{See the page 'Don't Repeat Yourself' http://c2.com/cgi/wiki?DontRepeatYourself
+(accessed 12.12.2013), or, for an archived snapshot version circa 2005 see:    
+http://web.archive.org/web/20050403083926/http://c2.com/cgi/wiki?DontRepeatYourself    
+(accessed 13.06.2013).}
+
+% TEXINJECT: \end{quotewwwsite}
+% --------------------------------------------------------------------------- %
+
+% NEWPAGE:
+
+This long quote is the opening section of the page titled 'Don't Repeat
+Yourself' (DRY) on the Portland Pattern Repository (PPR). The pages of
+the website, devoted in part to the practice of programming, are heavily
+cross-linked, forming a messy tangle of programming paradigms and self-help
+tips for improving code with CamelCased hyperlinks,[^]{CamelCased
+hyperlinks are links in which capitalized words are merged into compound words,
+sometimes used in Wiki markup languages for key terms that become automatically
+linked to other Wiki pages. See the entry on Wikipedia:
+http://en.wikipedia.org/wiki/CamelCase (accessed 13.06.2013).} often in the
+form of an imperative such as RefactorMercilessly, PutThingsWhereYouLook
+and SeparateTheWhatFromTheHow. At the same time it contains seemingly
+contradictory meta-tips that warn against SilverBullet and OneTrickPony
+solutions. Despite the apparent clarity and appeal for _authoritativeness_,
+later in the same page, the discussion presented above takes on a slightly
+different tone:
+
+
+
+% --------------------------------------------------------------------------- %
+% TEXINJECT: \begin{quotewwwsite}
+
+**But:**
+
+It may take time and effort to select and/or create a definitive
+source -- see YouArentGonnaNeedIt.    
+-- [DickBotting](http://c2.com/cgi/wiki?DickBotting)
+ 
+**Hmm.** 'Every piece of knowledge must have a single,
+unambiguous, authoritative representation within a system'.
+Is this not a reasonable definition for a Singleton?
+ 
+_No. DRY refers to your source code, not your running program.
+ThirdNormalForm is the analogous principle for data._
+ 
+Ugh. I think you're both barking up the wrong trees there.
+It doesn't refer to source code, nor to the running program.
+It refers to a system.
+Needn't have computers involved at all.
+[^]{See the page 'Don't Repeat Yourself'.}
+
+
+% TEXINJECT: \end{quotewwwsite}
+% --------------------------------------------------------------------------- %
+
+
+The PPR is the product of a particular community of programmers. It is in fact
+the 'mother of all wikis', and was created (and maintained) by Ward Cunningham,
+who coined the term 'wiki'. The fact that the discourse of the PPR takes place on,
+and came about in conjunction with the development of, the wiki, is significant.
+While superficially a wiki page provides for a kind of 'single source', its great
+strength lies in the fact that by containing the entire history of edits, by
+permitting editing by anyone and by allowing differences of opinion to be made
+explicit, the wiki itself is far from being free of contradiction or duplication.
+
+The language of seeking 'single, authoritative, unambiguous' knowledge by the
+architects of the software that would go on to inspire the more popular Wikipedia
+project seems to sadly devalue its own core strengths. While the prescriptive nature
+of the DRY discourse appeals to a programmer's sense of utility and efficiency, it
+also seems to be in denial of the very nature of the practice it aims to serve.
+
+Programmers walk a fine line between seeking ecstatic singularities while at the
+same time enduring dutiful and crushing conformity to correctness and convention,
+performing a practice that is by nature highly repetitive. Programmers often have to
+search for a balance between considering the details of a particular situation and
+flying into euphoric quests for abstraction, desiring code that goes beyond the
+satisfaction of some particular need into the ecstatic realm of the unforeseen and
+unexpected. The quasi-ejaculatory nature of this process is evident in another of
+the PPR principles, that of avoiding 'premature generalization'.
+
+% Figure 6.1 Don't Repeat Yourself
+% Source: Unknown.
+
+Popular web programming frameworks, such as Ruby on Rails and Django,
+pride themselves on adhering to the 'principle of DRY'. The Rails framework
+initially promoted itself as a response to the drudgery of website programming
+and was unique in listing the 'joy' of using it, among its other technical features,
+as a way of winning over programmers: 'Rails is a full-stack, open-source web
+framework in Ruby for writing real-world applications with joy and less code
+than most frameworks spend doing XML sit-ups'.[^]{The 'Ruby on Rails' website soon
+after its launch in 2005 -- archived link,
+http://web.archive.org/web/20050601015146/http://www.rubyonrails.org/
+(accessed 13.06.2013).} Such 'joy' is contrasted with repetition, something much
+less desirable and seen as valueless, with its essential qualities remaining
+unrecognized.
+
+However, it is often the programmers' recognition of a pattern already
+learned through repetition that is most compelling in the use of a particular
+framework. In the same way that one feels lost and isolated in the woods and
+then reassured when one comes across a well worn path, frameworks are
+condensations of practice and reinforce a sense of community among their
+practitioners. In contrast to the practice of belonging, the fun to be had in the
+pioneering discovery of the novel or unique is isolating. In addition to this,
+repetition is intrinsically intertwined with the development of the craft of
+programming.
+
+
+% --------------------------------------------------------------------------- %
+
+> [...Skill] development depends on how repetition is organised. This is why in
+> music, as in sports, the length of a practice session must be carefully judged:
+> the number of times one repeats a piece can be no more than an individual's
+> attention span at a given stage. As skill expands, the capacity to sustain
+> repetition increases. In music this is the so-called Isaac Stern rule, the great
+> violinist declaring that the better your technique, the longer you can rehearse
+> without becoming bored. There are 'Eureka moments' that turn the lock in a
+> practice that has jammed, but they are embedded in routine.
+> [@[38.]sennett:2009:craftsman]
+
+% --------------------------------------------------------------------------- %
+
+
+There can be a tangible pleasure in quickly typing out the template of a
+familiar programming structure. Far from celebrating the birth of a unique new
+creation from scratch, it is rather a joyful expression of the pattern that
+increasingly becomes physically embodied in the programmer him/herself. Here,
+the material that one once struggled with, with time becomes something
+ingrained in 'one's fingers'.
+
+On the surface, the black box of abstraction promises the programmer that if
+he/she can only get the abstraction right, he/she will never have to deal with
+a particular kind of problem again. In fact, working with abstraction is a
+gradual process, inclusive of struggling repeatedly with the material of a
+problem and, thus, acquiring the skill that would feel 'natural and easy' by
+becoming a part of the body of the programmer. Rather than removing the problem,
+repetition produces increased capacity to deal with the problem and, thus, the
+problem can be repeatedly successfully tackled. The formalization of abstraction
+in the form of code (the syntax and naming of a function object, for instance)
+can be seen as merely a culmination of the necessary prerequisite of practising
+a repetitive process that made its recognition and recall possible.
+
+Working with recursion is a particular kind of programming skill that often
+takes a great deal of practice before it is fully mastered. Once it is learned,
+there is a self-effacing wonder in watching 20 lines of code dissolving down to
+ten, then five, as all the 'edge cases' that could possibly be imagined map onto
+the few folds of a particular recursive structure. Similar to the pleasure of
+kneading dough, working with recursion is about the almost miraculous
+transformation of code through repeatedly working it.
+
+Repetition is an essential part of the process of recognizing and constructing
+abstractions. The fact that experienced programmers might directly write code
+using concise and 'correct' abstractions is more a reflection of their experience
+than an absolute (and transferable) measure of quality.
+
+
+
+## Code smells
+
+
+% --------------------------------------------------------------------------- %
+
+> If you are aware of CodeSmells, and duplicate code is one of the strongest,
+> and you react accordingly, your systems will get simpler. When I began
+> working in this style, I had to give up the idea that I had the perfect
+> vision of the system to which the system had to conform. Instead, I had to
+> accept that I was only the vehicle for the system expressing its own desire
+> for simplicity. My vision could shape initial direction, and my attention to
+> the desires of the code could affect how quickly and how well the system
+> found its desired shape, but the system is riding me much more than I am
+> riding the system.[^]{See the page 'Once and Only Once',
+> http://c2.com/cgi/wiki?OnceAndOnlyOnce, citation signed 'KentBeck,
+> feeling mystical, see MysticalProgramming'-- another page at PPR
+> (accessed 13.06.2013).}
+
+% --------------------------------------------------------------------------- %
+
+My great Aunt Margaret, a piano teacher and former Catholic school principal,
+would implore all overnighting nieces and nephews to take a shower in the
+morning, to counter the 'beddy smell'. Naive as I was, it was only years
+later that it occurred to me how the term 'beddy' was in fact a thinly veiled
+euphemism for the less comfortable subject of one's 'body'. Just as my Aunt
+displaced the body by the bed, the struggles of programming often get
+projected from programmers onto the code. Bad code has a smell, independent
+desires and an ability to ride or be ridden by the programmer. Repetition can
+be experienced as a tiring physical exercise.
+
+In addition to devaluing repetition as something smelling 'bad', something to
+be either absolutely avoided or at best tolerated, the transference of a smell
+to code is also indicative of another set of displacements, such as the code
+being separated from the practice of programming, and the practice of
+programming being separated from the physical effort required of the body of
+the programmer him/herself. Coding can be, and often is, physically exhausting
+% work, as illustrated by the passage below:
+work, as illustrated by the following passage:
+
+% --------------------------------------------------------------------------- %
+
+> Just got off the phone with F. Feeling slightly remorseful at being kind
+> of pissy and short. Maybe need to write an email: Sorry I was vague.
+> Orality impaired -- I could better write an email. I've been coding intensely
+> over the past 4 days. I was only half-listening as F ran down the planning
+> for the workshop -- discounting that information that I already knew (annoyed
+> at the redundancies)... a Borg voice speaks to me from the collective: this
+> information is not relevant; this conversation is inefficient. I'm having
+> difficulty following what's being said.
+
+> Thinking of the 'code smells' -- after these long stretches of coding the
+> smells take a physical form -- though it's not coming from the code …
+> I'm unable to tell if the unpleasant odors I seem sporadically aware of are
+> originating from rotting garbage in the bin or from me. Reminiscent of baby
+> diapers. Probably the garbage bag … must be.
+
+> Dim the screen -- too bright. On with coding...
+
+> I can no longer come up with meaningful names for things. Have started using
+> names like `aa`, `bb`, and `aaa`. Switching between these abstract symbols
+> seems easier; reduced semantic overload = less need to think.
+
+> Can no longer remember what task I am currently working on. I start writing
+> down tasks not 'to do', but what I'm supposedly 'doing now', so that each
+> time I slip, I can refer to the note. Need to update the model and regenerate
+> the database before going to bed. Before I forget why it's important.
+> [^]{Personal notes written during programming work.}
+
+% --------------------------------------------------------------------------- %
+
+
+For programmer Will Crowthers, commenting on his hobby below, rock
+climbing does not merely provide an escape from programming:
+
+
+% --------------------------------------------------------------------------- %
+
+> You would have to forget about everything. When you're rock climbing, you
+> must not think about anything but the rock climbing or you're apt to get
+> killed. And it just wipes everything out for a day or two or whatever it is.
+> However long you're off climbing, which tended to be a weekend, you don't
+> think of much else.[@[p.4]crowther:1994:interview]
+
+% --------------------------------------------------------------------------- %
+
+
+Crowthers' 'extreme hobby' parallels the intensity of his experience of
+programming itself. He needs an escape with a sufficiently matching intensity
+to give him a break from that of the engrossingly 'disembodied' practice of
+coding. Crowthers is best known for programming the early computer game
+classic 'Collossal Cave Adventure' (also known as 'Adventure') in his spare
+time while working at the company BBN Technologies in Massachusetts in the
+late 1970s. A pioneering example of an interactive program that simulates the
+experience of cave exploration, the writing of the game was, according to
+Crowthers, in part an attempt to reconnect to his children after an
+estrangement from his wife whom he had met while caving.[@crowther:1994:interview]
+
+‘Extreme Programming', a concept whose origin and development can be traced to
+Kent Beck on the PPR,[^]{See http://c2.com/cgi/wiki?ExtremeProgramming
+(accessed 13.06.2013).} has become an important movement concerning rethinking
+traditional approaches to software programming practice. Beck's choice of the
+term 'extreme programming' clearly invokes 'extreme sport', and indirectly
+references the often frustrated desires of a programmer to experience, in
+their practice of programming, the intensity of physical experience such as 
+that described by Crowthers.
+
+According to the principles of DRY, it would seem that the job of a
+programmer is to detect patterns and to fold these into redundancy-free
+perfection. This suggests an ideal, Plato-inspired practice of programming,
+wherein the programmer, after meditative moments of reflection, is able to
+effortlessly condense the chaotic cacophony of the reality around him/herself
+into a stream of precise expressions, gliding from unique formulation to
+unique formulation and never looking back.
+
+People imagine that computer programming is logical, a process similar to the
+one of fixing a clock. Nothing could be further from the truth. Programming is
+more akin to an illness, a fever, an obsession. It is like riding a train and
+never being able to get off.[@ullman:1995:outoftime]
+
+Programmer and journalist Ellen Ullman compares software design to using
+methamphetamine, as the 'speed high is the only state that approximates the
+feel of a project at its inception. Yes, I understand. Yes, it can be done. 
+Yes, how straightforward. Oh yes, I see'. The trip is, however, brought to an
+abrupt end when 'you write some code, and suddenly there are dark, unspecified
+areas'.[@[p.21]ullman:1997:cttm]
+
+Ullman's description of how the transition from the plan to the writing of
+code drops from the luminous clarity of a pre-implementation specification
+into the dark areas of the unspecified seems to invoke something of the fear
+and pleasure of Crowther's cave explorations. The experience of working with
+code can be an exhilarating modulation between the light and the dark, between
+losing and regaining one's footing, between the logical and the absurd.
+
+
+
+## Do repeat yourself
+
+% --------------------------------------------------------------------------- %
+
+> There is always a reason for missing an easy toss. Repeat toss and you will
+> find it. If you rap your knuckles against a window jamb or door, if you
+> brush your leg against a desk or a bed, if you catch your feet in the
+> curled-up corner of a rug, or strike a toe against a desk or chair go back
+> and repeat the sequence. You will be surprised to find how far off course
+> you were to hit that window jamb that door that chair. Get back on course
+> and do it again. How can you pilot a spacecraft if you can't find your way
+> around you own apartment? It's just like retaking a movie shot until you
+> get it right. And you will begin to feel yourself in a film moving with ease
+> and speed. But don't try for speed at first.[@[p.386–92]burroughs:1999:virus]
+
+% --------------------------------------------------------------------------- %
+
+
+In the short story 'The Discipline of DE', William Burroughs, in the guise of
+a retired Colonel Sutton-Smith, describes to the reader the joys of living a
+life according to the prescripts of 'Do Easy'. The text is written primarily
+in the second person: a parodic fusion of self-help guide and military pep
+talk. While DE's 'do repeat yourself' paradigm would ostensibly seem to oppose
+the 'don't' of DontRepeatYourself, the two have a lot in common. When Burroughs
+writes: 'once you find the easy way you don't have to think about it, ...it
+will almost do itself',[@[p.390]burroughs:1999:virus] one can hear echoes of
+Kent Beck's 'mystical' musings of a systems' 'own desire for simplicity',
+cited above. DE's message of 'repeat until perfection' captures much of the
+reality of software design practice: a frequently obsessive attention to detail
+and process, a tendency towards excessive (self-) optimization and an
+aesthetization of efficiency.[@[p.87–92]fuller:2006:elegance] The promises of
+ease and speed could be taken straight from the copy of a new programming
+framework.
+
+
+% --------------------------------------------------------------------------- %
+
+> Everyday tasks become painful and boring because you think of them as WORK
+> something solid and heavy to be fumbled and stumbled over. Overcome this
+> block and you will find that DE can be applied to anything you do even to
+> the final discipline of doing nothing. The easier you do it the less you
+> have to do. He who has learned to do nothing with his whole mind and body
+> will have everything done for him.[@[p.391]burroughs:1999:virus]
+
+% --------------------------------------------------------------------------- %
+
+
+Burroughs' reductio ad absurdum reveals a dark side to DRY in its relation
+to a larger software industry. In a system where code is a product to be
+protected and exploited commercially, the efficiency of the process tends to
+eliminate the usefulness of the programmer; truly efficient coding would lead
+to a point where the coder him/herself becomes 'redundant', expendable.
+Burroughs' final image of the mastery of doing nothing leading to a position
+of privilege and power concisely reveals the implicit motivations behind much
+of the venture capital interest in software development.
+
+The GNU project was the response of one programmer, Richard Stallman,
+to what he felt were the injustices of a software industry that separated the
+programmer from the product of his/her labour through nondisclosure agreements
+and restrictive software licenses. The GNU project and the ensuing Free
+Software movement, encourage a practice of software development whereby
+code is released under a license that ensures that it remains not only freely
+usable, but also reworkable and redistributable by subsequent programmers. In
+‘freeing' the code, the General Public License (GPL) shifts value from the code
+to the surrounding practice. The value of free software is the community of
+developers, documenters, researchers, designers and users which is rather than
+the 'shrink-wrapped product' or 'killer app' _per se_.
+
+Even with free software's fundamental shift in value from code to community,
+Stallman's early manifesto still includes a 'DRY' stance as one of the core
+'benefits' of the project. '[The GNU project] means that much wasteful
+duplication of system programming effort will be avoided. This effort can go
+instead into advancing the state of the art.'[@stallman:1985:manifesto]
+As with the PPR, arguments for efficiency seem to be inevitably made even
+when they contradict the realities of the practice.
+
+The free software community is a rich tapestry of duplication, forked
+projects and reinventions of the proverbial wheel. The term 'yet another'
+is common in the names of free software projects as a humorous way of
+acknowledging (and gently atoning for) the redundancy.[@wikipedia:2013:ya]
+Recursion and contradiction play a substantial role in programmer humour.
+The GNU name itself (standing for 'GNU's not UNIX') is a kind of nerd joke,
+doubly contradictory both as a version of UNIX that is not UNIX, and 
+inherently incomplete in its recursive definition. In a similar way the
+very formulation of 'Don't Repeat Yourself' as a kind of a programmer's
+mantra, and thus to be recursively repeated, is also absurd.
+
+The negative implications of separating code from practice are many:
+formal software instruction is pervasively discouraging to beginners
+and the 'uninitiated'.[^]{See, for instance, [@margolis:2003:unlocking]
+A quote from Papert can also be useful here: "Children do not follow a
+learning path that goes from one _true position_ to another, more
+advanced _true position_. Their natural learning paths include _false
+theories_ that teach as much about theory building as true ones. But in
+school _false theories_ are no longer tolerated. [...] Our educational
+system rejects the _false theories_ of children, thereby rejecting
+the way children really learn".[@papert:1993:mindstorms]}
+The labour of software design is easily exploitable and software
+professions are precarious, whereas the economic forces promote the
+fragile and decontextualized product of code and ignore its larger
+sustaining community.
+
+As a programmer, I 'get' DRY and I value Beck and the PPR in their
+contributions to software and to the discussion of software practice.
+The problem is that maxims, such as **‘Don't repeat yourself'** only work
+when they are not taken literally, and when their implicit values are
+questioned. There is a continual need to (re)value software practice and
+avoid reducing it to a kind of 'shortest path' problem.
+
+Software practice includes logical contradiction, necessitates 'bad' code
+and requires repetition. When, in the definition of DRY, the '_duplication
+of knowledge, not just text_' is defined as a core part of '_the problem_'
+to be solved, it exposes an impoverished conception of knowledge isolated
+from practice. In software design, as in other forms of cultural discourse,
+redundancy and repetition are essential to the necessarily incomplete
+processes of knowledge production, practice, circulation and maintenance.
+
+
+
+% S!WAPTHISHERE: {quote} {dryquote}
+% S!WAPTHISHERE: \emph{ \mmdryit{
+% TREATCAMELCASE:
+
+
