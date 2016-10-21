@@ -1,0 +1,309 @@
+% THISPAGESTYLE: empty
+Lorem ipsum dolor sit amet, consectetur adipisici elit,
+sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco
+laboris nisi ut aliquid ex ea commodi consequat.
+Quis aute iure reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint obcaecat
+cupiditat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+
+% ---------------------------------------------------------------------------------------------------------------------- %
+% TABLEOFCONTENTS:
+% ---------------------------------------------------------------------------------------------------------------------- %
+
+% DOUBLEPAGE: var/doppelseiten/02.pdf
+
+% GRAFIK: var/single/02_LGM2013_Flowchart_PDF2PS2PDF.pdf fullpage 0.8
+% GRAFIK: var/bitmaps/03_MAKEART2010_Printposter-02.jpg fullpage 1.1
+
+% GRAFIK: var/single/02_LIWOLI2010_Flowchart_PDF2PS2PDF.pdf fullpage 0.8
+% GRAFIK: var/single/02_LIWOLI2010_Flowchart_PDF2PS2PDF.pdf fullpage 1.2
+% G!RAFIK: var/single/02_LIWOLI2010_Flowchart_PDF2PS2PDF.pdf fullpage 3
+% GRAFIK: http://www.forkable.eu/generators/lisl-p/o/non-free/lisl-A3_110000011-UBWUBWUBW_NOV-045.pdf fullpage 0.8 0 0.5pt
+% GRAFIK: var/single/02_LGM2013_Flowchart_PDF2PS2PDF.pdf fullpage 1.2
+
+% DOUBLEPAGE: var/doppelseiten/01.pdf
+
+
+% =================================================================== %
+
+% TITLE: a chair is not a chair, a house is not a home
+
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-00b13747ff.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-07d339723f.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-0919e7b8fd.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-0982e1c045.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-0a78144c29.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-0f99da8008.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-118739b65c.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-18f24d6ff8.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-1b60a0bfaa.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-1ea2a2ed64.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-21931f28ee.pdf inline 0.2
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-28b579b878.pdf inline 0.2
+
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-2b9dc5b06c.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-2e4e42bccf.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-382be8017d.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-3dd5b6caf0.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-40a826f282.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-40bc7ebac5.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-40d662d95f.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-4248f9a844.pdf inline 0.3
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-439cad8add.pdf inline 0.3
+
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-d1f396cb06.pdf fullpage 0.8 0 0
+
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-ceb6fa6b39.pdf inline 0.2 0 0.1pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-00b13747ff.pdf inline 0.2 0 0.2pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-d501e59d5e.pdf inline 0.2 0 0.3pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-daf7eacef3.pdf inline 0.2 0 0.4pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-dc6d79d8ee.pdf inline 0.2 0 0.5pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-dfba160b9f.pdf inline 0.2 0 0.6pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-e605ceca54.pdf inline 0.2 0 0.7pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-e68a5bd415.pdf inline 0.2 0 0.8pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-eb98b1261e.pdf inline 0.2 0 0.9pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-f0d486f080.pdf inline 0.2 0 1.0pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-f4cc6b9324.pdf inline 0.2 0 1.5pt
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-f63bbc3892.pdf inline 0.2 0 2.0pt
+
+% GRAFIK: http://vektordb.lafkon.net/2010/hausen/LAFKON_100817-439cad8add.pdf fullpage 2 -180
+
+
+% =================================================================== %
+% PROCESSING CMYK
+% =================================================================== %
+
+% INCLUDEPAGESPLUS: var/p5-cmyk/1399333442645.pdf  1,5,11,41,55,62,65,66,71,81,83,91 1 offset=0_0 trim=0_0_0_0 title=gradients_from_outer_space
+
+% INCLUDEPAGESPLUS: var/p5-cmyk/1399333328852.pdf 92,43,14,5,27,29,32,50,49,97,98,88,72,94 1 offset=0_0 trim=0_0_0_0 title=
+
+% INCLUDEPAGESPLUS: var/p5-cmyk/1415184928057.pdf 1-34 0.8 offset=20_0 trim=0_0_0_0 title=not_swiss_watches
+
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415193869366.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=over_print_over_print_over_print_over_print
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415193885960.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415193945729.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415193958180.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415194302486.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415194306257.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415194328289.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+% INCLUDEPAGESPLUS: var/p5-cmyk/overprint/overprint-1415194359779.pdf - 0.75 offset=20_0 trim=0_0_0_0 title=
+
+% TITLE: cmyk dre(ie)ck
+
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186096446.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186129823.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186148706.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186177878.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186185334.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186198570.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186209269.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186243228.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186265244.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186271185.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186292906.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186315730.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186347121.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186367711.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186385212.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186397483.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186413816.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186425852.pdf fullpage 0.8
+% GRAFIK: var/p5-cmyk/truchetTiling/1415186453096.pdf fullpage 0.8
+
+
+% =================================================================== %
+
+% DOUBLEPAGE: var/doppelseiten/edl-01.pdf
+
+% A user should not be able to shoot himself in the foot
+% -----------------------------------------------
+% http://pad.constantvzw.org/p/conversations.avox
+
+% C!OVERGRAFIK: var/single/d5b58db89c_CONFORMED.pdf
+
+% COVERGRAFIK: http://github.com/lafkon/var.release.conversations/raw/master/var/separators/___/20140818-140032_CS_petter.pdf
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.avox/export/txt
+
+% =================================================================== %
+
+% DOUBLEPAGE: var/bitmaps/IMG_0330.jpg
+% DOUBLEPAGE: var/bitmaps/IMG_0415.jpg
+% DOUBLEPAGE: var/bitmaps/IMG_0339.jpg
+% DOUBLEPAGE: var/bitmaps/IMG_1194.jpg
+% DOUBLEPAGE: var/bitmaps/IMG_1199.jpg
+
+% GRAFIK: var/bitmaps/IMG_1205.jpg fullpage 1.1 -90 0
+% GRAFIK: var/bitmaps/IMG_1211.jpg fullpage 1.1 -90 0
+
+% GRAFIK: var/bitmaps/IMG_1205_CMYK+LEVEL.jpg fullpage 1.1 -90 0
+% GRAFIK: var/bitmaps/IMG_1211_CMYK+LEVEL.jpg fullpage 1.1 -90 0
+
+% GRAFIK: var/bitmaps/IMG_1205_GRAY.jpg fullpage 1.1 -90 0
+% GRAFIK: var/bitmaps/IMG_1211_GRAY.jpg fullpage 1.1 -90 0
+
+% GRAFIK: var/bitmaps/IMG_1144.jpg fullpage 1.1 -90 0
+% GRAFIK: var/bitmaps/IMG_1158.jpg fullpage 1.1 -90 0
+
+% =================================================================== %
+
+% I think the ideas behind it are beautiful in my mind
+% -----------------------------------------------
+% http://pad.constantvzw.org/p/conversations.gwilliams
+
+% COVERGRAFIK: http://github.com/lafkon/var.release.conversations/raw/master/var/separators/___/20140818-144405_CS_petter.pdf
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.gwilliams/export/txt
+
+
+% =================================================================== %
+
+% DOUBLEPAGE: var/bitmaps/nase_GRAY.jpg
+
+% GRAFIK: var/bitmaps/schlieren1_GRAY.jpg fullpage 1.1 90 0
+% GRAFIK: var/bitmaps/schlieren2_GRAY.jpg fullpage 1.1 90 0
+
+% GRAFIK: var/bitmaps/schlieren1_GRAY.jpg fullpage 2 180 0
+% GRAFIK: var/bitmaps/schlieren2_GRAY.jpg fullpage 2 180 0
+
+% GRAFIK: var/bitmaps/IMG_1232.jpg fullpage 1.1 90 0
+% GRAFIK: var/bitmaps/IMG_1240.jpg fullpage 1.1 90 0
+
+% GRAFIK: var/bitmaps/IMG_9981.jpg fullpage 1.1 90 0
+% GRAFIK: var/bitmaps/IMG_1296.jpg fullpage 1.1 90 0
+
+% C!LEARTOLEFTPAGE:
+% C!LEARDOUBLEPAGE:
+
+% T!ITLE: cyan and magenta and yellow and black
+
+% INCLUDEPAGESPLUS: var/p5-cmyk/ertdfgcvb_cmyk.pdf - 0.8 offset=0_0 trim=0_0_0_0 title=cyan_and_magenta_and_yellow_and_black
+
+% DOUBLEPAGE: var/bitmaps/letratone_GRAY.jpg
+
+% =================================================================== %
+
+% CLEARTOLEFTPAGE:
+% CLEARDOUBLEPAGE:
+
+% TITLE: this/that
+
+  MARION:    
+ _It's a strange hobby. Curious._    
+  NORMAN:    
+ _Uncommon, too._    
+  MARION:    
+ _Oh, I imagine so._    
+  NORMAN:    
+ _And it's not as expensive as you'd think._     
+%_It's cheap really. You know -- needles and thread, sawdust._    
+%_The chemicals are the only thing that cost anything._    
+
+  MARION:    
+ _A man should have a hobby._    
+  NORMAN:    
+  (sitting back)_Well, it's -- it's more than a hobby.    
+  A hobby's supposed to pass the time -- not fill it._    
+% MARION:    
+%_Is your time so empty?_    
+% NORMAN:    
+%_No, uh -- well, I run the office, and uh, tend the cabins    
+% and grounds, and -- and do little errands for my mother    
+% -- the ones she allows I might be capable of doing._    
+% MARION:    
+%_Do you go out with friends?_    
+% NORMAN:    
+% (pause)_Well, uh--a boy's best friend is his mother._    
+  [^]{http://www.paradiselost.org/psycho.html}
+
+% CLEARDOUBLEPAGE:
+
+% SCALEFONT: 2.5
+
+  GEDIMAN    
+ _"Fork."_    
+  The memory comes, and she shakes her head wearily.    
+  RIPLEY (softly)    
+ _Fuck...._    
+  GEDIMAN (pretending to correct her)    
+ _"Fork."_
+  [^]{ http://www.script-o-rama.com/movie_scripts/a/alien-resurrection-script-screenplay-whedon.html}    
+
+% RESETFONT:
+
+% =================================================================== %
+
+% GRAFIK: var/bitmaps/komplett_MOD.tif fullpage 1 -90
+
+% GRAFIK: var/single/Plakat_AMROXIV-02_PDF2PS2PDF.pdf fullpage 0.8
+
+% DOUBLEPAGE: var/bitmaps/SP_A0102.jpg
+% DOUBLEPAGE: var/bitmaps/SP_A0054.jpg 
+
+% =================================================================== %
+
+% INCLUDEPAGESPLUS: var/color/lines.pdf - 1 offset=0_0 trim=0_0_0_0 title=lines
+
+% INCLUDEPAGESPLUS: var/color/lines.pdf - 2 offset=100_0 trim=0_0_0_0 title=
+
+% INCLUDEPAGESPLUS: var/color/lines.pdf - 1.5 offset=0_0 trim=200_200_200_200 title=
+
+% =================================================================== %
+
+% DOUBLEPAGE: var/bitmaps/SP_A0101.jpg 
+
+% =================================================================== %
+
+% Even when you are done, you are not done
+% -----------------------------------------------
+% http://pad.constantvzw.org/public_pad/conversations.clilley
+% COVERGRAFIK: http://github.com/lafkon/var.release.conversations/raw/master/var/separators/___/20140819-112656_CS_petter.pdf
+% INCLUDEMDSH: http://pad.constantvzw.org/p/conversations.clilley/export/txt
+
+% =================================================================== %
+
+% CLEARTOLEFTPAGE:
+
+% GRAFIK: http://www.forkable.eu/generators/r+w/o/__/LGM-2013_9fedc8a4_1368555649.pdf fullpage 0.8 0 0.5pt
+% GRAFIK: http://www.forkable.eu/generators/r+w/o/__/LGM-2013_9fedc8a4_1368532968.pdf fullpage 0.8 0 0.5pt
+
+% GRAFIK: http://www.forkable.eu/generators/r+w/o/__/LGM-2013_97c2f83f_1368551534.pdf fullpage 0.5 0  1pt
+% GRAFIK: http://www.forkable.eu/generators/r+w/o/__/LGM-2013_97c2f83f_1368551534.pdf fullpage 1.5 45 1pt
+
+
+% =================================================================== %
+
+% INCLUDEPAGESPLUS: var/color/overprint.pdf - 1 offset=0_0 trim=0_0_0_0 title=CMYK(scribus)
+
+% INCLUDEPAGESPLUS: var/color/richblack.pdf - 1 offset=0_0 trim=0_0_0_0 title=
+
+
+% INCLUDEPAGESPLUS: var/color/overprint.pdf - 0.5 offset=10_0 trim=0_0_0_0 title=SCALE
+
+% INCLUDEPAGESPLUS: var/color/richblack.pdf - 0.5 offset=10_0 trim=0_0_0_0 title=
+
+% INCLUDEPAGESPLUS: var/color/warmblack.pdf - 0.5 offset=10_0 trim=0_0_0_0 title=
+
+
+% INCLUDEPAGESPLUS: var/color/overprint.pdf - 0.8 offset=0_0 trim=100_100_100_100 title=TRIM
+
+% INCLUDEPAGESPLUS: var/color/richblack.pdf - 0.8 offset=0_0 trim=100_100_100_100 title=
+
+% INCLUDEPAGESPLUS: var/color/warmblack.pdf - 0.8 offset=0_0 trim=100_100_100_100 title=
+
+
+% INCLUDEPAGESPLUS: var/color/warmblack.pdf - 1 offset=0_0 trim=0_0_0_0 title=
+
+
+% =================================================================== %
+
+% TITLE: -
+% S!CALEFONT: 1.5
+
+Falsches Üben von Xylophonmusik quält jeden größeren Zwerg.
+
+% R!ESETFONT
+
+
+
