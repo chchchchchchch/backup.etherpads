@@ -1,0 +1,88 @@
+% INDEPENDENT SOFTWARE CULTURE
+% INTERDEPENDENT
+% ===========================
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+% INTERDEPENDENT PUBLISHING
+
+% SOFTWARE CULTURE?
+% DIGITAL CULTURE?
+
+% DECLARATION OF DEPENDENCE
+% CHOOSE YOUR DEPENDENCIES
+% https://en.wikipedia.org/wiki/Interdependence
+
+% https://en.wikipedia.org/wiki/McDonaldization
+
+%> Johnny's in the basement
+%> Mixing up the medicine
+> I'm on the pavement
+> Thinking about the government
+> [@dylan:1965:shb]
+
+> If you go back to the early Eighties there is absolutely no doubt that 
+> you could identify which buildings were designed using AutoCAD.
+> The proliferation of various geometric shapes and curves showed that
+> the tools became the form.
+> [@ijeh:2014:bimarchitecture]
+
+% http://archive.wired.com/wired/archive/6.12/negroponte.html
+% http://subsol.c3.hu/subsol_2/contributors3/casconetext.html
+% https://en.wikipedia.org/wiki/Postdigital
+
+
+% http://www.form.de/de/magazine/form260
+% Des Digitalen müde
+% Tired of the Digital
+
+> Despite technology making it both easier and cheaper to self-publish 
+> books, going down the independent road is nothing new.
+> In 1931 the author of The Joy of Cooking paid a local printing company
+> to print 3000 copies.
+> https://en.wikipedia.org/wiki/Self-publishing
+
+> Avoid software.
+> The problem with software is
+> that everyone has it.
+> [@mau:1998:manifesto]
+
+> Make your own tools.
+> Hybridize your tools in order to build unique things.
+> Even simple tools that are your own can yield entirely
+> new avenues of exploration.
+> Remember, tools amplify our capacities,
+> so even a small tool can make a big difference.
+> [@mau:1998:manifesto]
+
+> Make new words. Expand the lexicon.
+> The new conditions demand a new way of thinking.
+> The thinking demands new forms of expression.
+> The expression generates new conditions.
+> [@mau:1998:manifesto]
+
+> Think with your mind.
+> Forget technology.
+> Creativity is not device–dependent.
+> [@mau:1998:manifesto]
+
+% But is creativity device–independent?
+
+
+
+> “Spotify, the YouTube service, the Beats service,
+> that’s like going to a big grocery store, and you
+> can find any kind of food you like,” Mr. Jaar said.
+> “But for me personally, I prefer inviting someone
+> over to my house and cooking for them.
+> [^](http://www.nytimes.com/2014/07/07/technology/independent-music-labels-and-young-artists-embrace-streaming-on-their-own-terms.html)
+
