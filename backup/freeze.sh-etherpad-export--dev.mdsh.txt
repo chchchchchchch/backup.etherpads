@@ -1,0 +1,80 @@
+Vogel Quax zwickt Johnys Pferd Bim.
+Sylvia wagt quick den Jux bei Pforzheim.
+Prall vom Whisky flog Quax den Jet zu Bruch.
+
+% REPEATTHIS: Hallo 10
+
+Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
+„Oh, welch Zynismus!“, quiekte Xavers jadegrüne Bratpfanne.
+Jeder wackere Bayer vertilgt bequem zwo Pfund Kalbshaxen.
+Stanleys Expeditionszug quer durch Afrika wird von jedermann bewundert.
+
+„Fix, Schwyz!“ quäkt Jürgen blöd vom Paß.
+Falsches Üben von Xylophonmusik quält jeden größeren Zwerg.
+Zwölf Boxkämpfer jagen Eva quer über den großen Sylter Deich.
+Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark.
+
+
+???? ??? ?? ????? ???? ??? ?? ???? ??????.
+??????????????????????????????????????
+
+
+This pangram contains four As, one B, two Cs, one D, thirty Es, six Fs,
+five Gs, seven Hs, eleven Is, one J, one K, two Ls, two Ms, eighteen Ns,
+fifteen Os, two Ps, one Q, five Rs, twenty-seven Ss, eighteen Ts, two  Us,
+seven Vs, eight Ws, two Xs, three Ys, & one Z.
+
+
+## second order headline 
+
+
+  MARION:    
+ _It's a strange hobby. Curious._    
+  NORMAN:    
+ _Uncommon, too._    
+  MARION:    
+ _Oh, I imagine so._    
+  NORMAN:    
+ _And it's not as expensive as you'd think._     
+%_It's cheap really. You know -- needles and thread, sawdust._    
+%_The chemicals are the only thing that cost anything._    
+
+  MARION:    
+ _A man should have a hobby._    
+  NORMAN:    
+  (sitting back)_Well, it's -- it's more than a hobby.    
+  A hobby's supposed to pass the time -- not fill it._    
+% MARION:    
+%_Is your time so empty?_    
+% NORMAN:    
+%_No, uh -- well, I run the office, and uh, tend the cabins    
+% and grounds, and -- and do little errands for my mother    
+% -- the ones she allows I might be capable of doing._    
+% MARION:    
+%_Do you go out with friends?_    
+% NORMAN:    
+% (pause)_Well, uh--a boy's best friend is his mother._    
+  [@hitchcock:1960:psycho]
+
+
+
+% INCLUDE: http://freeze.sh/etherpad/export/_/zakmckracken-walkthrough.mdsh 5-10
+
+
+testing the footnote[^]{there it is}
+
+
+% SCALEFONT: 2.5
+
+  GEDIMAN    
+ _"Fork."_    
+  The memory comes, and she shakes her head wearily.    
+  RIPLEY (softly)    
+ _Fuck...._    
+  GEDIMAN (pretending to correct her)    
+ _"Fork."_
+  [@jeunet:1997:alien4]    
+
+% RESETFONT:
+
+
