@@ -1,0 +1,1635 @@
+% - SANDBOX CULTURE ----------- %
+
+@book{ stephenson:2009:cli,
+ title     = {In the Beginning...Was the Command Line},
+ author    = {Stephenson, Neal},
+ publisher = {HarperCollins},
+ address   = {New York City},
+ year      = {2009}
+}
+
+@phdthesis{ mclean:2011:apapla,
+ title     = {Artist-Programmers and Programming Languages for the Arts},
+ author    = {McLean, Christopher Alex},
+ school    = {Goldsmiths},
+ address   = {University of London},
+ year      = {2011}
+}
+
+@book{ lessig:2009:remix,
+ title     = {Remix: Making Art and Commerce Thrive in the Hybrid Economy},
+ author    = {Lessig; Lawrence},
+ publisher = {A&C Black},
+ address   = {London},
+ year      = {2009}
+}
+
+@movie{ gaylor:2008:rip,
+ author    = {Gaylor, Brett},
+ title     = {RiP!: A Remix Manifesto},
+ publisher = {EyeSteelFilm},
+ address   = {USA},
+ year      = {2008}
+
+}
+
+@book{ veal:2007:dub,
+ title     = {Dub: Soundscapes and Shattered Songs in Jamaican Reggae},
+ author    = {Veal, Michael},
+ publisher = {Wesleyan University Press},
+ address   = {Middletown, Connecticut},
+ year      = {2007}
+}
+
+@book{ hafnerlyon:1999:wizards,
+ title     = {Where Wizards Stay Up Late: The Origins Of The Internet},
+ author    = {Hafner, Katie and Lyon, Matthew},
+ publisher = {Simon & Schuster},
+ address   = {New York City},
+ year      = {1999}
+}
+
+@book{ esr:2003:taoup,
+ title     = {The Art of UNIX Programming},
+ author    = {Raymond, Eric Steven},
+ publisher = {Pearson Education},
+ address   = {Boston},
+ year      = {2003}
+}
+
+@incollection{ unsworth:1996:livingvr,
+ title     = {Living Inside the (Operating) System: Community in Virtual Reality},
+ author    = {Unsworth, John},
+ editor    = {Harrison, Teresa M. and Stephen, Timothy},
+ booktitle = {Computer Networking and Scholarly Communication in the Twenty-first-century University},
+ publisher = {SUNY Press},
+ address   = {Albany, New York},
+ year      = {1996}
+}
+
+@techreport{ timar:2004:faq,
+ author       = {Timar, Ted}, 
+ title        = {Unix - Frequently Asked Questions (6/7) [Frequent posting]},
+ institution  = {comp.unix.questions},
+ address      = {unix-faq/faq/part6_1084272547@rtfm.mit.edu},
+ year         = {2004},
+ month        = {May},
+ day          = {11}
+}
+
+@misc{ wheeler:1999:secureprogramming,
+  author       = {Wheeler. David A.}, 
+  title        = {Secure Programming for Linux and Unix HOWTO},
+  year         = {1999},
+}
+
+@book{ dick:1991:stigmata,
+ title     = {The three stigmata of Palmer Eldritch},
+ author    = {Dick; Philip K.},
+ publisher = {Vintage Books},
+ address   = {New York},
+ year      = {1991}
+}
+
+@misc{ icircle:1997:faq,
+ author    = {The Inner Circle},
+ title     = {FAQ},
+ year      = {1997},
+ url       = {http://web.archive.org/web/19970508133415/http://www.aditom.se/~inner-circle/13.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ apple:2008:toptenm,
+ author    = {Apple Inc.},
+ title     = {Apple - Press Info - iPhone App Store Downloads Top 10 Million in First Weekend},
+ year      = {2008},
+ url       = {http://www.apple.com/pr/library/2008/07/14iPhone-App-Store-Downloads-Top-10-Million-in-First-Weekend.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ aokietal:2012:debianpackaging,
+ author    = {Aoki, Osamu et al.},
+ title     = {Chapter 2. Debian package management},
+ year      = {2012},
+ url       = {http://www.debian.org/doc/manuals/debian-reference/ch02.en.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ freebsd:2013:usingports,
+ author    = {The FreeBSD Project},
+ title     = {5.6. Using the Ports Collection},
+ year      = {2013},
+ url       = {http://www.freebsd.org/doc/en/books/handbook/ports-using.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ yourantiandi:2012:kuaiyong,
+ author    = {Beijing YouRanTianDi Technology},
+ title     = {kuaiyong},
+ year      = {2012},
+ url       = {http://www.kuaiyong.com/eg_web/announcement.html},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ fdroid:2013:basicconcepts,
+ author    = {F-Droid Limited},
+ title     = {F-Droid · About},
+ year      = {2013},
+ url       = {https://fdroid.org/about},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ cyanogenmod:2013:basicconcepts,
+ author    = {CyanogenMod Wiki},
+ title     = {Basic concepts - CyanogenMod},
+ publisher = {CyanogenMod}, 
+ year      = {2013},
+ url       = {http://wiki.cyanogenmod.org/w/Basic_concepts#.22side-loading.22},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ google:2013:androidsecurity,
+ author    = {Google Inc.},
+ title     = {Android Security Overview | Android Open Source},
+ publisher = {Google Inc.},
+ year      = {2013},
+ url       = {https://source.android.com/tech/security/#the-application-sandbox},
+ note      = {accessed May 10, 2013}
+}
+
+@misc{ geiger:2008:rjdjrelease,
+ author       = {Geiger, Günter},
+ title        = {[PD] [PD-announce] RJDJ released},
+ howpublished = {E-Mail to the Pd-announce mailing list},
+ year         = {2008},
+ month        = {October},
+ day          = {10},
+ url          = {http://lists.puredata.info/pipermail/pd-announce/2008-10/001314.html},
+ note         = {accessed October 28, 2012}
+}
+
+@unpublished{ farnell:2013:rjdj,
+  author       = {Farnell, Andy}, 
+  title        = {Re: Questions Pd/RjDj},
+  note         = {E-Mail to Aymeric Mansoux},
+  day          = {28}
+  month        = {May},
+  year         = {2013}
+}
+
+@movie{ romero:2009:floss,
+ author    = {Romero, Ernesto},
+ title     = {FLOSSOFíA: El Software Libre en el Arte},
+ publisher = {Centro Nacional de las Artes},
+ address   = {México},
+ year      = {2009}
+}
+
+@incollection{ barknecht:2007:pd,
+ title     = {Pure Dataflow - Diving into Pd},
+ author    = {Barknecht, Frank},
+ editor    = {de Valk, Marloes},
+ booktitle = {Digital Artist’s Handbook},
+ publisher = {folly/GOTO10},
+ address   = {Lancaster},
+ year      = {2007}
+}
+
+@phdthesis{ lee:2008:unlimited,
+ title     = {Art Unlimited: An investigation into contemporary digital arts and the free software movement},
+ author    = {Lee, Chun},
+ school    = {MiddleSex University},
+ year      = {2011}
+}
+
+@incollection{ brinkmannetal:2011:embedpd,
+ title     = {Embedding pure data with libpd},
+ author    = {Peter Brinkmann and 
+              Peter Kirn      and
+              Richard Lawler  and
+              Chris McCormick and
+              Martin Roth     and
+              Hans-Christoph Steiner} 
+ booktitle = {Proceedings Pure Data Convention},
+ year      = {2011}
+}
+
+@book{ brinkmann:2012:mma,
+ title     = {Making Musical Apps},
+ author    = {Brinkmann, Peter},
+ publisher = {Oreilly & Associates Incorporated},
+ address   = {Sebastopol, California},
+ year      = {2012}
+}
+
+@misc{ kirn:2013:libpd,
+ author = {Kirn, Peter},
+ title  = {libpd » About},
+ year   = {2012},
+ url    = {http://libpd.cc/about},
+ note   = {accessed May 10, 2013}
+}
+
+@incollection{ puckette:2004:own,
+ title     = {Who owns our software? —- a first-person case study},
+ author    = {Puckette, Miller},
+ booktitle = {Proceedings ISEA},
+ year      = {2004}
+}
+
+@incollection{ puckette:1996:pd,
+ title     = {Pure Data},
+ author    = {Puckette, Miller},
+ booktitle = {Proceedings International Computer Music Conference},
+ year      = {1996}
+}
+
+@misc{ geiger:2008:kickstartrj,
+ author       = {Geiger, Günter},
+ title        = {[PD] Announcement Kickstart RJ},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2008},
+ month        = {July},
+ day          = {2},
+ url          = {http://lists.puredata.info/pipermail/pdlist/2008-07/063497.html},
+ note         = {accessed May 10, 2013}
+}
+
+@unpublished{ mccormick:2013:rjdj,
+ author       = {McCormick, Chris}, 
+ title        = {Re: question RjDj},
+ note         = {e-mail to Aymeric Mansoux},
+ day          = {31}
+ month        = {May},
+ year         = {2013}
+}
+
+@misc{ humphrey:2011:shortcut,
+ author       = {Humphrey, Marvin},
+ title        = {[PD] Keyboard shortcuts for "nudge", "done editing"},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2011},
+ month        = {September},
+ day          = {24},
+ url          = {http://lists.puredata.info/pipermail/pd-list/2011-09/091294.html},
+ note         = {accessed May 10, 2013}
+}
+
+@misc{ stewart:2008:rjdjmakeart,
+ author       = {Stewart, Damian},
+ title        = {RjDj presentation - FAQ with audience},
+ howpublished = {make art, GOTO10},
+ year         = {2008},
+ month        = {November},
+ day          = {29}
+}
+
+@misc{ looney:2012:robotcowboy,
+ author       = {Looney, Scott R.},
+ title        = {[PD] rjdj is gone, robotcowboy is coming ...},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2012},
+ month        = {November},
+ day          = {3},
+ url          = {http://lists.puredata.info/pipermail/pd-list/2012-11/098781.html},
+ note         = {accessed May 10, 2013}
+}
+
+@misc{ c74:2013:faqmax,
+ author       = {Cycling '74},
+ title        = {FAQ: Max 4 « Cycling 74},
+ publisher    = {Cycling '74},
+ year         = {2013},
+ url          = {accessed May 10, 2013},
+ note         = {http://cycling74.com/support/faq_max4}
+}
+
+@misc{ danks:2007:pdspore,
+ author       = {Danks, Mark},
+ title        = {[PD] Pd in video game Spore},
+ howpublished = {e-mail to the Pd mailing list},
+ year         = {2007},
+ url          = {http://lists.puredata.info/pipermail/pdlist/2007-11/056300.html},
+ note         = {accessed May 10, 2013}
+}
+
+@misc{ mclean:2009:itoilet,
+ author       = {McLean; Christopher Alex},
+ title        = {Alex McLean | The iPhone and toilet paper freedom},
+ year         = {2009},
+ url          = {http://yaxu.org/the-iphone-and-toilet-paperfreedom},
+ note         = {accessed May 10, 2013}
+}
+
+@unpublished{ brossier:2013:rjdj,
+ author       = {Brossier, Paul}, 
+ title        = {Re: question RjDj},
+ note         = {e-mail to Aymeric Mansoux},
+ day          = {4}
+ month        = {June},
+ year         = {2013}
+}
+
+@unpublished{ x:2013:rjdj,
+ author       = {Anonymous}, 
+ title        = {Re: question RjDj},
+ note         = {e-mail to Aymeric Mansoux},
+ day          = {14}
+ month        = {May},
+ year         = {2013}
+}
+
+@incollection{ baudrillard:1967:prise,
+ title     = {La Prise d'Otage},
+ author    = {Baudrillard, Jean},
+ booktitle = {Le ludique et le policier: et autres textes parus dans Utopie},
+ publisher = {Sens/Tonka},
+ address   = {Paris},
+ year      = {1967/78}
+}
+
+@misc{ thompson:1984:trust,
+ title        = {Reflections on trusting trust},
+ author       = {Thompson, Ken},
+ howpublished = {Communications of the ACM 27, no. 8},
+ year         = {1984}
+}
+
+@inproceedings{ dixonetal:2010:homeos,
+ author    = {Dixon, Colin    and 
+              Mahajan, Ratul  and 
+              Agarwal, Sharad and 
+              Brush, A. J.    and 
+              Lee, Bongshin   and 
+              Saroiu, Stefan  and 
+              Bahl, Victor},
+ title     = {The Home Needs an Operating System (and an App Store)},
+ booktitle = {Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks},
+ year      = {2010},
+ publisher = {ACM},
+ address   = {New York, NY, USA},
+} 
+
+% ------------------------------ %
+
+@book{ eco:1982:namederrose,
+ title      = {Der Name der Rose},
+ author     = {Eco, Umberto},
+ year       = {1982},
+ publisher  = {},
+ address    = {}
+}
+
+@book{ garbys:2011:digitalrubbish,
+ title      = {Digital Rubbish: a natural history of electronics},
+ author     = {Garbys, Jennifer},
+ year       = {2011},
+ publisher  = {University of Michigan Press},
+ address    = {USA}
+}
+
+@book{ parikka:2015:mediageology,
+ title     = {A Geology of Media},
+ author    = {Parikka, Jussi},
+ publisher = {University of Minnesota Press},
+ year      = {2015}
+}
+
+@article{ warner:2011:cybercrime,
+ title      = {Understanding Cyber-Crime in Ghana: A View from Below},
+ author     = {Warner, Jason},
+ journal    = {International Journal of Cyber Criminology},
+ year       = {2011}
+}
+
+@book{ morton:2010:ecothought,
+ title      = {The Ecological Thought},
+ author     = {Morton, Timothy},
+ year       = {2010},
+ publisher  = {Harvard~University~Press},
+ address    = {Cambridge, MA}
+}
+
+@article{ orisakwefrazzoli:2010:revolutionwasteland,
+ title      = {Electronic revolution and electronic wasteland: The West/waste Africa experience},
+ shorttitle = {Electronic revolution and electronic wasteland},
+ author     = {Orisakwe, Orish Ebere and Frazzoli, Chiara },
+ journal    = {Journal of Natural & Environmental Sciences},
+ year       = {2010}
+}
+
+@misc{ maughan:2015:dystopianlake,
+ author    = {Maughan, Tim},
+ title     = {The dystopian lake filled by the world’s tech lust},
+ year      = {2015},
+ publisher = {BBC Future},
+ url       = {http://www.bbc.com/future/story/20150402-the-worst-place-on-earth},
+ note      = {}
+}
+
+@article{ hwanglevy:2015:metaphors,
+ title      = {'The Cloud' and Other Dangerous Metaphors,
+                Contemporary ideas about data and privacy are tied up inextricably with language choices},
+ shorttitle = {'The Cloud' and Other Dangerous Metaphors},
+ author     = {Hwang, Tim and Levy, Karen},
+ journal    = {The Atlantic, January 20, 2015},
+ note       = {http://www.theatlantic.com/technology/archive/2015/01/the-cloud-and-other-dangerous-metaphors/384518},
+ year       = {2015}
+}
+
+@book{ weizenbaum:1976:computerpower,
+ title      = {Computer Power and Human Reason},
+ author     = {Weizenbaum, Joseph},
+ year       = {1976},
+ publisher  = {W.H. Freeman},
+ address    = {San Francisco}
+}
+
+@book{ wiener:1950:humanuse,
+ title      = {The Human Use of Human Beings: Cybernetics and Society},
+ author     = {Wiener, Norbert},
+ year       = {1950},
+ publisher  = {Houghto Mifflin},
+ address    = {Boston}
+}
+
+@book{ roszak:1986:informationcult,
+ title     = {Information, please},
+ author    = {Roszak, Theodore},
+ booktitle = {The Cult of Information: The Folklore of Computers and the True Art of Thinking},
+ publisher = {Pantheon Books},
+ address   = {New York},
+ year      = {1986}
+}
+
+@book{ borges:2000:fictions,
+ title      = {Fictions},
+ author     = {Borges, Jorge Luis},
+ year       = {2000},
+ publisher  = {Penguin Books},
+ address    = {London}
+}
+
+@misc{ krishnan:2011:brandmetrics,
+ author = {Krishnan, Mythreyi},
+ title  = {{"Influence Metrics for B2C Brands." The JamiQ Blog}},
+ year   = {2011},
+ url    = {http://blog.jamiq.com/commentary/influence-metrics-for-b2c-brands},
+ note   = {online; accessed 5.5.2013}
+}
+
+@misc{ klout:2013:score,
+ author = {Klout.com},
+ title  = {{Klout Score}},
+ url    = {http://klout.com/corp/klout_score},
+ note   = {online; accessed 5.5.2013}
+}
+
+@book{ mcluhan:1972:taketoday,
+ title      = {Take Today; the Executive as Dropout},
+ author     = {McLuhan, Marshall, and Barrington Nevitt},
+ year       = {1972},
+ publisher  = {Harcourt Brace Jovanovich},
+ address    = {New York}
+}
+
+@article { kosstigra:2013:private,
+ author  = {Kosinski, Michal and Stillwell, David and Graepel, Thore},
+ journal = {Proceedings of the National Academy of Sciences of the United States of America (PNAS)},
+ note    = {Available at http://www.pnas.org/content/early/2013/03/06/1218772110},
+ title   = {Private traits and attributes are predictable from digital records of human behavior},
+ url     = {http://research.microsoft.com/apps/pubs/default.aspx?id=187496},
+ year    = {2013},
+}
+
+@misc{ xbox:2011:tou,
+ author = {Xbox.com},
+ title  = {{Xbox LIVE Terms of Use.}},
+ year   = {2011},
+ url    = {Xbox.com},
+ note   = {online; accessed 4.5.2013}
+}
+
+@book{ mcluhan:1962:gutenberg,
+ title      = {The Gutenberg Galaxy; the Making of Typographic Man},
+ author     = {McLuhan, Marshall},
+ year       = {1962},
+ publisher  = {University of Toronto},
+ address    = {Toronto}
+}
+
+@book{ nunes:2012:glitch,
+ title      = {Error, Glitch, Noise and Jam in New Media Cultures},
+ author     = {Nunes, Mark},
+ year       = {2012},
+ publisher  = {Bloomsbury},
+ address    = {New York}
+}
+
+@book{ mayercukier:2013:bigdata,
+ title      = {Big Data. A Revolution That Will Transform How We Live, Work and Think},
+ shorttitle = {Big Data.},
+ author     = {Mayer-Schonberger, Viktor and Cukier, Kenneth},
+ year       = {2013},
+ publisher  = {John Murray Publishers},
+ address    = {London}
+}
+
+@book{ baumanlyon:2013:liquidsurveillance,
+ title     = {Liquid Surveillance. A Conversation},
+ author    = {Bauman, Zygmunt and Lyon, David},
+ year      = {2013},
+ publisher = {Polity Press},
+ address   = {UK}
+}
+
+@book{ deleuze:1992:postscript,
+ title     = {Postscript on Societies of Control},
+ author    = {Deleuze, Gilles},
+ year      = {1992},
+}
+
+@book{ turner:2006:c2cculture,
+ title      = {From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism},
+ shorttitle = {From Counterculture to Cyberculture.},
+ author     = {Turner, Fred},
+ year       = {2006},
+ publisher  = {The University of Chicago Press},
+ address    = {Chicago}
+}
+
+@book{ castells:1996:networksociety,
+ title      = {The Rise of the Network Society: The Information Age: Economy, Society, and Culture},
+ shorttitle = {The Rise of the Network Society},
+ author     = {Castells, Manuel},
+ year       = {1996},
+ publisher  = {Blackwell Publishers Ltd},
+ address    = {Oxford}
+}
+
+@book{ d+g:1972:oedipus,
+ title     = {Anti-Oedipus. Capitalism and Schizophrenia},
+ author    = {Deleuze, Gilles and Guattari, Félix},
+ year      = {1972},
+ publisher = {Continuum},
+ address   = {London}
+}
+
+@book{ steiner:2012:automate,
+ title     = {Automate This: How Algorithms Came to Rule Our World},
+ author    = {Steiner, Christopher},
+ year      = {2012},
+ publisher = {Portfolio/Penguin},
+ address   = {New York}
+}
+
+@book{ ludlow:2001:essays,
+ title      = {Crypto Anarchy, Cyberstates, and Pirate Utopias. Collection of essays},
+ shorttitle = {Crypto Anarchy, Cyberstates, and Pirate Utopias.},
+ author     = {Ludlow, Peter},
+ year       = {2001},
+ publisher  = {The MIT Press},
+ address    = {Cambridge, MA}
+}
+
+@book{ latour:2005:reassembling,
+ title     = {Reassembling the Social: An Introduction to Actor-Network-Theory},
+ author    = {Latour, Bruno},
+ year      = {2005},
+ isbn      = {9780199256044},
+ publisher = {Oxford University Press},
+ address   = {Oxford; New York}
+}
+
+@misc{ osp:2006:dtfd,
+ author = {Open Source Publishing},
+ title  = {{Design Tools for Designers}},
+ year   = {2006},
+ url    = {http://ospublish.constantvzw.org/blog/wp-content/uploads/berlin_pp.pdf},
+ note   = {online; accessed 30.10.2015}
+}
+
+@misc{ raskin:1993:nogui,
+ author = {Raskin, Jeff},
+ title  = {{Down with GUIs!}},
+ year   = {1993},
+ url    = {http://www.wired.com/wired/archive/1.06/1.6_guis.html},
+ note   = {[Online; accessed 27-January-2010]}
+}
+
+@misc{ debruijn:2006:dd,
+ author = {de Bruijn, Marc},
+ title  = {{Designer Dictator}},
+ year   = {2006},
+ url    = {http://puntpixel.nl/wp-content/uploads/2005/12/puntpixel.nl_designer_dictator.pdf},
+ note   = {online; accessed 30.10.2015}
+}
+
+@misc{ genter:1996:tami,
+ author = {Genter, Don and Nielsen, Jakob},
+ title  = {{The Anti-Mac Interface}},
+ year   = {1996},
+ url    = {http://www.useit.com/papers/anti-mac.html},
+ note   = {[Online; accessed 27-January-2010]}
+}
+
+@book{ papert:1993:mindstorms,
+ title     = {Mindstorms: Children, Computers, and Powerful Ideas},
+ author    = {Papert, Seymour},
+ year      = {1993},
+ publisher = {Basic Books, Inc.},
+ address   = {New York, NY, USA},
+}
+
+@book{ margolis:2003:unlocking,
+ title     = {{Unlocking the Clubhouse: Women in Computing}},
+ author    = {Margolis, Jane and Fisher, Allan},
+ publisher = {The MIT Press},
+ year      = {2003}
+}
+
+@misc{ wikipedia:2013:ya,
+ author = {Wikipedia},
+ title  = {Yet another --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2013},
+ url    = {https://en.wikipedia.org/w/index.php?title=Yet_another&oldid=540810252},
+ note   = {accessed 13.06.2013}
+}
+
+@incollection{ fuller:2006:elegance,
+ title     = {Elegance},
+ author    = {Fuller, Matthew},
+ booktitle = {Software Studies -- A Lexicon},
+ editor    = {Fuller, Matthew},
+ publisher = {The MIT Press},
+ address   = {{Cambridge, Massachusetts}},
+ year      = {2008}
+}
+
+@book{ burroughs:1999:virus,
+ title     = {{Word Virus: The William S. Burroughs Reader}},
+ author    = {Burroughs, William S.},
+ publisher = {Flamingo},
+ year      = {1999}
+}
+
+@book{ ullman:1997:cttm,
+ author    = {Ullman, Ellen},
+ title     = {Close to the Machine: Technophilia and Its Discontents},
+ year      = {1997},
+ publisher = {City Light Books}
+}
+
+@incollection{ ullman:1995:outoftime,
+ title     = {{Out of Time: Reflections on the Programming Life}},
+ author    = {Ullman, Ellen},
+ booktitle = {Resisting the virtual life: the culture and politics of information},
+ editor    = {Brook, James and Boal, Iain A.},
+ publisher = {San Francisco Lights Press, San Francisco},
+ year      = {1995}
+}
+
+@misc{ crowther:1994:interview,
+ author = {},
+ title  = {{Interview with Will Crowther}},
+ year   = {1994},
+ url    = {https://archive.org/details/WillCrowtherInterview},
+ note   = {scanned transcript of an Advanced > Research Project
+           Agency (ARPA) interview online; accessed 13.6.2013}
+}
+
+@book{ sennett:2009:craftsman,
+ author    = {Sennett, Richard},
+ title     = {{The Craftsman}},
+ year      = {2009},
+ isbn      = {9780141022093},
+ publisher = {Penguin Books},
+ address   = {{London, UK}}
+}
+
+@book{ weizenbaum:1976:cpahr,
+ author    = {Weizenbaum, Joseph},
+ title     = {{Computer Power and Human Reason: From Judgment to Calculation}},
+ year      = {1976},
+ isbn      = {0716704641},
+ publisher = {W. H. Freeman \& Co.},
+ address   = {{New~York,~NY,~USA}}
+}
+
+@book{ gancarz:1994:tup,
+ title     = {The UNIX Philosophy},
+ author    = {Gancarz, Mike},
+ publisher = {Digital Press},
+ address   = {},
+ year      = {1994}
+}
+
+@book{ stephenson:1999:cli,
+ title     = {In the Beginning...was the Command Line},
+ author    = {Stephenson, Neal},
+ publisher = {William Morrow Paperbacks},
+ address   = {New York City},
+ year      = {1999},
+ url       = {http://www.cryptonomicon.com/beginning.html}
+}
+
+@misc{ kay:2004:conversation,
+ author = {},
+ title  = {{A Conversation with Alan Kay}},
+ year   = {2004},
+ url    = {http://queue.acm.org/detail.cfm?id=1039523},
+ note   = {online; accessed 22.10.2015}
+}
+
+@misc{ usesthis:2010:stallman,
+ author = {},
+ title  = {{The Setup / Richard Stallman}},
+ year   = {2010},
+ url    = {https://usesthis.com/interviews/richard.stallman},
+ note   = {online; accessed 22.10.2015}
+}
+
+@book{ coleman:2012:codingfreedom,
+ title     = {Coding Freedom},
+ author    = {Coleman, Gabriella},
+ publisher = {Princeton University Press},
+ address   = {New Jersey},
+ year      = {2012},
+ url       = {http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf}
+}
+
+@book{ thomas:2002:hacker,
+ title     = {Hacker culture},
+ author    = {Thomas, Douglas},
+ publisher = {University of Minnesota Press},
+ address   = {Minneapolis},
+ year      = {2002}
+}
+
+@book{ simondon:1958:modes,
+ title     = {On the Modes of Existence of Technical Objects},
+ author    = {Simondon, Gilbert},
+ publisher = {Editions Montaigne},
+ address   = {Paris, France},
+ year      = {1958}
+}
+
+@incollection{ flusser:1999:factory,
+ title     = {The Factory},
+ author    = {Flusser, Vilém},
+ booktitle = {The Shape of Things},
+ publisher = {Reaktion Books},
+ address   = {London, GB},
+ year      = {1999},
+ isbn      = {9781861890559}
+}
+
+@book{ derrida:1997:grammatology,
+ author     = {Derrida, Jacques},
+ title      = {Of Grammatology},
+ translator = {Spivak, Gayatri Chakravorty},
+ publisher  = {The Johns Hopkins University Press},
+ address    = {Baltimore},
+ year       = 1998,
+ edition    = {Corrected},
+ isbn       = {0801858305}
+}
+
+@incollection{ benjamin:2002:storyteller,
+ title     = {The Storyteller: Reflections on the Work of Nikolai Leskov},
+ author    = {Benjamin, Walter},
+ editor    = {Eiland, Howard and Jennings, Michael W.},
+ booktitle = {Walter Benjamin: Selected Writings, Volume 3: 1935-1938},
+ publisher = {Belknap},
+ address   = {Harvard, USA},
+ year      = {2002}
+}
+
+@misc{ boufleur:2006:aqdg,
+ author = {Boufleur, Rodrigo},
+ title  = {{A Questão da Gambiarra}},
+ year   = {2006},
+ url    = {http://www.web-resol.org/textos/aquestaodagambiarracorreto.pdf},
+ note   = {[online; accessed 21.10.2015]}
+}
+
+@Book{ bringhurst:2002:ets,
+ author    = {Bringhurst, Robert},
+ title     = {{The Elements of Typographic Style}},
+ year      = {2002},
+ publisher = {Hartley \& Marks, Vancouver},
+ ISBN      = {978-088179-206-5}
+}
+
+@Book{ smeijers:2003:tn,
+ author    = {Smeijers, Fred},
+ title     = {{Type Now}},
+ year      = {2003},
+ publisher = {Hyphen Press, London},
+ ISBN      = {978-090725-924-4}
+}
+
+@Book{ friedletal:1998:tdth,
+ author    = {Friedl, Ott and Stein},
+ title     = {{Typography: An encyclopedic survey of type design and techniques through history}},
+ year      = {1998},
+ publisher = {Black Dog \& Leventhal, London},
+ ISBN      = {978-157912-023-8}
+}
+
+@misc{ processing:2006:site,
+ author = {},
+ title  = {{Processing 1.0 (BETA)}},
+ year   = {2006},
+ url    = {http://www.processing.org},
+ note   = {[Online; accessed 12-April-2006]}
+}
+
+@misc{ fosdem:2006:scribus,
+ author = {},
+ title  = {{http://www.kde.me.uk/index.php?page=fosdem-interview-scribus}},
+ year   = {2006},
+ url    = {http://www.kde.me.uk/index.php?page=fosdem-interview-scribus},
+ note   = {[Online; accessed 12-January-2006]}
+}
+
+@misc{ google:2010:gcoc,
+ author = {Google Corporation},
+ title  = {{Google Investor Relations: Google Code of Conduct}},
+ year   = {2010},
+ url    = {http://investor.google.com/conduct.html},
+ note   = {[Online; accessed 27-January-2010]}
+}
+
+@Book{ mulder:2002:om,
+ author    = {Mulder, Arjen},
+ title     = {{Over mediatheorie}},
+ year      = {20045},
+ publisher = {V2\_NAi Uitgevers, Rotterdam},
+ ISBN      = {90-5662-387-7}
+}
+
+@Book{ mcluhan:2005:mmu,
+ author    = {McLuhan, Marshall},
+ title     = {{Marshall McLuhan Unbound, The Relation of Environment to Anti-environment}},
+ year      = {2005},
+ publisher = {Gingko Press, London},
+ ISBN      = {978-1-58423-051-9}
+}
+
+@misc{ fsf:2010:vista,
+ author = {Free Software Foundation},
+ title  = {{BadVista}},
+ year   = {2010},
+ url    = {http://badvista.fsf.org/},
+ note   = {[Online; accessed 27-January-2010]}
+}
+
+@misc{ microsoft:2010:vista,
+ author = {Microsoft Corporation},
+ title  = {{Windows Vista Features}},
+ year   = {2010},
+ url    = {http://www.microsoft.com/uk/windows/products/windowsvista/features/default.mspx},
+ note   = {[Online; accessed 27-January-2010]}
+}
+
+@misc{ wikipedia:2010:jodi,
+   author = {Wikipedia},
+   title  = {{Jodi (art collective) --- Wikipedia{,} The Free Encyclopedia}},
+   year   = {2009},
+   url    = {http://en.wikipedia.org/w/index.php?title=Jodi_(art_collective)&oldid=325470483},
+   note   = {[Online; accessed 27-January-2010]}
+}
+
+@misc{ kittler:1995:tins,
+ author = {Kittler, Friedrich},
+ title  = {{There is No Software}},
+ year   = {1995},
+ url    = {http://www.ctheory.net/articles.aspx?id=74},
+ note   = {[Online; accessed 27-January-2010]}
+}
+
+@misc{ cramer:2006:ccmisunderstanding,
+ author = {Cramer, Florian},
+ title  = {{The Creative Common Misunderstanding}},
+ year   = {2006},
+ url    = {http://www.nettime.org/Lists-Archives/nettime-l-0610/msg00025.html},
+ note   = {[Online; accessed 5-March-2009]}
+}
+
+@movie{ burton:1994:edwood,
+ author  = {Burton, Tim},
+ title   = {Ed Wood},
+ year    = {1994},
+ address = {USA}
+}
+
+@book{ corbusier:1929:cityoftomorrow,
+ author    = {Le Corbusier},
+ title     = {{The City of Tomorrow and Its Planning}},
+ publisher = {{... (Architectural Press?)}},
+ year      = {...}
+}
+
+@book{ corbusier:1929:staedtebau,
+ author    = {Le Corbusier},
+ title     = {{Städtebau}},
+ publisher = {{Deutsche Verlags-Anstalt}},
+ year      = {1929}
+}
+
+@misc{ franzen:20110528:tpaatl,
+ author = {Franzen, Jonathan},
+ title  = {Technology Provides an Alternative to Love.},
+ year   = {2011},
+ url    = {http://www.nytimes.com/2011/05/29/opinion/29franzen.html},
+ note   = {[online; Stand 30.9.2015]}
+}
+
+@misc{ wikipedia:20150915:nonfinito,
+ author = {Wikipedia},
+ title  = {Non-finito --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2014},
+ url    = {https://de.wikipedia.org/w/index.php?title=Non-finito&oldid=126853796},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:blocking,
+ author = {Wikipedia},
+ title  = {Blocking (stage) --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Blocking_(stage)&oldid=663198871},
+ note   = {[Online; accessed 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:regieanweisung,
+ author = {Wikipedia},
+ title  = {Regieanweisung --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Regieanweisung&oldid=138888997},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ zaksite:20150915:fox,
+ author = {Tolworthy, Chris},
+ title  = {zak-site.com: David and Annie Fox},
+ year   = {2015},
+ url    = {http://www.zak-site.com/davidfox.htm},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:scumm,
+ author = {Wikipedia},
+ title  = {Script Creation Utility for Maniac Mansion --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Script_Creation_Utility_for_Maniac_Mansion&oldid=141871963},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:markuplanguage,
+ author = {Wikipedia},
+ title  = {Markup language --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Markup_language&oldid=680988805},
+ note   = {[online; accessed 15.9.2015]}
+}
+
+@misc{ wikipedia:20150915:auszeichnungssprache,
+ author = {Wikipedia},
+ title  = {Auszeichnungssprache --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Auszeichnungssprache&oldid=145669996},
+ note   = {[online; Stand 15.9.2015]}
+}
+
+@misc{ wikipedia:20150914:peripheral,
+ author = {Wikipedia},
+ title  = {Peripheral --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Peripheral&oldid=680363450},
+ note   = {[online; accessed 14.9.2015]}
+}
+
+@misc{ wikipedia:20150914:peripherie,
+ author = {Wikipedia},
+ title  = {Peripherie --- Wikipedia{,} Die freie Enzyklopädie},
+ year   = {2015},
+ url    = {https://de.wikipedia.org/w/index.php?title=Peripherie&oldid=145392075},
+ note   = {[online; accessed 14.9.2015]}
+}
+
+@misc{ wikipedia:20150911:knowledge,
+ author = {Wikipedia},
+ title  = {Knowledge --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Knowledge&oldid=680037015},
+ note   = {[online; accessed 11.9.2015]}
+}
+
+@misc{ ijeh:2014:bimarchitecture,
+ author = {Ijeh, Ike},
+ title  = {Is there a BIM architecture?},
+ year   = {2014},
+ url    = {http://www.bdonline.co.uk/is-there-a-bim-architecture?/5072309.article},
+ note   = {[online;accessed 10.9.2015]}
+}
+
+@misc{ nasa:1976:graphicsmanual,
+ author = {National Aeronautics and Space Administration },
+ title  = {NASA Graphics Standards Manual},
+ year   = {1976},
+ url    = {http://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf?linkId=16902171},
+ note   = {[online;accessed 10.9.2015]}
+}
+
+@misc{ wikipedia:20150910:microtypography,
+ author = {Wikipedia},
+ title  = {Microtypography --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Microtypography&oldid=678417331},
+ note   = {[online; accessed 10.9.2015]}
+}
+
+@misc{ wikipedia:20150910:grid,
+ author = {Wikipedia},
+ title  = {Grid (graphic design) --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Grid_(graphic_design)&oldid=641277757},
+ note   = {[online; accessed 10.9.2015]}
+}
+
+@misc{ mau:1998:manifesto,
+ author = {Mau, Bruce},
+ title  = {An Incomplete Manifesto for Growth},
+ year   = {1998},
+ url    = {http://www.manifestoproject.it/bruce-mau},
+ note   = {[online;accessed 9.9.2015]}
+}
+
+@Book{ krausse:2001:fuller,
+ title    = {{Your Private Sky: Discourse}},
+ author   = {Fuller, Richard Buckminster and Krausse, Joachim and Lichtenstein, Claude},
+ series   = {},
+ year     = {2001},
+ publisher= {}
+}
+
+@misc{ woods:2013:artdesignbreakup,
+ author = {Woods, Paul},
+ title  = {The breakup of art and design},
+ year   = {2013},
+ url    = {http://www.edenspiekermann.com/blog/the-breakup-of-art-and-design},
+ note   = {[Online; accessed 20. August 2015]}
+}
+
+@misc{ dylan:1965:shb,
+ author  = {Dylan, Bob},
+ title   = {Subterranean Homesick Blues},
+ year    = {1965},
+ address = {USA}
+}
+
+@misc{ bills:2014:lol,
+ author = {Bills, Andrew},
+ title  = {2:18 AM - 9 Oct 2014},
+ year   = {2015},
+ url    = {https://twitter.com/EvilSpyBoy/status/520005381225861120},
+ note   = {[Online; accessed 15. August 2015]}
+}
+
+@misc{ gertz:2015:designmachines,
+ author = {Gertz, Travis},
+ title  = {Design Machines --- How to survive the digital apocalypse.},
+ year   = {2015},
+ url    = {https://louderthanten.com/articles/story/design-machines},
+ note   = {[Online; accessed 15. August 2015]}
+}
+
+@misc{ wikipedia:20150813:markup,
+ author = {Wikipedia},
+ title  = {Markup language --- Wikipedia{,} The Free Encyclopedia},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Markup_language&oldid=675819815},
+ note   = {[Online; accessed 13-August-2015]}
+}
+
+@misc{ wikipedia:20150813:adhoc,
+ author = {Wikipedia},
+ title  = {{Ad hoc --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Ad_hoc&oldid=675928332},
+ note   = {[Online; accessed 13-August-2015]}
+}
+
+@misc{ boardley:2015:helvetica,
+ author = {Boardley, John},
+ title  = {The Last Word on Helvetica?},
+ year   = {2015},
+ url    = {http://ilovetypography.com/2015/06/27/the-last-word-on-helvetica/},
+ note   = {[Online; accessed 7.8.2015]}
+}
+
+@movie{ jeunet:1997:alien4,
+ author  = {Jeunet, Jean-Pierre},
+ title   = {Alien: Resurrection},
+ year    = {1997},
+ address = {USA}
+}
+
+@movie{ hitchcock:1960:psycho,
+ author  = {Hitchcock, Alfred},
+ title   = {Psycho},
+ year    = {1960},
+ address = {USA}
+}
+
+@movie{ hustwit:2009:objectified,
+ author  = {Hustwit, Gary},
+ title   = {Objectified},
+ year    = {2009},
+ address = {USA}
+}
+
+@misc{ stallman:1985:manifesto,
+ author = {Stallman, Richard},
+ title  = {The GNU Manifesto},
+ year   = {1985},
+ url    = {http://www.gnu.org/gnu/manifesto.html},
+ note   = {online; accessed 5.8.2015}
+}
+
+@movie{ chalfant:1983:stylewars,
+ author  = {Chalfant, Henry and Silver, Tony},
+ title   = {Style Wars},
+ year    = {1983},
+ address = {USA}
+}
+
+@movie{ kubrick:1968:2001,
+ address    = {GB and USA},
+ author     = {Kubrick, Stanley},
+ pagetotal  = {141},
+ shorttitle = {\film{2001}},
+%subtitle   = {2001: Odyssee im Weltraum},
+ title      = {2001: A Space Odyssey},
+ year       = {1968}
+} 
+
+@movie{ reardon:1994:thoh,
+ author    = {Reardon, Jim},
+ location  = {USA},
+ maintitle = {The Simpsons},
+%number    = {6},
+ rating    = {5},
+ title     = {Treehouse of Horror V},
+%volume    = {6},
+ year      = {1994}
+}
+
+@movie{ hitchcock:1960:psycho,
+ author   = {Hitchcock, Alfred},
+ title    = {{Psycho}},
+ location = {USA},
+ year     = {1960},
+} 
+
+@movie{ nichols:1966:virginiawoolf,
+ author  = {Nichols, Mike},
+ title   = {Who's Afraid of Virginia Woolf?},
+ year    = {1966},
+ address = {USA}
+}
+
+@misc{ wikipedia:20150803:greyliterature,
+ author = {Wikipedia},
+ title  = {{Grey literature --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Grey_literature&oldid=672335538},
+ note   = {[Online; accessed 3-August-2015]}
+}
+
+@book{ cassell:1854:latinenglish,
+ author    = {Marchant, James Robert Vernam and Charles, Joseph Fletcher},
+ isbn      = {},
+ publisher = {},
+ title     = {},
+ year      = {},
+ url       = {https://archive.org/details/cassellslatindic00marc}
+}
+
+@misc{ wikipedia:20150803:memorandum,
+ author = {Wikipedia},
+ title  = {{Memorandum --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Memorandum&oldid=671641108},
+ note   = {[Online; accessed 3-August-2015]}
+}
+
+@misc{ wikipedia:20150802:werkstuck,
+ author = {Wikipedia},
+ title  = {{Werkstück --- Wikipedia{,} Die freie Enzyklopädie}},
+ year   = {2014},
+ url    = {https://de.wikipedia.org/w/index.php?title=Werkst%C3%BCck&oldid=127967345},
+ note   = {[Online; Stand 2. August 2015]}
+}
+
+@misc{ wikipedia:20150802:form,
+ author = {Wikipedia},
+ title  = {{Form --- Wikipedia{,} The Free Encyclopedia}},
+ year   = {2015},
+ url    = {https://en.wikipedia.org/w/index.php?title=Form&oldid=674146109},
+ note   = {[Online; accessed 2-August-2015]}
+}
+
+@misc{ sondheim:2002:ccbbcb,
+ author = {Sondheim, Alan},
+ title  = {CORE CORE bash bash CORE bash},
+ year   = {2002},
+ url    = {http://sondheim.rupamsunyata.org/2002/07/21/core-core-bash.xhtml},
+ note   = {[Online; accessed 20-July-2015]}    
+}
+
+@misc{ bennahum:1997:stallman,
+ author  = {Bennahum, David},
+ title   = {{Interview with Richard Stallman}},
+ year    = {1997},
+ url     = {http://www.ljudmila.org/nettime/zkp4/21.htm},
+ note    = {[Online; accessed 20-July-2015]}
+}
+
+@misc{ breeze:2013:interview,
+ author  = {Thalmair, Franz and Breeze, Mary-Anne},
+ title   = {{Re:Interview \#005}},
+ url     = {http://cont3xt.net/blog/?p=251},
+ note    = {[Online; accessed 20-July-2015]}
+}
+
+@misc{ scoville:1998:unix,
+ author  = {Scoville, Thomas},
+ title   = {{The Elements Of Style: UNIX As Literature}},
+ year    = {1998},
+ url     = {http://theody.net/elements.html},
+ note    = {[Online; accessed 20-July-2015]}
+}
+
+@incollection{ kay:1990:uiapv,
+ author    = {Kay, Alan},
+ booktitle = {The Art of Human-Computer Interface Design},
+ editor    = {Laurel, Brenda and Mountford, Joy S.},
+ pages     = {191--207},
+ priority  = {2},
+ publisher = {Addison-Wesley},
+ title     = {{User Interface: A Personal View}},
+ year      = {1990}
+}
+
+@book{ barthes:1975:sz,
+ author    = {Barthes, Roland},
+ isbn      = {0374521670},
+ publisher = {{Hill \& Wang}},
+ title     = {{S/Z: An Essay}},
+ year      = {1991}
+}
+
+@misc{ wikipedia:20150511:freeze,
+ author = {Wikipedia},
+ title  = {{Freeze --- Wikipedia, The Free Encyclopedia}},
+ year   = {2015},
+ url    = {http://en.wikipedia.org/w/index.php?title=Freeze&oldid=658922306},
+ note   = {[Online; accessed 11.5.2015]}
+}
+
+@movie{ silverchalfant:1993:stylewars,
+ title     = {{Style Wars}},
+ author    = {Silver, Tony and Chalfant, Henry},
+ year      = {1983},
+ address   = {USA}
+}
+
+@Book{ hayles:1999:posthuman,
+ title     = {How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics},
+ author    = {Hayles, N. Katherine},
+ isbn      = {0226321452},
+ year      = {1999},
+ publisher = {University of Chicago Press},
+}
+
+@Book{ garrett:2010:elements,
+ title     = {{Elements of User Experience,The: User-Centered Design for the Web and Beyond}},
+ author    = {Garrett, Jesse James},
+ isbn      = {9780321624642},
+ series    = {Voices That Matter},
+ year      = {2010},
+ publisher = {Pearson Education}
+}
+
+@Book{ bizios:1991:architecture,
+ title    = {{Architecture Reading Lists and Course Outlines: Architectural design, Human behavior, Special topics}},
+ author   = {Bizios, Georgia},
+ series   = {Architecture Reading Lists and Course Outlines},
+ year     = {1991},
+ publisher= {Eno River Press}
+}
+
+@incollection{ melville:1856:bartleby,
+ author    = {Melville, Herman},
+ title     = {Bartleby, the Scrivener: A Story of Wall Street},
+ booktitle = {{The Piazza Tales}},
+ publisher = {{Dix, Edwards & Co.}},
+ year      = {1856},
+ url       = {http://www.gutenberg.org/ebooks/15859}
+}
+
+@Book{ melville:1856:piazzatales,
+ author    = {Melville, Herman},
+ title     = {{The Piazza Tales}},
+ year      = {1856},
+ publisher = {{Dix, Edwards & Co.}},
+ url       = {http://www.gutenberg.org/ebooks/15859}
+}
+
+@Book{ constant:2009:vjtracks,
+ author    = {Constant and Delahaut, Clementine and Rassel, Laurence and Sidgwick, Emma},
+ title     = {{Verbindingen/Jonctions: Tracks in electr(on)ic fields}},
+ year      = {2009},
+ publisher = {Constant Verlag},
+ url       = {http://ospublish.constantvzw.org/sources/vj10}
+}
+
+@Book{ devalkmansoux:2008:flossart,
+ author    = {Mansoux, Aymeric and de Valk, Marloes},
+ title     = {{FLOSS+Art}},
+ year      = {2008},
+ ISBN      = {9781906496180},
+ publisher = {OpenMute},
+ url       = {http://things.bleu255.com/floss-art}
+}
+
+@misc{ krs-1:2014:templeofhiphop,
+ author       = {Master Teacher, KRS-One},
+ title        = {{AN INTRODUCTION TO HIP HOP }},
+ howpublished = {http://www.krs-one.com/#!temple-of-hip-hop/c177q}
+}
+
+@Book{ pfiffner:2002:adobe,
+ author    = {Pfiffner, Pamela},
+ title     = {{Inside the Publishing Revolution: The Adobe Story}},
+ year      = {2008},
+ ISBN      = {9780321115645},
+ publisher = {Adobe~Press}
+}
+
+@misc{ tug.org:2014:hagen,
+ author       = {},
+ title        = {{Hans Hagen -- Interview -- TeX Users Group}},
+ year         = {2006},
+ url          = {http://tug.org/interviews/hagen.html},
+ note         = {Online; accessed 18.12.2014}
+}
+
+@misc{ wikipedia:20141218:xwindow,
+ author = {Wikipedia},
+ title  = {{X Window System --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=X_Window_System&oldid=638479346},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:cchost,
+ author = {Wikipedia},
+ title  = {{CcHost --- Wikipedia, The Free Encyclopedia}},
+ year   = {2012},
+ url    = {http://en.wikipedia.org/w/index.php?title=CcHost&oldid=522203738},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:openfontlibrary,
+ author = {Wikipedia},
+ title  = {{Open Font Library --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Open_Font_Library&oldid=628065629},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:challengerdisaster,
+ author = {Wikipedia},
+ title  = {{Space Shuttle Challenger disaster --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Space_Shuttle_Challenger_disaster&oldid=637243655},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:unicode,
+   author = {Wikipedia},
+   title  = {{Unicode --- Wikipedia, The Free Encyclopedia}},
+   year   = {2014},
+   url    = {http://en.wikipedia.org/w/index.php?title=Unicode&oldid=638169862},
+   note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:opentype,
+ author = {Wikipedia},
+ title  = {OpenType --- Wikipedia, The Free Encyclopedia},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=OpenType&oldid=635861308},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:freehand,
+ author = {Wikipedia},
+ title  = {{Adobe FreeHand --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Adobe_FreeHand&oldid=638559648},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:postscriptfonts,
+ author = {Wikipedia},
+ title  = {{PostScript fonts --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=PostScript_fonts&oldid=627364155},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:frontpage,
+ author = {Wikipedia},
+ title  = {{Microsoft FrontPage --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Microsoft_FrontPage&oldid=633701346},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:truetype,
+ author = {Wikipedia},
+ title  = {{TrueType --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=TrueType&oldid=636724459},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:postscript,
+ author = {Wikipedia},
+ title  = {{PostScript --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=PostScript&oldid=635789389},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ wikipedia:20141218:macromedia,
+ author = {Wikipedia},
+ title  = {{Macromedia --- Wikipedia, The Free Encyclopedia}},
+ year   = {2014},
+ url    = {http://en.wikipedia.org/w/index.php?title=Macromedia&oldid=638007179},
+ note   = {[Online; accessed 18.12.2014]}
+}
+
+@misc{ chu-carroll:2008:thegeniusofdonaldknuth,
+ author = {Chu-Carroll, Mark C.},
+ title  = {{The Genius of Donald Knuth: Typesetting with Boxes and Glue}},
+ year   = {2008},
+ url    = {http://scienceblogs.com/goodmath/2008/01/10/the-genius-of-donald-knuth-typ/},
+}
+
+@misc{ fsf:2007:gpl,
+ author     = {Free Software Foundation},
+ title      = {{GNU General Public License}},
+ year       = {2007},
+ url        = {http://www.gnu.org/copyleft/gpl.html},
+}
+
+@misc{ cramer:2007:commandlinepoetics,
+ author     = {Cramer, Florian},
+ title      = {{(echo echo) echo (echo): Command Line Poetics}},
+ year       = {2007},
+ url        = {http://reader.lgru.net/texts/echo-echo-echo-echo-command-line-poetics},
+}
+
+@Book{ mccullough:1998:abstractingcraft,
+ author    = {McCullough, Malcom},
+ title     = {Abstracting Craft: The Practiced Digital Hand},
+ year      = {1998},
+ ISBN      = {978-0262631891},
+ publisher = {The~MIT~Press}
+}
+
+@Book{ latour:1999:pandorashope,
+ author    = {Latour, Bruno},
+ title     = {{Pandora's Hope: Essays on the Reality of Science Studies}},
+ year      = {1999},
+ ISBN      = {978-0674653368},
+ publisher = {Harvard~University~Press}
+}
+
+ @misc{ en.wikipedia.org:2014:graffititerminology,
+ author    = {Wikipedia},
+ title     = {Glossary of Graffiti --- Wikipedia{,} The Free Encyclopedia},
+ year      = {2014},
+ url       = {http://en.wikipedia.org/w/index.php?title=Glossary_of_graffiti&oldid=599121210},
+ note      = {[Online; accessed 5.8.2014]}
+ }
+
+@misc{ x.cygwin.com:2014:index,
+ author       = {},
+ title        = {Cygwin/X: X Windows -- on Windows!},
+ year         = {2014},
+ howpublished = {http://x.cygwin.com/},
+ note         = {[Online; accessed 5.8.2014]}
+}
+
+@Book{ Levy:2001:Cyberculture,
+ author    = {L\'{e}vy, Pierre},
+ title     = {Cyberculture (Electronic Mediations)},
+ year      = {2001},
+ ISBN      = {978-0816636105},
+ publisher = {University~Of~Minnesota~Press}
+}
+
+@Book{ Fuller:2003:BehindtheBlip,
+ author    = {Fuller, Matthew},
+ title     = {Behind the Blip: Essays on the culture of software},
+ year      = {2003},
+ ISBN      = {1-57027-139-9},
+ publisher = {Autonomedia}
+}
+
+@Book{ Fuller:2007:MediaEcologies,
+ author    = {Fuller, Matthew},
+ title     = {Media Ecologies: Materialist Energies in Art and Technoculture},
+ year      = {2007},
+ ISBN      = {9780262562263},
+ publisher = {The~MIT~Press}
+}
+
+@Book{ Fuller:2008:SoftwareStudies,
+ author    = {Fuller, Matthew},
+ title     = {Software Studies: A Lexicon},
+ year      = {2008},
+ ISBN      = {0-262-062747},
+ publisher = {The~MIT~Press}
+}
+
+
+
+
+
+
+
+
+
+
+% ------------------------------------------------------------------------------------------- %
+
+@Book{ Miller:2004:RhythmScience,
+ author    = {Miller, Paul D.},
+ title     = {{Rhythm Science}},
+ year      = {2004},
+ ISBN      = {0-262-63287-X},
+ publisher = {The MIT Press}
+}
+
+@Book{ Derrida:1997:DAV,
+ author = {Derrida, Jaques},
+ title  = {{Dem Archiv verschrieben}},
+ year   = {2002},
+ ISBN   = {3-92266-067-3},
+}
+
+@misc{ wikipedia:abstraction,
+ author     = {Wikipedia},
+ title      = {{Abstraction --- Wikipedia, The Free Encyclopedia}},
+ year       = {2008},
+ url        = {http://en.wikipedia.org/w/index.php?title=Abstraction&oldid=194380384},
+ note       = {[Online; accessed 14-March-2008]}
+}
+
+@misc{ manovich:gf,
+ author     = {Manovich, Lev},
+ title      = {{Generation Flash}},
+ year       = {2002},
+ url        = {http://manovich.net/DOCS/generation_flash.doc},
+ note       = {[Available from the World Wide Web]}
+}
+
+@inproceedings{ pdcon2007:Nunez,
+ author     = {Alejandra Maria Perez Nunez},
+ title      = {Pure Data as a feminist tool for meaningful learning},
+ booktitle  = {L’OEuvre ouverte | PureData Convention 07},
+ note       = {Montreal, Canada, August 21-26, 2007},
+ address    = {Montreal, Canada},
+ editors    = {Michel Devy and Fr\'{e}d\'{e}ric Lerasle},
+ pages      = {457-466},
+ isbn       = {2-907801-01-5},
+ publisher  = {LAAS-CNRS},
+ year       = {2001}
+}
+
+@article{ hybridspace,
+author  = {{Vogelaar et al.}, Frans},
+year    = {{2006}},
+title   = {{Wiki of the Hybrid Space Project}},
+journal = {http://hybridspace.openkhm.de},
+volume  = {},
+number  = {},
+pages   = {}
+}
+
