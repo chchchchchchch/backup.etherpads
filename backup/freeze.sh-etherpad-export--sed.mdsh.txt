@@ -1,0 +1,36 @@
+% https://en.wikipedia.org/wiki/Sed
+% https://en.wikipedia.org/wiki/Grep
+
+
+%> sed was developed from 1973 to 1974 by Lee E. McMahon of Bell Labs,[1]
+%> and is available today for most operating systems.[2]
+%> https://en.wikipedia.org/wiki/Sed
+
+
+%> First appearing in Version 7 Unix,[3] sed is one of the early Unix commands
+%> built for command line processing of data files.
+%> https://en.wikipedia.org/wiki/Sed
+
+
+
+*/usr/share/doc/sed/sedfaq.txt.gz
+
+
+
+% http://sed.sourceforge.net
+
+
+                   (( Welcome to sed.sf.net ))                      \
+                        - the sed $HOME -                           \
+                                                                    \
+    BEWARE! Boring man page description on the way:                 \
+                                                                    \
+    Sed  is  a stream editor.  A stream editor is used to per-      \
+    form basic text transformations on an input stream (a file      \
+    or  input from a pipeline).  While in some ways similar to      \
+    an editor which permits scripted edits (such as  ed),  sed      \
+    works by  making only one  pass over  the input(s), and is      \
+    consequently  more efficient.  But it is sed's  ability to      \
+    filter text in a pipeline which particularly distinguishes      \
+    it from other types of editors.                                 \
+
