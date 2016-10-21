@@ -1,0 +1,1011 @@
+> Form is the shape, visual appearance, constitution or configuration of an object.
+> In a wider sense, the form is the way something is or happens.
+> [@wikipedia:20150802:form]
+
+> Ein Rohling ist ein Werkstück, das in der Verarbeitungskette für einen weiteren
+> Verarbeitungsschritt eingesetzt wird, aber aus dem Ausgangsmaterial schon bearbeitet ist.
+> [@wikipedia:20150802:werkstuck]
+
+% https://de.wikipedia.org/wiki/Formgebung
+% https://de.wikipedia.org/wiki/Wirkmedium
+
+
+> A **memorandum** (abbrev.: **memo**) was from the Latin verbal phrase _memorandum est_,
+> the gerundive form of the verb _memoro_,
+> "to mention, call to mind, recount, relate",[@cassell:1854:latinenglish]
+> which means "It must be remembered (that)...".[@wikipedia:20150803:memorandum]
+
+> Grey literature is generally defined as academic literature that is not formally published.
+> It is an expanding field in library and information science that deals with the supply and
+> demand side of publications not controlled by commercial publishing.
+> [@wikipedia:20150803:greyliterature]
+
+
+> Multiple different versions of the same glyph with different widths may be used.
+> This method was used by Gutenberg in the 42-line bible (see (Zapf 2007)),
+> but is less easy now because few fonts come with multiple versions of the same glyph.
+> It is not practical with narrow variants of a font or with different weights of a font
+> because the glyphs look too different from each other to create good effect.
+> It is possible with some multiple master fonts.
+> [@wikipedia:20150910:microtypography]
+
+
+> You make up your own freezes.
+> You got names for them.
+> [@chalfant:1983:stylwars]
+
+> It is dangerous down there.
+> People that work down there 25 and 30 years
+> ... have accidents.
+> [@chalfant:1983:stylwars]
+
+
+
+> **“Won't programmers starve?”**    
+> I could answer that nobody is forced to be a programmer.
+> Most of us cannot manage to get any money for standing on the street and making faces.
+> But we are not, as a result, condemned to spend our lives standing on the street
+> making faces, and starving. We do something else.
+>    
+> But that is the wrong answer because it accepts the questioner's implicit assumption:
+> that without ownership of software, programmers cannot possibly be paid a cent.
+> Supposedly it is all or nothing.
+> ...
+> [@stallman:1985:manifesto]
+
+
+
+
+> Our prototypes and wireframes are designed
+> to promote automation, repetition, and consistency.
+> [@gertz:2015:designmachines]
+
+> Editorial designers know that the secret isn’t content first or content last…
+> it’s content and design at the same time. [@gertz:2015:designmachines]
+
+> Years of awkward tools and processes, limited technology, and tool and technique-driven
+> education has chiseled a unique division of labour around digital design teams.
+> [@gertz:2015:designmachines]
+
+
+
+> How do you get from Lolcats to Skynet?
+> This #startups seems to be on the right track
+> thegrid.io/# 
+> [@bills:2014:lol]
+
+
+
+> The striking thing about all consumer products — and none more so than
+> electronic devices and applications — is that they’re designed to be
+> immensely likable. This is, in fact, the definition of a consumer product,
+> in contrast to the product that is simply itself and whose makers aren’t
+> fixated on you liking it. (I’m thinking here of jet engines, laboratory
+> equipment, serious art and literature.)
+> [@franzen:20110528:tpaatl]
+
+
+
+
+> If you go back to the early Eighties there is absolutely no doubt that 
+> you could identify which buildings were designed using AutoCAD.
+> The proliferation of various geometric shapes and curves showed that
+> the tools became the form.
+> [@ijeh:2014:bimarchitecture]
+
+> In the Eighties, the influence of AutoCAD software was principally
+> architecturally conveyed in the agglomeration of simple geometric
+> shapes, such as spheres, rotundas and triangles, combined to generate
+> architectural form. This can be partially attributed to the popularity
+> of post-modern architecture at the time which revelled in the almost
+> child-like simplicity of bright colours and distinct shapes.
+> But for many like Bernstein, these aesthetics were also linked to the
+> constraints and capabilities of the fledgling CAD software of the time.
+> [@ijeh:2014:bimarchitecture]
+
+% http://www.patrikschumacher.com/Texts/Parametricism%20as%20Style.htm
+% http://www.archdaily.com/302490/a-brief-history-of-bim
+% http://www.asandow.co.uk/Sheffield-Builder-Reports/Architect-Reports/The-influence-of-AutoCAD.html
+% http://cumincad.architexturez.net/system/files/pdf/acadia03_023.content.pdf
+% http://www.mahesh.org/articles/deconautocad.pdf
+% http://info.tuwien.ac.at/ecaade/proc/haapas/haapas.htm
+% https://www.ierek.com/an-overview-of-the-role-and-influence-of-digital-technology-on-architecturedesign/
+
+
+
+
+> In graphic design, a grid is a structure (usually two-dimensional)
+> made up of a series of intersecting straight (vertical, horizontal, and angular)
+> or curved guide lines used to structure content. 
+> [@wikipedia:20150910:grid]
+
+% ...(usually two-dimensional)... -> multi-dimensional grids?
+
+
+> A grid is a predetermined understruc­ture which the designer can employ
+> to give a publication cohesive style and character.
+> It is a great organizer of material and as such will save countless
+> man hours in execution.
+> It will also help bring continuity to var­ious diverse publications.    
+> There are a multitude of grids which can be developed and used by the designer.
+> In the illustration below we explore the rudiments of a grid and its application
+> to a hypothetical pub­lication. 
+> [@nasa:1976:graphicsmanual]
+
+> Covers for small-scale publications should be thought of as posters in miniature.
+> Because of the small amount of space, the designer should attempt to reduce the number
+> of com­petitive elements and to strive for simplicity. This will require the coop­eration
+> of editorial colleagues so that the cover can be clear, direct and attractive.
+> [@nasa:1976:graphicsmanual]
+
+
+> Helvetica is the most important family of type
+> in the NASA Unified Visual Communications System.
+> Helvetica Light is used in combination with the logotype
+> to form the fundamental elements of identification.    
+%
+> In addition, this typeface can be used in numerous media
+> and in a variety of situations to create a clean and
+> con­temporary visual program.
+> The cursive sans-serif letterforms make it extreme­ly legible,
+> even at very small sizes.
+> [@nasa:1976:graphicsmanual]
+
+> Futura is recommended for a number of reasons.
+> The typeface is quite leg­ible and is versatile enough
+> for catalog listings as well as brochure applica­tions.
+> The precision letterforms have a technological character
+> and make it a natural for certain NASA projects.
+> [@nasa:1976:graphicsmanual]
+
+> Garamond is perhaps the finest of the "classical" typefaces.
+> It has stood the test of time and proved itself to be as useful
+> in contemporary design as it has been in more traditional applica­tions.    
+%
+> The main virtues of Garamond include superior readability, handsome char­acter,
+> a distinctive Italic, and certain special refinements such as old style numerals.    
+%
+> Garamond is ideal for high quality publications or those of a more per­manent nature.
+> It functions very well in large volume settings and will sus­tain reader attention.    
+%
+> Headings may be set in Helvetica Medium or Garamond Bold.
+> Gara­mond Bold is not a particularly heavy weight and the designer must com­pensate
+> by increasing the size of the headings or by using space around them. 
+> [@nasa:1976:graphicsmanual]
+
+
+
+
+
+% http://www.manifestoproject.it/bruce-mau/
+
+> Process is more important than outcome.
+> When the outcome drives the process
+> we will only ever go to where we’ve already been.
+> If process drives outcome we may not know where we’re going,
+> but we will know we want to be there.
+> [@mau:1998:manifesto]
+
+> Avoid software.
+> The problem with software is
+> that everyone has it.
+> [@mau:1998:manifesto]
+
+> Repeat yourself.
+> If you like it, do it again.
+> If you don’t like it, do it again.
+> [@mau:1998:manifesto]
+
+> Make your own tools.
+> Hybridize your tools in order to build unique things.
+> Even simple tools that are your own can yield entirely
+> new avenues of exploration.
+> Remember, tools amplify our capacities,
+> so even a small tool can make a big difference.
+> [@mau:1998:manifesto]
+
+> Make new words. Expand the lexicon.
+> The new conditions demand a new way of thinking.
+> The thinking demands new forms of expression.
+> The expression generates new conditions.
+> [@mau:1998:manifesto]
+
+> Think with your mind.
+> Forget technology.
+> Creativity is not device–dependent.
+> [@mau:1998:manifesto]
+
+% But is creativity device–independent?
+
+
+
+% 445
+% 01:06:32,355 --> 01:06:37,987
+> But I see designers as designing not any more
+> objects, per se, in some cases yes,
+%
+% 446
+% 01:06:38,094 --> 01:06:44,966
+> but also scenarios that are based on objects that
+> will help people understand the consequences
+%
+% 447
+% 01:06:45,067 --> 01:06:51,495
+> of their choices. And people like Dunne and Raby
+> do that, exactly, they call it design for debate.
+
+
+% 448
+% 01:06:57,046 --> 01:07:02,177
+We use design as a medium to try and explore
+ideas, find out things, question.
+%
+% 449
+% 01:07:02,651 --> 01:07:07,315
+We've got cinema, fine arts, literature, craft ...
+%
+% 450
+% 01:07:07,390 --> 01:07:11,451
+> every other medium seems to have a part that's
+%
+% 451
+% 01:07:11,560 --> 01:07:16,520
+> dedicated to reflecting on important issues, yet
+> design, the thing that's responsible for so much
+%
+% 452
+% 01:07:16,665 --> 01:07:21,625
+> of the built environment around us doesn't do that.
+> I think that's one of the things that attracts us.
+%
+% 453
+% 01:07:21,737 --> 01:07:26,697
+> So even though our design ideas are never really
+> put into mass production, we always try to
+%
+% 454
+% 01:07:26,776 --> 01:07:31,736
+> suggest that they could be mass-produced or they
+> could be on the scale of hundreds of thousands,
+%
+% 455
+% 01:07:31,814 --> 01:07:35,773
+> because that's part of what we're interested in.
+
+% 456
+% 01:07:35,918 --> 01:07:40,753
+> We love the idea that with a product, or shopping ...
+> we love showrooms.
+% 
+% 457
+% 01:07:40,923 --> 01:07:46,327
+> Because what is a showroom, you go in there,
+> around IKEA and you imagine this is in your home,
+%
+% 458
+% 01:07:46,462 --> 01:07:51,525
+> you project yourself into this other space. But you
+> could actually buy that and have it at home.
+%
+% 459
+% 01:07:51,667 --> 01:07:56,502
+> It's true, when you walk into a gallery, you don't
+> imagine the sculpture at home and how it's going
+%
+% 460
+% 01:07:56,605 --> 01:08:01,143
+> to impact on your life. But if you walk into a shop,
+> whether it's electronics, or furniture, or a car
+%
+% 461
+% 01:08:01,143 --> 01:08:05,546
+> showroom, you do imagine yourself experiencing
+> this thing and enjoying it.
+%
+% 462
+% 01:08:06,782 --> 01:08:11,320
+> So when we do conceptual products, we're hoping
+> that people will imagine how that will impact
+%
+% 463
+% 01:08:11,320 --> 01:08:13,584
+> on the way they live their lives.
+[@hustwit:2009:objectified]
+
+
+% https://www.grafik.net/category/feature/critical-everything
+
+
+
+% SITUATED KNOWLEDGE. SITUATED SOFTWARE
+
+> Situated knowledge is knowledge specific to a particular situation.
+> [@wikipedia:20150911:knowledge]
+
+> Some methods of generating knowledge, such as trial and error,
+> or learning from experience, tend to create highly situational knowledge.
+> [@wikipedia:20150911:knowledge]
+
+> Situational knowledge is often embedded in language, culture, or traditions.
+> [@wikipedia:20150911:knowledge]
+
+%> Knowledge generated through experience is called knowledge "a posteriori",
+%> meaning afterwards. The pure existence of a term like "a posteriori" means
+%> this also has a counterpart. In this case that is knowledge "a priori",
+%> meaning before. The knowledge prior to any experience means that there are
+%> certain "assumptions" that one takes for granted. For example, if you are
+%> being told about a chair it is clear to you that the chair is in space,
+%> that it is 3D. This knowledge is not knowledge that one can "forget",
+%> even someone suffering from amnesia experiences the world in 3D.
+%> [@wikipedia:20150911:knowledge]
+
+% "a posteriori" vs. "a priori" software?
+
+% https://en.wikipedia.org/wiki/Situational_application
+% http://shirky.com/writings/herecomeseverybody/situated_software.html
+*% http://www.computer.org/csdl/mags/so/2008/06/mso2008060050-abs.html
+
+
+
+% # ON SETUP
+
+> Der Begriff Peripherie (von altgriechisch ???????? periphéro „herumtragen“,
+> „sich (her-)umdrehen“) bedeutet im allgemeinen Sprachgebrauch „Umgebung“ oder
+> „Umfeld“, beispielsweise die Umgebung einer Stadt oder einer Region im Gegensatz
+> zum Kernbereich. [@wikipedia:20150914:peripherie]
+
+% https://de.wikipedia.org/wiki/Dependenztheorie
+% https://en.wikipedia.org/wiki/Peripheral
+% https://en.wikipedia.org/wiki/Single-use_zoning
+% https://en.wikipedia.org/wiki/Mixed-use_development
+
+> There are two different types of peripherals: input devices, which interact with or
+> send data to the computer (mouse, keyboards, etc.), and output devices, which provide
+> output to the user from the computer (monitors, printers, etc.). Some peripherals,
+> such as touchscreens, can be used both as input and output devices.
+> [@wikipedia:20150914:peripheral]
+
+
+
+
+> What’s your favorite tool?
+> Hammer? Screwdriver? Chainsaw?
+> [@boardley:2015:helvetica]
+% http://ilovetypography.com/2015/06/27/the-last-word-on-helvetica/
+
+% ... dismissing 'Helvetica'
+% and at the same time promoting a modernist mindset of the
+% _right_ tool for the _right_ job.
+
+
+% MY FAVOURITE TOOL IS AN ADAPTER
+% https://en.wikipedia.org/wiki/Coupling_(piping)
+% https://en.wikipedia.org/wiki/Piping_and_plumbing_fitting
+% KONVERTER/ADAPTER
+% https://en.wikipedia.org/wiki/Adapter_pattern
+
+
+
+
+> Der Unterschied zwischen einem Torso und dem Non-finito besteht darin,
+> dass der Künstler mehr Material verwendet hat, als notwendig ist, und
+> dass die Plastik noch unbearbeitete Partien besitzt, wohingegen
+> ein Torso „abgeschnittene“ Partien hat, deren gedankliche Fortsetzungen
+> (oft Arme oder Beine) niemals Teil der fertigen Skulptur sein sollten.
+> [@wikipedia:20150915:nonfinito]
+
+% https://de.wikipedia.org/wiki/Fragment_(Literatur)#Fragment_als_literarische_Gattung
+
+
+% MDSH
+fluid form instead of standard?
+multitude of exit points/strategies? (-> entry strategies)
+subjective code.
+% https://en.wikipedia.org/wiki/Shapeshifting
+% https://xkcd.com/927/
+
+% ... an open publishing standard will be harder to establish.
+% http://www.publishinglab.nl/openpublishing/2015/03/27/first-pointers-for-new-ways-of-research-publication/
+
+
+> Over the last decade, GarageBand has become the  Starbucks of digital recording studios:
+> consumer-friendly, global,  omnipresent. Pre-programmed into every Apple device, anyone
+> with an  iPhone, iPad, or Mac can open the program and record something amazing  (or,
+> perhaps more likely, something totally embarrassing). And with  Apple selling nearly 300
+> million devices in the last year alone, it's no  wonder that GarageBand has engendered
+> praise for its egalitarian  simplicity as well as some ire for its creative limitations.
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+> ... compressing the space between an expensive studio and
+> a DIY artist's bedroom, between professionalism and amateurism.
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+> There's been a devaluation of audio engineering because GarageBand makes it look so easy to do,
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+> ... it's simply how music is released in the age of digital DIY.
+% what's the difference to the age of analog DIY?
+% what are interesting 'unorthodox' uses of GarageBand?
+
+> And criticizing the Facebook-generation guitarist for  exploring more affordable digital methods
+> of recording can seem like a form of classism that draws a defensive line between experts and 
+> would-be experts.
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+> "the machismo of software."
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+% ???
+
+> There's a belief that for GarageBand to be a truly  nondiscriminatory force for democratization,
+> it needs to be open-source  and free for everyone, not just people with Apple devices (though the 
+> tech giant has no plans to make such a move in the near future). But at  least one intrepid music
+> maker found a way around this financial  obstacle: When his computer crashed, 25-year-old Brooklyn
+> rapper and  producer Prince Harvey turned a nearby Apple Store into his creative  lab. As he was in
+> the process of getting evicted from his Bushwick  apartment, Harvey managed to record a full album
+> that he titled PHATASS — aka Prince Harvey at the Apple Store SoHo. 
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+> Harvey's a capella-style recordings are an example of  how artists can manipulate GarageBand—as well
+> as the Apple Store's more  lenient customer policies—like a hacker trying to crack Apple's musical 
+> mainframe. But, according to several musicians, newer versions of  GarageBand make it harder to 
+> innovate and customize, showing that  there's a fine line between a program that's accessible and one 
+> that's _too_ accessible. "You feel like you're being told what to do now," says  Harvey. "So I just
+> use an old version because I like the control it  gives me." In general, advanced users of GarageBand
+> prefer the version  of the software they first recorded on, suggesting that these digital natives
+> aren't above the comforts of nostalgia and familiarity.
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+%! _comforts of nostalgia and familiarity_
+
+> In an attempt to further level the playing field and  perhaps win some old fans back, GarageBand's latest
+> update allows users  to publish their songs directly to Apple Music Connect, a MySpace-esque social
+> networking site for artists to post updates, including new music,  and receive comments from fans.
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+> It's easy to make fun of people for using software that anyone can operate.
+> http://pitchfork.com/features/articles/9728-democracy-of-sound-is-garageband-good-for-music
+
+
+> Das ändert sich nur, wenn Namen wie Apple, Pixar, PS5 fallen. Namen, bei denen er wirklich wütend
+> werden kann. Die milliardenschweren Player im globalen Unterhaltungsgeschäft, klagt Marschall,
+> während er auf dem abgewetzten Sofa aus Zeiten dreier Fernsehprogramme sitzt, "ersticken alle
+> Fantasie mit keimfreier Perfektion". Seine bis zu 40 Mitarbeiter hingegen "erwecken lebloses Holz
+> zum Leben". Das verlange dem Publikum bei allem Spaß auch etwas ab, statt es mit Megapixeln zu sedieren.
+> http://www.zeit.de/2015/38/augsburger-puppenkiste-klaus-marschall/seite-2
+
+> Apple designed these devices for mass appeal—tech for generalists, not the specialized worlds of work.
+>
+> But then a funny thing happened. Apple customers didn’t start demanding new devices for work.
+> They adapted their work to the Apple devices they already had. 
+> http://www.wired.com/2015/10/tim-cooks-apple-great-tech-realignment/
+
+
+
+> Der Mensch schreitet geradeaus, weil er ein Ziel hat; er weiß, wohin er geht,
+> er hat sich für eine Richtung entschieden und schreitet in ihr geradeaus.
+> Der Esel geht im Zickzack, döst ein wenig, blöde vor Hitze und zerstreut,
+> geht im  Zickzack, um den großen Steinen auszuweichen, um sich den Anstieg sanfter zu 
+> machen, um den Schatten zu suchen. Er strengt sich so wenig wie möglich an. 
+> [@corbusier:1929:staedtebau]
+
+> Man walks in a straight line because he has a goal and knows where he is going;
+> he has made up his mind to reach some particular place and he goes straight to it.
+> The pack-donkey meanders along, meditates a little in his scatter-brained and distracted fashion,
+> he zigzags in order to avoid the larger stones, or to ease the climb,
+> or to gain a little shade; he takes the line of least resistance.
+> [@corbusier:1929:cityoftomorrow]
+
+
+> Suppose you went back to Ada Lovelace and asked her the difference between a script and a program.
+> She'd probably look at you funny, then say something like:
+> Well, a script is what you give the actors, but a program is what you give the audience.
+> That Ada was one sharp lady...
+% http://www.perl.com/pub/2007/12/06/soto-11.html
+
+
+
+
+
+> You can’t really think of just the computer in forming the idea of an instrument.
+> Software and hardware controllers form systems that can become instruments.
+> The computer is really a general purpose device that serves a platform for building instruments.
+% https://www.ableton.com/en/blog/michael-bierylo-designing-music-curriculum
+
+> Instrument design is part of performance practice.
+> Everyone designs their own system, and hence,
+> a new way of learning grows with each individual performer.
+> In some ways,
+> it’s not like learning a guitar to be able to play a certain repertoire,
+> but more like designing an instrument that will produce sounds
+> and gestures that the composer/player imagines.
+% https://www.ableton.com/en/blog/michael-bierylo-designing-music-curriculum
+
+> There’s also the question of whether the instrument you design will be general purpose,
+> something that can function in a variety of settings, or purpose specific,
+> something that’s designed for a specific piece or event. 
+% https://www.ableton.com/en/blog/michael-bierylo-designing-music-curriculum
+
+> So, there’s this gap between 
+> what contemporary musicians actually do, 
+> research in the field, 
+> and the canon. 
+> That’s a structural challenge faced in all of education, 
+> and some fields face it better than others. 
+> In medicine or business, 
+> bridging these gaps is essential for survival. 
+> In the arts, 
+> this doesn’t always seem to be the case, 
+> however as the cost of education skyrockets, 
+> survival will demand relevancy for most arts institutions.
+% https://www.ableton.com/en/blog/michael-bierylo-designing-music-curriculum
+
+
+> processing program's markup language without
+> immediate visualization of the finished product.
+% https://en.wikipedia.org/wiki/Desktop_publishing
+
+> However, some Web designers still prefer to write HTML
+> without the assistance of a WYSIWYG editor,
+> for greater control
+> and because these editors often result in code bloat.
+% https://en.wikipedia.org/wiki/Desktop_publishing
+
+
+% https://en.wikipedia.org/wiki/WYSIWYM
+
+% https://en.wikipedia.org/wiki/Word_processor
+% https://en.wikipedia.org/wiki/Document_processor
+
+% https://en.wikipedia.org/wiki/Page_layout
+
+
+
+> Just because it isn't a Mac or doesn't have Windows
+> does not mean it has no "interface."
+> The way you accomplish tasks with a product,
+> what you do and how it responds
+> – that's the interface.
+> [@raskin:1993:nogui]
+
+
+
+> In der bildenden Kunst ist die Komposition eine Bezeichnung
+> für den formalen Aufbau von Kunstwerken,
+> der die Beziehungen der Gestaltungselemente untereinander betrifft.
+% https://de.wikipedia.org/wiki/Komposition_(Bildende_Kunst)
+
+% LOTS IN TRANSLATION
+% 
+
+% the scale of home
+% -> https://youtu.be/o54kWCOmAMU
+
+
+
+> In computing, a natural user interface, or NUI, or Natural Interface
+> is the common parlance used by designers and developers of human-machine
+> interfaces to refer to a user interface that is effectively invisible,
+> and remains invisible as the user continuously learns increasingly complex
+> interactions. The word natural is used because most computer interfaces
+> use artificial control devices whose operation has to be learned.
+% https://en.wikipedia.org/wiki/Natural_user_interface
+
+% INVISIBLE
+
+% DOT FILES
+% http://www.jnd.org/dn.mss/error_messages_are_e.html
+
+> "Bad, bad," says Apple, don't you know better?
+>  Starting a file with a dot is our secret way
+> of marking system files.
+>  You can't do that: start all over again."
+>  And then it rudely discarded all my work.
+
+This is how invisible computing works. By hiding things.
+
+
+> Float like a butterfly, sting like a bee,
+> his hands can't hit what his eyes can't see.
+> (Before fighting George Foreman, 1974)
+% http://genius.com/Muhammad-ali-alis-battle-raps-annotated
+
+
+% FLAWLESS? AND WHAT ABOUT THE V-EFFEKT.
+
+
+> The instrument that I grew up wanting to play [is] the sampler.
+> And it's the instrument I took seriously in terms of becoming
+> the best at it, or one of the best. I think, initially in the late
+> '80s when the technology was made available, the instant reaction
+> to it by the old guard at that time was, 'Well, [sampling] is just
+> out-and-out theft. It's stealing.' And I think I've learned to
+> recognize all sides of that discussion.
+> But I think what _Endtroducing....._ did for a lot of people was
+> kind of close the book on that discussion and say,
+> OK, this is legitimate. This is a legitimate new way of making music.
+% http://www.webcitation.org/6G7GYctC8
+
+
+> Ein unmanipuliertes Schreiben, Filmen und Senden gibt es nicht.
+> Die Frage ist daher nicht, ob die Medien manipuliert werden oder nicht,
+> sondern wer sie manipuliert. Ein revolutionärer Entwurf muß nicht die
+> Manipulateure zum Verschwinden bringen;
+> er hat im Gegenteil einen jeden zum Manipulateur zu machen.
+% https://de.wikipedia.org/wiki/Baukasten_zu_einer_Theorie_der_Medien
+
+
+> The Days Run Away Like Wild Horses Over the Hills. (Charles Bukowski)
+
+
+*> Sie pfeifen auf den Menschen!
+*> Sie wollen Maschinen sein, Schrauben, Räder, Kolben, Riemen
+*> -- doch noch lieber als Maschinen wären sie Munition:
+*> Bomben, Schrapnells, Granaten.
+*> Wie gerne würden sie krepieren auf irgendeinem Feld!
+*> Der Name auf einem Kriegerdenkmal ist der Traum ihrer Pubertät. 
+*% Jugend ohne Gott
+
+
+
+> As an English major, I primarily studied modernist literature.
+> I gravitated toward the modernists because they used visual signifiers
+> to defamiliarize the reader. They experimented with how typography, 
+> composition, and book design could be part of the narrative.
+> My preoccupation with the visual and the textual started to extend to
+> other academic coursework. For my senior thesis, I analyzed a volume that
+> juxtaposed Toni Morrison’s poems with Kara Walker’s silhouettes.
+> For a seminar on Virginia Woolf, I researched her role as a letterpress 
+> typesetter at the Hogarth Press. At the same time, I enrolled in undergraduate
+> design courses and I began designing for departments and student groups.
+% http://ligature.ch/2015/02/jessica-svendsen-interview/
+
+
+
+> It was a champion of the graphical user interface, where it is always possible
+> to discover what actions are possible, clearly see how to select that action,
+> receive unambiguous feedback as to the results of that action, and have the power
+> to reverse that action—to undo it—if the  result is not what was intended.
+% http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
+
+Permanent trial and error?
+
+> Design is a way of thinking, of determining people’s true, underlying needs,
+> and then delivering products and services that help them.
+% http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
+
+Oha!
+
+> Good design should be attractive, pleasurable, and wonderful to use.
+> But the wonderfulness of use requires that the device be understandable
+> and forgiving. It must follow the basic psychological principles that
+> give rise to a feeling of understanding, of control, of pleasure.
+> These include discoverability, feedback, proper mapping, appropriate use
+> of constraints, and, of course, the power to undo one’s operations.
+> These are all principles we teach elementary students of interaction design.
+> If Apple were taking the class, it would fail.
+% http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
+
+Please don’t tell us stories of grandparents who can now use technological
+devices such as tablets whereas before they could never  master computers.
+Just how much of the new technology have they  mastered?
+Yes, gesture-controlled devices, tablets, and phones have easier barriers
+to initial use. But they have huge barriers to anything advanced, such as
+selecting three photos to send in an email, or formatting some text, or
+combining the results of several different operations. These and myriad
+other operations are far easier and more efficient on traditional computers.
+% http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
+
+> Good design encourages people to learn and grow, taking on new and more
+> complex tasks once they’ve learned the basics. Snapshot takers grow to
+> become photographers, personal journal writers become bloggers, and
+> children try programming and end up seeking careers in computer science.
+> For decades, encouraging learning and growth was the life blood of Apple,
+> a principle so important that it was universally internalized and  understood.
+% http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
+
+
+
+> Ästhetik bedeutet wörtlich: Lehre von der Wahrnehmung bzw. vom sinnlichen Anschauen.
+> Ästhetisch ist demnach alles, was unsere Sinne bewegt, wenn wir es betrachten:
+> Schönes, Hässliches, Angenehmes und Unangenehmes.
+> Eine Lehre, die sich nur mit schönen Dingen beschäftigt, heißt Kallistik.
+% https://de.wikipedia.org/wiki/%C3%84sthetik
+
+
+> Siphonophores are of special scientific interest because they are composed of
+> medusoid and polypoid zooids that are morphologically and functionally specialized.
+> Each zooid is an individual module, but their integration with each other is so
+> strong that the colony attains the function of a large organism. Indeed, most of
+> the zooids are so specialized, they lack the ability to survive on their own.
+> This is somewhat analogous to the construction and function of multicellular organisms;
+> because multicellular organisms have organs which, like zooids, are specialized and
+> interdependent, siphonophores may provide clues regarding the evolution of more complex bodies.
+% https://en.wikipedia.org/wiki/Siphonophorae
+
+
+Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
+
+
+> In restoration ecology of native plant communities or habitats, some invasive species
+> create monotypic stands that replace and/or prevent other species, especially indigenous
+> ones, from growing there.
+% https://en.wikipedia.org/wiki/Habitat
+
+
+
+> Today, Linux is everywhere,
+> powering everything from massive corporate enterprise systems
+> to the millions of objects that make up the Internet of Things.
+> And you’ll find Linux in products you’d never expect:
+> from drones to phones,
+> from cars to TV sets.
+> The biggest computing systems in the world use Linux
+> — and the smallest as well.
+> Linux even helped land a spacecraft on Mars.
+% http://www.wired.com/brandlab/2016/01/taking-linux-and-the-open-community-to-new-heights
+
+
+> the best developers on the planet work around the clock
+> to ensure that Linux is flexible, secure, and — most critically — interoperable. 
+% http://www.wired.com/brandlab/2016/01/taking-linux-and-the-open-community-to-new-heights
+
+
+> The great power in viewing a mind as a society of agents,
+> as opposed to the consequence of some basic principle
+> or some simple formal system,
+> is that different agents can be based on
+> different types of processes with different purposes,
+> ways of representing knowledge,
+> and methods for producing results.
+% https://en.wikipedia.org/wiki/Society_of_Mind
+
+
+
+% https://de.wikipedia.org/wiki/Sondersprache
+
+> Fundamentally,
+> a pidgin is a simplified means of linguistic communication,
+> as it is constructed impromptu,
+> or by convention,
+> between individuals or groups of people.
+> A pidgin is not the native language of any speech community,
+> but is instead learned as a second language.
+> A pidgin may be built from
+> words
+> sounds,
+> or body language
+> from multiple other languages and cultures.
+% https://en.wikipedia.org/wiki/Pidgin
+
+
+> The initial development of a pidgin usually requires:
+>  - prolonged, regular contact between the different language communities
+>  - a need to communicate between them
+>  - an absence of (or absence of widespread proficiency in) a widespread, accessible interlanguage
+% https://en.wikipedia.org/wiki/Pidgin
+
+
+% https://en.wikipedia.org/wiki/Creole_language
+
+
+----
+
+%   "Meet Artist Matthieu Bourel" (for THE AGE OF COLLAGE VOL. 2)
+% -> https://vimeo.com/154714950 
+
+
+> Francis Bacon was saying: "Chaos brings images"
+
+> I don't glue immediately so usually I'm searching and combining,
+> and then during the process, the idea appears.
+
+> It's still very important for me to use the analog (processes),
+> like body contact and hand contact. It's something real when you
+> have some glue on your hands and you have a big mess around you.
+
+> It was something very personal, something to know myself more,
+> and something private. 10 years ago, I was like:
+> "No computer, I don't want anything digital."
+> But since 5 years, it has really developed and I also know more
+> collage artists. Then I wanted, again, to find my own way to this.
+> Something personal.
+
+> I still love to do the traditional collage, but that is not what
+> I'm searching for anymore. You have to use today's techniques.
+> Max Ernst -- 100 years ago did this. He didn't have a scanner or a printer. 
+> I don't have problems these days to use digital techniques.
+> The most important things for me, even for music, is to appropriate things,
+> to make it somehow special. So that the power does not come from the source
+> but from what I did with it.
+
+
+----
+
+
+> While boxes represent the contents of a page,
+> _glue_ represents the white space that fits in between boxes,
+> and as TeX is building the page this glue can expand or contract
+> to allow the contents to be positioned optimally.
+> This glue is eventually 'set' after which it can no longer adjust
+> --it's just fixed white space.
+% https://en.wikibooks.org/wiki/TeX
+
+
+> De oarlengde Woimuichsau war a Sach, vo de a jeda Baur dramt.
+> S' is aba eascht amoi a Fabewesn wia da Woiperdinger. 
+% https://bar.wikipedia.org/wiki/Oarlengde_Woimuichsau
+
+
+
+> One Ring to rule them all, One Ring to find them,
+> One Ring to bring them all and in the darkness bind them.
+
+
+> The Universe is all of time and space and its contents.
+% https://en.wikipedia.org/wiki/Universe
+
+
+> A term for "universe" among the ancient Greek philosophers
+> from Pythagoras onwards was ?? ??? tò pân ("the all"),
+> defined as all matter and all space, and ?? ???? tò hólon
+> ("all things"), which did not necessarily include the void.
+> Another synonym was ? ?????? ho kósmos (meaning the world, the cosmos).
+> Synonyms are also found in Latin authors (totum, mundus, natura)
+> and survive in modern languages, e.g., the German wordsDas All, Weltall,
+> and Natur for Universe. The same synonyms are found in English,
+> such as everything (as in thetheory of everything),
+> the cosmos (as in cosmology),
+> the world (as in the many-worlds interpretation),
+> and nature(as in natural laws or natural philosophy).
+% https://en.wikipedia.org/wiki/Universe
+
+
+> Why doesn’t calibre let me store books in my own directory structure?
+> ---------------------------------------------------------------------
+>
+> The whole point of calibre’s library management features is that they
+> provide a search and sort based interface for locating books that is
+> _much_ more efficient than any possible directory scheme you could come
+> up with for your collection. Indeed, once you become comfortable using
+> calibre’s interface to find, sort and browse your collection, you won't
+> ever feel the need to hunt through the files on your disk to find a book
+> again.
+
+% https://manual.calibre-ebook.com/faq.html#why-doesn-t-calibre-let-me-store-books-in-my-own-directory-structure
+
+
+> **Punctuation** is "the use of spacing, conventional signs,
+> and certain typographical devices as aids
+> to the understanding and the correct reading,
+> both silently and aloud,
+> of handwritten and printed texts."
+> Another description is:
+> "The practice, action, or system of inserting
+> points or other small marks into texts,
+> in order to aid interpretation;
+> division of text into sentences, clauses, etc.,
+> by means of such marks."
+% https://en.wikipedia.org/wiki/Punctuation
+
+> "woman, without her man, is nothing"
+> (emphasizing the importance of men),
+> and
+> "woman: without her, man is nothing"
+> (emphasizing the importance of women)
+% https://en.wikipedia.org/wiki/Punctuation
+
+
+> Ich hatte zu der Zeit einen alten Rechner.
+> Der hatte eine so schlechte Grafikkarte,
+> dass sich die Freehand-Dateien,
+> die Honza gebaut hatte,
+> extrem langsam von hinten nach vorne aufbauten.
+> Das sah total cool aus.
+> Also haben wir MTV angerufen und haben denen gesagt,
+> dass wir doch Visuals machen können,
+> nur noch nicht wissen,
+> wie wir sie aus unserem Rechner rauskriegen.
+> MTV hat ein Kamerateam angeheuert,
+> die das Ganze mit einer 16mm Kamera
+> von meinem Bildschirm abgefilmt haben.
+% http://de-bug.de/share/debug45.pdf
+
+
+> Neusprech bezeichnet
+> die vom herrschenden Regime vorgeschriebene,
+> künstlich veränderte Sprache.
+> Das Ziel dieser Sprachpolitik ist es,
+> die Anzahl und das Bedeutungsspektrum der Wörter zu verringern,
+> um die Kommunikation des Volkes in
+> enge, kontrollierte Bahnen zu lenken.
+> Damit sollen sogenannte Gedankenverbrechen unmöglich werden.
+> Durch die neue Sprache bzw. Sprachregelung soll die Bevölkerung so manipuliert werden,
+> dass sie nicht einmal an Aufstand denken kann,
+> weil ihr die Wörter dazu fehlen.
+% https://de.wikipedia.org/wiki/Neusprech
+
+
+
+% https://en.wikipedia.org/wiki/Weasel_word
+% https://de.wikipedia.org/wiki/Plansprache
+% https://en.wikipedia.org/wiki/Controlled_natural_language
+% https://en.wikipedia.org/wiki/Newspeak
+% https://de.wikipedia.org/wiki/Stottern
+
+
+
+> Und niemand weiß das Ungeordnete noch zu schätzen -
+> das „Vergnügen an der Unordnung“ gibt es nicht mehr.
+> („Ein sorgloser Schnürsenkel,
+>  in dessen Schleife ich eine wilde Höflichkeit erkenne /
+>  verzaubert mich mehr, als wenn Kunst /
+>  in allem zu präzise ist.“ - Robert Herrick.)
+% http://www.faz.net/aktuell/feuilleton/bilder-und-zeiten-1/david-hockney-ich-rauche-weil-es-mir-guttut-1464545-p2.html
+
+
+> Single-source publishing has been criticized due to
+> the quality of work, being compared to as the
+> "conveyor belt assembly" of content creation by its
+> critics. While heavily used in technical translation,
+> there are risks of error in regard to indexing.
+> While two words might be synonyms in English,
+> they may not be synonyms in another language.
+> In a document produced via single sourcing, however,
+> the index will be translated automatically and the
+> two words will be rendered as synonyms because they
+> are in the source language, while in the target
+> language they are not.
+% https://en.wikipedia.org/wiki/Single_source_publishing
+
+
+> tyres, rims and axes will continue to be perfected,
+> but the wheel in itself, as a principle,
+> but also as a mere matter of fact,
+> will never be altered, superseded or bettered.
+> Quite simply, the wheel makes too much sense to be tinkered with.
+>
+> Dieter Roelstraete: Art Books Now - Seven Theses (From the Accomplice’s Point of View) 
+
+
+% -----
+
+% http://www.wired.com/1997/02/ffharaway/
+
+> In the manifesto, Haraway argues that the cyborg
+> -- a fusion of animal and machine --
+> trashes the big oppositions between nature and culture,
+> self and world that run through so much of our thought. 
+
+% KEEP OPPOSITIONS ALIVE ??
+
+> In conversation, when people describe something as natural,
+> they're saying that it's just how the world is; we can't change it.
+
+> "Technology is not neutral.
+> We're inside of what we make,
+> and it's inside of us.
+> We're living in a world of connections --
+> and it matters which ones get made and unmade."
+
+% http://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf
+
+> Cyborgs, Haraway explains,
+> "are information machines.
+> They're embedded with circular causal systems,
+> autonomous control mechanisms,
+> information processing
+> -- automatons with built-in autonomy."
+
+
+
+% NATURE <-> CULTURE ??
+% IS THE CLOUD THOUGHT TO FEEL NATURAL
+
+
+
+
+
+
+
+
+
