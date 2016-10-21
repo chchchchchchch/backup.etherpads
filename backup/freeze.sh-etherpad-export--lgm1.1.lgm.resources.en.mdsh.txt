@@ -1,0 +1,31 @@
+% .MDSH IS MARKDOWN +X -> http://freeze.sh/2015/mdsh
+%
+% A COMMENT MAY BE FUNCTIONAL (= ignored/interpreted during export)
+% A text [^]{a footnote} and some more text
+% A citation reference [@krausse:2001:fuller]
+% A citation reference with pagenumber [@[1-8]krausse:2001:fuller]
+% -> bibtex references: http://freeze.sh/etherpad/bibref
+% -> markdown reference: http://daringfireball.net/projects/markdown
+
+% FROM: http://git.io/vnmq1
+% YEAR: 2010
+% LICENSE: CC-BY-SA
+
+
+% RUBRIK: Resource List
+
+- Blender: A powerful F/LOSS 3D animation application for GNU/Linux, 
+           Mac OS X and Microsoft Windows.
+- FontForge: A F/LOSS font editor for GNU/Linux, Mac OS X and
+             Microsoft Windows.
+- Fontmatrix: A F/LOSS font management and selection tool for 
+              GNU/Linux, Mac OS X and Microsoft Windows.
+- GIMP: A raster based image editor for GNU/Linux, Mac OS X and 
+        Microsoft Windows.
+- Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and 
+            Microsoft Windows.
+
+% The names are headlines. The short blurbs are short blurbs.
+% Then we throw in a screenshot or two underneath, as well as the URL.
+
+
