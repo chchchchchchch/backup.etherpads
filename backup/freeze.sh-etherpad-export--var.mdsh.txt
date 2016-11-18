@@ -1002,7 +1002,37 @@ Pleuston (gr. pleuston, „das Segelnde“, „das Schwimmende“)
 % IS THE CLOUD THOUGHT TO FEEL NATURAL
 
 
+----
 
+> Cage arbeitete mit Gegenständen des Alltags.
+> Er verwendete Schrauben, Nägel, Bolzen und aus Filzfaser bestehende Dichtungsmaterialien.
+> Sogar eine Kuchenplatte und Radiergummis fanden den Weg auf die Saiten.
+> Als Cage schließlich das geeignete Präparationsmaterial gefunden hatte,
+> das nicht nur zwischen den Saiten haften blieb, sondern auch die gewünschten perkussiven
+> bis glockenartigen Klänge produzierte, hatte er gleichzeitig die natürliche Spielweise
+> des Klaviers erhalten: Hatte man sich an die klanglichen Eigenheiten pianistischer
+> Möglichkeiten erst einmal gewöhnt, konnte das Instrument – wenn auch etwas leiser als
+> sonst – in all seinen virtuosen Möglichkeiten bespielt werden.
+% https://de.wikipedia.org/wiki/Präpariertes_Klavier
+
+
+> Although theoretically any object could be used to prepare a piano,
+> in practical application preparation objects are usually expected
+> to have certain characteristics:
+> * They are applied directly to the piano strings.
+> * They must fit in the desired location inside the piano.
+> * They (usually) should not move from their location during playing.
+> * They must be reversible (that is, when a properly prepared piano has
+>   been "unprepared", it should be impossible for anyone to tell that it
+>   had ever been prepared; no permanent damage is done to the piano).
+% https://en.wikipedia.org/wiki/Prepared_piano
+
+----
+
+> The main text of published authors (e.g. the story, non-fiction description, poems, etc.)
+> is often surrounded by other material supplied by editors, printers, and publishers,
+> which is known as the paratext.
+% https://en.wikipedia.org/wiki/Paratext
 
 
 
