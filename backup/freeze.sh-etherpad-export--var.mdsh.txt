@@ -667,13 +667,14 @@ This is how invisible computing works. By hiding things.
 > to reverse that action—to undo it—if the  result is not what was intended.
 % http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
 
-Permanent trial and error?
+% Permanent trial and error?
+% Iterative mode within gui environments?
 
 > Design is a way of thinking, of determining people’s true, underlying needs,
 > and then delivering products and services that help them.
 % http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name
 
-Oha!
+% Oha!
 
 > Good design should be attractive, pleasurable, and wonderful to use.
 > But the wonderfulness of use requires that the device be understandable
