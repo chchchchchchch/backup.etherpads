@@ -172,7 +172,7 @@
   author       = {Farnell, Andy}, 
   title        = {Re: Questions Pd/RjDj},
   note         = {E-Mail to Aymeric Mansoux},
-  day          = {28}
+  day          = {28},
   month        = {May},
   year         = {2013}
 }
@@ -209,7 +209,7 @@
               Richard Lawler  and
               Chris McCormick and
               Martin Roth     and
-              Hans-Christoph Steiner} 
+              Hans-Christoph Steiner},
  booktitle = {Proceedings Pure Data Convention},
  year      = {2011}
 }
@@ -259,7 +259,7 @@
  author       = {McCormick, Chris}, 
  title        = {Re: question RjDj},
  note         = {e-mail to Aymeric Mansoux},
- day          = {31}
+ day          = {31},
  month        = {May},
  year         = {2013}
 }
@@ -325,7 +325,7 @@
  author       = {Brossier, Paul}, 
  title        = {Re: question RjDj},
  note         = {e-mail to Aymeric Mansoux},
- day          = {4}
+ day          = {4},
  month        = {June},
  year         = {2013}
 }
@@ -334,7 +334,7 @@
  author       = {Anonymous}, 
  title        = {Re: question RjDj},
  note         = {e-mail to Aymeric Mansoux},
- day          = {14}
+ day          = {14},
  month        = {May},
  year         = {2013}
 }
