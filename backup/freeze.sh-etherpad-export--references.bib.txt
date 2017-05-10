@@ -1,3 +1,41 @@
+% CODE ART BRUTALISM %
+
+@book{ banham:1966:brutalism,
+ title     = {The New Brutalism: Ethic or Aesthetic?},
+ author    = {Banham, Reyner},
+ publisher = {Architectural Press},
+ address   = {London},
+ year      = {1966}
+}
+
+@book{ wolfram:2002:newscience,
+ title     = {A New Kind of Science},
+ author    = {Wolfram, Stephen},
+ publisher = {Wolfram Media},
+ address   = {Champaign},
+ year      = {2002}
+}
+
+@incollection{ neuman:1949:taooca,
+ title     = {Theory and Organization of Complicated Automata},
+ author    = {von Neuman, John},
+ editor    = {Burks, Arthur W.},
+ booktitle = {Theory of SelfReproducing Automata},
+ pages     = {29--82},
+ publisher = {University of Illinois Press},
+ address   = {Urbana},
+ year      = {1949}
+}
+
+@article{ gardner:1970:solitaire,
+ title     = {The fantastic combinations of John Conway's new solitaire game 'life'},
+ author    = {Gardner, Martin},
+ journal   = {Scientific American},
+ number    = {223},
+ pages     = {120--123},
+ year      = {1970}
+}
+
 % - SANDBOX CULTURE ----------- %
 
 @book{ stephenson:2009:cli,
